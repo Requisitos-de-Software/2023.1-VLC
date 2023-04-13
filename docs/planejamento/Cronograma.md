@@ -19,11 +19,11 @@ Desenvolvimento de um planejamento inicial para realização das atividades requ
 <br>
 
 # Ponto de Controle 1
-| Atividade | Entrega | Revisão | Autores | Revisores |
+| Atividade | Início | Fim | Autores | Revisores |
 |-----------|---------|---------|---------|-----------|
 | 1. Planejamento do projeto | 15/04 | 16/04 | Bruno Ribeiro, Igor Penha, Lucas Gobbi | Rafael Bosi e Giovanni Alvissus |
 | 2. Cronograma |  15/04 | 16/04 | Bruno Ribeiro, Igor Penha, Lucas Gobbi | Rafael Bosi e Giovanni Alvissus |
-| 3. Lista de aplicativos | 15/04 | 16/04 | Mizael Santos e Larissa Gomes | Igor Penha |
+| 3. Lista de aplicativos | 15/04 | 16/04 | Mizael Santos e Giovanni Alvissus | Igor Penha |
 | 4. Ferramentas | 15/04 | 16/04 | Rafael Bosi | Giovanni Alvissus |
-| 5. Rich picture | 15/04 | 16/04 | Giovanni Alvissus | Larissa Gomes |
+| 5. Rich picture | 15/04 | 16/04 | Larissa Gomes | Giovanni Alvissus |
 | 6. GitPage | 15/04 | 16/04 | Lucas Gobbi | Bruno Ribeiro |
