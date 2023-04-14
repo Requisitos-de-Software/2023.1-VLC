@@ -1,12 +1,17 @@
-# 2023.1-Grupo03
+# Web Diet - Grupo 3
+
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/Web-Diet/blob/master/docs/img/logo_WebDiet1.jfif" aly="WebDiet_logo" style="width: 300px">
+</div>
 
 ## Introdução
 
- Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de REQ (Requisitos de Software). O projeto visa avaliar o [aplicativo], com base no que aprendemos em REQ e apontar sugestões de melhorias nos problemas encontrados.
+Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de REQ (Requisitos de Software). O projeto visa avaliar o aplicativo Web Diet, com base no que aprendemos em REQ.
 
 ## O aplicativo
 
-
+O aplicativo Web Diet é uma solução voltada para o mundo da nutrição, onde o usuário tem a possibilidade de entrar em contato com profissionais da área e receber 
+programas de dieta personalizados.
 
 
 ## Integrantes da equipe
@@ -31,7 +36,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| 13/04/2023 | `1.0` | Versão inicial de documento |  |  |
+| 13/04/2023 | `1.0` | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
 
 
 
