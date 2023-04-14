@@ -18,15 +18,55 @@ programas de dieta personalizados.
 
 Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
 
-|                                              Foto                                               |       Nome       |                          Github                           |
-| :---------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
-|        <img src="https://avatars.githubusercontent.com/u/87769920?v=4" alt="Bruno Ribeiro" style="width: 10vw">         |   Bruno Ribeiro   |           [brunoriibeiro](https://github.com/BrunoRiibeiro/)           |
-|    <img src="" alt="Francisco Mizael" style="width: 10vw">    |  Francisco Mizael   |    []()    |
-|        <img src="https://avatars.githubusercontent.com/u/63993401?v=4" alt="Giovanni Alvissus" style="width: 10vw">        |   Giovanni Alvissus   |           [giovanni1106](https://github.com/giovanni1106/)           |
-| <img src="https://avatars.githubusercontent.com/u/98900627?v=4" alt="Igor e Silva" style="width: 10vw"> | Igor e Silva | [igorpenhaa](https://github.com/igorpenhaa) |
-| <img src="https://avatars.githubusercontent.com/u/97994511?v=4" alt="Larissa Gomes" style="width: 10vw"> | Larissa Gomes | [larigs](https://github.com/larigs) |
-| <img src="https://avatars.githubusercontent.com/u/99743571?v=4" alt="Lucas Gobbi" style="width: 10vw"> | Lucas gobbi | [LucasBergholz](https://github.com/LucasBergholz) |
-| <img src="https://github.com/Interacao-Humano-Computador/2023.1-Brasfoot/blob/main/Docs/img/Foto_RafaelBosi.jpg" alt="Rafael Bosi" style="width: 10vw"> | Rafael Bosi | [StrangeUnit28](https://github.com/StrangeUnit28) |
+<center>
+<table style="margin-left: auto; margin-right: auto;">
+<tr>
+    <td align="center">
+      <a href="https://github.com/BrunoRiibeiro">
+        <img style="border-radius: 50%;" src="https://github.com/BrunoRiibeiro.png" width="150px;"/>
+        <h5 class="text-center">Bruno Ribeiro</h5>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/giovanni1106">
+        <img style="border-radius: 50%;" src="https://github.com/giovanni1106.png" width="150px;"/>
+        <h5 class="text-center">Giovanni Alvissus</h5>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/igorpenhaa">
+        <img style="border-radius: 50%;" src="https://github.com/igorpenhaa.png" width="150px;"/>
+        <h5 class="text-center">Igor Penha</h5>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/larigs">
+        <img style="border-radius: 50%;" src="https://github.com/larigs.png" width="150px;"/>
+        <h5 class="text-center">Larissa Gomes</h5>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LucasBergholz">
+        <img style="border-radius: 50%;" src="https://github.com/LucasBergholz.png" width="150px;"/>
+        <h5 class="text-center">Lucas Gobbi</h5>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/frmiza">
+        <img style="border-radius: 50%;" src="https://github.com/frmiza.png" width="150px;"/>
+        <h5 class="text-center">Mizael Santos</h5>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/StrangeUnit28">
+        <img style="border-radius: 50%;" src="https://github.com/StrangeUnit28.png" width="150px;"/>
+        <h5 class="text-center">Rafael Bosi</h5>
+      </a>
+    </td>
+</table>
+
+</center>
+
 
 <div style="text-align: left">
 <p> Tabela 1: Equipe de trabalho (Fonte: autor, 2023).</p>
