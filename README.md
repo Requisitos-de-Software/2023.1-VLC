@@ -1,4 +1,4 @@
-# Web Diet - Grupo 3
+# WebDiet - Grupo 3
 
 <div align="center">
 <img src="https://github.com/Requisitos-de-Software/Web-Diet/blob/master/docs/img/logo_WebDiet1.jfif" aly="WebDiet_logo" style="width: 300px">
@@ -10,7 +10,7 @@ Esse repositório tem como objetivo armazenar todos os artefatos produzidos dura
 
 ## O aplicativo
 
-O aplicativo Web Diet é uma solução voltada para o mundo da nutrição, onde o usuário tem a possibilidade de entrar em contato com profissionais da área e receber 
+O aplicativo WebDiet é uma solução voltada para o mundo da nutrição, onde o usuário tem a possibilidade de entrar em contato com profissionais da área e receber 
 programas de dieta personalizados.
 
 
