@@ -13,7 +13,8 @@
 | Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US)              | [Rich Picture](images/rich-picture_hbo.jpeg)  |
 | Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US)           | [Rich Picture](images/rich-picture_webdiet.png)  |
 | Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US)     | [Rich Picture](images/rich-picture_ifood.png)  |
-| <div style="opacity: 0;"> <p> aaaaaaaaaaaaaaaaaaaaaaaaaaaaa </p></div> | <div><p>Tabela 1 - Tabela dos aplicativos analisados</p></div> | <div style="opacity: 0;"> <p> aaaaaaaaaaaaaaaaaaaaaaaaaaaaa </p></div> |
+
+<div><p>Tabela 1 - Tabela dos aplicativos analisados</p></div>
 
 <div style="text-align: center">
 
