@@ -62,3 +62,4 @@ Em resumo, o webdiet é uma opção de aplicativo de acompanhamento de dieta que
 | Versão | Data       | Descrição            | Autor         | Revisor  |
 | ------ | ---------- | -------------------- | ------------- | ---------- |
 | `1.0`  | 14/04/2022 | Criação do documento | [Giovanni Alvissus](https://github.com/giovanni1106) | [Igor Penha](https://github.com/igorpenhaa) |
+| `1.1`  | 15/04/2022 | Correção de legenda e nome do arquivo | [Lucas Bergholz](https://github.com/lucasbergholz) | [Igor Penha](https://github.com/igorpenhaa) |
