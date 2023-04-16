@@ -9,6 +9,10 @@ Esse documento visa registrar o acontecimento da reunião do dia 04/04/2023, mar
 | :----------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
 | Bruno Ribeiro, Giovanni Alvissus, Igor Penha, Larissa Gomes,lucas Gobbi, Rafael Bosi | 04/04/2023 |      20:22 - 20:31      | Plataforma Teams |
 
+<div style="text-align: center">
+<p> Tabela 1: Dados da reunião (Fonte: Igor Penha, 2023). </p>
+</div>
+
 ## Objetivos da reunião
 
 - definição de horário das reuniões semanais em grupo
@@ -27,7 +31,10 @@ Esse documento visa registrar o acontecimento da reunião do dia 04/04/2023, mar
 | Ferramentas do projeto | Rafael Bosi | ?
 | Rich Picture | ? | ?
 | Planejamento do projeto (grade horária, definição dos dias de reunião) |  Todos | 
-<figcaption align="center">Tabela 1: Atividades a serem feitas.</figcaption>
+
+<div style="text-align: center">
+<p> Tabela 2: Atividades a serem feitas (Fonte: Igor Penha, 2023). </p>
+</div>
 
 ## Conclusão
 Conhecendo os integrantes para sabermos os pontos fortes e fracos de cada um dos participantes para ter uma melhor eficiência e aprendizado.
