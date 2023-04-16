@@ -48,5 +48,5 @@ Por fim, execução dos primeiros passos no planejamento do cronograma.
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| `1.0` | 14/04/2023 | Criação da ata de reunião | Igor Penha | ? |
+| `1.0` | 14/04/2023 | Criação da ata de reunião | Igor Penha | Bruno Ribeiro |
 
