@@ -8,11 +8,11 @@
 | :-------------:   | :------------------------------------------------: | :--------------: |
 | Bruno Ribeiro     | - | -  |
 | Francisco Mizael  | - | -  |
-| Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-Grupo03/blob/master/docs/img/rich-picture_epic-games.jpeg)  | 
+| Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](/docs/img/rich-picture_epic-games.jpeg)  | 
 | Igor e Silva      | - | - |
-| Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US)              | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-Grupo03/blob/master/docs/img/rich-picture_hbo.jpeg)  |
-| Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US)           | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-Grupo03/blob/master/docs/img/rich-picture_webdiet.png)  |
-| Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US)     | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-Grupo03/blob/master/docs/img/rich-picture_ifood.png)  |
+| Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_hbo.jpeg)  |
+| Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](/docs/img/rich-picture_webdiet.png)  |
+| Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_ifood.png)  |
 
 <div><p>Tabela 1 - Tabela dos aplicativos analisados</p></div>
 
@@ -39,7 +39,7 @@ Após a análise individual, a equipe avaliou as propostas com base em outros as
 <br/>
 <br/>
 
-![logo](https://github.com/Requisitos-de-Software/2023.1-Grupo03/blob/master/docs/img/logo-webdiet.png)
+![logo](/docs/img/logo-webdiet.png)
 
 <br/>
 <br/>
