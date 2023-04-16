@@ -10,7 +10,7 @@
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
 | <img src="https://github.com/Requisitos-de-Software/2023.1-Grupo03/blob/master/docs/img/github-icon.png" alt="Github" width=75px> | Github  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
-| <img src="https://github.com/Requisitos-de-Software/2023.1-Grupo03/blob/Ferramentas/docs/img/whatsapp-icon.png" alt="Whatsapp" width=75px> | Whatsapp | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
+| <img src="https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/whatsapp-icon.png" alt="Whatsapp" width=75px> | Whatsapp | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
 | <img src="https://github.com/Requisitos-de-Software/2023.1-Grupo03/blob/master/docs/img/youtube-icon.png" alt="Whatsapp" width=75px> | Youtube | Utilizado para hospedar as gravações do projeto. |
 <div align= "center">
 <p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
