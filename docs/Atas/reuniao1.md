@@ -23,14 +23,14 @@ Esse documento visa registrar o acontecimento da reunião do dia 04/04/2023, mar
 
 | Tarefa | Responsável | Revisor |
 | ------ | ----------- | ------- |
-| github da disciplina | Bruno Ribeiro | ?
-| Ata da reunião (incluindo gravação postada no Youtube) | Igor Penha | ?
-| GitPage | Lucas Gobbi | ?
-| Cronograma (atividade, responsável por fazer e responsável por revisar, data de entrega, data do início da realização e data de finalização) | Lucas Gobbi, Igor Penha e Bruno Ribeiro | ?
-| Lista de apps selecionados e app escolhido | ? | ?
-| Ferramentas do projeto | Rafael Bosi | ?
-| Rich Picture | ? | ?
-| Planejamento do projeto (grade horária, definição dos dias de reunião) |  Todos | 
+| Ata da reunião (incluindo gravação postada no Youtube) | Igor Penha | Lucas Gobbi
+| GitPage | Lucas Gobbi | Igor Penha
+| Planejamento do projeto (grade horária, definição dos dias de reunião) |  Lucas Gobbi, Igor Penha e Bruno Ribeiro | 	Rafael Bosi e Giovanni Alvissus
+| Cronograma (atividade, responsável por fazer e responsável por revisar, data de entrega, data do início da realização e data de finalização) | Lucas Gobbi, Igor Penha e Bruno Ribeiro | 	Rafael Bosi e Giovanni Alvissus
+| Lista de apps selecionados e app escolhido | Mizael Santos e Giovanni Alvissus | Igor Penha
+| Ferramentas do projeto | Rafael Bosi | 	Giovanni Alvissus
+| Rich Picture | Larissa Gomes | Giovanni Alvissus
+
 
 <div style="text-align: center">
 <p> Tabela 2: Atividades a serem feitas (Fonte: Igor Penha, 2023). </p>
@@ -48,6 +48,6 @@ Por fim, as atividades para a primeira entrega foram traçadas e divididas entre
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| `1.0` | 14/04/2023 | Criação da ata de reunião | Igor Penha | ? |
+| `1.0` | 14/04/2023 | Criação da ata de reunião | Igor Penha | Lucas Gobbi |
 
 
