@@ -4,6 +4,8 @@
 - [Atas](projeto.md)
 - [Planejamento]
   - [Cronograma](planejamento/Cronograma.md)
+  - [Ferramentas](planejamento/Ferramentas.md)
+  - [Lista de Aplicativos](planejamento/Lista_de_aplicativos.md)
 <!-- [Pré-Rastreabilidade]
 - [Elicitação]
 - [Modelagem]
