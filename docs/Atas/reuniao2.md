@@ -9,6 +9,10 @@ Esse documento visa registrar o acontecimento da reunião do dia 09/04/2023, mar
 | :-------------------------------------: | :--------: | :---------------------: | :--------------: |
 | Bruno Ribeiro, Igor Penha, lucas Gobbi  | 09/04/2023 |      20:48 - 21:42      | Plataforma Teams |
 
+<div style="text-align: center">
+<p> Tabela 1: Dados da reunião (Fonte: Igor Penha, 2023). </p>
+</div>
+
 ## Objetivos da reunião
 
 - Entender a Etapa 1
@@ -28,7 +32,10 @@ Esse documento visa registrar o acontecimento da reunião do dia 09/04/2023, mar
 | Ferramentas do projeto | Rafael Bosi | ?
 | Rich Picture | ? | ?
 | Planejamento do projeto (grade horária, definição dos dias de reunião) |  Todos | 
-<figcaption align="center">Tabela 1: Atividades a serem feitas.</figcaption>
+
+<div style="text-align: center">
+<p> Tabela 2: Atividades a serem feitas (Fonte: Igor Penha, 2023). </p>
+</div>
 
 ## Conclusão
 
