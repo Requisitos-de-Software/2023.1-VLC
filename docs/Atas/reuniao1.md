@@ -37,6 +37,6 @@ Por fim, as atividades para a primeira entrega foram traçadas e divididas entre
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| `1.0` | 04/04/2023 | Criação da ata de reunião | Igor Penha | ? |
+| `1.0` | 14/04/2023 | Criação da ata de reunião | Igor Penha | ? |
 
 
