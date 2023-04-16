@@ -1,5 +1,9 @@
 # Ata de Reunião - 04/04/2023
 
+## Introdução
+
+Esse documento visa registrar o acontecimento da reunião do dia 04/04/2023, marcar quais membros estavam presentes, os objetivos gerais da reunião, além de definir e controlar tarefas. Aqui esta presente, também, o link da gravação da reunião.
+
 
 |                                     Alunos presentes                                 |    Data    | Horário de inicio e fim |      Local       |
 | :----------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
