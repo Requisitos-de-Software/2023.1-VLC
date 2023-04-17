@@ -14,7 +14,7 @@
 | <img src="https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/45c0ed52fd293d649ae69376c4d5665cdc9b4f93/docs/img/icon-youtube.png" alt="YouTube" width=75px> | Youtube | Utilizado para hospedar as gravações do projeto. |
 | <img src="https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/ba7eb7405a32c503500274ecdafe677ad426d937/docs/img/icon_vscode.png" alt="VScode" width=75px> | VScode | IDE utilizada para criar a git page do projeto. |
 | <img src="https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/ba7eb7405a32c503500274ecdafe677ad426d937/docs/img/icon_teams.png" alt="Teams" width=75px> | Teams | Utilizado para realizar as reuniões e gravações das mesmas. |
-| <img src="https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/ba7eb7405a32c503500274ecdafe677ad426d937/docs/img/icon_lucidhart.png" alt="Lucid Hart" width=75px> | Lucid Hart | Utilizado para realizar a rich picture do aplicativo analisado |
+| <img src="https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/ba7eb7405a32c503500274ecdafe677ad426d937/docs/img/icon_lucidhart.png" alt="Lucid Hart" width=75px> | Lucidchart | Utilizado para criar a rich picture do aplicativo analisado |
 
 <div align= "center">
 <p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
@@ -27,7 +27,7 @@
 [3] Ferramenta Youtube, disponível no [link](https://youtube.com). <br/>
 [4] Ferramenta VScode, disponível no [link](https://code.visualstudio.com/). <br/>
 [5] Ferramenta Teams, disponível no [link](https://www.microsoft.com/pt-br/microsoft-teams/log-in). <br/>
-[6] Ferramenta Lucid Hart, disponível no [link](https://www.lucidchart.com/pages/pt). <br/>
+[6] Ferramenta Lucidchart, disponível no [link](https://www.lucidchart.com/pages/pt). <br/>
 
 ## Histórico de Versão
 

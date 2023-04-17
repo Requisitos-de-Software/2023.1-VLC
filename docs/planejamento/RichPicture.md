@@ -33,10 +33,17 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
 <center> Tabela 1: Legenda Rich Picture (Fonte: Larissa Gomes, 2023).</center>
 <br/>
 
+## Bibliografia
+
+[1] MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. Methods and tools, 1998.
+
+[2] SALES, André Barros. Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 17 de abril de 2023;
+
 ## Histórico de Versão
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| 17/04/2023 | `1.0` | Criação do Rich Picture | Larissa Gomes | Giovanni Alvissus |
+| `1.0` | 16/04/2023 | Criação do Rich Picture | Larissa Gomes | Giovanni Alvissus |
+| `1.1` | 17/04/2023 | Adição das bibliografias | Larissa Gomes | Giovanni Alvissus |
 
 <center> Tabela 2: Histórico de versões (Fonte: Larissa Gomes, 2023). </center>
