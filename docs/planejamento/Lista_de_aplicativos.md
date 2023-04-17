@@ -6,10 +6,10 @@
 
 | Nome              | Aplicativo                                         | Rich picture     |
 | :-------------:   | :------------------------------------------------: | :--------------: |
-| Bruno Ribeiro     | - | -  |
-| Francisco Mizael  | - | -  |
+| Bruno Ribeiro     | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate) | [Rich Picture](/docs/img/rich-picture_moovit.jpeg)  |
+| Francisco Mizael  | [Jusbrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit) | [Rich Picture](/docs/img/rich-picture_jusbrasil.png)   |
 | Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](/docs/img/rich-picture_epic-games.jpeg)  | 
-| Igor e Silva      | - | - |
+| Igor e Silva      | [Findmy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) | [Rich Picture](/docs.img/rich-picture_findmy.png) |
 | Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_hbo.jpeg)  |
 | Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](/docs/img/rich-picture_webdiet.png)  |
 | Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_ifood.png)  |
@@ -53,6 +53,24 @@ A interface do usuário do webdiet é simples e fácil de usar, o que pode ser u
 Em resumo, o webdiet é uma opção de aplicativo de acompanhamento de dieta que oferece funcionalidades básicas, é gratuito e acessível via navegador web. Sua interface é simples e fácil de usar, o que pode ser uma vantagem para alguns usuários, mas também pode ser considerada limitada em termos de recursos avançados e opções de personalização. É importante avaliar se o webdiet atende às necessidades específicas do usuário antes de utilizá-lo como uma solução completa para o gerenciamento de dieta e alimentação saudável.
 </div>
 
+<div style="text-align : justify;">
+O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahado se encontra em <a href=https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/Rich-Picture/docs/img/RichPicture.png" target="_blank">Rich Picture</a>
+</div>
+
+<br/>
+
+## Bibliografia
+
+[1] Ferramenta PlayStore, disponível no [PlayStore](https://play.google.com/store/apps)
+[2] Ferramenta AppStore, disponível no [AppStore](https://www.apple.com/br/app-store/)
+[3] Ferramenta EpicGames, disponível no [EpicGames](https://www.epicgames.com/site/pt-BR/home)
+[4] Ferramenta EpicGames, disponível no [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate)
+[5] Ferramenta JusBrasil, disponível no [JusBrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit)
+[6] Ferramenta JusBrasil, disponível no [FindMy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
+[7] Ferramenta JusBrasil, disponível no [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US)
+[8] Ferramenta WebDiet, disponível no [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US)
+[9] Ferramenta iFood, disponível no [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US)
+
 <br/>
 
 ## Histórico de Versão
@@ -61,3 +79,4 @@ Em resumo, o webdiet é uma opção de aplicativo de acompanhamento de dieta que
 | ------ | ---------- | -------------------- | ------------- | ---------- |
 | `1.0`  | 14/04/2022 | Criação do documento | [Giovanni Alvissus](https://github.com/giovanni1106) | [Igor Penha](https://github.com/igorpenhaa) |
 | `1.1`  | 15/04/2022 | Correção de legenda e nome do arquivo | [Lucas Bergholz](https://github.com/lucasbergholz) | [Igor Penha](https://github.com/igorpenhaa) |
+| `1.2`  | 16/04/2022 | Lista de aplicativos atualizada e Bibliografia adicionada | [Mizael Santos](https://github.com/frmiza) | [Igor Penha](https://github.com/igorpenhaa) |
