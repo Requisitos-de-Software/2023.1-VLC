@@ -16,8 +16,9 @@
 | <img src="img/icon_teams.png" alt="Teams" width=75px> | Teams | Utilizado para realizar as reuniões e gravações das mesmas. |
 | <img src="img/icon_lucidhart.png" alt="Lucid Hart" width=75px> | Lucidchart | Utilizado para criar a rich picture do aplicativo analisado |
 
+
 <div align= "center">
-<p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
+<p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: BOSI, Rafael. 2023). </p>
 </div>
 
 ## Bibliografia
@@ -33,4 +34,4 @@
 
 | Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 13/04/2023 | Adição das ferramentas do projeto | Rafael Bosi | Giovanni Alvissus |
+| `1.0` | 13/04/2023 | Adição das ferramentas do projeto | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) |

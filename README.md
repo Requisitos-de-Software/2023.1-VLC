@@ -1,7 +1,7 @@
 # WebDiet - Grupo 3
 
 <div align="center">
-<img src="https://github.com/Requisitos-de-Software/Web-Diet/blob/master/docs/img/logo_WebDiet1.jfif" aly="WebDiet_logo" style="width: 300px">
+<img src="docs/img/logo_WebDiet1.jfif" aly="WebDiet_logo" style="width: 300px">
 </div>
 
 ## Introdução
@@ -69,14 +69,16 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 
 <div style="text-align: left">
-<p> Tabela 1: Equipe de trabalho (Fonte: autor, 2023).</p>
+  <p> Tabela 1: Equipe de trabalho (Fonte: Rafael Bosi, 2023).</p>
 </div>
+
 
 ## Histórico de Versão
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| `1.0` | 13/04/2023 | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
+| `1.0` | 13/04/2023 | Versão inicial de documento | [Rafael Bosi](https://github.com/StrangeUnit28) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+
 
 
 
