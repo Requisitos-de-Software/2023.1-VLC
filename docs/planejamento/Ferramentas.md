@@ -17,7 +17,7 @@
 | <img src="../img/icon_lucidhart.png" alt="Lucid Hart" width=75px> | Lucidchart | Utilizado para criar a rich picture do aplicativo analisado |
 
 <div align= "center">
-<p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
+<p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: BOSI, Rafael. 2023). </p>
 </div>
 
 ## Bibliografia

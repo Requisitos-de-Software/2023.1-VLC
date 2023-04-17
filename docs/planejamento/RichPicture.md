@@ -13,7 +13,7 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
     <img src="../img/RichPicture.png" aly="richpicture" style="width: 700px">
 </div>
 
-<center> Imagem 1: Rich Picture (Fonte: Larissa Gomes, 2023).</center>
+<center> Imagem 1: Rich Picture (Fonte: GOMES, Larissa. 2023).</center>
 
 <br/>
 
@@ -30,7 +30,7 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
 | <img src="../img/legenda_RichPicture/icone_balao.png" aly="richpicture" style="width: 100px"> | Balão | Demonstram as preocupações dos atores quanto ao sistema |
 | <img src="../img/legenda_RichPicture/icone_limite.png" aly="richpicture" style="width: 100px"> | Limite | Limite do sistema |
 
-<center> Tabela 1: Legenda Rich Picture (Fonte: Larissa Gomes, 2023).</center>
+<center> Tabela 1: Legenda Rich Picture (Fonte: GOMES, Larissa. 2023).</center>
 <br/>
 
 ## Bibliografia
@@ -48,4 +48,4 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
 | `1.0` | 16/04/2023 | Criação do Rich Picture | [Larissa Gomes](https://github.com/larigs) | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | `1.1` | 17/04/2023 | Adição das bibliografias | [Larissa Gomes](https://github.com/larigs) | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
-<center> Tabela 2: Histórico de versões (Fonte: Larissa Gomes, 2023). </center>
+<center> Tabela 2: Histórico de versões (Fonte: GOMES, Larissa. 2023). </center>
