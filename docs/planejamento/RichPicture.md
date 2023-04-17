@@ -36,6 +36,7 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
 ## Bibliografia
 
 [1] MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. Methods and tools, 1998.
+
 [2] SALES, André Barros. Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 17 de abril de 2023;
 
 ## Histórico de Versão
