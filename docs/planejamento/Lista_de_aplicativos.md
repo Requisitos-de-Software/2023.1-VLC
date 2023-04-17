@@ -14,7 +14,7 @@
 | Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](/docs/img/rich-picture_webdiet.png)  |
 | Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_ifood.png)  |
 
-<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: GIOVANNI, Alvissus; MIZAEL, Francisco. 2023).</p></div>
+<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: ALVISSUS, Giovanni; MIZAEL, Francisco. 2023).</p></div>
 
 <div style="text-align: center">
 
