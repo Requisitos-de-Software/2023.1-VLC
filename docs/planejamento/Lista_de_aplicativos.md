@@ -37,9 +37,13 @@ Após a análise individual, a equipe avaliou as propostas com base em outros as
 
 
 <br/>
+
 <br/>
+
 <img src="../img/logo-webdiet.png" alt="WebDiet" style="width: 800px">
+
 <br/>
+
 <br/>
 
 <div style="text-align: justify;">
