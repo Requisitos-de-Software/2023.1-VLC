@@ -6,15 +6,15 @@
 
 | Nome              | Aplicativo                                         | Rich picture     |
 | :-------------:   | :------------------------------------------------: | :--------------: |
-| Bruno Ribeiro     | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate) | [Rich Picture](/docs/img/rich-picture_moovit.png)  |
-| Francisco Mizael  | [Jusbrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit) | [Rich Picture](/docs/img/rich-picture_jusbrasil.png)   |
-| Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](/docs/img/rich-picture_epic-games.jpeg)  | 
-| Igor e Silva      | [Findmy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) | [Rich Picture](/docs/img/rich-picture_findmy.png) |
-| Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_hbo.jpeg)  |
-| Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](/docs/img/rich-picture_webdiet.png)  |
-| Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_ifood.png)  |
+| Bruno Ribeiro     | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_moovit.png)  |
+| Francisco Mizael  | [Jusbrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_jusbrasil.png)  |
+| Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_epic-games.jpeg)  | 
+| Igor e Silva      | [Findmy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_findmy.png) |
+| Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_hbo.jpeg)  |
+| Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_webdiet.png)  |
+| Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_ifood.png)  |
 
-<div><p>Tabela 1 - Tabela dos aplicativos analisados</p></div>
+<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: ALVISSUS, Giovanni; MIZAEL, Francisco. 2023).</p></div>
 
 <div style="text-align: center">
 
@@ -27,7 +27,6 @@
 Após a análise individual, a equipe avaliou as propostas com base em outros aspectos:
 
 - Aplicativo ainda não trabalhado na disciplina de Requisitos de Software.
-- Aplicativo pertencente ao governo ou a uma comunidade de software livre.
 - Relevância do aplicativo para o contexto do projeto ou da disciplina.
 - Viabilidade técnica e recursos necessários para realizar o levantamento de requisitos do aplicativo.
 - Complexidade do aplicativo em termos de funcionalidades e integrações.
@@ -37,9 +36,13 @@ Após a análise individual, a equipe avaliou as propostas com base em outros as
 
 
 <br/>
+
 <br/>
-<img src="https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/3b0bae0d058bc6f0cc52e68deda66fd6bdf4e8e9/docs/img/logo-webdiet.png" alt="WebDiet">
+
+<img src="img/logo-webdiet.png" alt="WebDiet">
+
 <br/>
+
 <br/>
 
 <div style="text-align: justify;">
@@ -54,29 +57,37 @@ Em resumo, o webdiet é uma opção de aplicativo de acompanhamento de dieta que
 </div>
 
 <div style="text-align : justify;">
-O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahado se encontra em <a href=https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/Rich-Picture/docs/img/RichPicture.png" target="_blank">Rich Picture</a>
+O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahado se encontra em <a href="img/RichPicture.png" target="_blank">Rich Picture</a>
 </div>
 
 <br/>
 
 ## Bibliografia
 
-[1] Ferramenta PlayStore, disponível no [PlayStore](https://play.google.com/store/apps)\
-[2] Ferramenta AppStore, disponível no [AppStore](https://www.apple.com/br/app-store/)\
-[3] Ferramenta EpicGames, disponível no [EpicGames](https://www.epicgames.com/site/pt-BR/home)\
-[4] Ferramenta Moovit, disponível no [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate)\
-[5] Ferramenta JusBrasil, disponível no [JusBrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit)\
-[6] Ferramenta FindMy, disponível no [FindMy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)\
-[7] Ferramenta HBO, disponível no [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US)\
-[8] Ferramenta WebDiet, disponível no [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US)\
-[9] Ferramenta iFood, disponível no [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US)
+[1] WEBDIET. Disponível em: [WebDiet](https://webdiet.com.br/). Acesso em: 14 de Abril de 2022.
+
+[2] WEBDIET. Disponível em: [WebDiet app](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US). Acesso em: 14 de Abril de 2022.
+
+[3] EPICGAMES. Dosponível em: [EpicGames](https://www.epicgames.com/). Acesso em: 14 de Abril de 2022.
+
+[4] MOOVIT. Dosponível em: [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+
+[5] JUSBRASIL. Disponível em: [JusBrasil](https://www.jusbrasil.com.br/). Acesso em: 14 de Abril de 2022.
+
+[6] JUSBRASIL. Dosponível em: [JusBrasil app](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+
+[7] FINDMY. Dosponível em: [Findmy](https://apps.apple.com/us/app/find-my/id1514844621). Acesso em: 14 de Abril de 2022.
+
+[8] HBO. Dosponível em: [HBO app](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+
+[9] IFOOD. Dosponível em: [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
 <br/>
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor         | Revisor  |
-| ------ | ---------- | -------------------- | ------------- | ---------- |
+| Versão | Data       | Descrição            | Autor(es)         | Revisor(es)  |
+| :------: | :----------: | :--------------------: | :-------------: | :----------: |
 | `1.0`  | 14/04/2022 | Criação do documento | [Giovanni Alvissus](https://github.com/giovanni1106) | [Igor Penha](https://github.com/igorpenhaa) |
 | `1.1`  | 15/04/2022 | Correção de legenda e nome do arquivo | [Lucas Bergholz](https://github.com/lucasbergholz) | [Igor Penha](https://github.com/igorpenhaa) |
 | `1.2`  | 16/04/2022 | Lista de aplicativos atualizada e Bibliografia adicionada | [Mizael Santos](https://github.com/frmiza) | [Igor Penha](https://github.com/igorpenhaa) |

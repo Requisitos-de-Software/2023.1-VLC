@@ -26,11 +26,13 @@ Desenvolvimento de um planejamento inicial para realização das atividades requ
 |-----------|--------|-----|---------|-----------|
 | 1. Planejamento do projeto | 10/04 | 16/04 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi e Giovanni Alvissus |
 | 2. Cronograma |  10/04 | 16/04 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi e Giovanni Alvissus |
-| 3. Lista de aplicativos | 14/04 | 16/04 | Mizael Santos e Giovanni Alvissus | Igor Penha |
-| 4. Ferramentas | 15/04 | 16/04 | Rafael Bosi | Giovanni Alvissus |
-| 5. Rich picture | 14/04 | 16/04 | Larissa Gomes | Giovanni Alvissus |
-| 6. GitPage | 15/04 | 17/04 | Lucas Gobbi | Bruno Ribeiro |
-| 7. Video de apresentação | 16/04 | 17/04 | Todos | Todos |
+| 3. Cronograma Realizado | 15/04 | 16/04 | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
+| 4. Lista de aplicativos | 14/04 | 16/04 | Mizael Santos e Giovanni Alvissus | Igor Penha |
+| 5. Ferramentas | 15/04 | 16/04 | Rafael Bosi | Giovanni Alvissus |
+| 6. Rich picture | 14/04 | 16/04 | Larissa Gomes | Giovanni Alvissus |
+| 7. Atas das Reuniões | 15/04 | 17/04 | Igor Penha | Lucas Gobbi |
+| 8. GitPage | 15/04 | 17/04 | Lucas Gobbi | Bruno Ribeiro |
+| 9. Video de apresentação | 16/04 | 17/04 | Todos | Todos |
 <div><p>Tabela 2 - Itens realizados Ponto de Controle 1. (Fonte: autor, 2023).</p></div>
 
 
@@ -93,6 +95,7 @@ Desenvolvimento de um planejamento inicial para realização das atividades requ
 <div><p>Tabela 8 - Itens realizados Ponto de Controle 6. (Fonte: autor, 2023).</p></div>
 
 # Histórico de versão
-| Data | Versão | Descrição | Autor | Revisor |
-|------|--------|-----------|-------|---------|
-| 15/04 | 1.0 | Criação do cronograma | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus e Rafael Bosi |
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+| :------: | :--------: | :-----------: | :-------: | :---------: |
+| 15/04 | 1.0 | Criação do cronograma | [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 17/04 | 1.1 | Atualização do ponto de controle 1 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Igor Penha](https://github.com/igorpenhaa) |
