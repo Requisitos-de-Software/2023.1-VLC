@@ -38,7 +38,7 @@ Após a análise individual, a equipe avaliou as propostas com base em outros as
 
 <br/>
 <br/>
-<img src="https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/3b0bae0d058bc6f0cc52e68deda66fd6bdf4e8e9/docs/img/logo-webdiet.png" alt="WebDiet">
+<img src="../img/logo-webdiet.png" alt="WebDiet" style="width: 800px">
 <br/>
 <br/>
 
