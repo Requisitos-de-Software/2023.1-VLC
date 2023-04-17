@@ -3,7 +3,7 @@
 ## Introdução
 
   As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
-  desenvolvimento do projeto de Requisitos de Software, que foi realizado em volta do aplicativo (Nome do Aplicativo).
+  desenvolvimento do projeto de Requisitos de Software, que foi realizado em volta do aplicativo WebDiet.
 
 ## Ferramentas utilizadas
 
