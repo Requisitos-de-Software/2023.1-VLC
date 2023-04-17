@@ -54,7 +54,7 @@ Em resumo, o webdiet é uma opção de aplicativo de acompanhamento de dieta que
 </div>
 
 <div style="text-align : justify;">
-O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahado se encontra em <a href=https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/Rich-Picture/docs/img/RichPicture.png" target="_blank">Rich Picture</a>
+O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahado se encontra em <a href="../img/RichPicture.png" target="_blank">Rich Picture</a>
 </div>
 
 <br/>
