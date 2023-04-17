@@ -69,7 +69,7 @@ O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahad
 [6] Ferramenta JusBrasil, disponível no [FindMy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)\
 [7] Ferramenta JusBrasil, disponível no [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US)\
 [8] Ferramenta WebDiet, disponível no [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US)\
-[9] Ferramenta iFood, disponível no [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US)\
+[9] Ferramenta iFood, disponível no [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US)
 
 <br/>
 
