@@ -1,7 +1,7 @@
 # WebDiet - Grupo 3
 
 <div align="center">
-<img src="https://github.com/Requisitos-de-Software/Web-Diet/blob/master/docs/img/logo_WebDiet1.jfif" aly="WebDiet_logo" style="width: 300px">
+<img src="docs/img/logo_WebDiet1.jfif" aly="WebDiet_logo" style="width: 300px">
 </div>
 
 ## Introdução
