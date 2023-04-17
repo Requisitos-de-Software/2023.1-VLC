@@ -69,14 +69,15 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 
 <div style="text-align: left">
-<p> Tabela 1: Equipe de trabalho (Fonte: autor, 2023).</p>
+  <p> Tabela 1: Equipe de trabalho (Fonte: <a href="https://github.com/StrangeUnit28">Rafael Bosi</a>, 2023).</p>
 </div>
+
 
 ## Histórico de Versão
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| 13/04/2023 | `1.0` | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
+| `1.0` | 13/04/2023 | Versão inicial de documento | [Rafael Bosi](https://github.com/StrangeUnit28) | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
 
 
