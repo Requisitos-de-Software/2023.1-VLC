@@ -9,7 +9,7 @@
 | Bruno Ribeiro     | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate) | [Rich Picture](/docs/img/rich-picture_moovit.jpeg)  |
 | Francisco Mizael  | [Jusbrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit) | [Rich Picture](/docs/img/rich-picture_jusbrasil.png)   |
 | Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](/docs/img/rich-picture_epic-games.jpeg)  | 
-| Igor e Silva      | [Findmy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) | [Rich Picture](/docs.img/rich-picture_findmy.png) |
+| Igor e Silva      | [Findmy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) | [Rich Picture](/docs/img/rich-picture_findmy.png) |
 | Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_hbo.jpeg)  |
 | Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](/docs/img/rich-picture_webdiet.png)  |
 | Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_ifood.png)  |
