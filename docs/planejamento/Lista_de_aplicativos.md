@@ -64,10 +64,10 @@ O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahad
 [1] Ferramenta PlayStore, disponível no [PlayStore](https://play.google.com/store/apps)\
 [2] Ferramenta AppStore, disponível no [AppStore](https://www.apple.com/br/app-store/)\
 [3] Ferramenta EpicGames, disponível no [EpicGames](https://www.epicgames.com/site/pt-BR/home)\
-[4] Ferramenta EpicGames, disponível no [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate)\
+[4] Ferramenta Moovit, disponível no [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate)\
 [5] Ferramenta JusBrasil, disponível no [JusBrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit)\
-[6] Ferramenta JusBrasil, disponível no [FindMy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)\
-[7] Ferramenta JusBrasil, disponível no [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US)\
+[6] Ferramenta FindMy, disponível no [FindMy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)\
+[7] Ferramenta HBO, disponível no [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US)\
 [8] Ferramenta WebDiet, disponível no [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US)\
 [9] Ferramenta iFood, disponível no [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US)
 
