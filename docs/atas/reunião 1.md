@@ -50,4 +50,3 @@ Por fim, as atividades para a primeira entrega foram traçadas e divididas entre
 | :----: | :--: | :-------: | :---: | :-----: |
 | `1.0` | 14/04/2023 | Criação da ata de reunião | Igor Penha | Lucas Gobbi |
 
-
