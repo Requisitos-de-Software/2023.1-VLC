@@ -69,7 +69,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 
 <div style="text-align: left">
-  <p> Tabela 1: Equipe de trabalho (Fonte: <a href="https://github.com/StrangeUnit28">Rafael Bosi</a>, 2023).</p>
+  <p> Tabela 1: Equipe de trabalho (Fonte: Rafael Bosi, 2023).</p>
 </div>
 
 
