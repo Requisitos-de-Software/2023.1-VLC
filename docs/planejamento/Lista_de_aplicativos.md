@@ -27,7 +27,6 @@
 Após a análise individual, a equipe avaliou as propostas com base em outros aspectos:
 
 - Aplicativo ainda não trabalhado na disciplina de Requisitos de Software.
-- Aplicativo pertencente ao governo ou a uma comunidade de software livre.
 - Relevância do aplicativo para o contexto do projeto ou da disciplina.
 - Viabilidade técnica e recursos necessários para realizar o levantamento de requisitos do aplicativo.
 - Complexidade do aplicativo em termos de funcionalidades e integrações.

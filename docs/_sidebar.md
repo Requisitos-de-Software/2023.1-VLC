@@ -2,6 +2,7 @@
 
 - [Sobre o projeto](home.md)
 - [Atas](atas/atas.md)
+- [Apresentações](planejamento/apresentacoes.md)
 - Planejamento
   - [Cronograma](planejamento/Cronograma.md)
   - [Cronograma Realizado](planejamento/Cronograma_realizado.md)
