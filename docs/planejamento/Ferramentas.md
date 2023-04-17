@@ -33,4 +33,4 @@
 
 | Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 13/04/2023 | Adição das ferramentas do projeto | Rafael Bosi | Giovanni Alvissus |
+| `1.0` | 13/04/2023 | Adição das ferramentas do projeto | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) |
