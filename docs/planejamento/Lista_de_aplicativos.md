@@ -6,7 +6,7 @@
 
 | Nome              | Aplicativo                                         | Rich picture     |
 | :-------------:   | :------------------------------------------------: | :--------------: |
-| Bruno Ribeiro     | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate) | [Rich Picture](/docs/img/rich-picture_moovit.jpeg)  |
+| Bruno Ribeiro     | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate) | [Rich Picture](/docs/img/rich-picture_moovit.png)  |
 | Francisco Mizael  | [Jusbrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit) | [Rich Picture](/docs/img/rich-picture_jusbrasil.png)   |
 | Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](/docs/img/rich-picture_epic-games.jpeg)  | 
 | Igor e Silva      | [Findmy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) | [Rich Picture](/docs/img/rich-picture_findmy.png) |
