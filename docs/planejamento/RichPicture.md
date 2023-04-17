@@ -39,6 +39,8 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
 
 [2] SALES, André Barros. Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 17 de abril de 2023;
 
+<br/>
+
 ## Histórico de Versão
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
