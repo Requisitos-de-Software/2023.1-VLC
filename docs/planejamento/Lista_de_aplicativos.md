@@ -14,7 +14,7 @@
 | Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](/docs/img/rich-picture_webdiet.png)  |
 | Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_ifood.png)  |
 
-<div><p>Tabela 1 - Tabela dos aplicativos analisados</p></div>
+<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: GIOVANNI, Alvissus; MIZAEL, Francisco. 2023).</p></div>
 
 <div style="text-align: center">
 
@@ -65,23 +65,23 @@ O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahad
 
 ## Bibliografia
 
-[1] WebDiet. Disponível em: [WebDiet](https://webdiet.com.br/). Acesso em: 14 de Abril de 2022.
+[1] WEBDIET. Disponível em: [WebDiet](https://webdiet.com.br/). Acesso em: 14 de Abril de 2022.
 
-[2] WebDiet Aplicativo. Disponível em: [WebDiet app](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US). Acesso em: 14 de Abril de 2022.
+[2] WEBDIET. Disponível em: [WebDiet app](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US). Acesso em: 14 de Abril de 2022.
 
-[3] EpicGames. Dosponível em: [EpicGames](https://www.epicgames.com/). Acesso em: 14 de Abril de 2022.
+[3] EPICGAMES. Dosponível em: [EpicGames](https://www.epicgames.com/). Acesso em: 14 de Abril de 2022.
 
-[4] Moovit. Dosponível em: [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+[4] MOOVIT. Dosponível em: [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
-[5] JusBrasil. Disponível em: [JusBrasil](https://www.jusbrasil.com.br/). Acesso em: 14 de Abril de 2022.
+[5] JUSBRASIL. Disponível em: [JusBrasil](https://www.jusbrasil.com.br/). Acesso em: 14 de Abril de 2022.
 
-[6] JusBrasil Aplicativo. Dosponível em: [JusBrasil app](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+[6] JUSBRASIL. Dosponível em: [JusBrasil app](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
-[7] Findmy. Dosponível em: [Findmy](https://apps.apple.com/us/app/find-my/id1514844621). Acesso em: 14 de Abril de 2022.
+[7] FINDMY. Dosponível em: [Findmy](https://apps.apple.com/us/app/find-my/id1514844621). Acesso em: 14 de Abril de 2022.
 
-[8] HBO Aplicativo. Dosponível em: [HBO app](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+[8] HBO. Dosponível em: [HBO app](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
-[9] iFood. Dosponível em: [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+[9] IFOOD. Dosponível em: [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
 <br/>
 
