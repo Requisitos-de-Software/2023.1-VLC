@@ -10,7 +10,7 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
 ## WebDiet
 
 <div align="center">
-    <img src="../img/RichPicture.png" aly="richpicture" style="width: 700px">
+    <img src="img/RichPicture.png" aly="richpicture" style="width: 700px">
 </div>
 
 <center> Imagem 1: Rich Picture (Fonte: GOMES, Larissa. 2023).</center>
@@ -20,15 +20,15 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
 ## Legenda
 | Icones | Componente |  Descrição |
 |-----------|---------|---------|
-| <img src="../img/legenda_RichPicture/icone_usuario.png" aly="richpicture" style="width: 100px"> | Ator | Usuário |
-| <img src="../img/legenda_RichPicture/icone_nutricionista.png" aly="richpicture" style="width: 100px"> | Ator | Nutricionista |
-| <img src="../img/legenda_RichPicture/icone_WebDietPro.png" aly="richpicture" style="width: 100px"> | Ator | WebDiet para os Profissionais |
-| <img src="../img/legenda_RichPicture/icone_concorrentes.png" aly="richpicture" style="width: 100px"> | Ator | Concorrentes |
-| <img src="../img/legenda_RichPicture/icone_operacoes.png" aly="richpicture" style="width: 100px"> | Operações | Operações do sistema |
-| <img src="../img/legenda_RichPicture/icone_bancoDados.png" aly="richpicture" style="width: 100px"> | Bancos de Dados | Bancos de Dados do Sistema |
-| <img src="../img/legenda_RichPicture/icone_setas.png" aly="richpicture" style="width: 100px"> | Setas | Indicam o fluxo de dados |
-| <img src="../img/legenda_RichPicture/icone_balao.png" aly="richpicture" style="width: 100px"> | Balão | Demonstram as preocupações dos atores quanto ao sistema |
-| <img src="../img/legenda_RichPicture/icone_limite.png" aly="richpicture" style="width: 100px"> | Limite | Limite do sistema |
+| <img src="img/legenda_RichPicture/icone_usuario.png" aly="richpicture" style="width: 100px"> | Ator | Usuário |
+| <img src="img/legenda_RichPicture/icone_nutricionista.png" aly="richpicture" style="width: 100px"> | Ator | Nutricionista |
+| <img src="img/legenda_RichPicture/icone_WebDietPro.png" aly="richpicture" style="width: 100px"> | Ator | WebDiet para os Profissionais |
+| <img src="img/legenda_RichPicture/icone_concorrentes.png" aly="richpicture" style="width: 100px"> | Ator | Concorrentes |
+| <img src="img/legenda_RichPicture/icone_operacoes.png" aly="richpicture" style="width: 100px"> | Operações | Operações do sistema |
+| <img src="img/legenda_RichPicture/icone_bancoDados.png" aly="richpicture" style="width: 100px"> | Bancos de Dados | Bancos de Dados do Sistema |
+| <img src="img/legenda_RichPicture/icone_setas.png" aly="richpicture" style="width: 100px"> | Setas | Indicam o fluxo de dados |
+| <img src="img/legenda_RichPicture/icone_balao.png" aly="richpicture" style="width: 100px"> | Balão | Demonstram as preocupações dos atores quanto ao sistema |
+| <img src="img/legenda_RichPicture/icone_limite.png" aly="richpicture" style="width: 100px"> | Limite | Limite do sistema |
 
 <center> Tabela 1: Legenda Rich Picture (Fonte: GOMES, Larissa. 2023).</center>
 <br/>

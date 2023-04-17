@@ -6,13 +6,13 @@
 
 | Nome              | Aplicativo                                         | Rich picture     |
 | :-------------:   | :------------------------------------------------: | :--------------: |
-| Bruno Ribeiro     | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate) | [Rich Picture](/docs/img/rich-picture_moovit.png)  |
-| Francisco Mizael  | [Jusbrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit) | [Rich Picture](/docs/img/rich-picture_jusbrasil.png)   |
-| Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](/docs/img/rich-picture_epic-games.jpeg)  | 
-| Igor e Silva      | [Findmy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) | [Rich Picture](/docs/img/rich-picture_findmy.png) |
-| Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_hbo.jpeg)  |
-| Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](/docs/img/rich-picture_webdiet.png)  |
-| Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](/docs/img/rich-picture_ifood.png)  |
+| Bruno Ribeiro     | [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_moovit.png)  |
+| Francisco Mizael  | [Jusbrasil](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_jusbrasil.png)  |
+| Giovanni Alvissus | [Epic Games](https://store.epicgames.com/pt-BR/discover/apps) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_epic-games.jpeg)  | 
+| Igor e Silva      | [Findmy](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_findmy.png) |
+| Larissa Gomes     | [HBO](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_hbo.jpeg)  |
+| Lucas gobbi       | [WebDiet](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_webdiet.png)  |
+| Rafael Bosi       | [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US) | [Rich Picture](https://github.com/Requisitos-de-Software/2023.1-WebDiet/blob/master/docs/img/rich-picture_ifood.png)  |
 
 <div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: ALVISSUS, Giovanni; MIZAEL, Francisco. 2023).</p></div>
 
@@ -40,7 +40,7 @@ Após a análise individual, a equipe avaliou as propostas com base em outros as
 
 <br/>
 
-<img src="../img/logo-webdiet.png" alt="WebDiet" style="width: 800px">
+<img src="img/logo-webdiet.png" alt="WebDiet">
 
 <br/>
 

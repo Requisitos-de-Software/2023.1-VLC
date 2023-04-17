@@ -3,18 +3,19 @@
 ## Introdução
 
   As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
-  desenvolvimento do projeto de Requisitos de Software, que foi realizado em volta do aplicativo (Nome do Aplicativo).
+  desenvolvimento do projeto de Requisitos de Software, que foi realizado em volta do aplicativo WebDiet.
 
 ## Ferramentas utilizadas
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="../img/icon-github.png" alt="Github" width=75px> | Github  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
-| <img src="../img/icon-whatsapp.png" alt="Whatsapp" width=75px> | Whatsapp | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
-| <img src="../img/icon-youtube.png" alt="YouTube" width=75px> | Youtube | Utilizado para hospedar as gravações do projeto. |
-| <img src="../img/icon_vscode.png" alt="VScode" width=75px> | VScode | IDE utilizada para criar a git page do projeto. |
-| <img src="../img/icon_teams.png" alt="Teams" width=75px> | Teams | Utilizado para realizar as reuniões e gravações das mesmas. |
-| <img src="../img/icon_lucidhart.png" alt="Lucid Hart" width=75px> | Lucidchart | Utilizado para criar a rich picture do aplicativo analisado |
+| <img src="img/icon-github.png" alt="Github" width=75px> | Github  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
+| <img src="img/icon-whatsapp.png" alt="Whatsapp" width=75px> | Whatsapp | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
+| <img src="img/icon-youtube.png" alt="YouTube" width=75px> | Youtube | Utilizado para hospedar as gravações do projeto. |
+| <img src="img/icon_vscode.png" alt="VScode" width=75px> | VScode | IDE utilizada para criar a git page do projeto. |
+| <img src="img/icon_teams.png" alt="Teams" width=75px> | Teams | Utilizado para realizar as reuniões e gravações das mesmas. |
+| <img src="img/icon_lucidhart.png" alt="Lucid Hart" width=75px> | Lucidchart | Utilizado para criar a rich picture do aplicativo analisado |
+
 
 <div align= "center">
 <p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: BOSI, Rafael. 2023). </p>
