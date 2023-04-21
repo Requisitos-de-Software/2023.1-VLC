@@ -1,6 +1,6 @@
 ---
-nome: Bug report
-sobre: Crie um relatório para nos ajudar
+name: Bug report
+about: Crie um relatório para nos ajudar
 título: ''
 labels: ''
 encarregados: ''

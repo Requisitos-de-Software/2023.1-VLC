@@ -1,6 +1,6 @@
 ---
-nome: Requisição de feature
-sobre: Sugira uma ideia para este projeto
+name: Requisição de feature
+about: Sugira uma ideia para este projeto
 título: ''
 labels: ''
 encarregados: ''
