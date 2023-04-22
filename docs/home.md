@@ -61,6 +61,6 @@
 | Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 15/04/2023 | Primeira Versão da GitPage | Lucas Gobbi | Bruno Ribeiro |
-
+| `2.0` | 15/04/2023 | Adição do contraste | Larissa Gomes | Lucas Gobbi |
 
 </div>

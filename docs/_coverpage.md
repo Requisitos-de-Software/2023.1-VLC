@@ -3,4 +3,3 @@
 
 [Conheça o projeto](home.md)
 
-![](img/coverpage.png)
