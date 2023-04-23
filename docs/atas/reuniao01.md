@@ -46,7 +46,8 @@ Por fim, as atividades para a primeira entrega foram traçadas e divididas entre
 [Link de acesso a reunião](https://youtu.be/F74O1CippWs)
 
 ## Histórico de versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | :--: | :-------: | :---: | :-----: |
-| `1.0` | 14/04/2023 | Criação da ata de reunião | Igor Penha | Lucas Gobbi |
+| Versão | Data de execução | Data de revisão | Descrição | Autor | Revisor |
+| :----: | :--: | :---------: | :-------: | :---: | :-----: |
+| `1.0` | 14/04/2023 | 17/04/2023 | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa) |  [Lucas Gobbi](https://github.com/LucasBergholz) |
+| `1.1` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Igor Penha](https://github.com/igorpenhaa) |
 

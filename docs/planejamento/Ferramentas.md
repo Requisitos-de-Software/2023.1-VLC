@@ -32,6 +32,8 @@
 
 ## Histórico de Versão
 
-| Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
-| :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 13/04/2023 | Adição das ferramentas do projeto | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
+| :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
+| `1.0` | 13/04/2023 | 16/04/2023 | Adição das ferramentas do projeto | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| `1.1` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) |
+
