@@ -1,6 +1,6 @@
-## Cronograma Realizado
+# Cronograma Realizado
 
-# Introdução
+## Introdução
 
 O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Requisitos de Software ministrada pelo professor André Barros de Sales para o primeiro semestre de 2023.
 
@@ -8,7 +8,7 @@ Este documento tem como objetivo marcar e mostrar as reais datas e prazoes utili
 
 <br>
 
-# Ponto de Controle 1
+### Ponto de Controle 1
 | Atividade | Entrega | Revisão | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
 | 1. Planejamento do projeto | 16/04 | 17/04 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi e Giovanni Alvissus |
@@ -22,7 +22,7 @@ Este documento tem como objetivo marcar e mostrar as reais datas e prazoes utili
 | 9. Video de apresentação | 17/04 | 17/04 | Todos | Todos |
 <div><p>Tabela 1 - Itens realizados Ponto de Controle 1. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
-# Histórico de versão
+### Histórico de versão
 | Data | Versão | Descrição | Autor | Revisor |
 |------|--------|-----------|-------|---------|
 | 17/04 | 1.0 | Criação do cronograma realizado | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
