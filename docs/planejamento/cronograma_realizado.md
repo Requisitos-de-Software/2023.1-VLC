@@ -1,6 +1,10 @@
 ## Cronograma Realizado
+
 # Introdução
-Este documento se refere ao cronograma efetivamente realizado durante o trabalho final da disciplina de Requisitos de Software.
+
+O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Requisitos de Software ministrada pelo professor André Barros de Sales para o primeiro semestre de 2023.
+
+Este documento tem como objetivo marcar e mostrar as reais datas e prazoes utilizados para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 
 <br>
 
@@ -16,7 +20,7 @@ Este documento se refere ao cronograma efetivamente realizado durante o trabalho
 | 7. Atas das Reuniões | 16/04 | 17/04 | Igor Penha | Lucas Gobbi |
 | 8. GitPage | 17/04 | 17/04 | Lucas Gobbi | Bruno Ribeiro |
 | 9. Video de apresentação | 17/04 | 17/04 | Todos | Todos |
-<div><p>Tabela 1 - Itens realizados Ponto de Controle 1. (Fonte: autor, 2023).</p></div>
+<div><p>Tabela 1 - Itens realizados Ponto de Controle 1. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
 # Histórico de versão
 | Data | Versão | Descrição | Autor | Revisor |
