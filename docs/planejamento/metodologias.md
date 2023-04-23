@@ -74,6 +74,22 @@ As mensagens dos _commits_ devem seguir o padrão:
 > O _commit_ referente a criação do arquivo `metodologias.md` pode ter a mensagem `#37 criação do documento de metodologias`
 
 
+### Política de _branchs_
+
+As criações das _branchs_ devem seguir o padrão:
+
+> Nomes significativos em minusculo
+> _Branch_ linkada à issue
+> prefixo do que será executado na _branch_
+>
+> Exemplo:
+> 
+> A _branch_ referente a correção do arquivo `metodologias.md` o seu nome deverá ser:
+ 
+ `redo-metodologia`
+ 
+> e linkada a issue
+
 ## Conclusão
   Nossa equipe, de forma dinâmica e constante, busca sempre melhorar e otimizar o projeto, deixando-o mais claro, com menos possibilidade de erros. </br >
   
@@ -91,6 +107,7 @@ E políticas de entregas para termos o padrão, assim, conhecendo uma será capa
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição            |  Autor(es)    | Revisor(es)   |
-| :------: | :--------: |:-------------------: | :-----------: | :-----:       |
-| `1.0`    | 20/04/2022 | Criação do documento |   Igor Penha  | Bruno Ribeiro |
+| Versão   | Data       | Descrição                     |  Autor(es)    | Revisor(es)   |
+| :------: | :--------: |:----------------------------: | :-----------: | :-----:       |
+| `1.0`    | 20/04/2023 | Criação do documento          |   Igor Penha  | Bruno Ribeiro |
+| `1.1 `   | 23/04/2023 | Adicionando política de branch|   Igor Penha  | Bruno Ribeiro |
