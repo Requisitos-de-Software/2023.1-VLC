@@ -2,16 +2,19 @@
 
 ## Introdução
 
-Esse documento visa registrar o acontecimento da reunião do dia 04/04/2023, marcar quais membros estavam presentes, os objetivos gerais da reunião, além de definir e controlar tarefas. Aqui esta presente, também, o link da gravação da reunião.
+Esse documento visa registrar o acontecimento da  primeira reunião do grupo 3, marcar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube.
 
+<br />
 
-|                                     Alunos presentes                                 |    Data    | Horário de inicio e fim |      Local       |
-| :----------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Bruno Ribeiro, Giovanni Alvissus, Igor Penha, Larissa Gomes,lucas Gobbi, Rafael Bosi | 04/04/2023 |      20:22 - 20:31      | Plataforma Teams |
+|                                      Alunos presentes                                 |    Data    | Horário de inicio e fim |      Local       |
+| :-----------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
+| Bruno Ribeiro, Giovanni Alvissus, Igor Penha, Larissa Gomes, Lucas Gobbi, Rafael Bosi | 04/04/2023 |      20:22 - 20:31      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: Igor Penha, 2023). </p>
+<p> Tabela 1: Dados da reunião (Fonte: Autor, 2023). </p>
 </div>
+
+<br />
 
 ## Objetivos da reunião
 
@@ -20,6 +23,8 @@ Esse documento visa registrar o acontecimento da reunião do dia 04/04/2023, mar
 - Discussão sobre pontos importantes do trabalho em geral
 - Divisão de tarefas iniciais
 - Conhecer os integrantes do grupo
+
+<br />
 
 | Tarefa | Responsável | Revisor |
 | ------ | ----------- | ------- |
@@ -33,17 +38,23 @@ Esse documento visa registrar o acontecimento da reunião do dia 04/04/2023, mar
 
 
 <div style="text-align: center">
-<p> Tabela 2: Atividades a serem feitas (Fonte: Igor Penha, 2023). </p>
+<p> Tabela 2: Atividades a serem feitas (Fonte: Autor, 2023). </p>
 </div>
+
+<br />
 
 ## Conclusão
 Conhecendo os integrantes para sabermos os pontos fortes e fracos de cada um dos participantes para ter uma melhor eficiência e aprendizado.
 Além disso, tópicos importantes sobre o processo foram apontados. 
 Por fim, as atividades para a primeira entrega foram traçadas e divididas entre o grupo.
 
+<br/>
+
 ## Link da gravação
 
 [Link de acesso a reunião](https://youtu.be/F74O1CippWs)
+
+<br />
 
 ## Histórico de versão
 | Versão | Data de execução | Data de revisão | Descrição | Autor | Revisor |
