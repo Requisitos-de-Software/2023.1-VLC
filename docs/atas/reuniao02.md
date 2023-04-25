@@ -2,16 +2,19 @@
 
 ## Introdução
 
-Esse documento visa registrar o acontecimento da reunião do dia 09/04/2023, marcar quais membros estavam presentes, os objetivos gerais da reunião, além de definir e controlar tarefas. Aqui esta presente, também, a gravação da reunião.
+Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3, marcar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube.
 
+<br />
 
 |             Alunos presentes            |    Data    | Horário de inicio e fim |      Local       |
 | :-------------------------------------: | :--------: | :---------------------: | :--------------: |
 | Bruno Ribeiro, Igor Penha, lucas Gobbi  | 09/04/2023 |      20:48 - 21:42      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: Igor Penha, 2023). </p>
+<p> Tabela 1: Dados da reunião (Fonte: Autor, 2023). </p>
 </div>
+
+<br />
 
 ## Objetivos da reunião
 
@@ -21,6 +24,7 @@ Esse documento visa registrar o acontecimento da reunião do dia 09/04/2023, mar
 - Compartilhamento de ideias
 - Trabalho em equipe
 
+<br />
 
 | Tarefa | Responsável | Revisor |
 | ------ | ----------- | ------- |
@@ -33,19 +37,27 @@ Esse documento visa registrar o acontecimento da reunião do dia 09/04/2023, mar
 | Rich Picture | Larissa Gomes | Giovanni Alvissus
 
 <div style="text-align: center">
-<p> Tabela 2: Atividades a serem feitas (Fonte: Igor Penha, 2023). </p>
+<p> Tabela 2: Atividades a serem feitas (Fonte: Autor, 2023). </p>
 </div>
+
+<br />
 
 ## Conclusão
 
 Confirmação do que cada um irá fazer após entedimento mais aprofundado das tarefas.
 Por fim, execução dos primeiros passos no planejamento do cronograma.
 
+<br />
+
 ## Link da gravação
 
 [Link de acesso a reunião](https://youtu.be/wiXy-kvHw5c)
 
+<br />
+
 ## Histórico de versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | :--: | :-------: | :---: | :-----: |
-| `1.0` | 14/04/2023 | Criação da ata de reunião | Igor Penha | Bruno Ribeiro |
+| Versão | Data de execução | Data de revisão | Descrição | Autor | Revisor |
+| :----: | :--: | :---------: | :-------: | :---: | :-----: |
+| `1.0` | 14/04/2023 | 17/04/2023 | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| `1.1` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+

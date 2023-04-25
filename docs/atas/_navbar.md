@@ -1,7 +1,9 @@
-<!-- docs/_sidebar.md -->
+<!-- _navbar.md -->
 
 - [Sobre o projeto](home.md)
 - [Atas](atas/reuniao01.md)
+  - [1° Reunião](atas/reuniao01.md)
+  - [2° Reunião](atas/reuniao02.md)
 - [Apresentações](planejamento/apresentacoes.md)
 - [Planejamento](#)
   - [Cronograma](planejamento/Cronograma.md)
