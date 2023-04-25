@@ -31,7 +31,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 | Tarefa | Responsável | Revisor |
 | ------ | ----------- | ------- |
 | Ata da reunião (incluindo gravação postada no Youtube) | Igor Penha | Bruno Ribeiro |
-| Personas | Igor Penha e Bruno Ribeiro| Bruno Ribeiro |
+| Personas | Igor Penha e Bruno Ribeiro| Lucas Gobbi |
 | Storytelling | Igor Penha e Bruno Ribeiro | Larissa Gomes |
 | Questionario | Francisco Mizael e Larissa Gomes | Igor Penha |
 | Priorização | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
@@ -61,3 +61,5 @@ Por fim, definição das tarefas de cada um do grupo.
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | `1.0` | 24/04/2023 | Criação da ata de reunião | Igor Penha | Bruno Ribeiro |
+| `1.1` | 24/04/2023 | Atualização dos revisores | Igor Penha | Bruno Ribeiro |
+
