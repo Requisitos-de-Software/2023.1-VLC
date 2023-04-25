@@ -43,9 +43,10 @@ O WebDiet é um aplicativo voltado para a gestão de dieta e alimentação saud�
 
 ## Histórico de Versão
 
-|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
-| :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| `1.0` | 16/04/2023 | Criação do Rich Picture | [Larissa Gomes](https://github.com/larigs) | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| `1.1` | 17/04/2023 | Adição das bibliografias | [Larissa Gomes](https://github.com/larigs) | [Giovanni Alvissus](https://github.com/giovanni1106) |
+|   Versão   | Data de execução  |    Data de revisão    |          Descrição          |    Autor(es)     |  Revisor(es)  |
+| :--------: | :---------------: | :-------------------: | :-------------------------: | :--------------: | :-----------: |
+| `1.0` | 16/04/2023 | 17/04/2023 | Criação do Rich Picture | [Larissa Gomes](https://github.com/larigs) | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| `1.1` | 17/04/2023 | 20/04/2023 | Adição das bibliografias | [Larissa Gomes](https://github.com/larigs) | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| `1.2` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Larissa Gomes](https://github.com/larigs) |
 
 <center> Tabela 2: Histórico de versões (Fonte: GOMES, Larissa. 2023). </center>
