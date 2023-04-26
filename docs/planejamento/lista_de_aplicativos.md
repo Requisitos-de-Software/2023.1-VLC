@@ -86,8 +86,9 @@ O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahad
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)         | Revisor(es)  |
-| :------: | :----------: | :--------------------: | :-------------: | :----------: |
-| `1.0`  | 14/04/2022 | Criação do documento | [Giovanni Alvissus](https://github.com/giovanni1106) | [Igor Penha](https://github.com/igorpenhaa) |
-| `1.1`  | 15/04/2022 | Correção de legenda e nome do arquivo | [Lucas Bergholz](https://github.com/lucasbergholz) | [Igor Penha](https://github.com/igorpenhaa) |
-| `1.2`  | 16/04/2022 | Lista de aplicativos atualizada e Bibliografia adicionada | [Mizael Santos](https://github.com/frmiza) | [Igor Penha](https://github.com/igorpenhaa) |
+| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
+| :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
+| `1.0`  | 14/04/2022 | 15/04/2023 | Criação do documento | [Giovanni Alvissus](https://github.com/giovanni1106) | [Igor Penha](https://github.com/igorpenhaa) |
+| `1.1`  | 15/04/2022 | 16/04/2023 | Correção de legenda e nome do arquivo | [Lucas Bergholz](https://github.com/lucasbergholz) | [Igor Penha](https://github.com/igorpenhaa) |
+| `1.2`  | 16/04/2022 | 21/04/2023 | Lista de aplicativos atualizada e Bibliografia adicionada | [Mizael Santos](https://github.com/frmiza) | [Igor Penha](https://github.com/igorpenhaa) |
+| `1.3` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Mizael Santos](https://github.com/frmiza) |
