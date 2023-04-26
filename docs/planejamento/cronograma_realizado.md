@@ -9,6 +9,8 @@ Este documento tem como objetivo marcar e mostrar as reais datas e prazoes utili
 <br>
 
 ### Ponto de Controle 1
+A Tabela 1 mostra as atividades realizadas do Ponto de Controle 1, com seus autores, revisores e datas.
+
 | Atividade | Entrega | Revisão | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
 | 1. Planejamento do projeto | 16/04 | 17/04 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi e Giovanni Alvissus |
@@ -21,6 +23,9 @@ Este documento tem como objetivo marcar e mostrar as reais datas e prazoes utili
 | 8. GitPage | 17/04 | 17/04 | Lucas Gobbi | Bruno Ribeiro |
 | 9. Video de apresentação | 17/04 | 17/04 | Todos | Todos |
 <div><p>Tabela 1 - Itens realizados Ponto de Controle 1. (Fonte: Bruno Ribeiro, 2023).</p></div>
+
+### Bibliografia
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 26 de abril de 2023.
 
 ### Histórico de versão
 | Data | Versão | Descrição | Autor | Revisor |

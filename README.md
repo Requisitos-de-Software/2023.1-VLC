@@ -1,17 +1,16 @@
-# WebDiet - Grupo 3
+# VLC Media Player - Grupo 3
 
 <div align="center">
-<img src="docs/img/logo_WebDiet1.jfif" aly="WebDiet_logo" style="width: 300px">
+<img src="docs/img/icon.png" aly="VLC_logo" style="width: 300px">
 </div>
 
 ## Introdução
 
-Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de REQ (Requisitos de Software). O projeto visa avaliar o aplicativo Web Diet, com base no que aprendemos em REQ.
+Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de REQ (Requisitos de Software). O projeto visa avaliar o aplicativo VLC Media Player, com base no que aprendemos em REQ.
 
 ## O aplicativo
 
-O aplicativo WebDiet é uma solução voltada para o mundo da nutrição, onde o usuário tem a possibilidade de entrar em contato com profissionais da área e receber 
-programas de dieta personalizados.
+O aplicativo VLC Media Player tem como funcionalidades reproduzir vídeos e áudios do dispositivo do seu usuário, além de exporta-los como arquivo mp4.
 
 
 ## Integrantes da equipe
