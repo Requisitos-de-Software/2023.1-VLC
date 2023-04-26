@@ -54,7 +54,7 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 
 ## Bibliografia
 
-[1] This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: <https://thispersondoesnotexist.com> <br>
+[1] This Person Doest Not Exist. Acesso em: 25/04/2023. Disponível em: <https://thispersondoesnotexist.com> <br>
 
 [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
@@ -62,4 +62,4 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 
 | Versão | Data       | Descrição                        | Autor(es)                  | Revisor(es) |
 | ------ | ---------- | -------------------------------- | -------------------------- | ----------- |
-| `1.0`  | 24/11/2022 | Criação do documento de personas | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
+| `1.0`  | 25/04/2023 | Criação do documento de personas | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
