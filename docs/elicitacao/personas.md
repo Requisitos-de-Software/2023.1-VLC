@@ -30,7 +30,7 @@ As personas podem ser utilizadas em diferentes fases do projeto, o principal obj
 ## Metodologias
 
 Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
-As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://thispersondoesnotexist.com), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
+As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
 
 ## Perfil do Usuário
 
