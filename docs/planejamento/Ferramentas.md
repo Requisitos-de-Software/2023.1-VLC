@@ -52,4 +52,5 @@
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
 | `1.0` | 13/04/2023 | 16/04/2023 | Adição das ferramentas do projeto | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | `1.1` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| `1.2` | 27/04/2023 | 27/04/2023 | Atualizando as ferramentas | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
