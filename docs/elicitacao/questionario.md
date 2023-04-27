@@ -23,6 +23,7 @@ A execução do questionário deve ser realizada levando em conta o público alv
 ## Resultados coletados
 
 Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com XX(n de questoes) das quais fora realizado uma filtragem dos dados obtidos, onde XX(numero) são respostas de usuários que utilizaram o site na via Desktop, e XX(numero) são de usuários do aplicativo via Mobile.
+<br>
 Os usuários antes de realizar o Questionário aceitaram um [termo consentimento]() redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
 
 |          **Template de pergunta**          |
