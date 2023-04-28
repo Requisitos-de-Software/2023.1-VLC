@@ -99,4 +99,4 @@ Tabela 5: Respostas da pergunta 9. (Fonte: autor, 2023).
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 26/04/2023 | Criação do documento e adição da introdução e templates de tabela | Mizael Santos | Larissa Gomes |
-| `1.1`  | 26/04/2023 | Criação de templates para as perguntas e termo de consentimento | Mizael Santos | Larissa Gomes |
+| `1.1`  | 28/04/2023 | Criação de templates para as perguntas e termo de consentimento | Mizael Santos | Larissa Gomes |
