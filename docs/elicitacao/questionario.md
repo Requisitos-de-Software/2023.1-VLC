@@ -119,7 +119,7 @@ Figura 4: Pergunta 8 (Fonte: autor, 2023).
 
 ### Questão 9
 Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Você tem algum feedback sobre como site Lichess pode dar uma experiência melhor para o usuário?**          |
+|          **Você tem algum feedback sobre como aplicativo VLC pode dar uma experiência melhor para o usuário?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Resposta 1 |
 | Resposta 2 |
