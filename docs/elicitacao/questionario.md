@@ -24,7 +24,7 @@ A execução do questionário deve ser realizada levando em conta o público alv
 
 Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com XX(n de questoes) das quais fora realizado uma filtragem dos dados obtidos, onde XX(numero) são respostas de usuários que utilizaram o site na via Desktop, e XX(numero) são de usuários do aplicativo via Mobile.
 <br>
-Os usuários antes de realizar o Questionário aceitaram um [termo consentimento]() redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
+Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
 
 |          **Template de pergunta**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -32,7 +32,7 @@ Os usuários antes de realizar o Questionário aceitaram um [termo consentimento
 | Resposta 2 |
 | Resposta 3 |
 
-
+## Requisitos Elicitados
 | Identificador  |     Requisito     | Tipo  |
 | :-: | :----------------------------------------: | :---: |
 | QXX | Requisito              | RNF/RF |
@@ -40,6 +40,7 @@ Os usuários antes de realizar o Questionário aceitaram um [termo consentimento
 | QXX | Requisito              | RNF/RF |
 | QXX | Requisito              | RNF/RF |
 
+## Histórico de Versão
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 26/04/2023 | Criação do documento e adição da introdução e templates de tabela | Mizael Santos | Larissa Gomes |
