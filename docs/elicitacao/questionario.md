@@ -26,11 +26,66 @@ Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os
 <br>
 Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
 
-|          **Template de pergunta**          |
+### Questão 1
+
+Figura 1: Pergunta 1 (Fonte: autor, 2023). 
+
+### Questão 2
+
+Figura 2: Pergunta 2 (Fonte: autor, 2023). 
+
+### Questão 3
+Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Para o que gostaria de usar ou usa o VLC?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Resposta 1 |
 | Resposta 2 |
 | Resposta 3 |
+Tabela 1: Respostas da pergunta 3. (Fonte: autor, 2023). 
+
+### Questão 4
+Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais aplicativos usa para ver vídeos ou filmes?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+Tabela 2: Respostas da pergunta 4. (Fonte: autor, 2023). 
+
+### Questão 5
+Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Usaria o VLC para algo em sua profissão ou vida pessoal?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+Tabela 3: Respostas da pergunta 5. (Fonte: autor, 2023). 
+
+### Questão 6
+Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Com qual frequência que você usa o VLC?**          | **Votos** | **Porcentagem** |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 | | |
+| Resposta 2 | | |
+| Resposta 3 | | |
+Tabela 4: Respostas da pergunta 6. (Fonte: autor, 2023). 
+
+### Questão 7
+
+Figura 3: Pergunta 7 (Fonte: autor, 2023). 
+
+### Questão 8
+
+Figura 4: Pergunta 8 (Fonte: autor, 2023). 
+
+### Questão 9
+Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Você tem algum feedback sobre como site Lichess pode dar uma experiência melhor para o usuário?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+Tabela 5: Respostas da pergunta 9. (Fonte: autor, 2023). 
 
 ## Requisitos Elicitados
 | Identificador  |     Requisito     | Tipo  |
@@ -44,3 +99,4 @@ Os usuários antes de realizar o Questionário aceitaram um [termo consentimento
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 26/04/2023 | Criação do documento e adição da introdução e templates de tabela | Mizael Santos | Larissa Gomes |
+| `1.1`  | 26/04/2023 | Criação de templates para as perguntas e termo de consentimento | Mizael Santos | Larissa Gomes |
