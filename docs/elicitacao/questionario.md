@@ -28,11 +28,20 @@ Os usuários antes de realizar o Questionário aceitaram um [termo consentimento
 
 ### Questão 1
 
+<div style="text-align: center">
+<p>
 Figura 1: Pergunta 1 (Fonte: autor, 2023). 
+</p>
+</div>
+
 
 ### Questão 2
 
+<div style="text-align: center">
+<p>
 Figura 2: Pergunta 2 (Fonte: autor, 2023). 
+</p>
+</div>
 
 ### Questão 3
 Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -41,7 +50,13 @@ Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usu
 | Resposta 1 |
 | Resposta 2 |
 | Resposta 3 |
+
+<div style="text-align: center">
+<p>
 Tabela 1: Respostas da pergunta 3. (Fonte: autor, 2023). 
+</p>
+</div>
+
 
 ### Questão 4
 Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -50,7 +65,12 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 | Resposta 1 |
 | Resposta 2 |
 | Resposta 3 |
+
+<div style="text-align: center">
+<p>
 Tabela 2: Respostas da pergunta 4. (Fonte: autor, 2023). 
+</p>
+</div>
 
 ### Questão 5
 Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -59,24 +79,43 @@ Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usu
 | Resposta 1 |
 | Resposta 2 |
 | Resposta 3 |
+
+<div style="text-align: center">
+<p>
 Tabela 3: Respostas da pergunta 5. (Fonte: autor, 2023). 
+</p>
+</div>
 
 ### Questão 6
 Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Com qual frequência que você usa o VLC?**          | **Votos** | **Porcentagem** |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 | | |
-| Resposta 2 | | |
-| Resposta 3 | | |
+|          **Com qual frequência que você usa o VLC?**          | Votos | Porcentagem |
+| :--------------------------------------: | :---: | :---------: |
+| Resposta 1 | XX | XX |
+| Resposta 2 | XX | XX |
+| Resposta 3 | XX | XX |
+
+<div style="text-align: center">
+<p>
 Tabela 4: Respostas da pergunta 6. (Fonte: autor, 2023). 
+</p>
+</div>
 
 ### Questão 7
 
+<div style="text-align: center">
+<p>
 Figura 3: Pergunta 7 (Fonte: autor, 2023). 
+</p>
+</div>
+
 
 ### Questão 8
 
+<div style="text-align: center">
+<p>
 Figura 4: Pergunta 8 (Fonte: autor, 2023). 
+</p>
+</div>
 
 ### Questão 9
 Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -85,7 +124,12 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 | Resposta 1 |
 | Resposta 2 |
 | Resposta 3 |
+
+<div style="text-align: center">
+<p>
 Tabela 5: Respostas da pergunta 9. (Fonte: autor, 2023). 
+</p>
+</div>
 
 ## Requisitos Elicitados
 | Identificador  |     Requisito     | Tipo  |
