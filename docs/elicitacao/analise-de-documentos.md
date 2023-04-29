@@ -79,7 +79,20 @@ A tabela abaixo representa todos os requisitos levantados durante a análise de 
 | ADD16 | Testes para garantir que o software respeite a privacidade do usuário e não colete dados invasivamente. | RT |
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Fonte: ALVISSUS, Giovanni. 2023).</p></div>
 
+## Bibliografia
 
+- VideoLAN. *VLC Media Player: Features*. Disponível em: <https://www.videolan.org/vlc/features.html>. Acesso em: 29 abr. 2023.
+- VideoLAN. *VLC User Guide*. Disponível em: <https://wiki.videolan.org/VLC_User_Guide/>. Acesso em: 29 abr. 2023.
+- Trustpilot. *VLC Media Player Reviews*. Disponível em: <https://www.trustpilot.com/review/vlc-media-player.en.softonic.com>. Acesso em: 29 abr. 2023.
+- ResearchGate. *Performance Analysis of VLC Media Player*. Disponível em: <https://www.researchgate.net/publication/313675068_Performance_Analysis_of_VLC_Media_Player>. Acesso em: 29 abr. 2023.
+- VideoLAN. *VLC Security Bulletins*. Disponível em: <https://www.videolan.org/security/>. Acesso em: 29 abr. 2023.
+- VideoLAN. *VLC Privacy Policy*. Disponível em: <https://www.videolan.org/vlc/privacy.html>. Acesso em: 29 abr. 2023.
+
+## Histórico de Versão
+
+| Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
+| :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
+| `1.0` | 29/04/2023 | - | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 
 
