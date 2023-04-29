@@ -69,6 +69,14 @@ A tabela apresentada abaixo é uma lista dos requisitos de software levantados d
 | INT25 | O software deve ser validado em relação aos requisitos funcionais e não-funcionais listados acima. | RT |
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Fonte: ALVISSUS, Giovanni. 2023).</p></div>
 
+## Bibliografia
+
+- VideoLAN. *VLC Media Player: Features*. Disponível em: <https://www.videolan.org/vlc/features.html>. Acesso em: 29 abr. 2023.
+
+- VideoLAN. *VLC Security Bulletins*. Disponível em: <https://www.videolan.org/security/>. Acesso em: 29 abr. 2023.
+
+- 1library. *Engenharia de Requisitos*. Disponívem em: <https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq>. Acesso em: 29 abr. 2023.
+
 ## Histórico de Versão
 
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
