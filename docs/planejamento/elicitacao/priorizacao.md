@@ -26,7 +26,15 @@ Neste método, os requisitos são classificados em três categorias: "alta", "m�
 First things first: Neste método, os requisitos são classificados em ordem de importância, com base em critérios específicos. O objetivo é identificar os requisitos mais importantes para o cliente e para o sucesso do projeto e priorizá-los em primeiro lugar. Por exemplo, pode-se dar prioridade aos requisitos que agregam mais valor ao cliente ou aqueles que são mais fáceis de implementar.
 </div>
 
+## Bibliografia
 
+- BARROS, André. Requisitos - Aula 07. Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523073/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 29 abr. 2023.
+
+## Histórico de Versão
+
+| Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
+| :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
+| `1.0` | 29/04/2023 | - | Adição das ferramentas do projeto | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 
 
