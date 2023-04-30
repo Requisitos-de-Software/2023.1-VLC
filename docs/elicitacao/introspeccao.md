@@ -25,7 +25,7 @@ A introspecção de requisitos de software é o processo de examinar, analisar e
 ## Tabela de requisitos
 
 <div style="text-align:justify;">
-A tabela apresentada abaixo é uma lista dos requisitos de software levantados durante a introspecção do projeto VLC, cujo a identificação segue o formato 'INT' + o numero do requisito. Cada um foi identificado por uma identificação exclusiva e uma descrição detalhada. Além disso, cada requisito foi classificado em uma das seis categorias:
+A tabela 1 apresentada abaixo é uma lista dos requisitos de software levantados durante a introspecção do projeto VLC, cujo a identificação segue o formato 'INT' + o numero do requisito. Cada um foi identificado por uma identificação exclusiva e uma descrição detalhada. Além disso, cada requisito foi classificado em uma das seis categorias:
 </div>
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
