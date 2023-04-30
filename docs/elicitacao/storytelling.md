@@ -66,9 +66,27 @@ Os requisitos identificados com o storytelling seguem a seguir:
 - RF: Requisitos <span>Funcionais</span>
 - RNF: Requisitos não <span>Funcionais</span>
 
-| Identificador | Descrição                                                                          | Tipo |
-| ------------- | ---------------------------------------------------------------------------------- | ---- |
-|               |                                                                                    |      |
+| Identificador | Descrição                                                                          | Tipo | Implementado | Persona |
+| ------------- | ---------------------------------------------------------------------------------- | ---- | ------------ | ------- |
+|       ST01    |   Eu, como usuário, gostaria de reproduzir vídeos.                                 |  RF  | Sim          | [Todas](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST02          | Eu, como usuário, gostaria de reproduzir vídeos sem internet.                      | RF   | Sim          | [Todas](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST03          | Eu, como usuário, gostaria de navegar pelos vídeos de meu dispositivo.             | RF   | Sim          | [Todas](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST04          | Eu, como usuário, gostaria de gerar legendas, automaticamente, para meu vídeo.     | RF   | Não          | [Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST05          | Eu, como usuário, gostaria de mudar a velocidade de reprodução.                    | RF   | Sim          | [Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST06          | Eu, como usuário, gostaria de realizar edições ao meu vídeo.                       | RF   | Não          | [Caius Lucius e Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST07          | Eu, como usuário, gostaria de uma interface de fácil navegação.                    | RNF  | Sim          | [Todas](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST08          | Eu, como usuário, gostaria de organizar meu vídeos.                                | RF   | Sim          | [Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST09          | Eu, como usuário, gostaria de salvar meus vídeos para vê-los em outros dispositivos. | RF | Não          | [Caius Lucius e Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST10          | Eu, como usuário, gostaria de realizar registro/login em uma conta.                | RF   | Não          | [Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST11          | Eu, como usuário, gostaria de compartilhar os vídeos.                              | RF   | Sim          | [Caius Lucius e Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST12          | Eu, como usuário, gostaria de ouvir músicas.                                       | RF   | Sim          | [Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST13          | Eu, como usuário, gostaria de criar playlists.                                     | RF   | Sim          | [Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST14          | Eu, como usuário, gostaria de ajustar a qualidade do áudio.                        | RF   | Sim          | [Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST15          | Eu, como usuário, gostaria de poder ver vídeos/áudios de diferentes formatos.      | RF   | Sim          | [Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST16          | Eu, como usuário, gostaria de que meus vídeos estejam em segurança.                | RF   | Sim          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST17          | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário.           | RF   | Não          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST18          | Eu, como usuário, gostaria de que o aplicativo tenha tutorial.                     | RF   | Sim          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST19          | Eu, como usuário, gostaria de que o aplicativo tenha acessibilidade.               | RF   | Não          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos elicitados com o Storytelling (Fonte: autor, 2023).</p>
