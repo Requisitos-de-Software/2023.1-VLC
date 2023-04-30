@@ -137,16 +137,7 @@ Figura 5: Pergunta 10 (Fonte: autor, 2023).
 </p>
 </div>
 
-
 ### Questão 11
-
-<div style="text-align: center">
-<p>
-Figura 4: Pergunta 8 (Fonte: autor, 2023). 
-</p>
-</div>
-
-### Questão 9
 Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Você tem algum feedback sobre como aplicativo VLC pode dar uma experiência melhor para o usuário?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
