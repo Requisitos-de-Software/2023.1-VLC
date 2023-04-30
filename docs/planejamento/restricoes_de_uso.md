@@ -4,8 +4,8 @@ As restrições de uso dizem respeito ao que que podemos e não podemos fazer qu
 
 ## O que podemos fazer.
 O software VLC faz parte do projeto VideoLAN, onde ambos são projetos de software livre, portanto contam com uma equipe grande de desenvolvedores. Embora seja software livre, existem algumas diretrizes que devem ser seguidas para sua utilização, ou contribuição.
-O software é assegurado pela licença [GPL2](https://choosealicense.com/licenses/gpl-2.0/)[1] que foi lançada pela Free Software Foundation, que tem o objetivo de garantir que os usuários de software livre tenham a liberdade de executar, copiar, distribuir, modificar e melhorar o software.
- Vale resaltar que o VLC também está sobre licença LGPLv2 pois conta com uma biblioteca que permite agregar engines 3D de softwares proprietários, ou de terceiros que não são assegurados pela licença GLP2.
+O software é assegurado pela licença [GPL2](https://choosealicense.com/licenses/gpl-2.0/)[1] que foi lançada pela Free Software Foundation e tem o objetivo de garantir que os usuários de software livre tenham a liberdade de executar, copiar, distribuir, modificar e melhorar o software.
+ Vale resaltar que o VLC também está sobre licença LGPLv2 pois conta com uma biblioteca que permite agregar engines 3D de softwares proprietários, ou de terceiros que não são assegurados pela licença GLP2[1].
 
 
 ## Características 
