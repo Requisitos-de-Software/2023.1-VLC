@@ -34,7 +34,7 @@ First things first: Neste método, os requisitos são classificados em ordem de 
 
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 29/04/2023 | - | Adição das ferramentas do projeto | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| `1.0` | 29/04/2023 | - | Adição da introdução e descrição das tecnicas | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 
 
