@@ -81,4 +81,4 @@ A tabela apresentada abaixo é uma lista dos requisitos de software levantados d
 
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 29/04/2023 | - | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| `1.0` | 29/04/2023 | 30/04/2023 | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
