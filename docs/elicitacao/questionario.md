@@ -44,6 +44,22 @@ Figura 2: Pergunta 2 (Fonte: autor, 2023).
 </div>
 
 ### Questão 3
+
+<div style="text-align: center">
+<p>
+Figura 3: Pergunta 3 (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 4
+
+<div style="text-align: center">
+<p>
+Figura 4: Pergunta 4 (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 5
 Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Para o que gostaria de usar ou usa o VLC?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -53,12 +69,11 @@ Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 1: Respostas da pergunta 3. (Fonte: autor, 2023). 
+Tabela 1: Respostas da pergunta 5. (Fonte: autor, 2023). 
 </p>
 </div>
 
-
-### Questão 4
+### Questão 6
 Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Quais aplicativos usa para ver vídeos ou filmes?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -68,11 +83,11 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 2: Respostas da pergunta 4. (Fonte: autor, 2023). 
+Tabela 2: Respostas da pergunta 6. (Fonte: autor, 2023). 
 </p>
 </div>
 
-### Questão 5
+### Questão 7
 Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Usaria o VLC para algo em sua profissão ou vida pessoal?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -82,11 +97,11 @@ Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 3: Respostas da pergunta 5. (Fonte: autor, 2023). 
+Tabela 3: Respostas da pergunta 7. (Fonte: autor, 2023). 
 </p>
 </div>
 
-### Questão 6
+### Questão 8
 Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Com qual frequência que você usa o VLC?**          | Votos | Porcentagem |
 | :--------------------------------------: | :---: | :---------: |
@@ -96,20 +111,34 @@ Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 4: Respostas da pergunta 6. (Fonte: autor, 2023). 
+Tabela 4: Respostas da pergunta 8. (Fonte: autor, 2023). 
 </p>
 </div>
 
-### Questão 7
+### Questão 9
+Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Caso seja usuário do VLC, obteve algum problema nas ultimas vezes que utilizou? se sim qual?**          |
+| :--------------------------------------: | 
+| Resposta 1 |
+| Resposta 2 | 
+| Resposta 3 |
 
 <div style="text-align: center">
 <p>
-Figura 3: Pergunta 7 (Fonte: autor, 2023). 
+Tabela 5: Respostas da pergunta 9. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 10
+
+<div style="text-align: center">
+<p>
+Figura 5: Pergunta 10 (Fonte: autor, 2023). 
 </p>
 </div>
 
 
-### Questão 8
+### Questão 11
 
 <div style="text-align: center">
 <p>
@@ -127,7 +156,7 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 5: Respostas da pergunta 9. (Fonte: autor, 2023). 
+Tabela 6: Respostas da pergunta 11. (Fonte: autor, 2023). 
 </p>
 </div>
 
