@@ -38,10 +38,10 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 
 | Característica    | Descrição                                                                    |
 | ----------------- | ---------------------------------------------------------------------------- |
-| Idade             |                                                                              |
-| Experiência       |                                                                              |
+| Idade             | 20-75 anos                                                                   |
+| Experiência       | média/baixa esperiência com tecnologia                                       |
 | Atitudes          |                                                                              |
-| Tarefas primárias |                                                                              |
+| Tarefas primárias | Assistir e organizar videos                                                  |
 
 <div style="text-align: center">
 <p>Tabela 1: Perfil do usuário (fonte: autor, 2022).</p>
@@ -49,6 +49,7 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 
 ## Definição das Personas
 
+Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida de forma a torná-las memoráveis, a utilização de um elenco grande de personas pode distanciar a equipe das personas. O elenco de personas está descrito no seguinte pdf clicando [aqui](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/img/personas.pdf).
 
 ## Personas do projeto
 
@@ -63,3 +64,4 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 | Versão | Data       | Descrição                        | Autor(es)                  | Revisor(es) |
 | ------ | ---------- | -------------------------------- | -------------------------- | ----------- |
 | `1.0`  | 25/04/2023 | Criação do documento de personas | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
+| `1.1`  | 30/04/2023 | Add descrição e definição de personas | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
