@@ -27,7 +27,7 @@ Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os
 Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
 
 ### Questão 1
-
+**Qual sua faixa etária?**
 <div style="text-align: center">
 <p>
 Figura 1: Pergunta 1 (Fonte: autor, 2023). 
@@ -36,32 +36,44 @@ Figura 1: Pergunta 1 (Fonte: autor, 2023).
 
 
 ### Questão 2
+Na Tabela Respostas Pergunta 2, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Qual sua profissão?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
 
 <div style="text-align: center">
 <p>
-Figura 2: Pergunta 2 (Fonte: autor, 2023). 
+Tabela 1: Respostas da pergunta 2. (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 3
-
+**Você usa o VLC?**
 <div style="text-align: center">
 <p>
-Figura 3: Pergunta 3 (Fonte: autor, 2023). 
+Figura 2: Pergunta 3 (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 4
+Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais aplicativos usa ou já usou para ver vídeos ou filmes?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
 
 <div style="text-align: center">
 <p>
-Figura 4: Pergunta 4 (Fonte: autor, 2023). 
+Tabela 2: Respostas da pergunta 4. (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 5
-Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Para o que gostaria de usar ou usa o VLC?**          |
+Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais funcionalidades mais gosta no aplicativo VLC?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Resposta 1 |
 | Resposta 2 |
@@ -69,13 +81,13 @@ Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 1: Respostas da pergunta 5. (Fonte: autor, 2023). 
+Tabela 3: Respostas da pergunta 5. (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 6
-Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Quais aplicativos usa para ver vídeos ou filmes?**          |
+Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais funcionalidades menos gosta no aplicativo VLC?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Resposta 1 |
 | Resposta 2 |
@@ -83,13 +95,13 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 2: Respostas da pergunta 6. (Fonte: autor, 2023). 
+Tabela 4: Respostas da pergunta 6. (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 7
-Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Usaria o VLC para algo em sua profissão ou vida pessoal?**          |
+Na Tabela Respostas Pergunta 7, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Existe algum recurso que você acredita que falte ou deixe a desejar? se sim, qual?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Resposta 1 |
 | Resposta 2 |
@@ -97,12 +109,34 @@ Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 3: Respostas da pergunta 7. (Fonte: autor, 2023). 
+Tabela 5: Respostas da pergunta 7. (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 8
-Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+**Ao utilizar o VLC, realizou em quais plataformas?**
+<div style="text-align: center">
+<p>
+Figura 3: Pergunta 8 (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 9
+Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Para o que usa o aplicativo VLC?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 10
+Na Tabela Respostas Pergunta 10, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Com qual frequência que você usa o VLC?**          | Votos | Porcentagem |
 | :--------------------------------------: | :---: | :---------: |
 | Resposta 1 | XX | XX |
@@ -111,13 +145,13 @@ Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 4: Respostas da pergunta 8. (Fonte: autor, 2023). 
+Tabela 7: Respostas da pergunta 10. (Fonte: autor, 2023). 
 </p>
 </div>
 
-### Questão 9
-Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Caso seja usuário do VLC, obteve algum problema nas ultimas vezes que utilizou? se sim qual?**          |
+### Questão 11
+Na Tabela Respostas Pergunta 11, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Obteve algum problema nas últimas vezes que utilizou? se sim qual?**          |
 | :--------------------------------------: | 
 | Resposta 1 |
 | Resposta 2 | 
@@ -125,21 +159,21 @@ Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 5: Respostas da pergunta 9. (Fonte: autor, 2023). 
+Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023). 
 </p>
 </div>
 
-### Questão 10
-
+### Questão 12
+**Como você avalia a interface do aplicativo?**
 <div style="text-align: center">
 <p>
-Figura 5: Pergunta 10 (Fonte: autor, 2023). 
+Figura 4: Pergunta 12 (Fonte: autor, 2023). 
 </p>
 </div>
 
-### Questão 11
-Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Você tem algum feedback sobre como aplicativo VLC pode dar uma experiência melhor para o usuário?**          |
+### Questão 13
+Na Tabela Respostas Pergunta 13, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Você tem algum feedback sobre como o aplicativo VLC pode dar uma experiência melhor para o usuário?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Resposta 1 |
 | Resposta 2 |
@@ -147,7 +181,141 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 
 <div style="text-align: center">
 <p>
-Tabela 6: Respostas da pergunta 11. (Fonte: autor, 2023). 
+Tabela 9: Respostas da pergunta 13. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 14
+**Já usou o VLC?**
+<div style="text-align: center">
+<p>
+Figura 5: Pergunta 14 (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 15
+Na Tabela Respostas Pergunta 15, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Voce utilizaria um aplicativo com propósito de reproduzir videos? Se sim, qual ou quais?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 10: Respostas da pergunta 15. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 16
+Na Tabela Respostas Pergunta 16, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais recursos você considera importante para um aplicativo que reproduz vídeos?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 11: Respostas da pergunta 16. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 17
+Na Tabela Respostas Pergunta 17, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais recursos você gostaria que um aplicativo que reproduza videos tivesse, caso utilizasse um? **          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 12: Respostas da pergunta 17. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 18
+Na Tabela Respostas Pergunta 18, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais recursos você mais gosta de ver em outros aplicativos que tem como propósito reproduzir vídeos? Cite o nome do aplicativo ao início da resposta se possível.**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 13: Respostas da pergunta 18. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 19
+Na Tabela Respostas Pergunta 18, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais recursos você menos gosta em outros aplicativos que tem como propósito reproduzir vídeos? Cite o nome do aplicativo ao início da resposta se possível.**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 14: Respostas da pergunta 19. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 20
+Na Tabela Respostas Pergunta 20, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quais problemas considera crítico ao se utilizar um aplicativo que reproduz vídeos?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 15: Respostas da pergunta 20. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 21
+Na Tabela Respostas Pergunta 21, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quis aspectos (ex: limpa, robusta, intuitiva, muitas funcionalidades, etc)  considera importantes para a interface de um aplicativo que reproduz vídeos?**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 16: Respostas da pergunta 21. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 22
+Na Tabela Respostas Pergunta 22, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Obteve algum problema nas últimas vezes que utilizou outros aplicativos que reproduzem vídeos? se sim qual? Cite o nome do aplicativo ao início da resposta se possível.**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 17: Respostas da pergunta 22. (Fonte: autor, 2023). 
+</p>
+</div>
+
+### Questão 23
+Na Tabela Respostas Pergunta 23, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Você tem algum feedback de outro aplicativo que utilize, e que tenha como propósito a funcionalidade de reproduzir vídeos? Se sim, cite também o nome do aplicativo ao início da resposta se possível.**          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Resposta 1 |
+| Resposta 2 |
+| Resposta 3 |
+
+<div style="text-align: center">
+<p>
+Tabela 18: Respostas da pergunta 23. (Fonte: autor, 2023). 
 </p>
 </div>
 
