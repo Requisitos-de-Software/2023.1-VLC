@@ -44,7 +44,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 ## Tabela de requisitos
 
 <div style="text-align:justify;">
-A tabela abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
 </div>
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
@@ -92,7 +92,7 @@ A tabela abaixo representa todos os requisitos levantados durante a análise de 
 
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 29/04/2023 | - | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| `1.0` | 29/04/2023 | 30/04/2023 | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 
 
