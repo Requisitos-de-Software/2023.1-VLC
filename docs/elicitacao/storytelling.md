@@ -12,7 +12,7 @@ Para o desenvolvimento e realização do _storytelling_, foi utilizado as person
 
 ### Transmissão de conhecimento 
 
-[Caius Lucius](../personas) professor de literatura para ensino médio, que sempre teve o sonho e objetivo de vida compartilhar com os mais novos, seus aprendizes, o máximo de conhecimento que conseguisse. Porém, depois de anos lecionando, começou a sentir que o que ele fazia ainda não era o bastante, Caius queria fazer mais por seu queridos alunos, mas não sabia como.
+[Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) professor de literatura para ensino médio, que sempre teve o sonho e objetivo de vida compartilhar com os mais novos, seus aprendizes, o máximo de conhecimento que conseguisse. Porém, depois de anos lecionando, começou a sentir que o que ele fazia ainda não era o bastante, Caius queria fazer mais por seu queridos alunos, mas não sabia como.
 
 Certo dia, decidiu ir à um congresso de ensino, onde vários palestrantes falavam sobre técnicas de ensino e como essas técnicas poderia ser ministradas para um melhor desempenho no aprendizado dos alunos. Caius ficou encantado, pricipalmente, com uma técnica que utilizava um software livre portátil de mídia de streaming, o VLC.
 
@@ -22,7 +22,7 @@ Depois de ter ido a esse congresso que surgiu a ideia de passar contúdos com v�
 
 ### Musica entre amigos 
 
-Em sua faculdade, [Marcus Andronicus](../personas), é muito popular pelo seu vasto conhecimento na área musical, sempre que há uma reunião de amigos da faculdade é o próprio Marcus que fica responsável por escolher as músicas que irão tocar na noite. Porém quando Marcus não está presente a reunião não é a mesma, pois eles não sabem os nomes das músicas nem quais eram as versões das músicas que deviam ser escolhidas. 
+Em sua faculdade, [Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf), é muito popular pelo seu vasto conhecimento na área musical, sempre que há uma reunião de amigos da faculdade é o próprio Marcus que fica responsável por escolher as músicas que irão tocar na noite. Porém quando Marcus não está presente a reunião não é a mesma, pois eles não sabem os nomes das músicas nem quais eram as versões das músicas que deviam ser escolhidas. 
 
 Como o jovem estudante de música gosta muito de seus amigos, começou a procurar soluções que pudessem resolver e como gostaria de atender a todos estava a procura de algo que fosse gratuito para que ninguém tivesse problema. Foi então, que um colega de classe o recomendou o VLC para que ele conseguisse montar playlist das músicas e, dessa maneira, quando ele não estivesse presente, bastaria alguem ter acesso a playlist criada pelo Marcus, que a festa estaria salva.
 
@@ -34,24 +34,11 @@ De primeira mão Marcus ficou receoso de utilizar um aplicativo, ao qual nunca t
 
 ### Lembranças 
 
-[Cordelia Macbeth](../personas) uma médica aposentada de 72 anos, que cuida de seus netos 
-e acabou de perder o marido para o cancer, ficou muito abalada, mas tentava não transparencer 
-para que seus netos não ficassem tristes e seguissem tendo uma vida feliz. Após um tempo a 
-médica já não conseguia escoder sua tristeza e sempre acabava a chorar quando fazia algo que 
-lembrasse dele.
+[Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) uma médica aposentada de 72 anos, que cuida de seus netos e acabou de perder o marido para o cancer, ficou muito abalada, mas tentava não transparencer para que seus netos não ficassem tristes e seguissem tendo uma vida feliz. Após um tempo a médica já não conseguia escoder sua tristeza e sempre acabava a chorar quando fazia algo que lembrasse dele.
 
-Os filhos de Cordelia perceberam o que estava acontecendo e perceberam que uma das atividades 
-que ela mais gostava de fazer era relembrar dos velhos momentos com seu esposo folheando 
-antigos álbuns. Porém ela sempre acabava olhando para os CDs e vídeos de viagens e do dia de 
-seu casamento, mas ela não conseguia mais reproduzí-los, pois seu aparelho não funcionava 
-mais e não conseguia encontrar onde comprar outro.
+Os filhos de Cordelia perceberam o que estava acontecendo e perceberam que uma das atividades que ela mais gostava de fazer era relembrar dos velhos momentos com seu esposo folheando antigos álbuns. Porém ela sempre acabava olhando para os CDs e vídeos de viagens e do dia de seu casamento, mas ela não conseguia mais reproduzí-los, pois seu aparelho não funcionava mais e não conseguia encontrar onde comprar outro.
 
-Percebendo a situação em que sua mãe se encontrava resolveram apresentá-la à um aplicativo 
-chamado VLC, a qual proposta é um mídia de streaming, que poderia resolver a questão dos vídeos. 
-Então eles se juntaram e apresentaram e ensinaram a ela como usar. Cordelia ficou extremamente 
-feliz com o que acabava de descobrir. Depois que começou a utilizar o VLC sua vida mudou, 
-pois com o aplicativo conseguia matar a saudade de seu falecido marido e dava forças para 
-ela continuar a viver e dar o melhor de si.
+Percebendo a situação em que sua mãe se encontrava resolveram apresentá-la à um aplicativo chamado VLC, a qual proposta é um mídia de streaming, que poderia resolver a questão dos vídeos. Então eles se juntaram e apresentaram e ensinaram a ela como usar. Cordelia ficou extremamente feliz com o que acabava de descobrir. Depois que começou a utilizar o VLC sua vida mudou, pois com o aplicativo conseguia matar a saudade de seu falecido marido e dava forças para ela continuar a viver e dar o melhor de si.
 
 </br>
 </br>
