@@ -24,7 +24,7 @@ A execução do questionário deve ser realizada levando em conta o público alv
 
 Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com XX(n de questoes) das quais fora realizado uma filtragem dos dados obtidos, onde XX(numero) são respostas de usuários que utilizaram o site na via Desktop, e XX(numero) são de usuários do aplicativo via Mobile.
 <br>
-Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
+Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023**(data) e **01/05/2023**(data).
 
 ### Questão 1
   ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/faixaetaria.png)
@@ -382,10 +382,35 @@ Tabela 16: Respostas da pergunta 21. (Fonte: autor, 2023).
 ## Requisitos Elicitados
 | Identificador  |     Requisito     | Tipo  |
 | :-: | :----------------------------------------: | :---: |
-| QXX | Requisito              | RNF/RF |
-| QXX | Requisito              | RNF/RF |
-| QXX | Requisito              | RNF/RF |
-| QXX | Requisito              | RNF/RF |
+| QUE01 | Modernizar interface gráfica com usuário | RNF |
+| QUE02 | Adicionar suporte para mais tipos de arquivos | RNF |
+| QUE03 | Deve ter modo escuro por default de instalação | RNF |
+| QUE04 | Aperfeiçoar a função de streaming de vídeos | RNF |
+| QUE05 | Aperfeiçoar a função de zoom do aplicativo | RF |
+| QUE06 | O aplicativo não deve apresentar atraso e flickering nas imagens ao despausar o vídeo | RNF |
+| QUE07 | Mudar tempo do vídeo com toques | RF |
+| QUE08 | Menus drop down devem ser mais intuitivos | RF |
+| QUE09 | Deve ter botão para alternar entre o modo escuro e claro | RF |
+| QUE10 | O aplicativo deve ser responsivo e livre de travamentos | RNF |
+| QUE11 | Deve salvar o tempo de reprodução de videos anteriormente assistidos apos fechar | RF |
+| QUE12 | Áudios acima de 100% | RF |
+| QUE13 | Sincronização manual de legendas | RF |
+| QUE14 | Sincronização manual de legendas | RF |
+| QUE15 | Ajuste de volume e acessibilidade no file type | RF |
+| QUE16 | Interface simples e intuitiva | RNF |
+| QUE17 | Manter codecs padrões para reprodução | RNF |
+| QUE18 | Interface mais amigável | RNF |
+| QUE20 | Deve ter suporte à arquivos de legenda e vários formatos de vídeo. | RNF |
+| QUE21 | Mudança de canais de aúdio | RF |
+| QUE22 | Aumento na velocidade de reprodução | RF |
+| QUE23 | Opção para colocar o vídeo em loop | RF |
+| QUE24 | Recurso de timing | RF |
+| QUE25 | Recurso de seleção de idioma | RF |
+| QUE26 | Recurso de alteração de cor de fundo | RF |
+| QUE27 | Recurso de alterar e tamanho | RF |
+
+
+
 
 ## Histórico de Versão
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
