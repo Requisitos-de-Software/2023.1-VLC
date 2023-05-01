@@ -9,7 +9,7 @@
 ## Membro em questão
 
 <div style="align:justify">
-    O membro que esta deixando o grupo é a [Larissa Gomes](https://github.com/larigs) que retirou a materia de Requisitos de Software por vontade própria e por motivos pessoais. Fica claro então que o membro em questão não aparecerá mais como um contribuidor do projeto e que, a partir da segunda entraga, a Larissa não estará mais presente nós cronogramas executados e será retirada dos cornogramas que o grupo planejou. 
+    O membro que esta deixando o grupo é a [Larissa Gomes](https://github.com/larigs), que retirou a materia de Requisitos de Software por vontade própria e por motivos pessoais. Fica claro então que o membro em questão não aparecerá mais como um contribuidor do projeto e que, a partir da segunda entraga, a Larissa não estará mais presente nós cronogramas executados e será retirada dos cornogramas que o grupo planejou. 
 </div>
 
 ## Histórico de versão
