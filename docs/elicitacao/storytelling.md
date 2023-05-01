@@ -67,7 +67,7 @@ Os requisitos identificados com o storytelling seguem a seguir:
 | ST13          | Eu, como usuário, gostaria de criar playlists.                                     | RF   | Sim          | [Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST14          | Eu, como usuário, gostaria de ajustar a qualidade do áudio.                        | RF   | Sim          | [Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST15          | Eu, como usuário, gostaria de poder ver vídeos/áudios de diferentes formatos.      | RF   | Sim          | [Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
-| ST16          | Eu, como usuário, gostaria de que meus vídeos estejam em segurança.                | RF   | Sim          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST16          | Eu, como usuário, gostaria de que meus vídeos estejam em segurança.                | RNF   | Sim          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST17          | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário.           | RF   | Não          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST18          | Eu, como usuário, gostaria de que o aplicativo tenha tutorial.                     | RF   | Sim          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST19          | Eu, como usuário, gostaria de que o aplicativo tenha acessibilidade.               | RF   | Não          | [Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
@@ -91,7 +91,7 @@ Para visualizar a gravação, em íntegra da reunião na qual foram elicitados o
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                    | Autor(es)                  |  Revisor(es)  |
-| ------ | ---------- | ---------------------------- | -------------------------- | ------------- |
-| `1.0`  | 26/04/2023 | Criação do documento inicial | Bruno Ribeiro e Igor Penha | Larissa Gomes |
-| `1.1`  | 30/04/2023 | Elicitação de requisitos     | Bruno Ribeiro e Lucas Gobbi| Igor Penha	  |
+| Versão | Data       | Descrição                    | Autor(es)                  |  Revisor(es)  | Data de revisão |
+| ------ | ---------- | ---------------------------- | -------------------------- | ------------- |-----------------|
+| `1.0`  | 26/04/2023 | Criação do documento inicial |[Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Larissa Gomes](https://github.com/larigs) | 30/04/2023 |
+| `1.1`  | 30/04/2023 | Elicitação de requisitos     | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Igor Penha](https://github.com/igorpenhaa) | 01/04/2023 |
