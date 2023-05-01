@@ -27,8 +27,6 @@ Em sua faculdade, [Marcus Andronicus](https://github.com/Requisitos-de-Software/
 Como o jovem estudante de música gosta muito de seus amigos, começou a procurar soluções que pudessem resolver e como gostaria de atender a todos estava a procura de algo que fosse gratuito para que ninguém tivesse problema. Foi então, que um colega de classe o recomendou o VLC para que ele conseguisse montar playlist das músicas e, dessa maneira, quando ele não estivesse presente, bastaria alguem ter acesso a playlist criada pelo Marcus, que a festa estaria salva.
 
 De primeira mão Marcus ficou receoso de utilizar um aplicativo, ao qual nunca tinha ouvido falar, mas quando começou a usar percebeu a que esse aplicativo poderia ajudá-lo bastante, já que iria trazer versatilidade, como, juntar músicas parecidas em uma playlist e quando seus amigos com aquele gosto musical quisessem poderia acessar e desfrutar de boas músicas que foram reunidas por alguém que tem conhecimento no assunto.
-
-
 </br>
 </br>
 
@@ -39,7 +37,6 @@ De primeira mão Marcus ficou receoso de utilizar um aplicativo, ao qual nunca t
 Os filhos de Cordelia perceberam o que estava acontecendo e perceberam que uma das atividades que ela mais gostava de fazer era relembrar dos velhos momentos com seu esposo folheando antigos álbuns. Porém ela sempre acabava olhando para os CDs e vídeos de viagens e do dia de seu casamento, mas ela não conseguia mais reproduzí-los, pois seu aparelho não funcionava mais e não conseguia encontrar onde comprar outro.
 
 Percebendo a situação em que sua mãe se encontrava resolveram apresentá-la à um aplicativo chamado VLC, a qual proposta é um mídia de streaming, que poderia resolver a questão dos vídeos. Então eles se juntaram e apresentaram e ensinaram a ela como usar. Cordelia ficou extremamente feliz com o que acabava de descobrir. Depois que começou a utilizar o VLC sua vida mudou, pois com o aplicativo conseguia matar a saudade de seu falecido marido e dava forças para ela continuar a viver e dar o melhor de si.
-
 </br>
 </br>
 
