@@ -27,7 +27,7 @@ Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os
 Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
 
 ### Questão 1
-  ![Image do resultado da questão 1](./imgs/questionario/faixaetaria.png)
+  ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/faixaetaria.png)
   
 <div style="text-align: center">
 <p>
@@ -57,7 +57,7 @@ Tabela 1: Respostas da pergunta 2. (Fonte: autor, 2023).
 
 ### Questão 3
 
-  ![Image do resultado da questão 3](./imgs/questionario/usavlc.png)
+  ![Image do resultado da questão 3](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/usavlc.png)
   
 <div style="text-align: center">
 <p>
@@ -160,7 +160,7 @@ Tabela 5: Respostas da pergunta 7. (Fonte: autor, 2023).
 
 ### Questão 8
 
-  ![Image do resultado da questão 8](./imgs/questionario/qualplataforma.png)
+  ![Image do resultado da questão 8](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/qualplataforma.png)
   
 <div style="text-align: center">
 <p>
@@ -191,7 +191,7 @@ Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023).
 
 ### Questão 10
 
-  ![Image do resultado da questão 10](./imgs/questionario/qualfrequqncia.png)
+  ![Image do resultado da questão 10](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/qualfrequqncia.png)
   
 <div style="text-align: center">
 <p>
@@ -216,7 +216,7 @@ Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023).
 
 ### Questão 12
 
-![Image do resultado da questão 12](./imgs/questionario/avaliacaointerface.png)
+![Image do resultado da questão 12](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/avaliacaointerface.png)
 
 <div style="text-align: center">
 <p>
@@ -246,7 +246,7 @@ Tabela 9: Respostas da pergunta 13. (Fonte: autor, 2023).
 
 ### Questão 14
 
-  ![Image do resultado da questão 12](./imgs/questionario/jausou.png)
+  ![Image do resultado da questão 14](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/jausou.png)
 
 <div style="text-align: center">
 <p>
