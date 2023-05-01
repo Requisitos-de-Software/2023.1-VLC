@@ -1,17 +1,16 @@
-# WebDiet - Grupo 3
+# VLC Media Player - Grupo 3
 
 <div align="center">
-<img src="docs/img/logo_WebDiet1.jfif" aly="WebDiet_logo" style="width: 300px">
+<img src="docs/img/icon.png" aly="VLC_logo" style="width: 300px">
 </div>
 
 ## Introdução
 
-Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de REQ (Requisitos de Software). O projeto visa avaliar o aplicativo Web Diet, com base no que aprendemos em REQ.
+Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de REQ (Requisitos de Software). O projeto visa avaliar o aplicativo VLC Media Player, com base no que aprendemos em REQ.
 
 ## O aplicativo
 
-O aplicativo WebDiet é uma solução voltada para o mundo da nutrição, onde o usuário tem a possibilidade de entrar em contato com profissionais da área e receber 
-programas de dieta personalizados.
+O aplicativo VLC Media Player tem como funcionalidades reproduzir vídeos e áudios do dispositivo do seu usuário, além de exporta-los como arquivo mp4.
 
 
 ## Integrantes da equipe
@@ -75,9 +74,10 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 ## Histórico de Versão
 
-|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
-| :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| `1.0` | 13/04/2023 | Versão inicial de documento | [Rafael Bosi](https://github.com/StrangeUnit28) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+|   Versão   | Data de execução | Data de revisão |             Descrição                      |    Autor(es)     |  Revisor(es)  |
+| :--------: | :---: | :---------: | :-------------------------: | :--------------: | :-----------: |
+| `1.0` | 13/04/2023 | 16/04/2023 | Versão inicial de documento | [Rafael Bosi](https://github.com/StrangeUnit28) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| `1.1` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
 
 
