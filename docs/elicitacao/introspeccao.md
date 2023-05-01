@@ -46,27 +46,21 @@ A tabela 1 apresentada abaixo é uma lista dos requisitos de software levantados
 | INT02 | Permitir a criação de listas de reprodução e a seleção de faixas de áudio e legendas. | RF |
 | INT03 | Suportar streaming de mídia. | RF |
 | INT04 | Permitir a conversão de formatos de arquivo. | RF |
-| INT05 | Possibilitar a reprodução de discos de DVD e Blu-ray. | RF |
-| INT06 | Permitir a captura de tela e a gravação de vídeo. | RF |
-| INT07 | Deve ser compatível com sistemas operacionais Windows, Mac OS e Linux. | RNF |
-| INT08 | Deve ser fácil de instalar e usar. | RNF |
-| INT09 | Deve ser de código aberto e gratuito. | RNF |
-| INT10 | Deve ter uma interface de usuário amigável e intuitiva. | RNF |
-| INT11 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes. | RNF |
-| INT12 | A interface do usuário deve ser fácil de navegar e permitir a seleção de arquivos de mídia. | RI |
-| INT13 | Deve ser possível personalizar a aparência da interface do usuário. | RI |
-| INT14 | Deve ser possível selecionar faixas de áudio e legendas. | RI |
-| INT15 | A interface deve fornecer feedback ao usuário sobre o progresso da reprodução e outras informações relevantes. | RI |
-| INT16 | O VLC deve ser de código aberto e gratuito. | RPR |
-| INT17 | O software deve ser compatível com Windows, Mac OS e Linux. | RPR |
-| INT18 | O VLC deve ter um bom desempenho em uma ampla variedade de sistemas. | RPR |
-| INT19 | Problemas de compatibilidade com sistemas operacionais ou hardware específicos. | RR |
-| INT20 | Concorrência de outros players multimídia. | RR |
-| INT21 | Problemas de desempenho com arquivos grandes ou em sistemas mais antigos. | RR |
-| INT22 | Problemas de segurança relacionados à reprodução de arquivos de mídia. | RR |
-| INT23 | O VLC deve ser testado em uma ampla variedade de sistemas e com uma ampla variedade de formatos de arquivo de mídia. | RT |
-| INT24 | Os testes devem incluir a reprodução de arquivos grandes e a transmissão de mídia pela rede. | RT |
-| INT25 | O software deve ser validado em relação aos requisitos funcionais e não-funcionais listados acima. | RT |
+| INT05 | Permitir a captura de tela e a gravação de vídeo. | RF |
+| INT06 | Deve ser compatível com sistemas operacionais Android e IOS. | RNF |
+| INT07 | Deve ser fácil de instalar e usar. | RNF |
+| INT08 | Deve ser de código aberto e gratuito. | RNF |
+| INT09 | Deve ter uma interface de usuário amigável e intuitiva. | RNF |
+| INT10 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes. | RNF |
+| INT11 | A interface do usuário deve ser fácil de navegar e permitir a seleção de arquivos de mídia. | RI |
+| INT12 | Deve ser possível personalizar a aparência da interface do usuário. | RI |
+| INT13 | Deve ser possível selecionar faixas de áudio e legendas. | RI |
+| INT14 | A interface deve fornecer feedback ao usuário sobre o progresso da reprodução e outras informações relevantes. | RI |
+| INT15 | Problemas de compatibilidade com sistemas operacionais ou hardware específicos. | RR |
+| INT16 | Problemas de desempenho com arquivos grandes ou em sistemas mais antigos. | RR |
+| INT17 | Problemas de segurança relacionados à reprodução de arquivos de mídia. | RR |
+| INT18 | O VLC deve ser testado em uma ampla variedade de sistemas e com uma ampla variedade de formatos de arquivo de mídia. | RT |
+| INT19 | Os testes devem incluir a reprodução de arquivos grandes e a transmissão de mídia pela rede. | RT |
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Fonte: ALVISSUS, Giovanni. 2023).</p></div>
 
 ## Bibliografia
