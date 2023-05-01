@@ -40,7 +40,7 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 | ----------------- | ---------------------------------------------------------------------------- |
 | Idade             | 20-75 anos                                                                   |
 | Experiência       | média/baixa esperiência com tecnologia                                       |
-| Atitudes          |                                                                              |
+| Atitudes          | Acadêmicos                                                                   |
 | Tarefas primárias | Assistir e organizar videos                                                  |
 
 <div style="text-align: center">
