@@ -9,8 +9,16 @@
   - [Ferramentas](planejamento/Ferramentas.md)
   - [Lista de Aplicativos](planejamento/Lista_de_aplicativos.md)
   - [Rich Picture](planejamento/RichPicture.md)
+- [Elicitação](#)
+  - [Análise de Documentos](elicitacao/analise-de-documentos.md)
+  - [First Things First](elicitacao/first_things_first.md)
+  - [In or Out](elicitacao/in_or_out.md)
+  - [Introspecção](elicitacao/introspeccao.md)
+  - [MoSCoW](elicitacao/moscow.md)
+  - [Personas](elicitacao/personas.md)
+  - [Priorização](elicitacao/priorizacao.md)
+  - [StoryTelling](elicitacao/storytelling.md)
 <!-- [Pré-Rastreabilidade]
-- [Elicitação]
 - [Modelagem]
 - [Análise]
 - [Pós-Rastreabilidade]
