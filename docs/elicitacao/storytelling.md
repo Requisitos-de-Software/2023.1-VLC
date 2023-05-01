@@ -92,6 +92,10 @@ Os requisitos identificados com o storytelling seguem a seguir:
 <p> Tabela 1: Requisitos elicitados com o Storytelling (Fonte: autor, 2023).</p>
 </div>
 
+### Gravação da elicitação
+
+Para visualizar a gravação, em íntegra da reunião na qual foram elicitados os requisitos anteriores, clique [aqui](https://youtu.be/JnVHmNPcqLY).
+
 ## Bibliografia
 
 [1] Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
@@ -106,3 +110,4 @@ Os requisitos identificados com o storytelling seguem a seguir:
 | Versão | Data       | Descrição                    | Autor(es)                  |  Revisor(es)  |
 | ------ | ---------- | ---------------------------- | -------------------------- | ------------- |
 | `1.0`  | 26/04/2023 | Criação do documento inicial | Bruno Ribeiro e Igor Penha | Larissa Gomes |
+| `1.1`  | 30/04/2023 | Elicitação de requisitos     | Bruno Ribeiro e Lucas Gobbi| Igor Penha	  |
