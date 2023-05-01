@@ -65,6 +65,10 @@ Legenda:
 
 [Link da Gravação](link)
 
+## Bibliografia
+
+1. Disponível em [GrassHopper](https://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/elicitacao/priorizacao/in-or-out.md), acessado em 01/05/2023
+
 ## Histórico de versão
 
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
