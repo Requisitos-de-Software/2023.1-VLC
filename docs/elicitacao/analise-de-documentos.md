@@ -23,7 +23,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 
 ### Requisitos Técnicos
 
-- Sistemas operacionais suportados: Windows, macOS, Linux, Android e iOS [VLC Download Page](https://www.videolan.org/vlc/index.html)
+- Sistemas operacionais suportados: Android e iOS [VLC Download Page](https://www.videolan.org/vlc/index.html)
 - Suporte a formatos de mídia: consulte a [lista completa de formatos suportados](https://www.videolan.org/vlc/features.html)
 
 ### Requisitos de Usabilidade e Acessibilidade
@@ -33,7 +33,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 
 ### Requisitos de Desempenho e Escalabilidade
 
-- Reprodução eficiente de mídia em dispositivos com recursos limitados [VLC Performance Analysis](https://www.researchgate.net/publication/313675068_Performance_Analysis_of_VLC_Media_Player)
+- Reprodução eficiente de mídia em dispositivos com recursos limitados [VLC Performance Analysis](https://www.researchgate.net/profile/Siddharth_Rautaray/publication/49587944_A_Vision_based_Hand_Gesture_Interface_for_Controlling_VLC_Media_Player/links/5437c1820cf2d5fa292b58f4/A-Vision-based-Hand-Gesture-Interface-for-Controlling-VLC-Media-Player.pdf)
 - Capacidade de lidar com arquivos de mídia de grande porte e alta resolução
 
 ### Requisitos de Segurança e Privacidade
@@ -64,19 +64,18 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 | ADD01 | Suporte a uma ampla variedade de formatos de áudio e vídeo. | RF |
 | ADD02 | Possibilidade de adicionar legendas e selecionar faixas de áudio. | RF |
 | ADD03 | Lista de reprodução e funcionalidades de biblioteca de mídia. | RF |
-| ADD04 | Sistemas operacionais suportados: Windows, macOS, Linux, Android e iOS. | RNF |
-| ADD05 | Suporte a formatos de mídia. | RNF |
-| ADD06 | Interface do usuário intuitiva e fácil de usar. | RI |
-| ADD07 | Suporte a vários idiomas e localizações. | RI |
-| ADD08 | Reprodução eficiente de mídia em dispositivos com recursos limitados. | RPR |
-| ADD09 | Capacidade de lidar com arquivos de mídia de grande porte e alta resolução. | RPR |
-| ADD10 | Risco de vulnerabilidades e exploits de segurança conhecidos. | RR |
-| ADD11 | Risco de violação de privacidade do usuário e coleta de dados invasiva. | RR |
-| ADD12 | Testes para garantir que os formatos de mídia suportados funcionem corretamente. | RT |
-| ADD13 | Testes para garantir que a interface do usuário seja intuitiva e fácil de usar. | RT |
-| ADD14 | Testes para garantir que o software tenha um bom desempenho em dispositivos com recursos limitados. | RT |
-| ADD15 | Testes para garantir que o software seja seguro contra vulnerabilidades e exploits conhecidos. | RT |
-| ADD16 | Testes para garantir que o software respeite a privacidade do usuário e não colete dados invasivamente. | RT |
+| ADD04 | Sistemas operacionais suportados: Android e iOS. | RNF |
+| ADD05 | Interface do usuário intuitiva e fácil de usar. | RI |
+| ADD06 | Suporte a vários idiomas e localizações. | RI |
+| ADD07 | Reprodução eficiente de mídia em dispositivos com recursos limitados. | RPR |
+| ADD08 | Capacidade de lidar com arquivos de mídia de grande porte e alta resolução. | RPR |
+| ADD09 | Risco de vulnerabilidades e exploits de segurança conhecidos. | RR |
+| ADD10 | Risco de violação de privacidade do usuário e coleta de dados invasiva. | RR |
+| ADD11 | Testes para garantir que os formatos de mídia suportados funcionem corretamente. | RT |
+| ADD12 | Testes para garantir que a interface do usuário seja intuitiva e fácil de usar. | RT |
+| ADD13 | Testes para garantir que o software tenha um bom desempenho em dispositivos com recursos limitados. | RT |
+| ADD14 | Testes para garantir que o software seja seguro contra vulnerabilidades e exploits conhecidos. | RT |
+| ADD15 | Testes para garantir que o software respeite a privacidade do usuário e não colete dados invasivamente. | RT |
 <div style="text-align: center;"><p>Tabela 1 - Tabela dos requisitos levantados (Fonte: ALVISSUS, Giovanni. 2023).</p></div>
 
 ## Bibliografia
@@ -84,7 +83,7 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 - VideoLAN. *VLC Media Player: Features*. Disponível em: <https://www.videolan.org/vlc/features.html>. Acesso em: 29 abr. 2023.
 - VideoLAN. *VLC User Guide*. Disponível em: <https://wiki.videolan.org/VLC_User_Guide/>. Acesso em: 29 abr. 2023.
 - Trustpilot. *VLC Media Player Reviews*. Disponível em: <https://www.trustpilot.com/review/vlc-media-player.en.softonic.com>. Acesso em: 29 abr. 2023.
-- ResearchGate. *Performance Analysis of VLC Media Player*. Disponível em: <https://www.researchgate.net/publication/313675068_Performance_Analysis_of_VLC_Media_Player>. Acesso em: 29 abr. 2023.
+- ResearchGate. *Performance Analysis of VLC Media Player*. Disponível em: <https://www.researchgate.net/profile/Siddharth_Rautaray/publication/49587944_A_Vision_based_Hand_Gesture_Interface_for_Controlling_VLC_Media_Player/links/5437c1820cf2d5fa292b58f4/A-Vision-based-Hand-Gesture-Interface-for-Controlling-VLC-Media-Player.pdf>. Acesso em: 29 abr. 2023.
 - VideoLAN. *VLC Security Bulletins*. Disponível em: <https://www.videolan.org/security/>. Acesso em: 29 abr. 2023.
 - VideoLAN. *VLC Privacy Policy*. Disponível em: <https://www.videolan.org/vlc/privacy.html>. Acesso em: 29 abr. 2023.
 
