@@ -24,7 +24,7 @@ Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários aned�
 
 ### Quando usar?
 
-As personas podem ser utilizadas em diferentes fases do projeto, o principal objetivo é auxiliar na geração e validação de idieas dentro do projeto. Porém as personas podem ser utilizadas para auxiliar o processo de design, ter uma melhor visão das características do usuário, apoiar as tomadas desesões, justamente por estar orientado com as informações dos usuários.
+As personas podem ser utilizadas em diferentes fases do projeto, o principal objetivo é auxiliar na geração e validação de ideias dentro do projeto. Porém as personas podem ser utilizadas para auxiliar o processo de design, ter uma melhor visão das características do usuário, apoiar as tomadas desesões, justamente por estar orientado com as informações dos usuários.
 
 
 ## Metodologias
@@ -34,7 +34,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 
 ## Perfil do Usuário
 
-A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos [resultados](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/planejamento/app_selecionado.md) do questionário aplicado.
+A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário aplicado pelo grupo.
 
 | Característica    | Descrição                                                                    |
 | ----------------- | ---------------------------------------------------------------------------- |
