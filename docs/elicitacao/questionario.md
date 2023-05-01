@@ -22,9 +22,9 @@ A execução do questionário deve ser realizada levando em conta o público alv
 
 ## Resultados coletados
 
-Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com XX(n de questoes) das quais fora realizado uma filtragem dos dados obtidos, onde XX(numero) são respostas de usuários que utilizaram o site na via Desktop, e XX(numero) são de usuários do aplicativo via Mobile.
+Tendo em mente o vasto público-alvo que o aplicativo VLC Media Player visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com 20 das quais fora realizado uma filtragem dos dados obtidos, entre usuários e não usuários do aplicativo.
 <br>
-Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023**(data) e **01/05/2023**(data).
+Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023**( e **01/05/2023**.
 
 ### Questão 1
   ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/faixaetaria.png)
@@ -40,14 +40,14 @@ Figura 1: Pergunta 1 (Fonte: autor, 2023).
 Na Tabela Respostas Pergunta 2, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Qual sua profissão?**          | **Votos** | **Porcentagem** |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :--: |
-| Atendente telemarketing | 1 | 3,1% |
-| Auxiliar Higienização | 1 | 3,1% |
-| Desenvolvedor Full Stack | 1 | 3,1% |
-| Eng. Software | 1 | 3,1% |
-| Estudante | 13 | 40,6% |
-| Estagiário | 2 | 6,3%
-| Professor | 12 | 37,5% |
-| Designer gráfico/Embalagem | 1 | 3,1% |
+| Atendente telemarketing | 1 | 2,9% |
+| Auxiliar Higienização | 1 | 2,9% |
+| Desenvolvedor Full Stack | 1 | 2,9% |
+| Eng. Software | 1 | 2,9% |
+| Estudante | 13 | 43% |
+| Estagiário | 2 | 5,3% |
+| Professor | 12 | 37,2% |
+| Designer gráfico/Embalagem | 1 | 2,9% |
 
 <div style="text-align: center">
 <p>
