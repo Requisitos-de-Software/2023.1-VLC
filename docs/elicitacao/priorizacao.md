@@ -14,10 +14,10 @@ O propósito fundamental dos métodos de priorização de requisitos consiste em
 Este método consiste em classificar os requisitos em duas categorias: "dentro" ou "fora" do escopo do projeto. O objetivo é identificar as funcionalidades que são essenciais para o projeto e as que não são. Os requisitos "dentro" são aqueles que o projeto não pode ser concluído sem eles, enquanto os "fora" são aqueles que são desejáveis, mas não são obrigatórios para o sucesso do projeto.
 </div>
 
-### Three Level Scale
+### Moscow
 
 <div style="text-align: justify">
-Neste método, os requisitos são classificados em três categorias: "alta", "média" e "baixa" prioridade. A classificação é baseada na importância dos requisitos para o projeto. Os requisitos de alta prioridade são aqueles que são cruciais para o sucesso do projeto, enquanto os de baixa prioridade são aqueles que podem ser deixados de lado, se necessário.
+O método de priorização MoSCoW é uma técnica que consiste em classificar os requisitos de um projeto em quatro categorias: Must have (Deve ter), Should have (Deveria ter), Could have (Poderia ter) e Won't have (Não terá). Os requisitos "Must have" são essenciais para o sucesso do projeto e devem ser implementados obrigatoriamente. Os requisitos "Should have" são importantes, mas não essenciais, e devem ser incluídos se houver recursos disponíveis. Os requisitos "Could have" são desejáveis, mas não necessários, e podem ser adiados para uma próxima fase do projeto. Já os requisitos "Won't have" são aqueles que foram descartados ou que serão considerados apenas em projetos futuros.
 </div>
 
 ### First things first
@@ -28,13 +28,14 @@ First things first: Neste método, os requisitos são classificados em ordem de 
 
 ## Bibliografia
 
-- BARROS, André. Requisitos - Aula 07. Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523073/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 29 abr. 2023.
+1. BARROS, André. Requisitos - Aula 07. Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523073/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 29 abr. 2023.
 
 ## Histórico de Versão
 
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 29/04/2023 | - | Adição da introdução e descrição das tecnicas | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| `1.0` | 29/04/2023 | 30/04/2023 | Adição da introdução e descrição das tecnicas | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| `1.1` | 01/05/2023 | 01/05/2023 | Adição do método Moscow | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 
 

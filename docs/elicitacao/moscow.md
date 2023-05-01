@@ -40,7 +40,7 @@
 
 ## Requisitos 
 
-<div style="text-align:justify">A Tabela 1 a seguir contém a priorização dos Requisitos funcionais elicitados. Nem todos os requisitos estão presentes na tabela pois diferentes métodos elicitaram requisitos semelhantes.</div>
+<div style="text-align:justify">A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos os requisitos estão presentes na tabela pois diferentes métodos elicitaram requisitos semelhantes.</div>
 
 Legenda: 
 
@@ -92,7 +92,7 @@ Legenda:
 
 ## Gravação
 
-[Link da Gravação](link)
+[Link da Gravação](https://youtu.be/2qKy3jGkCpA)
 
 ## Bibliografia
 
@@ -102,4 +102,4 @@ Legenda:
 
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 01/05/2023 | 01/05/2023 | Criação do documento | Rafael Bosi | Giovanni Alvissus e Lucas Gobbi | 
+| `1.0` | 01/05/2023 | 01/05/2023 | Criação do documento | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Lucas Gobbi](https://github.com/LucasBergholz)|
