@@ -2,6 +2,8 @@
 ## Introdução 
 
 Em um formulário, a qual tem como objetivo coletar informações sobre usabilidade e experiência da utilização de um sistema proposto pelas partes interessadas, por parte de um consumidor, onde posteriormente serão analisados tais resultados coletados com a finalidade de elicitar requisitos baseando-se nos resultados armazenados.
+<br>
+O motivo da escolha de questionário deu-se principalmente pela variedade de usuários dispersos geograficamente, dessa forma podemos realizar uma pesquisa com vários usuários simultaneamente. Quando comparado a outras formas de elicitação de requisitos como as entrevistas com usuários do aplicativo.
 
 A execução do questionário deve ser realizada levando em conta o público alvo, caso ele exista e seja bem definido.
 
@@ -386,19 +388,18 @@ Tabela 15: Respostas da pergunta 20. (Fonte: autor, 2023).
 | QUE11 | Deve salvar o tempo de reprodução de videos anteriormente assistidos apos fechar | RF |
 | QUE12 | Áudios acima de 100% | RF |
 | QUE13 | Sincronização manual de legendas | RF |
-| QUE14 | Sincronização manual de legendas | RF |
-| QUE15 | Ajuste de volume e acessibilidade no file type | RF |
-| QUE16 | Interface simples e intuitiva | RNF |
-| QUE17 | Manter codecs padrões para reprodução | RNF |
-| QUE18 | Interface mais amigável | RNF |
-| QUE20 | Deve ter suporte à arquivos de legenda e vários formatos de vídeo. | RNF |
-| QUE21 | Mudança de canais de aúdio | RF |
-| QUE22 | Aumento na velocidade de reprodução | RF |
-| QUE23 | Opção para colocar o vídeo em loop | RF |
-| QUE24 | Recurso de timing | RF |
-| QUE25 | Recurso de seleção de idioma | RF |
-| QUE26 | Recurso de alteração de cor de fundo | RF |
-| QUE27 | Recurso de alterar e tamanho | RF |
+| QUE14 | Ajuste de volume e acessibilidade no file type | RF |
+| QUE15 | Interface simples e intuitiva | RNF |
+| QUE16 | Manter codecs padrões para reprodução | RNF |
+| QUE17 | Interface mais amigável | RNF |
+| QUE18 | Deve ter suporte à arquivos de legenda e vários formatos de vídeo. | RNF |
+| QUE19 | Mudança de canais de aúdio | RF |
+| QUE20 | Aumento na velocidade de reprodução | RF |
+| QUE21 | Opção para colocar o vídeo em loop | RF |
+| QUE22 | Recurso de timing | RF |
+| QUE23 | Recurso de seleção de idioma | RF |
+| QUE24 | Recurso de alteração de cor de fundo | RF |
+| QUE25 | Recurso de alterar e tamanho | RF |
 
 <div style="text-align: center">
 <p>
