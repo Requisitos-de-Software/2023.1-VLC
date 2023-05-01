@@ -42,7 +42,7 @@ Percebendo a situação em que sua mãe se encontrava resolveram apresentá-la �
 
 ## Requisitos elicitados
 
-Os requisitos identificados com o storytelling seguem a seguir:
+Os requisitos identificados com o storytelling seguem a seguir na Tabela 1:
 
 **Legenda:**
 
