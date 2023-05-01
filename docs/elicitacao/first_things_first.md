@@ -24,7 +24,7 @@ Legenda:
 - ADD: Requisitos da Análise de Documentos
 - QUE: Requisitos do Questionário
 
-<img src="docs/elicitacao/img/first_things_first.png" align="center">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/first_things_first.png" align="center">
 
 <div style="text-align:center"> Figura 1: Priorização dos requisitos de acordo com método First Things First</div>
 
