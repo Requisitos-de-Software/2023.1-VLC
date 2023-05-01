@@ -185,7 +185,7 @@ Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023).
 
 <div style="text-align: center">
 <p>
-Figura 5: Pergunta 10. (Fonte: autor, 2023). 
+Figura 4: Pergunta 10. (Fonte: autor, 2023). 
 </p>
 </div>
 
@@ -207,7 +207,7 @@ Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023).
 ### Questão 12
 <div style="text-align: center">
 <p>
-Figura 6: Pergunta 12 (Fonte: autor, 2023). 
+Figura 5: Pergunta 12 (Fonte: autor, 2023). 
 </p>
 </div>
 
@@ -235,17 +235,33 @@ Tabela 9: Respostas da pergunta 13. (Fonte: autor, 2023).
 **Já usou o VLC?**
 <div style="text-align: center">
 <p>
-Figura 5: Pergunta 14 (Fonte: autor, 2023). 
+Figura 6: Pergunta 14 (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 15
 Na Tabela Respostas Pergunta 15, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Voce utilizaria um aplicativo com propósito de reproduzir videos? Se sim, qual ou quais?**          |
+|          **Quais recursos você considera importante para um aplicativo que reproduz vídeos?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Ter suporte à arquivos de legenda e vários formatos de vídeo. |
+| Codecs para reprodução, aumento de volume, função de adicionar legenda, atraso na legenda, mudança de canais de aúdio e aumento na velocidade de reprodução |
+| Reproduza os vídeos com alta qualidade e com quase nenhuma perda de qualidade ao subir o vídeo. |
+| Velocidade, pausar, facilidade de uso |
+| Reproduzir vídeos com variadas extensões, ter configurações manuais para legendas (como timing, seleção de idioma e alteração de cor, fundo e tamanho) e áudios com uma interface simples, prática e intuitiva. |
+| Sem anuncios e que tenha todos os filmes |
+| Rapidez para carregar o vídeo, clareza das imagens e som impecável. |
+| Informações |
+| Simplicidade |
+| Simplicidade e funcionalidade |
+| Áudio e vídeo |
+| barra com tempo corrido de vídeo, velocidade de reprodução, recursos sobre legenda. |
+| Interface intuitiva, boa apresentação visual, organização |
+| Se adaptar bem a tela, áudio, qualidade de imagem, legendas |
+| Modo claro e modo escuro |
+| Que tenha recurso de velocidade e qualidade de vídeo. |
+| Controle de imagem,  áudio,  pausa e velocidade de reprodução. |
+| Compatibilidade com diferentes formatos de arquivos. Possibilidade de alternar entre modos focados em uso mais simples, intuitivo, focado em praticidade, e modos mais robustos, com mais funcionalidades. Responsividade e estabilidade. |
+| Possibilidade de fazer "parties", onde pessoas podem assistir ao mesmo conteúdo de forma sincronizada. Capacidade de personalização de legendas, e a possibilidade de incluir legendas em arquivos que não possuem. |
 
 <div style="text-align: center">
 <p>
@@ -255,11 +271,12 @@ Tabela 10: Respostas da pergunta 15. (Fonte: autor, 2023).
 
 ### Questão 16
 Na Tabela Respostas Pergunta 16, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Quais recursos você considera importante para um aplicativo que reproduz vídeos?**          |
+|          **Quais recursos você mais gosta de ver em outros aplicativos que tem como propósito reproduzir vídeos? Cite o nome do aplicativo ao início da resposta se possível.**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Microsoft edge, facilidade de uso |
+| Gosto do player do Amazon Prime Video. |
+| Rave é um app que possibilita assistir com outras pessoas, eu utilizo e gosto mt desse recurso |
+| youtube, Sugestão de vídeos similares. |
 
 <div style="text-align: center">
 <p>
@@ -269,11 +286,14 @@ Tabela 11: Respostas da pergunta 16. (Fonte: autor, 2023).
 
 ### Questão 17
 Na Tabela Respostas Pergunta 17, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Quais recursos você gostaria que um aplicativo que reproduza videos tivesse, caso utilizasse um? **          |
+|          **Quais recursos você menos gosta em outros aplicativos que tem como propósito reproduzir vídeos? Cite o nome do aplicativo ao início da resposta se possível.**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Windows Movies, falta de customização das legendas |
+| Microsoft edge, player pequeno |
+| Odeio o player da HBO. |
+| Rave tem o recurso de voz muito ruim, eu não gosto |
+YouTube: aquela nova configuração que deixa o entorno do vídeo com a cor do que tá passando no vídeo ao invés de só a cor do tema escolhido (claro ou escuro) |
+| YouTube, as propagandas |
 
 <div style="text-align: center">
 <p>
@@ -283,11 +303,19 @@ Tabela 12: Respostas da pergunta 17. (Fonte: autor, 2023).
 
 ### Questão 18
 Na Tabela Respostas Pergunta 18, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Quais recursos você mais gosta de ver em outros aplicativos que tem como propósito reproduzir vídeos? Cite o nome do aplicativo ao início da resposta se possível.**          |
+|          **Quais problemas considera crítico ao se utilizar um aplicativo que reproduz vídeos?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Incapacidade de reproduzir por conta de codecs, não detecção de legendas |
+| Vídeos lentos, qualidade baixa nos vídeos |
+| Não ser intuitiva |
+| Não ser versátil e não apresentar possibilidade de alteração de configuração. |
+| travar |
+| Lentidão pra carregar. |
+| Travar. Não reconhecer formato de alguns vídeos |
+| Demora e falta de funcionalidade |
+| Anúncios |
+| Baixa resolução dos vídeos, problemas de reprodução (lentidão ou travamento), etc |
+| Responsividade |
 
 <div style="text-align: center">
 <p>
@@ -296,12 +324,9 @@ Tabela 13: Respostas da pergunta 18. (Fonte: autor, 2023).
 </div>
 
 ### Questão 19
-Na Tabela Respostas Pergunta 18, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Quais recursos você menos gosta em outros aplicativos que tem como propósito reproduzir vídeos? Cite o nome do aplicativo ao início da resposta se possível.**          |
+Na Tabela Respostas Pergunta 19, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+|          **Quis aspectos (ex: limpa, robusta, intuitiva, muitas funcionalidades, etc)  considera importantes para a interface de um aplicativo que reproduz vídeos?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
 
 <div style="text-align: center">
 <p>
@@ -311,11 +336,13 @@ Tabela 14: Respostas da pergunta 19. (Fonte: autor, 2023).
 
 ### Questão 20
 Na Tabela Respostas Pergunta 20, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Quais problemas considera crítico ao se utilizar um aplicativo que reproduz vídeos?**          |
+|          **Obteve algum problema nas últimas vezes que utilizou outros aplicativos que reproduzem vídeos? se sim qual? Cite o nome do aplicativo ao início da resposta se possível.**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Não |
+| Windows Movies, vídeos .mkv não reproduzem |
+| Sim mt anuncio no JustWatch |
+| Youtube: Não poder ouvir a música com a tela bloqueada |
+| Rave tem um problema de responsividade, que acaba atrapalhando muito na hora da digitação, e o recurso de voz é muito ruim pq trava tb |
 
 <div style="text-align: center">
 <p>
@@ -325,43 +352,15 @@ Tabela 15: Respostas da pergunta 20. (Fonte: autor, 2023).
 
 ### Questão 21
 Na Tabela Respostas Pergunta 21, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Quis aspectos (ex: limpa, robusta, intuitiva, muitas funcionalidades, etc)  considera importantes para a interface de um aplicativo que reproduz vídeos?**          |
+|          **Você tem algum feedback de outro aplicativo que utilize, e que tenha como propósito a funcionalidade de reproduzir vídeos? Se sim, cite também o nome do aplicativo ao início da resposta se possível.**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Sem feedback |
+| Sempre uso o Yotube, não minha opinião é um bom aplicativo. |
+| Não possuo. | 
 
 <div style="text-align: center">
 <p>
 Tabela 16: Respostas da pergunta 21. (Fonte: autor, 2023). 
-</p>
-</div>
-
-### Questão 22
-Na Tabela Respostas Pergunta 22, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Obteve algum problema nas últimas vezes que utilizou outros aplicativos que reproduzem vídeos? se sim qual? Cite o nome do aplicativo ao início da resposta se possível.**          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
-
-<div style="text-align: center">
-<p>
-Tabela 17: Respostas da pergunta 22. (Fonte: autor, 2023). 
-</p>
-</div>
-
-### Questão 23
-Na Tabela Respostas Pergunta 23, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Você tem algum feedback de outro aplicativo que utilize, e que tenha como propósito a funcionalidade de reproduzir vídeos? Se sim, cite também o nome do aplicativo ao início da resposta se possível.**          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
-
-<div style="text-align: center">
-<p>
-Tabela 18: Respostas da pergunta 23. (Fonte: autor, 2023). 
 </p>
 </div>
 
