@@ -27,7 +27,6 @@ Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os
 Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
 
 ### Questão 1
-**Qual sua faixa etária?**
 <div style="text-align: center">
 <p>
 Figura 1: Pergunta 1 (Fonte: autor, 2023). 
@@ -37,11 +36,16 @@ Figura 1: Pergunta 1 (Fonte: autor, 2023).
 
 ### Questão 2
 Na Tabela Respostas Pergunta 2, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Qual sua profissão?**          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+|          **Qual sua profissão?**          | **Votos** | **Porcentagem** |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :--: |
+| Atendente telemarketing | 1 | 3,1% |
+| Auxiliar Higienização | 1 | 3,1% |
+| Desenvolvedor Full Stack | 1 | 3,1% |
+| Eng. Software | 1 | 3,1% |
+| Estudante | 13 | 40,6% |
+| Estagiário | 2 | 6,3%
+| Professor | 12 | 37,5% |
+| Designer gráfico/Embalagem | 1 | 3,1% |
 
 <div style="text-align: center">
 <p>
@@ -50,7 +54,6 @@ Tabela 1: Respostas da pergunta 2. (Fonte: autor, 2023).
 </div>
 
 ### Questão 3
-**Você usa o VLC?**
 <div style="text-align: center">
 <p>
 Figura 2: Pergunta 3 (Fonte: autor, 2023). 
@@ -61,9 +64,24 @@ Figura 2: Pergunta 3 (Fonte: autor, 2023).
 Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Quais aplicativos usa ou já usou para ver vídeos ou filmes?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Netflix, HBO, Youtube. |
+| VLC, YouTube, windows. |
+| YouTube, vlc, torrent, windows media player |
+| VLC, mediaPlayer, entre outros. |
+| Netflix, HBO |
+| O player padrão do Windows. |
+| Stremio, Prime e Youtube |
+| Netflix, youtube, a galeria padrão do celular | 
+| Netflix |
+| O aplicativo nativo do windows ou o navegador (edge) |
+| Stremio e Windows Media Player |
+| Youtube e Just watch |
+| Vlc e windows media |
+| MPCH, Windows Media Player |
+| Atualmente apps de streaming |
+| Mediaplayer Classic, Media player e VLC |
+| Amazon, Netflix, TV por assinatura |
+| Mx player, vlc, mplayer |
 
 <div style="text-align: center">
 <p>
@@ -75,9 +93,19 @@ Tabela 2: Respostas da pergunta 4. (Fonte: autor, 2023).
 Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Quais funcionalidades mais gosta no aplicativo VLC?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| nao uso |
+| O fato de que, quando você fecha ele com o vídeo rodando, ele salva o tempo que você parou. |
+| Fora também o fato de que ele suporta vários arquivos de mídia. |
+| Aumentar aúdio acima de 100%, mudar atraso da legenda |
+| Ele não trava |
+| Não me dá trabalho, legendas são fáceis e roda todos os tipos de arquivos de vídeos. |
+| Interface simples e intuitiva |
+| A sincronização manual de legendas |
+| Legenda |
+| Ajuste de volume e acessibilidade no file type |
+| Intuitivo, facilidade na utilização de legendas. |
+| Permite carregar legendas mais facilmente; tem interface leve e roda diversos padrões de arquivos sem problemas. |
+| Já vem com os codecs que preciso |
 
 <div style="text-align: center">
 <p>
@@ -89,9 +117,17 @@ Tabela 3: Respostas da pergunta 5. (Fonte: autor, 2023).
 Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Quais funcionalidades menos gosta no aplicativo VLC?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| nao uso |
+| Até onde eu usei, nada me desgradou. |
+| Assistir por streaming |
+| Ele tem uma interface muito feia |
+| Uma única vez tive problema com o aom dum arquivo .mov |
+| Função de streaming de vídeos |
+| interface arcaica |
+| Zoom |
+| Nenhuma até o momento |
+| Tranquilo sobre as funcionalidades. |
+| Não é uma funcionalidade, mas acho a interface feia |
 
 <div style="text-align: center">
 <p>
@@ -103,9 +139,13 @@ Tabela 4: Respostas da pergunta 6. (Fonte: autor, 2023).
 Na Tabela Respostas Pergunta 7, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Existe algum recurso que você acredita que falte ou deixe a desejar? se sim, qual?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Não |
+| Edição de vídeo |
+| Não sei |
+| A função de streaming de vídeo é bem travada |
+| Legenda |
+| Nenhum que eu tenha necessitado atualmente |
+| Desconheço |
 
 <div style="text-align: center">
 <p>
@@ -114,7 +154,6 @@ Tabela 5: Respostas da pergunta 7. (Fonte: autor, 2023).
 </div>
 
 ### Questão 8
-**Ao utilizar o VLC, realizou em quais plataformas?**
 <div style="text-align: center">
 <p>
 Figura 3: Pergunta 8 (Fonte: autor, 2023). 
@@ -125,9 +164,16 @@ Figura 3: Pergunta 8 (Fonte: autor, 2023).
 Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Para o que usa o aplicativo VLC?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Para ouvir música e assistir vídeo. |
+| Assistir vídeos em formatos não convencionais |
+| Pra ouvir música. |
+| Assistir vídeos (filmes, séries, anime) |
+| Para fazer playlist das minhas aulas |
+| Entretenimento e trabalho |
+| Assistir filmes e séries |
+| Usei para ver videos principalmente de música |
+| Ver filmes, videos, e outros arquivos com compatibilidade |
+| Assistir filmes |
 
 <div style="text-align: center">
 <p>
@@ -136,26 +182,21 @@ Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023).
 </div>
 
 ### Questão 10
-Na Tabela Respostas Pergunta 10, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Com qual frequência que você usa o VLC?**          | Votos | Porcentagem |
-| :--------------------------------------: | :---: | :---------: |
-| Resposta 1 | XX | XX |
-| Resposta 2 | XX | XX |
-| Resposta 3 | XX | XX |
 
 <div style="text-align: center">
 <p>
-Tabela 7: Respostas da pergunta 10. (Fonte: autor, 2023). 
+Figura 5: Pergunta 10. (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 11
 Na Tabela Respostas Pergunta 11, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Obteve algum problema nas últimas vezes que utilizou? se sim qual?**          |
-| :--------------------------------------: | 
-| Resposta 1 |
-| Resposta 2 | 
-| Resposta 3 |
+| :--------------------------------------: |
+| não uso |
+| Não |
+| Nenhum. |
+| Atraso e flickering na imagem ao despausar o vídeo (no linux com driver proprietário nvidia) |
 
 <div style="text-align: center">
 <p>
@@ -164,10 +205,9 @@ Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023).
 </div>
 
 ### Questão 12
-**Como você avalia a interface do aplicativo?**
 <div style="text-align: center">
 <p>
-Figura 4: Pergunta 12 (Fonte: autor, 2023). 
+Figura 6: Pergunta 12 (Fonte: autor, 2023). 
 </p>
 </div>
 
@@ -175,9 +215,15 @@ Figura 4: Pergunta 12 (Fonte: autor, 2023).
 Na Tabela Respostas Pergunta 13, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Você tem algum feedback sobre como o aplicativo VLC pode dar uma experiência melhor para o usuário?**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Resposta 1 |
-| Resposta 2 |
-| Resposta 3 |
+| Não. |
+| Poderia ter uma interface mais amigável que ajudasse o usuário, talvez com botões mais claros, e dropdowns mais simples e intuitivos |
+| Modo escuro para o Windows |
+| O VLC é muito customizável, isso implica que é sempre bom que cada usuário procure as configurações ideais para si |
+| Usei poucas vezes mas não me lembro de ter tido problemas. Não uso com mais frequência simplesmente por costume de usar outros apps |
+| Uma interface mais intuitiva já seria o suficiente. |  
+| a simplicidade e praticidade, com várias funções de fácil acesso tornam uma boa experiência para o usuário, além de ter um desempenho otimizado |
+| deria aceitar mais tipos de arquivos. |
+| utilizá-lo no arch Linux, duas janelas eram abertas separadamente, uma para os controles e outra para o vídeo sendo reproduzido. Não sei se o problema persiste pois não uso mais arch |
 
 <div style="text-align: center">
 <p>
