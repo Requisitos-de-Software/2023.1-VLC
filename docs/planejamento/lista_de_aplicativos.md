@@ -1,4 +1,4 @@
-# Aplicativo selecionado para o projeto da disciplina
+# Aplicativos Analisados para o projeto da disciplina
 
 ## Aplicativos analisados
 
@@ -20,67 +20,25 @@
 
 </div>
 
-## Aplicativo definido pela equipe
-
-<br/>
-
-Após a análise individual, a equipe avaliou as propostas com base em outros aspectos:
-
-- Aplicativo ainda não trabalhado na disciplina de Requisitos de Software.
-- Relevância do aplicativo para o contexto do projeto ou da disciplina.
-- Viabilidade técnica e recursos necessários para realizar o levantamento de requisitos do aplicativo.
-- Complexidade do aplicativo em termos de funcionalidades e integrações.
-- Disponibilidade de documentação e informações detalhadas sobre o aplicativo.
-- Disponibilidade de acesso ao aplicativo para a equipe de projeto ou para os estudantes envolvidos na disciplina.
-- Adequação do aplicativo aos interesses e habilidades da equipe ou dos estudantes.
-
-
-<br/>
-
-<br/>
-
-<img src="img/logo-webdiet.png" alt="WebDiet">
-
-<br/>
-
-<br/>
-
-<div style="text-align: justify;">
-
-Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi o <a href="https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US" target="_blank">Webdiet</a>. O webdiet é um aplicativo de acompanhamento de dieta que oferece uma série de recursos para ajudar os usuários a monitorar sua alimentação e alcançar seus objetivos de saúde.
-
-O aplicativo webdiet é gratuito e acessível via navegador web, o que o torna conveniente para ser usado em diversos dispositivos. Ele oferece funcionalidades básicas, como registro de refeições, cálculo de calorias e acompanhamento de metas de consumo de nutrientes. Além disso, o aplicativo também permite que os usuários definam metas de perda de peso, registrem atividades físicas e acompanhem seu progresso ao longo do tempo.
-
-A interface do usuário do webdiet é simples e fácil de usar, o que pode ser uma vantagem para aqueles que buscam uma solução direta e sem complicações para o acompanhamento de sua dieta. No entanto, também pode ser considerada limitada em termos de recursos avançados e opções de personalização, o que pode não atender às necessidades mais específicas de alguns usuários.
-
-Em resumo, o webdiet é uma opção de aplicativo de acompanhamento de dieta que oferece funcionalidades básicas, é gratuito e acessível via navegador web. Sua interface é simples e fácil de usar, o que pode ser uma vantagem para alguns usuários, mas também pode ser considerada limitada em termos de recursos avançados e opções de personalização. É importante avaliar se o webdiet atende às necessidades específicas do usuário antes de utilizá-lo como uma solução completa para o gerenciamento de dieta e alimentação saudável.
-</div>
-
-<div style="text-align : justify;">
-O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahado se encontra em <a href="img/RichPicture.png" target="_blank">Rich Picture</a>
-</div>
-
-<br/>
-
 ## Bibliografia
 
 [1] WEBDIET. Disponível em: [WebDiet](https://webdiet.com.br/). Acesso em: 14 de Abril de 2022.
 
 [2] WEBDIET. Disponível em: [WebDiet app](https://play.google.com/store/apps/details?id=br.com.webdiet.webdiet&hl=en_US). Acesso em: 14 de Abril de 2022.
 
-[3] EPICGAMES. Dosponível em: [EpicGames](https://www.epicgames.com/). Acesso em: 14 de Abril de 2022.
+[3] EPICGAMES. Disponível em: [EpicGames](https://www.epicgames.com/). Acesso em: 14 de Abril de 2022.
 
-[4] MOOVIT. Dosponível em: [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+[4] MOOVIT. Disponível em: [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
 [5] JUSBRASIL. Disponível em: [JusBrasil](https://www.jusbrasil.com.br/). Acesso em: 14 de Abril de 2022.
 
-[6] JUSBRASIL. Dosponível em: [JusBrasil app](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+[6] JUSBRASIL. Disponível em: [JusBrasil app](https://play.google.com/store/apps/details?id=com.jusbrasil.lawsuit&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
-[7] FINDMY. Dosponível em: [Findmy](https://apps.apple.com/us/app/find-my/id1514844621). Acesso em: 14 de Abril de 2022.
+[7] FINDMY. Disponível em: [Findmy](https://apps.apple.com/us/app/find-my/id1514844621). Acesso em: 14 de Abril de 2022.
 
-[8] HBO. Dosponível em: [HBO app](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+[8] HBO. Disponível em: [HBO app](https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
-[9] IFOOD. Dosponível em: [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
+[9] IFOOD. Disponível em: [iFood](https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR&gl=US). Acesso em: 14 de Abril de 2022.
 
 <br/>
 
@@ -92,3 +50,4 @@ O rich picture do aplicatico selecionado pela equipe atualizado e mais detalahad
 | `1.1`  | 15/04/2022 | 16/04/2023 | Correção de legenda e nome do arquivo | [Lucas Bergholz](https://github.com/lucasbergholz) | [Igor Penha](https://github.com/igorpenhaa) |
 | `1.2`  | 16/04/2022 | 21/04/2023 | Lista de aplicativos atualizada e Bibliografia adicionada | [Mizael Santos](https://github.com/frmiza) | [Igor Penha](https://github.com/igorpenhaa) |
 | `1.3` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Mizael Santos](https://github.com/frmiza) |
+| `1.4` | 01/05/2023 | 01/05/2023 | Tirando App Selecionado deste Artefato | [Lucas Bergholz](https://github.com/lucasbergholz) | [Rafael Bosi](https://github.com/StrangeUnit28) |
