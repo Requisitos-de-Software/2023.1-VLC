@@ -18,7 +18,7 @@
 
 <p>O VLC Media Player tem como objetivo reproduzir mídias, tanto vídeos quanto áudios, do dispositivo de seu usuário. Dentro dele é possível organizar seus vídeos, adicioná-los em uma fila de reprodução, compartilhar eles, reproduzí-los, dentre outras funcionalidades. A logo do aplicativo pode ser vista na Figura 1 a seguir.</p>
 
-<img src="img/icon.png">
+<img src="https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/img/icon.png">
 
 <p>Figura 1 - Logo do VLC Media Player</p>
 
