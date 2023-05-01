@@ -51,8 +51,6 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 
 Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida de forma a torná-las memoráveis, a utilização de um elenco grande de personas pode distanciar a equipe das personas. O elenco de personas está descrito no seguinte pdf clicando [aqui](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf).
 
-## Personas do projeto
-
 ## Bibliografia
 
 [1] This Person Doest Not Exist. Acesso em: 25/04/2023. Disponível em: <https://this-person-does-not-exist.com/en> <br>
