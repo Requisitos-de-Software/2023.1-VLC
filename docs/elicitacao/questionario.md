@@ -27,6 +27,8 @@ Tendo em mente o vasto público-alvo que o aplicativo VideloLAM visa atender. Os
 Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **xx/xx/xxxx**(data) e **xx/xx/xxxx**(data).
 
 ### Questão 1
+  ![Image do resultado da questão 1](./imgs/questionario/faixaetaria.png)
+  
 <div style="text-align: center">
 <p>
 Figura 1: Pergunta 1 (Fonte: autor, 2023). 
@@ -54,6 +56,9 @@ Tabela 1: Respostas da pergunta 2. (Fonte: autor, 2023).
 </div>
 
 ### Questão 3
+
+  ![Image do resultado da questão 3](./imgs/questionario/usavlc.png)
+  
 <div style="text-align: center">
 <p>
 Figura 2: Pergunta 3 (Fonte: autor, 2023). 
@@ -154,6 +159,9 @@ Tabela 5: Respostas da pergunta 7. (Fonte: autor, 2023).
 </div>
 
 ### Questão 8
+
+  ![Image do resultado da questão 8](./imgs/questionario/qualplataforma.png)
+  
 <div style="text-align: center">
 <p>
 Figura 3: Pergunta 8 (Fonte: autor, 2023). 
@@ -183,6 +191,8 @@ Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023).
 
 ### Questão 10
 
+  ![Image do resultado da questão 10](./imgs/questionario/qualfrequqncia.png)
+  
 <div style="text-align: center">
 <p>
 Figura 4: Pergunta 10. (Fonte: autor, 2023). 
@@ -205,6 +215,9 @@ Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023).
 </div>
 
 ### Questão 12
+
+![Image do resultado da questão 12](./imgs/questionario/avaliacaointerface.png)
+
 <div style="text-align: center">
 <p>
 Figura 5: Pergunta 12 (Fonte: autor, 2023). 
@@ -232,7 +245,9 @@ Tabela 9: Respostas da pergunta 13. (Fonte: autor, 2023).
 </div>
 
 ### Questão 14
-**Já usou o VLC?**
+
+  ![Image do resultado da questão 12](./imgs/questionario/jausou.png)
+
 <div style="text-align: center">
 <p>
 Figura 6: Pergunta 14 (Fonte: autor, 2023). 
@@ -377,3 +392,4 @@ Tabela 16: Respostas da pergunta 21. (Fonte: autor, 2023).
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 26/04/2023 | Criação do documento e adição da introdução e templates de tabela | Mizael Santos | Larissa Gomes |
 | `1.1`  | 28/04/2023 | Criação de templates para as perguntas e termo de consentimento | Mizael Santos | Larissa Gomes |
+| `1.1`  | 01/04/2023 | Adicionado imagens dos graficos | Mizael Santos | Larissa Gomes |
