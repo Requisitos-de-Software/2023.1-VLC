@@ -24,7 +24,7 @@ A execução do questionário deve ser realizada levando em conta o público alv
 
 Tendo em mente o vasto público-alvo que o aplicativo VLC Media Player visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com 20 das quais fora realizado uma filtragem dos dados obtidos, entre usuários e não usuários do aplicativo.
 <br>
-Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023**( e **01/05/2023**.
+Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023** e **01/05/2023**.
 
 ### Questão 1
   ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/faixaetaria.png)
