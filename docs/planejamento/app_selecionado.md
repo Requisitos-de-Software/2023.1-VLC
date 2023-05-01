@@ -4,7 +4,7 @@
 
 ## Introdução
 
-<div style="text-align: justify;"> <p> Foram analisados diversos aplicativos pela equipe, e, após longo debate, foi escolhido o WebDiet. Devido sua simplicidade e escopo bem definido, seria um bom produto para ser estudado. Após o Ponto de Controle 1, foi percebido que, pelas restrições de uso do WebDiet, não seria possível mais usar este aplicativo. </p> 
+<div style="text-align: justify;"> <p> Foram analisados diversos aplicativos pela equipe, e, após longo debate, foi escolhido o WebDiet. Devido sua simplicidade e escopo bem definido, seria um bom produto para ser estudado. Após o Ponto de Controle 1, foi percebido que, pelas restrições de uso do WebDiet, que não seria possível mais usar este aplicativo. </p> 
 
 <p>Posteriormente a isso, foi então escolhido o VLC Media Player como novo aplicativo do grupo. Esse aplicativo, o qual pertence a VideoLAN Organization, foi escolhido por:
 </p>
@@ -57,7 +57,7 @@ O perfil de usuário, representado na Tabela 1, que foi traçado a partir dos re
 ## Histórico de Versão
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
-| `1.0`  | 01/05/2023 | 01/05/2023 | Criação do documento | [Lucas Bergholz](https://github.com/lucasbergholz) | [Igor Penha](https://github.com/igorpenhaa) |
+| `1.0`  | 01/05/2023 | 01/05/2023 | Criação do documento | [Lucas Bergholz](https://github.com/lucasbergholz) | [Rafael Bosi](https://github.com/strangeunit28) |
 
 
 </div>
