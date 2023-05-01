@@ -34,7 +34,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 
 ## Perfil do Usuário
 
-A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos [resultados](./perfil_usuario.md) do questionário aplicado.
+A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos [resultados](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/planejamento/app_selecionado.md) do questionário aplicado.
 
 | Característica    | Descrição                                                                    |
 | ----------------- | ---------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 | Tarefas primárias | Assistir e organizar videos                                                  |
 
 <div style="text-align: center">
-<p>Tabela 1: Perfil do usuário (fonte: autor, 2022).</p>
+<p>Tabela 1: Perfil do usuário (fonte: RIBEIRO, Bruno 2023).</p>
 </div>
 
 ## Definição das Personas
