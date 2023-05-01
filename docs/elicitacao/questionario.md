@@ -278,6 +278,8 @@ Na Tabela Respostas Pergunta 15, estão listadas as resposta diretas do nosso us
 | Compatibilidade com diferentes formatos de arquivos. Possibilidade de alternar entre modos focados em uso mais simples, intuitivo, focado em praticidade, e modos mais robustos, com mais funcionalidades. Responsividade e estabilidade. |
 | Possibilidade de fazer "parties", onde pessoas podem assistir ao mesmo conteúdo de forma sincronizada. Capacidade de personalização de legendas, e a possibilidade de incluir legendas em arquivos que não possuem. |
 
+Tabela 17: Respostas da pergunta 21. (Fonte: autor, 2023). 
+
 <div style="text-align: center">
 <p>
 Tabela 10: Respostas da pergunta 15. (Fonte: autor, 2023). 
@@ -340,17 +342,6 @@ Tabela 13: Respostas da pergunta 18. (Fonte: autor, 2023).
 
 ### Questão 19
 Na Tabela Respostas Pergunta 19, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
-|          **Quis aspectos (ex: limpa, robusta, intuitiva, muitas funcionalidades, etc)  considera importantes para a interface de um aplicativo que reproduz vídeos?**          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-<div style="text-align: center">
-<p>
-Tabela 14: Respostas da pergunta 19. (Fonte: autor, 2023). 
-</p>
-</div>
-
-### Questão 20
-Na Tabela Respostas Pergunta 20, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Obteve algum problema nas últimas vezes que utilizou outros aplicativos que reproduzem vídeos? se sim qual? Cite o nome do aplicativo ao início da resposta se possível.**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Não |
@@ -361,12 +352,12 @@ Na Tabela Respostas Pergunta 20, estão listadas as resposta diretas do nosso us
 
 <div style="text-align: center">
 <p>
-Tabela 15: Respostas da pergunta 20. (Fonte: autor, 2023). 
+Tabela 14: Respostas da pergunta 19. (Fonte: autor, 2023). 
 </p>
 </div>
 
-### Questão 21
-Na Tabela Respostas Pergunta 21, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+### Questão 20
+Na Tabela Respostas Pergunta 20, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 |          **Você tem algum feedback de outro aplicativo que utilize, e que tenha como propósito a funcionalidade de reproduzir vídeos? Se sim, cite também o nome do aplicativo ao início da resposta se possível.**          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Sem feedback |
@@ -375,7 +366,7 @@ Na Tabela Respostas Pergunta 21, estão listadas as resposta diretas do nosso us
 
 <div style="text-align: center">
 <p>
-Tabela 16: Respostas da pergunta 21. (Fonte: autor, 2023). 
+Tabela 15: Respostas da pergunta 20. (Fonte: autor, 2023). 
 </p>
 </div>
 
@@ -409,8 +400,21 @@ Tabela 16: Respostas da pergunta 21. (Fonte: autor, 2023).
 | QUE26 | Recurso de alteração de cor de fundo | RF |
 | QUE27 | Recurso de alterar e tamanho | RF |
 
+<div style="text-align: center">
+<p>
+Tabela 16: Requisitos elicitados com o questionário. (Fonte: autor, 2023). 
+</p>
+</div>
 
+**Legenda**
 
+- Q: Questionário
+- RF: Requisito Funcional
+- RNF: Requisito Não Funcional
+
+## Bibliografia
+
+[1] VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
 
 ## Histórico de Versão
 | Versão | Data          | Descrição           | Autor(es)     |  Revisor(es)  |
@@ -418,3 +422,4 @@ Tabela 16: Respostas da pergunta 21. (Fonte: autor, 2023).
 | `1.0`  | 26/04/2023 | Criação do documento e adição da introdução e templates de tabela | Mizael Santos | Larissa Gomes |
 | `1.1`  | 28/04/2023 | Criação de templates para as perguntas e termo de consentimento | Mizael Santos | Larissa Gomes |
 | `1.1`  | 01/04/2023 | Adicionado imagens dos graficos | Mizael Santos | Larissa Gomes |
+| `1.`  | 01/04/2023 | Adicionado imagens dos graficos | Mizael Santos | Larissa Gomes |
