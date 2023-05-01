@@ -67,7 +67,7 @@ Legenda:
 
 ## Bibliografia
 
-1. Disponível em [GrassHopper](https://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/elicitacao/priorizacao/in-or-out.md), acessado em 01/05/2023
+1. GRASSHOPPER. Disponível em [GrassHopper](https://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/elicitacao/priorizacao/in-or-out.md), acessado em 01/05/2023
 
 ## Histórico de versão
 
