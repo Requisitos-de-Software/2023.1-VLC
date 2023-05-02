@@ -53,8 +53,11 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 | 2. Storytelling |  18/04 | 22/04 | Lucas Gobbi e Rafael Bosi | Larissa Gomes |
 | 3. Questionário | 18/04 | 22/04 | Larissa Gomes e Mizael Santos | Igor Penha |
 | 4. Priorização | 23/04 | 27/04 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
-| 5. Gravação da apresentação | 29/04 | 30/04 | Todos | Todos |
-| 6. Correções do Ponto de Controle anterior | 18/04 | 27/04 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
+| 5. First Things First | 23/04 | 27/04 | Giovanni Alvissus e Lucas Gobbi | Bruno Ribeiro |
+| 6. In or Out | 23/04 | 27/04 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
+| 7. MoSCoW | 23/04 | 27/04 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
+| 8. Gravação da apresentação | 29/04 | 30/04 | Todos | Todos |
+| 9. Correções do Ponto de Controle anterior | 18/04 | 27/04 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
 <div><p>Tabela 3 - Itens realizados Ponto de Controle 2. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
 
@@ -128,3 +131,4 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 | :------: | :--------: | :-----------: | :-------: | :---------: |
 | 15/04 | 1.0 | Criação do cronograma | [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 17/04 | 1.1 | Atualização do ponto de controle 1 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Igor Penha](https://github.com/igorpenhaa) |
+| 22/04 | `1.2` | Correções após entrega | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Lucas Gobbi](https://github.com/LucasBergholz) |
