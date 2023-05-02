@@ -15,7 +15,7 @@
 
 <div style="text-align:justify"> O vídeo 02 é referente ao ponto de controle 02 que trabalhamos para entregar a elicitação dos requisitos sobre o VLC media player.</div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/DA52toWU3jg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/HzXZwteOQt0" title="Ponto de controle 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <div style="text-align:center"> Vídeo 02: Pronto de controle 02 (ALVISSUS, Giovanni. 2023). </div>
 
