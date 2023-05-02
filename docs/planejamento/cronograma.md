@@ -129,6 +129,6 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 ### Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
-| 15/04 | 1.0 | Criação do cronograma | [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Rafael Bosi](https://github.com/StrangeUnit28) |
-| 17/04 | 1.1 | Atualização do ponto de controle 1 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Igor Penha](https://github.com/igorpenhaa) |
+| 15/04 |`1.0` | Criação do cronograma | [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 17/04 | `1.1` | Atualização do ponto de controle 1 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Igor Penha](https://github.com/igorpenhaa) |
 | 22/04 | `1.2` | Correções após entrega | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Lucas Gobbi](https://github.com/LucasBergholz) |
