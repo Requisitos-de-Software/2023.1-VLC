@@ -1,11 +1,13 @@
 # Questionário
+
 ## Introdução 
 
+<div style="text-align:justify">
 Em um formulário, a qual tem como objetivo coletar informações sobre usabilidade e experiência da utilização de um sistema proposto pelas partes interessadas, por parte de um consumidor, onde posteriormente serão analisados tais resultados coletados com a finalidade de elicitar requisitos baseando-se nos resultados armazenados.
-<br>
 O motivo da escolha de questionário deu-se principalmente pela variedade de usuários dispersos geograficamente, dessa forma podemos realizar uma pesquisa com vários usuários simultaneamente. Quando comparado a outras formas de elicitação de requisitos como as entrevistas com usuários do aplicativo.
 
 A execução do questionário deve ser realizada levando em conta o público alvo, caso ele exista e seja bem definido.
+</div>
 
 ### Vantagens
 - Rápida obtenção de dados quantitativos e qualitativos
@@ -24,12 +26,13 @@ A execução do questionário deve ser realizada levando em conta o público alv
 
 ## Resultados coletados
 
+<div style="text-align:justify">
 Tendo em mente o vasto público-alvo que o aplicativo VLC Media Player visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com 20 das quais fora realizado uma filtragem dos dados obtidos, entre usuários e não usuários do aplicativo.
-<br>
-Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023** e **01/05/2023**.
+Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing">termo consentimento</a> redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023** e **01/05/2023**.
+</div>
 
 ### Questão 1
-  ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/faixaetaria.png)
+  ![Image do resultado da questão 1](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/idades.png)
   
 <div style="text-align: center">
 <p>
@@ -59,7 +62,7 @@ Tabela 1: Respostas da pergunta 2. (Fonte: autor, 2023).
 
 ### Questão 3
 
-  ![Image do resultado da questão 3](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/usavlc.png)
+  ![Image do resultado da questão 3](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/usavlc.png)
   
 <div style="text-align: center">
 <p>
@@ -162,7 +165,7 @@ Tabela 5: Respostas da pergunta 7. (Fonte: autor, 2023).
 
 ### Questão 8
 
-  ![Image do resultado da questão 8](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/qualplataforma.png)
+  ![Image do resultado da questão 8](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/plataformas.png)
   
 <div style="text-align: center">
 <p>
@@ -193,7 +196,7 @@ Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023).
 
 ### Questão 10
 
-  ![Image do resultado da questão 10](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/qualfrequqncia.png)
+  ![Image do resultado da questão 10](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/frequencia.png)
   
 <div style="text-align: center">
 <p>
@@ -218,7 +221,7 @@ Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023).
 
 ### Questão 12
 
-![Image do resultado da questão 12](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/avaliacaointerface.png)
+![Image do resultado da questão 12](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/avaliacao.png)
 
 <div style="text-align: center">
 <p>
@@ -248,7 +251,7 @@ Tabela 9: Respostas da pergunta 13. (Fonte: autor, 2023).
 
 ### Questão 14
 
-  ![Image do resultado da questão 14](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/53-question%C3%A1rio/docs/elicitacao/img/questionario/jausou.png)
+  ![Image do resultado da questão 14](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/jausou.png)
 
 <div style="text-align: center">
 <p>
