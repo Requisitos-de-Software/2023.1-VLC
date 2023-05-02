@@ -1,11 +1,13 @@
 # Questionário
+
 ## Introdução 
 
+<div style="text-align:justify">
 Em um formulário, a qual tem como objetivo coletar informações sobre usabilidade e experiência da utilização de um sistema proposto pelas partes interessadas, por parte de um consumidor, onde posteriormente serão analisados tais resultados coletados com a finalidade de elicitar requisitos baseando-se nos resultados armazenados.
-<br>
 O motivo da escolha de questionário deu-se principalmente pela variedade de usuários dispersos geograficamente, dessa forma podemos realizar uma pesquisa com vários usuários simultaneamente. Quando comparado a outras formas de elicitação de requisitos como as entrevistas com usuários do aplicativo.
 
 A execução do questionário deve ser realizada levando em conta o público alvo, caso ele exista e seja bem definido.
+</div>
 
 ### Vantagens
 - Rápida obtenção de dados quantitativos e qualitativos
@@ -24,9 +26,10 @@ A execução do questionário deve ser realizada levando em conta o público alv
 
 ## Resultados coletados
 
+<div style="text-align:justify">
 Tendo em mente o vasto público-alvo que o aplicativo VLC Media Player visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com 20 das quais fora realizado uma filtragem dos dados obtidos, entre usuários e não usuários do aplicativo.
-<br>
-Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023** e **01/05/2023**.
+Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing">termo consentimento</a> redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023** e **01/05/2023**.
+</div>
 
 ### Questão 1
   ![Image do resultado da questão 1](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/idades.png)
