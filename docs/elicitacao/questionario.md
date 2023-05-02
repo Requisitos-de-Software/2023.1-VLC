@@ -29,6 +29,7 @@ Tendo em mente o vasto público-alvo que o aplicativo VLC Media Player visa aten
 Os usuários antes de realizar o Questionário aceitaram um [termo consentimento](https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing) redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023** e **01/05/2023**.
 
 ### Questão 1
+
   ![Image do resultado da questão 1](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/idades.png)
   
 <div style="text-align: center">
@@ -59,7 +60,9 @@ Tabela 1: Respostas da pergunta 2. (Fonte: autor, 2023).
 
 ### Questão 3
 
+
   ![Image do resultado da questão 3](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/usavlc.png)
+
   
 <div style="text-align: center">
 <p>
@@ -163,7 +166,7 @@ Tabela 5: Respostas da pergunta 7. (Fonte: autor, 2023).
 ### Questão 8
 
   ![Image do resultado da questão 8](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/plataformas.png)
-  
+
 <div style="text-align: center">
 <p>
 Figura 3: Pergunta 8 (Fonte: autor, 2023). 
@@ -193,7 +196,9 @@ Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023).
 
 ### Questão 10
 
+
   ![Image do resultado da questão 10](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/frequencia.png)
+
   
 <div style="text-align: center">
 <p>
@@ -219,6 +224,7 @@ Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023).
 ### Questão 12
 
 ![Image do resultado da questão 12](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/avaliacao.png)
+
 
 <div style="text-align: center">
 <p>
@@ -248,7 +254,9 @@ Tabela 9: Respostas da pergunta 13. (Fonte: autor, 2023).
 
 ### Questão 14
 
+
   ![Image do resultado da questão 14](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/jausou.png)
+
 
 <div style="text-align: center">
 <p>

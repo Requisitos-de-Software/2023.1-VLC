@@ -53,8 +53,11 @@ A Tabela 3 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 | 2. Storytelling |  18/04 | 22/04 | Lucas Gobbi e Rafael Bosi | Larissa Gomes |
 | 3. Questionário | 18/04 | 22/04 | Larissa Gomes e Mizael Santos | Igor Penha |
 | 4. Priorização | 23/04 | 27/04 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
-| 5. Gravação da apresentação | 29/04 | 30/04 | Todos | Todos |
-| 6. Correções do Ponto de Controle anterior | 18/04 | 27/04 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
+| 5. First Things First | 23/04 | 27/04 | Giovanni Alvissus e Lucas Gobbi | Bruno Ribeiro |
+| 6. In or Out | 23/04 | 27/04 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
+| 7. MoSCoW | 23/04 | 27/04 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
+| 8. Gravação da apresentação | 29/04 | 30/04 | Todos | Todos |
+| 9. Correções do Ponto de Controle anterior | 18/04 | 27/04 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
 <div><p>Tabela 3 - Itens realizados Ponto de Controle 2. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
 
@@ -63,12 +66,12 @@ A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 3, além de 
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 1. Casos de uso | 02/05 | 10/05 | Larissa Gomes e Mizael Santos | Bruno Ribeiro |
+| 1. Casos de uso | 02/05 | 10/05 | Rafael Bosi e Mizael Santos | Bruno Ribeiro |
 | 2. Cenários |  02/05 | 10/05 | Bruno Ribeiro e Igor Penha | Rafael Bosi |
 | 3. Léxico | 02/05 | 10/05 | Giovanni Alvissus e Rafael Bosi | Lucas Gobbi |
 | 4. Especificação suplementar | 02/05 | 10/05 | Bruno Ribeiro e Lucas Gobbi | Igor Penha |
 | 5. Gravação da apresentação | 15/05 | 16/05 | Todos | Todos |
-| 6. Correções do Ponto de Controle anterior | 02/05 | 13/05 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
+| 6. Correções do Ponto de Controle anterior | 02/05 | 13/05 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
 <div><p>Tabela 4 - Itens realizados Ponto de Controle 3. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
 
@@ -78,10 +81,10 @@ A Tabela 5 mostra as atividades planejadas para o Ponto de Controle 4, além de 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
 | 1. Histórias de usuário | 18/05 | 22/05 | Lucas Gobbi, Giovanni Alvissus e Rafael Bosi | Bruno Ribeiro |
-| 2. Backlog |  18/05 | 22/05 | Larissa Gomes e Mizael Santos | Igor Penha |
+| 2. Backlog |  18/05 | 22/05 | Giovanni Alvissus e Mizael Santos | Igor Penha |
 | 3. NFR Framework | 18/05 | 22/05 | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
 | 4. Gravação da apresentação | 23/05 | 24/05 | Todos | Todos |
-| 5. Correções do Ponto de Controle anterior | 18/05 | 20/05 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
+| 5. Correções do Ponto de Controle anterior | 18/05 | 20/05 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
 <div><p>Tabela 5 - Itens realizados Ponto de Controle 4. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
 
@@ -90,10 +93,10 @@ A Tabela 6 mostra as atividades planejadas para o Ponto de Controle 5.1, além d
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 1. Verificação de requisitos 1 | 25/05 | 05/06 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus, Larissa Gomes, Mizael Santos e Rafael Bosi |
-| 2. Validação de requisitos 1 | 25/05 | 05/06 | Giovanni Alvissus, Larissa Gomes, Mizael Santos e Rafael Bosi | Bruno Ribeiro, Igor Penha e Lucas Gobbi |
+| 1. Verificação de requisitos 1 | 25/05 | 05/06 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus, Mizael Santos e Rafael Bosi |
+| 2. Validação de requisitos 1 | 25/05 | 05/06 | Giovanni Alvissus, Mizael Santos e Rafael Bosi | Bruno Ribeiro, Igor Penha e Lucas Gobbi |
 | 3. Gravação da apresentação | 06/06 | 07/06 | Todos | Todos |
-| 4. Correções do Ponto de Controle anterior | 25/05 | 03/06 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
+| 4. Correções do Ponto de Controle anterior | 25/05 | 03/06 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
 <div><p>Tabela 6 - Itens realizados Ponto de Controle 5.1. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
 
@@ -102,10 +105,10 @@ A Tabela 7 mostra as atividades planejadas para o Ponto de Controle 5.2, além d
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 1. Verificação de requisitos 2 | 08/06 | 12/06 | Giovanni Alvissus, Larissa Gomes, Mizael Santos e Rafael Bosi | Bruno Ribeiro, Igor Penha e Lucas Gobbi |
-| 2. Validação de requisitos 2 | 08/06 | 12/06 |Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus, Larissa Gomes, Mizael Santos e Rafael Bosi |
+| 1. Verificação de requisitos 2 | 08/06 | 12/06 | Giovanni Alvissus, Mizael Santos e Rafael Bosi | Bruno Ribeiro, Igor Penha e Lucas Gobbi |
+| 2. Validação de requisitos 2 | 08/06 | 12/06 |Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus, Mizael Santos e Rafael Bosi |
 | 3. Gravação da apresentação | 13/06 | 14/06 | Todos | Todos |
-| 4. Correções do Ponto de Controle anterior | 08/06 | 12/06 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
+| 4. Correções do Ponto de Controle anterior | 08/06 | 12/06 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
 <div><p>Tabela 7 - Itens realizados Ponto de Controle 5.2. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
 
@@ -114,10 +117,10 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 1. Backward From | 14/06 | 28/06 | Giovanni Alvissus, Larissa Gomes, Mizael Santos e Rafael Bosi | Bruno Ribeiro, Igor Penha e Lucas Gobbi |
-| 2. Forward From | 14/06 | 28/06 |Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus, Larissa Gomes, Mizael Santos e Rafael Bosi |
+| 1. Backward From | 14/06 | 28/06 | Giovanni Alvissus, Mizael Santos e Rafael Bosi | Bruno Ribeiro, Igor Penha e Lucas Gobbi |
+| 2. Forward From | 14/06 | 28/06 |Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus, Mizael Santos e Rafael Bosi |
 | 3. Gravação da apresentação | 30/06 | 01/07 | Todos | Todos |
-| 4. Correções do Ponto de Controle anterior | 14/06 | 20/06 | Bruno Ribeiro, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
+| 4. Correções do Ponto de Controle anterior | 14/06 | 20/06 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
 <div><p>Tabela 8 - Itens realizados Ponto de Controle 6. (Fonte: Bruno Ribeiro, 2023).</p></div>
 
 ### Bibliografia
@@ -126,5 +129,7 @@ A Tabela 8 mostra as atividades planejadas para o Ponto de Controle 6, além de 
 ### Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
-| 15/04 | 1.0 | Criação do cronograma | [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Rafael Bosi](https://github.com/StrangeUnit28) |
-| 17/04 | 1.1 | Atualização do ponto de controle 1 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Igor Penha](https://github.com/igorpenhaa) |
+| 15/04 |`1.0` | Criação do cronograma | [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 17/04 | `1.1` | Atualização do ponto de controle 1 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Igor Penha](https://github.com/igorpenhaa) |
+| 22/04 | `1.2` | Correções após entrega | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 01/05/2023 | `1.3` | Retirada de membro | [Rafael Bosi](https://github.com/StrangeUnit28) | [Lucas Gobbi](https://github.com/LucasBergholz) |

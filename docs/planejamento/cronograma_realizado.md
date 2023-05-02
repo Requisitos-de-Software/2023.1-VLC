@@ -34,8 +34,12 @@ A Tabela 2 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 | 2. Storytelling |  18/04 | 22/04 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus |
 | 3. Questionário | 18/04 | 22/04 | Mizael Santos | Igor Penha |
 | 4. Priorização | 23/04 | 27/04 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
-| 5. Gravação da apresentação | 29/04 | 30/04 | Todos | Todos |
-| 6. Correções do Ponto de Controle anterior | 18/04 | 27/04 | Giovanni Alvissus e Lucas Gobbi | Igor Penha e Rafael Bosi |
+| 5. First Things First | 29/04 | 01/05 | Giovanni Alvissus e Lucas Gobbi | Bruno Ribeiro |
+| 6. In or Out | 29/04 | 01/05 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
+| 7. MoSCoW | 29/04 | 01/05 | Giovanni Alvissus, Lucas Gobbi e Rafael Bosi | Bruno Ribeiro |
+| 8. Introspecção | 29/04 | 01/05 | Giovanni Alvissus e Rafael Bosi | Bruno Ribeiro |
+| 9. Gravação da apresentação | 29/04 | 30/04 | Todos | Todos |
+| 10. Correções do Ponto de Controle anterior | 18/04 | 27/04 | Giovanni Alvissus e Lucas Gobbi | Igor Penha e Rafael Bosi |
 <div><p>Tabela 2 - Itens realizados Ponto de Controle 2. (Fonte: Lucas Gobbi, 2023).</p></div>
 
 ### Bibliografia
@@ -44,5 +48,6 @@ A Tabela 2 mostra as atividades planejadas para o Ponto de Controle 2, além de 
 ### Histórico de versão
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| 1.0 | 17/04 | 17/04 | Criação do cronograma realizado | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/LucasBergholz) |
-| 2.0 | 01/05 | 01/05 | Adicionando Ponto de Controle 2 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) |
+| `1.0` | 17/04 | 17/04 | Criação do cronograma realizado | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| `2.0` | 01/05 | 01/05 | Adicionando Ponto de Controle 2 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) |
+| `2.1` | 01/05 | 01/05 | Add detalhamento priorizacao | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Lucas Gobbi](https://github.com/LucasBergholz) |
