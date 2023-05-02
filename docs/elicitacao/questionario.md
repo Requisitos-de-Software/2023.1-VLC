@@ -162,7 +162,7 @@ Tabela 5: Respostas da pergunta 7. (Fonte: autor, 2023).
 
 ### Questão 8
 
-  ![Image do resultado da questão 8](https://github.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/plataformas.png)
+  ![Image do resultado da questão 8](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/plataformas.png)
   
 <div style="text-align: center">
 <p>
@@ -193,7 +193,7 @@ Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023).
 
 ### Questão 10
 
-  ![Image do resultado da questão 10](https://github.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/frequencia.png)
+  ![Image do resultado da questão 10](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/frequencia.png)
   
 <div style="text-align: center">
 <p>
@@ -218,7 +218,7 @@ Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023).
 
 ### Questão 12
 
-![Image do resultado da questão 12](https://github.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/avaliacao.png)
+![Image do resultado da questão 12](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/avaliacao.png)
 
 <div style="text-align: center">
 <p>
@@ -248,7 +248,7 @@ Tabela 9: Respostas da pergunta 13. (Fonte: autor, 2023).
 
 ### Questão 14
 
-  ![Image do resultado da questão 14](https://github.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/jausou.png)
+  ![Image do resultado da questão 14](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/dev/docs/elicitacao/img/questionario/jausou.png)
 
 <div style="text-align: center">
 <p>
