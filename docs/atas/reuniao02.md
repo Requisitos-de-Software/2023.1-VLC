@@ -68,7 +68,7 @@ Confirmação do que cada um irá fazer após entedimento mais aprofundado das t
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 14/04/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | 17/04/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
-| 11/05/2023 | `1.1`  | Padronização do documento | [Igor Penha](https://github.com/igorpenhaa)  | 17/04/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 11/05/2023 | `1.1`  | Padronização do documento | [Igor Penha](https://github.com/igorpenhaa)  | 12/05/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 
 
 </p>
