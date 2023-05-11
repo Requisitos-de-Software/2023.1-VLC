@@ -2,16 +2,18 @@
 
 ## Introdução
 
-Esse documento visa registrar o acontecimento da  primeira reunião do grupo 3, marcar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube.
+<p align="justify">
+Esse documento visa registrar o acontecimento da  1ª reunião do grupo 3, marcar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube.
+</p>
 
 <br />
 
 |                                      Alunos presentes                                 |    Data    | Horário de inicio e fim |      Local       |
 | :-----------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Bruno Ribeiro, Giovanni Alvissus, Igor Penha, Larissa Gomes, Lucas Gobbi, Rafael Bosi | 04/04/2023 |      20:22 - 20:31      | Plataforma Teams |
+| Bruno Ribeiro, Giovanni Alvissus, Igor Penha, Larissa Gomes,</br> Lucas Gobbi, Rafael Bosi | 04/04/2023 |      20:22 - 20:31      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: Autor, 2023). </p>
+<p> Tabela 1: Dados da reunião (Fonte: PENHA, Igor 2023). </p>
 </div>
 
 <br />
@@ -38,27 +40,38 @@ Esse documento visa registrar o acontecimento da  primeira reunião do grupo 3, 
 
 
 <div style="text-align: center">
-<p> Tabela 2: Atividades a serem feitas (Fonte: Autor, 2023). </p>
+<p> Tabela 2: Atividades a serem feitas (Fonte: PENHA, Igor 2023). </p>
 </div>
 
 <br />
 
 ## Conclusão
+
+<p align="justify">
 Conhecendo os integrantes para sabermos os pontos fortes e fracos de cada um dos participantes para ter uma melhor eficiência e aprendizado.
 Além disso, tópicos importantes sobre o processo foram apontados. 
 Por fim, as atividades para a primeira entrega foram traçadas e divididas entre o grupo.
+</p>
 
 <br/>
 
 ## Link da gravação
 
-[Link de acesso a reunião](https://youtu.be/F74O1CippWs)
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/F74O1CippWs" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 1</b>: gravação da reunião 1 (Fonte: Grupo. 2023).</p>
+</div>
 
-<br />
 
-## Histórico de versão
-| Versão | Data de execução | Data de revisão | Descrição | Autor | Revisor |
-| :----: | :--: | :---------: | :-------: | :---: | :-----: |
-| `1.0` | 14/04/2023 | 17/04/2023 | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa) |  [Lucas Gobbi](https://github.com/LucasBergholz) |
-| `1.1` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Igor Penha](https://github.com/igorpenhaa) |
+## Bibliografia
+[1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 13 de Abril de 2023.
 
+## Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 04/04/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | 17/04/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 23/04/2023 | `1.1`  | Criação da ata de reunião | [Rafael Bosi](https://github.com/StrangeUnit28)  | 24/04/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+| 11/05/2023 | `1.2`  | Padronização das atas | Igor Penha](https://github.com/igorpenhaa)  | 11/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+
+</p>
