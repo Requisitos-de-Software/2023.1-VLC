@@ -72,6 +72,6 @@ Por fim, as atividades para a primeira entrega foram traçadas e divididas entre
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 04/04/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | 17/04/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 | 23/04/2023 | `1.1`  | Criação da ata de reunião | [Rafael Bosi](https://github.com/StrangeUnit28)  | 24/04/2023 | [Igor Penha](https://github.com/igorpenhaa) |
-| 11/05/2023 | `1.2`  | Padronização das atas | Igor Penha](https://github.com/igorpenhaa)  | 11/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 11/05/2023 | `1.2`  | Padronização das atas | [Igor Penha](https://github.com/igorpenhaa)  | 11/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 </p>
