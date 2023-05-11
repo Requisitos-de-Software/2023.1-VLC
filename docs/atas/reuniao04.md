@@ -3,7 +3,7 @@
 ## Introdução
 
 <p align="justify">
-Esse documento visa registrar o acontecimento da 4ª reunião do grupo 3, registrar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube.
+Esse documento visa registrar o acontecimento da 4ª reunião do grupo 3, registrar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube(video 1).
 </p>
 <br />
 
