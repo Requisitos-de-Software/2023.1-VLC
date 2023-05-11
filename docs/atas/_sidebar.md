@@ -1,8 +1,11 @@
 <!-- docs/_sidebar.md -->
 
 - [Atas](#)
-  - [1° Reunião](atas/reuniao01.md)
-  - [2° Reunião](atas/reuniao02.md)
+  - [1ª Reunião](atas/reuniao01.md)
+  - [2ª Reunião](atas/reuniao02.md)
+  - [3ª Reunião](atas/reuniao03.md)
+  - [4ª Reunião](atas/reuniao04.md)
+  - [5ª Reunião](atas/reuniao05.md)
 <!--
 - [Sobre o projeto](home.md)
 - [Apresentações](planejamento/apresentacoes.md)

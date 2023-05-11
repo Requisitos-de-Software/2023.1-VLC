@@ -2,7 +2,9 @@
 
 ## Introdução
 
-Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3, marcar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube.
+<p align="justify">
+Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3, marcar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube(video 1).
+</p>
 
 <br />
 
@@ -11,7 +13,7 @@ Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3, marcar
 | Bruno Ribeiro, Igor Penha, lucas Gobbi  | 09/04/2023 |      20:48 - 21:42      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: Autor, 2023). </p>
+<p> Tabela 1: Dados da reunião (Fonte: PENHA, Igor 2023). </p>
 </div>
 
 <br />
@@ -37,27 +39,37 @@ Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3, marcar
 | Rich Picture | Larissa Gomes | Giovanni Alvissus
 
 <div style="text-align: center">
-<p> Tabela 2: Atividades a serem feitas (Fonte: Autor, 2023). </p>
+<p> Tabela 2: Atividades a serem feitas (Fonte: PENHA, Igor 2023). </p>
 </div>
 
 <br />
 
 ## Conclusão
 
-Confirmação do que cada um irá fazer após entedimento mais aprofundado das tarefas.
-Por fim, execução dos primeiros passos no planejamento do cronograma.
+<p align="justify">
+Confirmação do que cada um irá fazer após entedimento mais aprofundado das tarefas. Por fim, execução dos primeiros passos no planejamento do cronograma.
+</p>
 
 <br />
 
 ## Link da gravação
 
-[Link de acesso a reunião](https://youtu.be/wiXy-kvHw5c)
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/wiXy-kvHw5c" title="Reunião 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 1</b>: gravação da reunião 2 (Fonte: Grupo. 2023).</p>
+</div>
 
-<br />
 
-## Histórico de versão
-| Versão | Data de execução | Data de revisão | Descrição | Autor | Revisor |
-| :----: | :--: | :---------: | :-------: | :---: | :-----: |
-| `1.0` | 14/04/2023 | 17/04/2023 | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
-| `1.1` | 23/04/2023 | 24/04/2023 | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+## Bibliografia
+[1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 13 de Abril de 2023.
+
+## Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 14/04/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | 17/04/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 11/05/2023 | `1.1`  | Padronização do documento | [Igor Penha](https://github.com/igorpenhaa)  | 12/05/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+
+
+</p>
 
