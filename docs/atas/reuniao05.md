@@ -13,7 +13,7 @@ Esse documento visa registrar o acontecimento da 4ª reunião do grupo 3, regist
 | Bruno Ribeiro, Francisco Mizael, Giovanni Alvissus, </br>Igor Penha, Lucas Gobbi e Rafael Bosi | 24/04/2023 |      19:09 - 19:16      | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: Penha, Igor 2023). </p>
+<p> Tabela 1: Dados da reunião (Fonte: PENHA, Igor 2023). </p>
 </div>
 
 <br />
@@ -43,7 +43,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 | Atualização gitpage | todos | todos
 
 <div style="text-align: center">
-<p> Tabela 2: Atividades a serem feitas (Fonte: Penha, Igor 2023). </p>
+<p> Tabela 2: Atividades a serem feitas (Fonte: PENHA, Igor 2023). </p>
 </div>
 
 <br />
@@ -60,7 +60,7 @@ Dialogo sobre como iria funcionar a etapa 3, reunião semanal de grupo.Por fim, 
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/A2rhwnFatvg" title="Reunião 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 1</b>: gravação da reunião 4 (Fonte: Grupo. 2023).</p>
+<p> <b>Vídeo 1</b>: gravação da reunião 5 (Fonte: Grupo. 2023).</p>
 </div>
 
 
@@ -73,4 +73,4 @@ Dialogo sobre como iria funcionar a etapa 3, reunião semanal de grupo.Por fim, 
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 10/05/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | 11/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 
-</div>
+</p>
