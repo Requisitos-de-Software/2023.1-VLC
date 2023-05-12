@@ -131,7 +131,7 @@
 
 ---
 
-### C08 - Deve ser possível personalizar a aparência da interface do usuário.
+### C08 - Deve ser possível personalizar a aparência da interface do usuário. (no ios tem funcao escuro e claro)
 
 | Item      | Descrição |
 | :-------: | :-------- |
@@ -146,18 +146,18 @@
 
 ---
 
-### C09 - gostaria de que o aplicativo tenha acessibilidade
+### C09 - Registro do usuário
 
 | Item      | Descrição |
 | :-------: | :-------- |
-| Objetivo  |  |
+| Objetivo  | Criar uma conta para o usuário |
 | Contexto  | Local: em casa<br>Tempo: durante a noite<br>Pré-condições: acesso à internet, ter o aplicativo instalado |
 | Atores    | Usuário |
 | Recursos  | Smartphone<br>Internet |
-| Episódios |  |
-| Exceção   |  |
+| Episódios | Usuário tem vontade de criar uma conta no VLC para conseguir acessar seus dados do aplicativo em qualquer dispositivo e qualquer lugar<br>Usuário pega o celular<br>Usuário abre o aplicativo<br>Usuário tem a possibilidade de login ou de se registrar<br>Usuário clica em registrar-se<br>Usuário informa o e-mail que deseja utilizar como login<br>Usuário escolhe uma senha para o aplicativo<br>Usuário confirma a senha<br>Usuário poderá logar em qualquer dispositivo|
+| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Usuário não encontra o registrar-se<br>Usuário digita a confirmação de senha errada |
 
-<figcaption align="center">Tabela 10: Cenário 9 (Fonte: Autores, 2023).</figcaption>
+<figcaption align="center">Tabela 10: Cenário 9 (Fonte: PENHA, Igor 2023).</figcaption>
 
 ---
 
@@ -170,7 +170,7 @@
 | Atores    | Usuário       |
 | Recursos  | Smartphone<br>Internet |
 | Episódios | Usuário está em horário livre<br>Usuário quer que apenas pessoas restritas tenham acesso ao aplicativo mesmo tendo acesso ao seu smartphone<br>Usuário pega o celular<br>Usuário abre o aplicativo<br>Usuário clica no ícone de Configurações(⚙)<br>Usuário vai a aba de privacidade<br>Usuário clica em senha de bloqueio<br>Usuário escolhe uma senha para o aplicativo<br>Usuário confirma a senha<br>Usuário agora quando abrir o aplicativo terá de digitar a senha |
-| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Usuário não encontra o ícone de configurações<br>Usuário não encontra aba de privacidade<br>Usuário digita a confirmação de senha errada |
+| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Usuário não encontra o ícone de configurações(⚙)<br>Usuário não encontra aba de privacidade<br>Usuário digita a confirmação de senha errada |
 
 <figcaption align="center">Tabela 11: Cenário 10 (Fonte: PENHA, Igor 2023).</figcaption>
 
@@ -200,7 +200,7 @@
 | Atores    | Usuário           |
 | Recursos  | Smartphone<br>Internet ou vídeo baixado no smartphone |
 | Episódios | Usuário está com pouco tempo<br>Usuário quer aumenta a velocidade de reprodução de um vídeo <br>Usuário pega o celular<br>Usuário abre o aplicativo<br>Usuário clica no ícone de Configurações(⚙)<br>Usuário encontra a área de genéricos<br>Usuário seleciona velocidade de reprodução padrão<br>Usuário escolhe qual será a velocidade padrão de seus vídeos daqui em diante |
-| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Problemas com o _download_ do vídeo<br>Usuário não encontra o ícone de configurações<br>Usuário não encontra a área de genéricos<br> Usuário não encontrar velocidade de reprodução padrão |
+| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Problemas com o _download_ do vídeo<br>Usuário não encontra o ícone de configurações(⚙)<br>Usuário não encontra a área de genéricos<br> Usuário não encontrar velocidade de reprodução padrão |
 
 <figcaption align="center">Tabela 13: Cenário 12 (Fonte: PENHA, Igor 2023).</figcaption>
 
