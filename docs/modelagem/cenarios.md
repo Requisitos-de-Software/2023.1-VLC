@@ -71,18 +71,18 @@
 
 ---
 
-### C04 - Interface intuitiva e fácil de usar.
+### C04 - Relatar um bug do app.
 
 | Item      | Descrição |
 | :-------: | :-------- |
-| Objetivo  |  |
+| Objetivo  | Enviar descrição de bug do aplicativo |
 | Contexto  | Local: em casa<br>Tempo: durante a noite<br>Pré-condições: acesso à internet, ter o aplicativo instalado |
 | Atores    | Usuário |
 | Recursos  | Smartphone<br>Internet |
-| Episódios |  |
-| Exceção   |  |
+| Episódios | Usuário identifica uma irregularidade na aplicação<br>Usuário deseja reportar um bug<br>Usuário pega o celular<br>Usuário abre o aplicativo<br>Usuário clica no ícone de Configurações(⚙)<br>Usuário rola a página e encontra a área de fale conosco<br>Usuário clica em "Relatar um bug"<br>Usuário descreve o bug detalhadamente |
+| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Perda de conexão com a internet<br>Usuário não encontra o ícone de Configurações(⚙)<br>Usuário não encontra a área de fale conosco<br>Usuário não encontra o local para relatar um bug |
 
-<figcaption align="center">Tabela 5: Cenário 4 (Fonte: Autores, 2023).</figcaption>
+<figcaption align="center">Tabela 5: Cenário 4 (Fonte: PENHA, Igor 2023).</figcaption>
 
 ---
 
@@ -127,7 +127,7 @@
 | Episódios | Usuário clica no ícone _Browse_<br>Usuário seleciona o vídeo desejado<br>Usuário clica no ícone de legendas<br>Usuário seleciona o idioma desejado ou o texto a ser adicionado |
 | Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma |
 
-<figcaption align="center">Tabela 8: Cenário 7 (Fonte: RIBEIRO, Bruno 2023).</figcaption>
+<figcaption align="center">Tabela 8: Cenário 7 (Fonte: Autores, 2023).</figcaption>
 
 ---
 
