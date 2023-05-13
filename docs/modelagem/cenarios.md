@@ -11,14 +11,14 @@
 
 ### **Título: identifica o cenário.**
 
-| Item      | Descrição                                                                                                              |
-| --------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Objetivo  | Estabelece a finalidade de um cenário. O cenário deve descrever de que modo este objetivo deve ser alcançado.          |
-| Contexto  | Descreve o estado inicial de um cenário, suas précondições, o local (físico) e tempo.                                  |
-| Atores    | Pessoas ou estruturas organizacionais que tem um papel no cenário.                                                     |
-| Recursos  | Identifica os objetos passivos com os quais lidam os atores.                                                           |
+| Item      | Descrição |
+| --------- | --------- |
+| Objetivo  | Estabelece a finalidade de um cenário. O cenário deve descrever de que modo este objetivo deve ser alcançado. |
+| Contexto  | Descreve o estado inicial de um cenário, suas précondições, o local (físico) e tempo. |
+| Atores    | Pessoas ou estruturas organizacionais que tem um papel no cenário. |
+| Recursos  | Identifica os objetos passivos com os quais lidam os atores. |
 | Episódios | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis. |
-| Exceção   | É o tratamento para uma situação excepcional ou de erro.                                                               |
+| Exceção   | É o tratamento para uma situação excepcional ou de erro.|
 
 <figcaption align="center">Tabela 1: Descrição dos itens dos cenários (Fonte: Penha, Igor 2023).</figcaption>
 
@@ -120,14 +120,14 @@
 
 | Item      | Descrição |
 | :-------: | :-------- |
-| Objetivo  |  |
-| Contexto  | Local: em casa<br>Tempo: durante a noite<br>Pré-condições: acesso à internet, ter o aplicativo instalado |
+| Objetivo  | Legendar um vídeo |
+| Contexto  | Local: em casa<br>Tempo: durante a noite<br>Pré-condições: acesso à internet ou ter vídeos salvos na memória do celular, ter o aplicativo instalado |
 | Atores    | Usuário |
 | Recursos  | Smartphone<br>Internet |
-| Episódios |  |
-| Exceção   |  |
+| Episódios | Usuário clica no ícone _Browse_<br>Usuário seleciona o vídeo desejado<br>Usuário clica no ícone de legendas<br>Usuário seleciona o idioma desejado ou o texto a ser adicionado |
+| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma |
 
-<figcaption align="center">Tabela 8: Cenário 7 (Fonte: Autores, 2023).</figcaption>
+<figcaption align="center">Tabela 8: Cenário 7 (Fonte: RIBEIRO, Bruno 2023).</figcaption>
 
 ---
 
@@ -135,14 +135,13 @@
 
 | Item      | Descrição |
 | :-------: | :-------- |
-| Objetivo  |  |
-| Contexto  | Local: em casa<br>Tempo: durante o dia<br>Pré-condições: acesso à internet, ter o aplicativo instalado |
-| Atores    | Usuário |
-| Recursos  | Smartphone<br>Internet |
-| Episódios |  |
-| Exceção   |  |
+| Objetivo  | Mudar o contraste de cor do aplicativo entre escuro e claro |
+| Contexto  | Local: em casa<br>Tempo: durante a noite<br>Pré-condições: ter o aplicativo instalado |
+| Atores    | 
+| Episódios | Usuário está assistindo um vídeo no app<br>Usuário sente um desconforto nos olhos devido a luz branca<br>Usuário clica no ícone _More_(...)<br>Usuário clica no ícone _SETTINGS_(⚙)<br>Usuário clica no ícone _Interface_<br>Usuário clica no ícone _DayNight mode_<br>Usuário seleciona o tema de contraste de cor desejado |
+| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma |
 
-<figcaption align="center">Tabela 9: Cenário 8 (Fonte: Autores, 2023).</figcaption>
+<figcaption align="center">Tabela 9: Cenário 8 (Fonte: RIBEIRO, Bruno 2023).</figcaption>
 
 ---
 
