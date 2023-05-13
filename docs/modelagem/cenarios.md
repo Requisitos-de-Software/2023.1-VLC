@@ -137,7 +137,7 @@
 | :-------: | :-------- |
 | Objetivo  | Mudar o contraste de cor do aplicativo entre escuro e claro |
 | Contexto  | Local: em casa<br>Tempo: durante a noite<br>Pré-condições: ter o aplicativo instalado |
-| Atores    | 
+| Atores    | Usuário | 
 | Episódios | Usuário está assistindo um vídeo no app<br>Usuário sente um desconforto nos olhos devido a luz branca<br>Usuário clica no ícone _More_(...)<br>Usuário clica no ícone _SETTINGS_(⚙)<br>Usuário clica no ícone _Interface_<br>Usuário clica no ícone _DayNight mode_<br>Usuário seleciona o tema de contraste de cor desejado |
 | Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma |
 
