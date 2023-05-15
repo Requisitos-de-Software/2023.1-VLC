@@ -17,6 +17,5 @@ Por favor delete as opições que não forem relevantes.
 
 - [ ] Meu código segue os padrões estabelecidos pelo projeto
 - [ ] Eu garanto que revisei meu código
-- [ ] Eu comentei meu código, especialmente as áreas de difícil entendimento
 - [ ] Eu fiz as respectivas mudanças de documentação
-- [ ] Minhas mudanças geraram novos warnings
+- [ ] Minhas mudanças não geraram novos warnings e/ou conflitos
