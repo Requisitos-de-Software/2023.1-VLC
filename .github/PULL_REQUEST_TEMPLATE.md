@@ -2,23 +2,16 @@
 
 Por favor, inclua um resumo das mudanças e qual issue está sendo corrigida. Por favor, também inclua um contexto e motivação relevante. Liste quaisquer dependências requeridas para esta mudança.
 
-Corrige # (issue)
+Corrige #(issue)
 
 ## Tipo da mudança
 
 Por favor delete as opições que não forem relevantes.
 
-- [ ] Bug fix
-- [ ] Nova feature
+- [ ] Criação de novo artefato
+- [ ] Correção e/ou atualização de artefato da entrega atual
+- [ ] Correção e/ou atualização de artefatos de entregas anteriores
 - [ ] Mudança crítica
-- [ ] Está mudança requer update de documentação
-
-# Como foi testado?
-
-Por favor, descreva como e quais testes foram utilizados.
-
-- [ ] Test A
-- [ ] Test B
 
 # Checklist:
 
