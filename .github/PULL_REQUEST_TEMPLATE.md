@@ -6,8 +6,6 @@ Corrige #(issue)
 
 ## Tipo da mudança
 
-Por favor delete as opições que não forem relevantes.
-
 - [ ] Criação de novo artefato
 - [ ] Correção e/ou atualização de artefato da entrega atual
 - [ ] Correção e/ou atualização de artefatos de entregas anteriores
