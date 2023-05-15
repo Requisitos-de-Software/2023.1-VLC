@@ -56,18 +56,18 @@
 
 ---
 
-### C03 - Privacidade do usuário e coleta de dados invasiva(REFAZER)
+### C03 - Iformações sobre o projeto
 
 | Item      | Descrição |
 | :-------: | :--------- |
-| Objetivo  | Entrar deseja dificultar o acesso de outras pessoas ao seu aplicativo |
+| Objetivo  | Encontrar informações sobre o projeto e a aplicação |
 | Contexto  | Local: lugares públicos e privados<br>Tempo: durante o dia e/ou noite<br>Pré-condições: ter o aplicativo instalado |
 | Atores    | Usuário |
 | Recursos  | Smartphone |
-| Episódios | Usuário está em horário livre<br>Usuário deseja que outras pessoas não tenham acesso aos seus conteúdos dentro do aplicativo<br>Usuário pega o celular<br>Usuário abre o aplicativo<br>Usuário clica no ícone de Configurações(⚙)<br>Usuário vai à área de privacidade do aplicativo<br>Usuário encontra e clica em "Fórum de suporte"<br>Usuário é redirecionado para o site do fórum |
-| Exceção   | Falta de energia<br>Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Perda de conexão com a internet<br>Não possuir conta Google<br>Usuário não encontra o ícone de menu<br>Usuário não encontra o link para "Fórum de suporte" |
+| Episódios | Usuário está em horário livre<br>Usuário deseja encontrar informações sobre o projeto da aplicação<br>Usuário pega o celular<br>Usuário abre o aplicativo<br>Usuário clica no ícone de _More_(..)<br>Usuário clica no ícone _ABOUT_(ⓘ)<br>Usuário escolhe quais informações deseja ver sobre o projeto dentre as listadas |
+| Exceção   | Falta de energia<br>Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Perda de conexão com a internet |
 
-<figcaption align="center">Tabela 4: Cenário 3 (Fonte: Autores, 2023).</figcaption>
+<figcaption align="center">Tabela 4: Cenário 3 (Fonte: RIBEIRO, Bruno 2023).</figcaption>
 
 ---
 
