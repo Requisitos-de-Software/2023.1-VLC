@@ -86,18 +86,18 @@
 
 ---
 
-### C05 - facilidade de instalar e usar.
+### C05 - Criando playlists.
 
 | Item      | Descrição |
 | :-------: | :-------- |
-| Objetivo  |  |
-| Contexto  | Local: em casa<br>Tempo: durante o dia<br>Pré-condições: acesso à internet, ter o aplicativo instalado |
+| Objetivo  | Criar uma nova playlist a partir de um video em execução |
+| Contexto  | Local: em casa<br>Tempo: durante o dia<br>Pré-condições: acesso à internet ou ter o video previamente na memória do dispositivo, ter o aplicativo instalado |
 | Atores    | Usuário |
 | Recursos  | Smartphone<br>Internet |
-| Episódios |  |
-| Exceção   |  |
+| Episódios | Usuário está vendo um video<br>Usuário clica no no ícone (...) no canto inferior direito<br>Usuário clica em _Save Playlist_<br>Usuário escreve um nome para sua nova playlist<br>Usuário tem uma playlist com o video desejado criada |
+| Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma<br>Perda de conexão com a internet |
 
-<figcaption align="center">Tabela 6: Cenário 5 (Fonte: Autores, 2023).</figcaption>
+<figcaption align="center">Tabela 6: Cenário 5 (Fonte: RIBEIRO, Bruno 2023).</figcaption>
 
 ---
 
