@@ -17,7 +17,7 @@ A técnica utilizada neste documento é a análise de documentos. Essa técnica 
 ### Funcionalidades e Recursos
 
 - Reprodução de mídia:
-  - Suporte a uma ampla variedade de formatos de áudio e vídeo [VLC Documentation](https://www.videolan.org/vlc/features.html)
+  - Suporte a uma ampla variedade de formatos de áudio e vídeo, sendo os principais MP3, MP4, MPEG, DivX [VLC Documentation](https://www.videolan.org/vlc/features.html)
   - Possibilidade de adicionar legendas e selecionar faixas de áudio [VLC User Guide](https://wiki.videolan.org/VLC_User_Guide/)
   - Lista de reprodução e funcionalidades de biblioteca de mídia
 

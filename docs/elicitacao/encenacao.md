@@ -19,7 +19,8 @@
 
 ## Execução da Encenação
 
-
+<div align="justify">
+</div>
 </br>
 
 ### Transmissão de conhecimento 
