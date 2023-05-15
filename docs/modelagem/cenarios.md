@@ -116,18 +116,18 @@
 
 ---
 
-### C07 - Legendas nos vídeos.
+### C07 - Garantia de segurança mínima.
 
 | Item      | Descrição |
 | :-------: | :-------- |
-| Objetivo  | Legendar um vídeo |
+| Objetivo  | O usuário tem garantia de que seus dados não correm perigo por parte do uso do app |
 | Contexto  | Local: em casa<br>Tempo: durante a noite<br>Pré-condições: acesso à internet ou ter vídeos salvos na memória do celular, ter o aplicativo instalado |
 | Atores    | Usuário |
 | Recursos  | Smartphone<br>Internet |
-| Episódios | Usuário clica no ícone _Browse_<br>Usuário seleciona o vídeo desejado<br>Usuário clica no ícone de legendas<br>Usuário seleciona o idioma desejado ou o texto a ser adicionado |
+| Episódios | Usuário inicia a aplicação pela primeira vez<br>Usuário lê os termos de privacidade e uso do app<br>Usuário concorda com os termos<br>Usuário pode ficar tranquilo que seus dados não serão coletados pelo app |
 | Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma |
 
-<figcaption align="center">Tabela 8: Cenário 7 (Fonte: Autores, 2023).</figcaption>
+<figcaption align="center">Tabela 8: Cenário 7 (Fonte: REIBEIRO, Bruno 2023).</figcaption>
 
 ---
 
