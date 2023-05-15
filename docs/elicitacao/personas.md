@@ -34,7 +34,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 
 ## Perfil do Usuário
 
-A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário aplicado pelo grupo.
+A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário aplicado pelo grupo. Vale ressaltar que o questionário foi formulado de tal maneira que foi possível elicitar os requisitos e traçar o perfil de usuário do aplicativo VLC mídia player.
 
 | Característica    | Descrição                                                                    |
 | ----------------- | ---------------------------------------------------------------------------- |

@@ -31,6 +31,10 @@ Tendo em mente o vasto público-alvo que o aplicativo VLC Media Player visa aten
 Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing">termo consentimento</a> redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023** e **01/05/2023**.
 </div>
 
+## Onde foi aplicado ?
+
+<div style="text-align:justify">O questionário foi aplicado em diversos grupos do whatsapp e do telegram. O formulário foi distribuido dessa forma para que o grupo alcançasse o maior número de pessoas possíveis, uma vez que o questionário foi utilizado tanto para elicitar requisitos quanto para traçar um perfil de usuário do aplicativo. Além disso, um dos motivos que levou o grupo a escolher grupos de whatsapp e do telegram da Universidade de Brasília, foi porque a equipe já suspeitava que uma parcela considerável dos usuários do VLC mídia player eram estudantes e professores, o que se confirmou com a perquisa, uma vez que o questionário rodou em outros grupos fora do ambito universitário e obtivemos a contraprova.  
+
 ### Questão 1
   ![Image do resultado da questão 1](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/idades.png)
   

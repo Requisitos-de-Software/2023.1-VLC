@@ -22,25 +22,25 @@ Legenda:
 
 | Identificação | Descrição | Prioridade |
 | :--------: | :---------:| :--------: |
-| ST01 | Eu, como usuário, gostaria de reproduzir vídeos. | In |
-| ST02 | Eu, como usuário, gostaria de reproduzir vídeos sem internet. | In |
-| ST03 | Eu, como usuário, gostaria de navegar pelos vídeos de meu dispositivo. | In |
-| ST04 | Eu, como usuário, gostaria de gerar legendas, automaticamente, para meu vídeo. | Out |
-| ST05 | Eu, como usuário, gostaria de mudar a velocidade de reprodução. | Out |
-| ST06 | Eu, como usuário, gostaria de realizar edições ao meu vídeo. | Out |
-| ST07 | Eu, como usuário, gostaria de uma interface de fácil navegação. | In |
-| ST08 | Eu, como usuário, gostaria de organizar meu vídeos. | In |
-| ST09 | Eu, como usuário, gostaria de salvar meus vídeos para vê-los em outros dispositivos. | Out |
-| ST10 | Eu, como usuário, gostaria de realizar registro/login em uma conta. | Out |
-| ST11 | Eu, como usuário, gostaria de compartilhar os vídeos. | In |
-| ST12 | Eu, como usuário, gostaria de ouvir músicas. | In |
-| ST13 | Eu, como usuário, gostaria de criar playlists. | In |
-| ST14 | Eu, como usuário, gostaria de ajustar a qualidade do áudio. | Out |
-| ST15 | Eu, como usuário, gostaria de poder ver vídeos/áudios de diferentes formatos. | In |
-| ST16 | Eu, como usuário, gostaria de que meus vídeos estejam em segurança. | In |
-| ST17 | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário. | In |
-| ST18 | Eu, como usuário, gostaria de que o aplicativo tenha tutorial. | In |
-| ST19 | Eu, como usuário, gostaria de que o aplicativo tenha acessibilidade. | In |
+| ST01 | Reproduzir vídeos. | In |
+| ST02 | Reproduzir vídeos sem internet. | In |
+| ST03 | Navegar pelos vídeos de meu dispositivo. | In |
+| ST04 | Gerar legendas, automaticamente, para meu vídeo. | Out |
+| ST05 | Mudar a velocidade de reprodução. | Out |
+| ST06 | Realizar edições ao meu vídeo. | Out |
+| ST07 | Interface de fácil navegação. | In |
+| ST08 | Organizar vídeos. | In |
+| ST09 | Salvar meus vídeos para vê-los em outros dispositivos. | Out |
+| ST10 | Realizar registro/login em uma conta. | Out |
+| ST11 | Compartilhar os vídeos. | In |
+| ST12 | Ouvir músicas. | In |
+| ST13 | Criar playlists. | In |
+| ST14 | Ajustar a qualidade do áudio. | Out |
+| ST15 | Ver vídeos/áudios de diferentes formatos. | In |
+| ST16 | Vídeos em segurança. | In |
+| ST17 | Aplicativo com suporte ao usuário. | In |
+| ST18 | Aplicativo com tutorial. | In |
+| ST19 | Aplicativo com acessibilidade. | In |
 | INT03 | Suportar streaming de mídia. | Out |
 | INT04 | Permitir a conversão de formatos de arquivo. | Out |
 | INT05 | Permitir a captura de tela e a gravação de vídeo. | Out |

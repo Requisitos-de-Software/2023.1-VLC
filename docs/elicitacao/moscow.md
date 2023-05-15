@@ -6,6 +6,17 @@
 
 <div style="text-align:justify">Dessa forma, nessa seção a técnica utilizada para a priorização dos requisitos é o Moscow.</div>
 
+## Envolvidos
+
+<div style="text-align:justify">Para realizar essa técnica de priorização os seguintes papéis abaixo listados foram desempenhados pelo membro da equipe cujo nome foi citado:</div>
+
+- **Equipe de desenvolvimento:** [Rafael Bosi](https://github.com/StrangeUnit28) e [Giovanni Alvissus](https://github.com/giovanni1106)
+- **Gerente do Projeto:** [Lucas Gobbi](https://github.com/LucasBergholz)
+- **Project Owner:** [Rafael Bosi](https://github.com/StrangeUnit28)
+- **Cacius Lucios:** [Lucas Gobbi](https://github.com/LucasBergholz)
+- **Marcus Andronicus:** [Giovanni Alvissus](https://github.com/giovanni1106)
+- **Cordelia Macbeth:** [Rafael Bosi](https://github.com/StrangeUnit28)
+
 ## Metodologia
 
 <div style="text-align:justify">O método MoSCoW é uma técnica de priorização de requisitos que tem como objetivo ajudar o time de desenvolvimento a tomar decisões de forma mais eficiente. A estrutura MoSCoW é baseada em quatro categorias:</div>
@@ -51,25 +62,25 @@ Legenda:
 
 | Identificação | Descrição | Prioridade |
 | :--------: | :---------:| :--------: |
-| ST01 | Eu, como usuário, gostaria de reproduzir vídeos. | Must |
-| ST02 | Eu, como usuário, gostaria de reproduzir vídeos sem internet. | Must |
-| ST03 | Eu, como usuário, gostaria de navegar pelos vídeos de meu dispositivo. | Must |
-| ST04 | Eu, como usuário, gostaria de gerar legendas, automaticamente, para meu vídeo. | Could |
-| ST05 | Eu, como usuário, gostaria de mudar a velocidade de reprodução. | Should |
-| ST06 | Eu, como usuário, gostaria de realizar edições ao meu vídeo. | Would |
-| ST07 | Eu, como usuário, gostaria de uma interface de fácil navegação. | Must |
-| ST08 | Eu, como usuário, gostaria de organizar meu vídeos. | Must |
-| ST09 | Eu, como usuário, gostaria de salvar meus vídeos para vê-los em outros dispositivos. | Could |
-| ST10 | Eu, como usuário, gostaria de realizar registro/login em uma conta. | Could |
-| ST11 | Eu, como usuário, gostaria de compartilhar os vídeos. | Should |
-| ST12 | Eu, como usuário, gostaria de ouvir músicas. | Must |
-| ST13 | Eu, como usuário, gostaria de criar playlists. | Must |
-| ST14 | Eu, como usuário, gostaria de ajustar a qualidade do áudio. | Could |
-| ST15 | Eu, como usuário, gostaria de poder ver vídeos/áudios de diferentes formatos. | Must |
-| ST16 | Eu, como usuário, gostaria de que meus vídeos estejam em segurança. | Must |
-| ST17 | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário. | Must |
-| ST18 | Eu, como usuário, gostaria de que o aplicativo tenha tutorial. | Must |
-| ST19 | Eu, como usuário, gostaria de que o aplicativo tenha acessibilidade. | Should |
+| ST01 | Reproduzir vídeos. | Must |
+| ST02 | Reproduzir vídeos sem internet. | Must |
+| ST03 | Navegar pelos vídeos de meu dispositivo. | Must |
+| ST04 | Gerar legendas, automaticamente, para meu vídeo. | Could |
+| ST05 | Mudar a velocidade de reprodução. | Should |
+| ST06 | Realizar edições ao meu vídeo. | Would |
+| ST07 | Interface de fácil navegação. | Must |
+| ST08 | Organizar vídeos. | Must |
+| ST09 | Salvar meus vídeos para vê-los em outros dispositivos. | Could |
+| ST10 | Realizar registro/login em uma conta. | Could |
+| ST11 | Compartilhar os vídeos. | Should |
+| ST12 | Ouvir músicas. | Must |
+| ST13 | Criar playlists. | Must |
+| ST14 | Ajustar a qualidade do áudio. | Could |
+| ST15 | Ver vídeos/áudios de diferentes formatos. | Must |
+| ST16 | Vídeos em segurança. | Must |
+| ST17 | Aplicativo com suporte ao usuário. | Must |
+| ST18 | Aplicativo com tutorial. | Must |
+| ST19 | Aplicativo com acessibilidade. | Should |
 | INT03 | Suportar streaming de mídia. | Would |
 | INT04 | Permitir a conversão de formatos de arquivo. | Could |
 | INT05 | Permitir a captura de tela e a gravação de vídeo. | Would |
