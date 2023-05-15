@@ -1,6 +1,6 @@
 # Especificação Suplementar
 
-## Intrudução
+### Intrudução
 
 A especificação suplementar tem como objetivo apontar requisitos do sistema, os quais não foram explicitados pela modelagem de  casos uso. Dessa forma, somando-se ambas, torna-se possível definir todos os requisitos do sistema.
 
@@ -16,12 +16,12 @@ Este método, tem como pilares os seguintes critérios:
 
 Consoante ao tópico anterior, o modelo utilizado para este artefato é o FURPS+, metodologia a qual define reqisitos de um sistema dnetro de um dos cinco pilares citados anteriormente.
 
-	- *F* - _Functionality_: são os aspectos funcionais do sistema, os quais estão explicitados nos [casos de uso](casos_de_uso.md).
-	- *U* - _Usability_: o quão fácil é para o usuário realizar suas demandas via o software.
-	- *R* - _Reliability_: o quão confiável foi desenhado o software.
-	- *P* - _Performance_: como é o desempenho do software.
-	- *S* - _Supportability_: requisitos que agrupam caracteristicas como: manutenibilidade, adaptabilidade, internacionalização, portabilidade e outros aspectos relevantes.
-	- *+*: símbolo que emgloba outros requisitos não funcionais, os quais não se encaixam nos pilares listados, como: design, implementação, interface, físico.
+- *F* - _Functionality_: são os aspectos funcionais do sistema, os quais estão explicitados nos [casos de uso](casos_de_uso.md).
+- *U* - _Usability_: o quão fácil é para o usuário realizar suas demandas via o software.
+- *R* - _Reliability_: o quão confiável foi desenhado o software.
+- *P* - _Performance_: como é o desempenho do software.
+- *S* - _Supportability_: requisitos que agrupam caracteristicas como: manutenibilidade, adaptabilidade, internacionalização, portabilidade e outros aspectos relevantes.
+- *+*: símbolo que emgloba outros requisitos não funcionais, os quais não se encaixam nos pilares listados, como: design, implementação, interface, físico.
 
 ##
 
@@ -106,6 +106,7 @@ iOS: Objective-C, Swift.
 ## Bibliografia
 
 [1] SALLES, André. Plano de ensino da disciplina. Disponível em: [slides](https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em 15 de maio de 2023.
+
 [2] VideoLAN. Disponível em: [link](https://www.videolan.org/vlc/libvlc.html). Acesso em 15 de maio de 2023.
 
 ### Histórico de versão
