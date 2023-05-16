@@ -107,20 +107,21 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 
 ### UC01. Media
 
-| UC01 |  |
+| UC01 | Mídia |
 | -: | :- |
-| **Atores** | <li> Usuário |
+| **Atores** | Usuário |
 | **Frequência de uso** | Alta |
-| **Requisitos** |  |
-| **Condição de entrada** |  |
-| **Fluxo principal** | |
-| **Fluxos alternativos** | |
-| **Fluxos de exceção** | |
-| **Pós condições** | |
+| **Requisitos** | Abrir ambiente de mídias |
+| **Condição de entrada** | O usuário seleciona uma das opções de abrir mídia, diretorio ou stream |
+| **Fluxo principal** | <ol> <li> O usuário clicka em mídia <li> O usuário escolhe se vai abrir uma mídia, um diretorio ou stream ou salvar uma playlist <li> Abrir uma mídia pausada por default </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em abrir uma mídia</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas mostrando mídias disponíveis <li> O usuário escolhe uma mídia <ul> <li> A mídia selecionada abre no aplicativo pausada por padrão </ul> </ol> <b> Fluxo 2: O usuário clicka em abrir um diretorio</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega mostrando as pastas disponíveis </ol> <b> Fluxo 3: O usuário abre uma stream</b> <ol> <li> O Sistema abre uma janela de configurações da stream <ul> <li> O usuários pode configurar a URL de stream <li>O usuário pode configurar o arquivo <li> O usuário pode configurar a qualidade da stream </ul> <li> O usuário da play na stream </ol> <b>Fluxo 4: O usuário clicka em abrir recentes</b> <ol> <li> O sistema mostra em uma menu de cascata as mídias recentes <li> O usuário escolhe a mídia <li> O sistema inicia a mídia </ol> <b> Fluxo 5: O usuário clicka em salvar uma playlist </b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas disponíveis <li> O usuário escolhe a pasta <li> O usuário salva a playlist em formato de um arquivo </ol>|
+| **Pós condições** | O usuário tem acesso a eventos de playback |
+| **Data da criação | 15/05/2023 |
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 1: Especificação do caso de uso: Media. (Fonte: Mizael Santos, 2023).</p>
+<p> Tabela 1: Especificação do caso de uso: Mídia. (Fonte: Mizael Santos, 2023).</p>
 </div>
 
 
