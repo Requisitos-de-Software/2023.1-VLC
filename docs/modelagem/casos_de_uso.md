@@ -117,13 +117,98 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 | **Fluxos alternativos** | Não há |
 | **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em abrir uma mídia</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas mostrando mídias disponíveis <li> O usuário escolhe uma mídia <ul> <li> A mídia selecionada abre no aplicativo pausada por padrão </ul> </ol> <b> Fluxo 2: O usuário clicka em abrir um diretorio</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega mostrando as pastas disponíveis </ol> <b> Fluxo 3: O usuário abre uma stream</b> <ol> <li> O Sistema abre uma janela de configurações da stream <ul> <li> O usuários pode configurar a URL de stream <li>O usuário pode configurar o arquivo <li> O usuário pode configurar a qualidade da stream </ul> <li> O usuário da play na stream </ol> <b>Fluxo 4: O usuário clicka em abrir recentes</b> <ol> <li> O sistema mostra em uma menu de cascata as mídias recentes <li> O usuário escolhe a mídia <li> O sistema inicia a mídia </ol> <b> Fluxo 5: O usuário clicka em salvar uma playlist </b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas disponíveis <li> O usuário escolhe a pasta <li> O usuário salva a playlist em formato de um arquivo </ol>|
 | **Pós condições** | O usuário tem acesso a eventos de playback |
-| **Data da criação | 15/05/2023 |
+| **Data da criação** | 15/05/2023 |
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
 <p> Tabela 1: Especificação do caso de uso: Mídia. (Fonte: Mizael Santos, 2023).</p>
 </div>
 
+| UC02 | Playback |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Manipular mídias abertas |
+| **Condição de entrada** | O usuário seleciona uma das opções do player, pausar, iniciar, anterior, proximo, timestemp |
+| **Fluxo principal** | <ol> <li> O usuário clicka em uma das opções  <li> O  sistema responde o escolha manipulando a mídia </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em iniciar a mídia</b> <ol> <li> O sistema responde pausando a mídia <li> O sistema atualiza o estado do botão para pausar </ol> <b> Fluxo 2: O usuário clicka em próximo</b> <ol> <li> O sistema abre a próxima mídia disponível na playlist </ol> <b> Fluxo 3: O usuário clicka em anterior</b> <ol> <li> O sistema abre a mídia anterior disponível na playlist </ol> <b>Fluxo 4: O usuário clicka em mudar velocidade</b> <ol> <li> O sistema mostra em uma menu de cascata com as velocidades disponíveis <ul> <li> Rápido <li> Normal <li> Lento </ul> <li> O usuário escolhe a velocidade <li> O sistema modifica a velocidade da mídia </ol> |
+| **Pós condições** | Não há |
+| **Data da criação** | 15/05/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 2: Especificação do caso de uso: Playback. (Fonte: Mizael Santos, 2023).</p>
+
+| UC03 | Áudio |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Manipular o áudio da mídia executada |
+| **Condição de entrada** | O usuário seleciona uma das opções do stereo ou dispositivos |
+| **Fluxo principal** | <ol> <li> O usuário clicka em uma das opções <li> O  sistema responde o escolha manipulando o áudio </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em dispositivos</b> <ol> <li> O sistema mostra em uma menu de cascata com os dispositivos de saída disponíveis <li> O usuário escolhe o dispositivos de saída que deseja </ol> <b> Fluxo 2: O usuário clicka em stereo </b> <ol> <li> O sistema mostra em uma menu de cascata com os modos de áudio disponíveis <ul> <li> Mono <li> Stereo <li> Esquerda <li> Direita <li> Stereo reverso </ul> </ol> |
+| **Pós condições** | Não há |
+| **Data da criação** | 15/05/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 3: Especificação do caso de uso: Áudio. (Fonte: Mizael Santos, 2023).</p>
+</div>
+
+</div>
+
+| UC04 | Legenda |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Baixa |
+| **Requisitos** | Manipular as legendas da mídia |
+| **Condição de entrada** | O usuário seleciona uma das opções de legenda disponível para a mídia executada |
+| **Fluxo principal** | <ol> <li> O usuário clicka em escolher a legenda ou adicionar um arquivo de legenda  <li> O  sistema responde atualizando a legenda da mídia executada </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em adicionar uma legenda</b> <ol> <li> O sistema abre o gerenciado de arquivos do dispositivo <li> O gerenciador de arquivos navega entre as pastas mostrando os arquivos de legenda disponíveis </ol> <b> Fluxo 2: O usuário clicka em selecionar uma legenda </b> <ol> <li> O sistema abre uma janela em cascata que mostra as legendas disponíveis pela mídia por padrão </ol> |
+| **Pós condições** | O usuários visualiza a nova legenda na tela |
+| **Data da criação** | 15/05/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 4: Especificação do caso de uso: Legenda. (Fonte: Mizael Santos, 2023).</p>
+</div>
+
+| UC05 | Vídeo |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Média |
+| **Requisitos** | Manipular opções do vídeo, resoluçao, tela cheia, zoom |
+| **Condição de entrada** | O usuário seleciona uma das opções para a mídia executada |
+| **Fluxo principal** | <ol> <li> O usuário clicka em uma das opções de ajuste de tela </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka tela cheia</b> <ol> <li> O sistema muda para tela cheia </ol> <b> Fluxo 2: O usuário clicka em selecionar uma das opções de zoom </b> <ol> <li> O sistema abre uma janela em cascata que mostra as opções disponíveis para ampliar a imagem da mídia executada <ul> <li> 1:4 <li> 1:2 <li> 1:1 Original <li> 2:1 </ul> </ol> <b> Fluxo 3: O usuários clicka em ajuste de tela</b> <ol> <li> O sistema abre uma janela em cascata que mostra as opções disponíveis para ajustar o tamanho de tela do dispositivo <ul> <li> Caso o usuário não selecione um tamanho de tela, o sistema usa um tamanho de tela padronizado pelo dispositivo em que é executado </ul> </ol> |
+| **Pós condições** | O usuários visualiza a nova as novas modificações do sistema |
+| **Data da criação** | 15/05/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 5: Especificação do caso de uso: Vídeo. (Fonte: Mizael Santos, 2023).</p>
+</div>
+
+| UC06 | Ajuda |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Baixa |
+| **Requisitos** | Ajudar o usuário |
+| **Condição de entrada** | O usuário seleciona uma das opções, ajuda ou sobre o aplicativo |
+| **Fluxo principal** | <ol> <li> O Usuário clicka em uma das opções <li> O sistema responde abrindo janelas informativas </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka em ajuda </b> <ol> <li> O sistema abre uma janela de ajuda </ol> <b> Fluxo 2: O usuário clicka em sobre </b> <ol> <li> O sistema abre uma janela de que traz a informações sobre o aplicativo <ul> <li> Autores <li> Licensa <li> Creditos </ul> </ol> |
+| **Pós condições** | O usuários visualiza a nova as novas modificações do sistema |
+| **Data da criação** | 15/05/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 6: Especificação do caso de uso: Ajuda. (Fonte: Mizael Santos, 2023).</p>
+</div>
 
 ## Bibliografia
 <div text-align="justify">
@@ -137,3 +222,4 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |   10/05/2023  |        Criação inicial do documento | Mizael Santos | Rafael Bosi |
 | `1.1`  |   10/05/2023  |        Criação dos casos de uso | Mizael Santos | Rafael Bosi |
+| `1.2`  |   10/05/2023  |        Criação das tabelas de casos de uso | Mizael Santos | Rafael Bosi |
