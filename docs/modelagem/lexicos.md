@@ -13,7 +13,7 @@
 
 ## Metodologia
 
-<div align="justify">Os léxicos do <a href="https://www.videolan.org/">VLC Media Player</a> foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior. Na tabelaa 1 abaixo temos o exemplo de como os léxicos serão apresentados:
+<div align="justify">Os léxicos do <a href="https://www.videolan.org/">VLC Media Player</a> foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior. Na tabela 1 abaixo temos o exemplo de como os léxicos serão apresentados:
 </div>
 
 |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
@@ -27,7 +27,7 @@
 
 ## Descrição dos Léxicos
 
-<div align="justify">Abaixo estão as tabelas de 2 a 23 que representam os léxicos do aplicativo em análise. Tais léxicos foram divididos em três categorias sendo elas: Estado, Objeto e Verbo. Cada léxico de cada categoria recebeu uma forma de simbolização específica:
+<div align="justify">Abaixo estão as tabelas de 2 a 29 que representam os léxicos do aplicativo em análise. Tais léxicos foram divididos em três categorias sendo elas: Estado, Objeto e Verbo. Cada léxico de cada categoria recebeu uma forma de simbolização específica:
 
 - LE -> Léxico de Estado
 - LO -> Léxico de Objeto
@@ -79,6 +79,17 @@
     </div>
     </br>
 
+    - ### LE04 - Mutado
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Mutado | [Rafael Bosi](https://github.com/StrangeUnit28) | É quando o **vídeo (LO09)** não emite som | Permite o **usuário (LO10)** **assitir (LV01)** a **vídeos (LO09)** sem som | Silenciado | Estado |
+
+    <div style="text-align: center">
+    <p> Tabela 4: Léxico de mutado (Fonte: BOSI, Rafael. 2023).</p>
+    </div>
+    </br>
+
 - ## Objeto
 
     - ### LO01 - Dispositivo 
@@ -88,7 +99,7 @@
     | Dispositivo | [Rafael Bosi](https://github.com/StrangeUnit28) | É o aparelho que irá acessar o VLC, e onde o **usuário (LO10)** poderá **assistir (LV01)**, **compartilhar (LO03)** **vídeos (LO09)** | O dispositivo irá realizar todas as funcionalidades do **aplicativo (LO05)** | Aparelho | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 4: Léxico de dispositivo (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 5: Léxico de dispositivo (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -99,7 +110,7 @@
     | Interface | [Rafael Bosi](https://github.com/StrangeUnit28) | A interface são os elementos que aparecem na tela e como estão distribuídos | Uma interface pode interagir e ser interagida, ao **clicar (LV02)**, por exemplo | Tela | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 5: Léxico de interface (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 6: Léxico de interface (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -110,7 +121,7 @@
     | Legenda | [Rafael Bosi](https://github.com/StrangeUnit28) | Texto escrito do áudio do **vídeo (LO09)** | Uma legenda pode ser ativada ou desativada e também pode ser escolhida o idioma da legenda | Transcrição simultânea | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 6: Léxico de legenda (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 7: Léxico de legenda (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -121,7 +132,7 @@
     | Notificação | [Rafael Bosi](https://github.com/StrangeUnit28) | É um aviso ao **usuário (LO10)** | Uma notificação pode ser ativada ou desativada por um **usuário (LO10)** | Aviso | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 7: Léxico de notificação (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 8: Léxico de notificação (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -132,7 +143,7 @@
     | Plataforma | [Rafael Bosi](https://github.com/StrangeUnit28) | É uma forma de representar o aplicativo VLC | Quando é dito funcionalidades da "plataforma", refere-se ao que o aplicativo pode fazer | Aplicativo, Sistema | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 8: Léxico de plataforma (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 9: Léxico de plataforma (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -143,7 +154,7 @@
     | Playlist | [Rafael Bosi](https://github.com/StrangeUnit28) | Um conjunto de **vídeos (LO09)** que pode ser tocado em uma ordem determinada ou em ordem aleatória | A playlist pode ser compartilhada, criada, e reproduzida na ordem definida ou em ordem aleatória | List de reprodução | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 9: Léxico de playlist (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 10: Léxico de playlist (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -154,7 +165,7 @@
     | Qualidade | [Rafael Bosi](https://github.com/StrangeUnit28) | A qualidade do **vídeo (LO09)** é a resolução que ele será reproduzido | A qualidade de um **vídeo (LO09)** poderá ser ajustada de acordo com a vontade do **usuário (LO10)** | Resolução | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 10: Léxico de qualidade (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 11: Léxico de qualidade (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -165,7 +176,7 @@
     | Velocidade de Reprodução | [Rafael Bosi](https://github.com/StrangeUnit28) | É uma forma do **usuário (LO10)** aumentar ou diminuir o tempo do **vídeo (LO09)** ajustando a velocidade em que ele é reproduzido | A velocidade de reprodução pode ser ajustada de acordo com a vontade do **usuário (LO10)** | -- | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 11: Léxico de velocidade de reprodução (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 12: Léxico de velocidade de reprodução (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -176,7 +187,7 @@
     | Vídeo | [Rafael Bosi](https://github.com/StrangeUnit28) | É um meio de entretenimento que pode tomar diferentes assuntos e formas de produção | Pode ser assistido, pausado, resumido e compartilhado **usuários (LO10)** | Gravação | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 12: Léxico de vídeo (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 13: Léxico de vídeo (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -187,7 +198,29 @@
     | Usuário | [Rafael Bosi](https://github.com/StrangeUnit28) | Usuário é qualquer um que utiliza o **aplicativo (LO05)** | O Usuário pode **assistir (LV01)**, **compartilhar (LV03)**, **pausar (LV08)**, dar **play (LV10)**, **maximizar (LV06)** ou **minimizar (LV07)** o **vídeo (LO09)** | User, Cliente | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 13: Léxico de usuário (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 14: Léxico de usuário (Fonte: BOSI, Rafael. 2023).</p>
+    </div>
+    </br>
+
+    - ### LO11 - Volume
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Volume | [Rafael Bosi](https://github.com/StrangeUnit28) | O volume é uma propriedades do som e se refere à intensidade com que uma nota é executada | O **usuário (LO10)** tem autonomia para decidir a altura do som que vai ouvir | Áudio | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 15: Léxico de volume (Fonte: BOSI, Rafael. 2023).</p>
+    </div>
+    </br>
+
+    - ### LO12 - Ajuda
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Ajuda | [Rafael Bosi](https://github.com/StrangeUnit28) | É uma documentação específica para orientar o **usuário (LO10)** | Aumenta a eficiência e a velocidade de aprendizado do **usuário(LO10)** | Auxílio, Guia, Documentação | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 16: Léxico de ajuda (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -200,7 +233,7 @@
     | Assistir | [Rafael Bosi](https://github.com/StrangeUnit28) | O **usuário (LO10)** pode assistir a um **vídeo (LO09)** | Um **vídeo (LO09)** é reproduzido na tela do **usuário (LO10)** | Visualizar, Ver | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 14: Léxico de assistir (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 17: Léxico de assistir (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -211,7 +244,7 @@
     | Clicar | [Rafael Bosi](https://github.com/StrangeUnit28) | É a ação de pressionar o dedo contra a tela, mais especificamente na funcionalidade que se deseja que seja ativada | A grande maioria das ações só podem ser executadas após um clique | Pressionar | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 15: Léxico de clicar (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 18: Léxico de clicar (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -222,7 +255,7 @@
     | Compartilhar | [Rafael Bosi](https://github.com/StrangeUnit28) | É o ato de o **usuário (LO10)** realizar as ações necessárias dentro do **aplicativo (LO05)** para exportar um **vídeo (LO09)** | Um **vídeo (LO09)** pode ser compartilhado em diversas redes sociais fora do VLC | Distribuir | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 16: Léxico de compartilhar (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 19: Léxico de compartilhar (Fonte: BOSI, Rafael. 2023).</p>
     </div> 
     </br>   
 
@@ -233,7 +266,7 @@
     | Login | [Rafael Bosi](https://github.com/StrangeUnit28) | O **usuário (LO10)** se conecta a sua conta | Um **usuário (LO10)** ao realizar  login tem acesso a diversas outras funcionalidades restritas a usuários conectados | Conectar, Entrar | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 17: Léxico de login (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 20: Léxico de login (Fonte: BOSI, Rafael. 2023).</p>
     </div>  
     </br>
 
@@ -244,7 +277,7 @@
     | Logout | [Rafael Bosi](https://github.com/StrangeUnit28) | É a ação reversa ao **Login (LV04)**, um **usuário (LO10)** se desconecta de sua conta | O **usuário (LO10)** que realiza o logout fica sem acesso as funcionalidades que requerem **login (LV10)** | Desconectar, Sair | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 18: Léxico de logout (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 21: Léxico de logout (Fonte: BOSI, Rafael. 2023).</p>
     </div> 
     </br>
 
@@ -255,7 +288,7 @@
     | Maximizar | [Rafael Bosi](https://github.com/StrangeUnit28) | O **usuário (LO10)** pode maximizar um **vídeo (LO09)**  | Um **vídeo (LO09)** se torna maximizado ao receber a ação de maximizar | Aumentar, Expandir | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 19: Léxico de maximizar (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 22: Léxico de maximizar (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -266,7 +299,7 @@
     | Minimizar | [Rafael Bosi](https://github.com/StrangeUnit28) | O **usuário (LO10)** pode minimizar um **vídeo (LO09)** | Um **vídeo (LO09)** se torna **minimizado (LE02)** ao receber a ação de minimizar | Diminuir, Reduzir | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 20: Léxico de minimizar (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 23: Léxico de minimizar (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -277,7 +310,7 @@
     | Pausar | [Rafael Bosi](https://github.com/StrangeUnit28) | Significa que um **vídeo (LO09)** que está sendo reproduzido será parado | O **vídeo (LO09)** que estava sendo executado na tela será **interrompido (LE03)** | Parar, Interromper | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 21: Léxico de pausar (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 24: Léxico de pausar (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -288,7 +321,7 @@
     | Navegar | [Rafael Bosi](https://github.com/StrangeUnit28) | O **usuário (LO10)** navega pelo **aplicativo (LO05)** em busca do **vídeo (LO09)** desejado | Maior controle do **usuário (LO10)** sobre o **sistema (LO05)** | Pesquisar, Buscar | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 22: Léxico de Navegar (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 25: Léxico de Navegar (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
@@ -299,7 +332,40 @@
     | Play | [Rafael Bosi](https://github.com/StrangeUnit28) | O **usuário (LO10)** dá play em um vídeo ao pressionar contra tela | Um **vídeo (LO09)** ao receber a ação de play sai do estado de **pausado (LE03)** e volta a ser reproduzido | Começar | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 23: Léxico de play (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 26: Léxico de play (Fonte: BOSI, Rafael. 2023).</p>
+    </div>
+    </br>
+
+    - ### LV11 - Aumentar Volume
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Aumentar volume | [Rafael Bosi](https://github.com/StrangeUnit28) | É a ação de ampliar o som do **vídeo (LO09)** | Permite ao **usuário (LO10)** ampliar o som do **vídeo (LO09)** para uma melhor audição | Ampliar som | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 27: Léxico de aumentar volume (Fonte: BOSI, Rafael. 2023).</p>
+    </div>
+    </br>
+
+    - ### LV12 - Diminuir Volume
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Diminuir volume | [Rafael Bosi](https://github.com/StrangeUnit28) | É a ação de deduzir o som do **vídeo (LO09)** | Permite ao **usuário (LO10)** deduzir o som do **vídeo (LO09)** para que fique em uma altura confortável | Deduzir som | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 28: Léxico de diminuir volume (Fonte: BOSI, Rafael. 2023).</p>
+    </div>
+    </br>
+
+    - ### LV13 - Mutar
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Mutar | [Rafael Bosi](https://github.com/StrangeUnit28) | É a ação de desligar o deligar o **volume (LO)** do **vídeo (LO09)** | O **usuário (LO10)** pode **assistir (LV011)** ao **vídeo (LO09)** sem som | Silenciar | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 29: Léxico de mutar (Fonte: BOSI, Rafael. 2023).</p>
     </div>
     </br>
 
