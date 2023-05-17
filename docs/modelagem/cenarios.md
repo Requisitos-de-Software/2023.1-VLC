@@ -1,5 +1,3 @@
-<div class="body">
-
 # Cenários
 
 ## Introdução
@@ -263,5 +261,3 @@
 | Versão |    Data    |            Descrição           |      Autor      |     Revisor      |
 | :----: | :--------: | :----------------------------: | :-------------: | :--------------: |
 |  1.0   | 10/05/2023 | Início do artefato de cenários | [Bruno Ribeiro](github.com/BrunoRiibeiro) e [Igor Penha](github.com/igorpenhaa) | [Lucas Gobbi](github.com/LucasBergholz)  |
-  
-</div> 
