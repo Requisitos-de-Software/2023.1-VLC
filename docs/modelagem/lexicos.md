@@ -362,7 +362,7 @@
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Mutar | [Rafael Bosi](https://github.com/StrangeUnit28) | É a ação de desligar o deligar o **volume (LO)** do **vídeo (LO09)** | O **usuário (LO10)** pode **assistir (LV011)** ao **vídeo (LO09)** sem som | Silenciar | Verbo |
+    | Mutar | [Rafael Bosi](https://github.com/StrangeUnit28) | É a ação de desligar o deligar o **volume (LO11)** do **vídeo (LO09)** | O **usuário (LO10)** pode **assistir (LV011)** ao **vídeo (LO09)** sem som | Silenciar | Verbo |
 
     <div style="text-align: center">
     <p> Tabela 29: Léxico de mutar (Fonte: BOSI, Rafael. 2023).</p>
