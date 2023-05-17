@@ -25,6 +25,11 @@
   - [In or Out](elicitacao/in_or_out.md)
   - [MoSCoW](elicitacao/moscow.md)
   - [Priorização](elicitacao/priorizacao.md)
+- [Modelagem](#)
+  - [Casos de Uso](modelagem/casos_de_uso.md)
+  - [Cenários](modelagem/cenarios.md)
+  - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
+  - [Léxicos](modelagem/lexicos.md)
   
 <!-- [Pré-Rastreabilidade]
 - [Modelagem]
