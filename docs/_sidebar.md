@@ -7,6 +7,7 @@
   - [Reunião 02](atas/reuniao02.md)
   - [Reunião 03](atas/reuniao03.md)
   - [Reunião 04](atas/reuniao04.md)
+  - [Reunião 05](atas/reuniao05.md)
 - [Planejamento](#)
   - [App Selecionado](planejamento/app_selecionado.md)
   - [Cronograma](planejamento/cronograma.md)
@@ -24,6 +25,11 @@
   - [In or Out](elicitacao/in_or_out.md)
   - [MoSCoW](elicitacao/moscow.md)
   - [Priorização](elicitacao/priorizacao.md)
+- [Modelagem](#)
+  - [Casos de Uso](modelagem/casos_de_uso.md)
+  - [Cenários](modelagem/cenarios.md)
+  - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
+  - [Léxicos](modelagem/lexicos.md)
   
 <!-- [Pré-Rastreabilidade]
 - [Modelagem]
