@@ -127,7 +127,7 @@
 | Episódios | Usuário inicia a aplicação pela primeira vez<br>Usuário lê os termos de privacidade e uso do app<br>Usuário concorda com os termos<br>Usuário pode ficar tranquilo que seus dados não serão coletados pelo app |
 | Exceção   | Smartphone descarregado<br>Smartphone é danificado de alguma forma |
 
-<figcaption align="center">Tabela 8: Cenário 7 (Fonte: REIBEIRO, Bruno 2023).</figcaption>
+<figcaption align="center">Tabela 8: Cenário 7 (Fonte: RIBEIRO, Bruno 2023).</figcaption>
 
 ---
 
