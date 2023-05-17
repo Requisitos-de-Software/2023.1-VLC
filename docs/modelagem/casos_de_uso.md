@@ -4,7 +4,7 @@
 
 <div style="text-align:justify">
 
-O diagrama de casos, também chamado de diagrama comportamental, na notação da UML, tem como proposta documentar a maneira como o sistema deve se comportar do ponto de vista do usuário externo, dessa forma descrevendo um conjunto de ações do sistema, ou conjunto deles [1].
+O diagrama de casos, também chamado de diagrama comportamental, na notação da UML, tem como proposta documentar a maneira como o sistema deve se comportar do ponto de vista do usuário externo, utilizando dos lexos levantados para elaboração dos casos de uso, dessa forma descrevendo um conjunto de ações do sistema[1].
  
 Dentro do diagrama de casos de uso, cada caso de uso deve provê um resultado observável para o usuário que o manuseia [1]. Certos casos que necessitam de uma maior especificação, é sugerido utilizar uma abordagem mais apelativa e voltada para a linguagem natural, tal abordagem já consolidada pela comunidade desenvolvedora é chamada de especificação de casos de uso.
 
@@ -12,13 +12,13 @@ Dentro do diagrama de casos de uso, cada caso de uso deve provê um resultado ob
 
 ## Metodologia 
 <div style="text-align:justify">
-Para criação do artefato, foi utilizada uma abordagem clássica, ou seja, realizando a elaboração de um diagrama de casos de uso UML. Foi utilizada a ferramenta <a href="https://www.lucidchart.com/pages/pt">LucidChart</a>, que é um software voltada para diagramação no geral.
+Para criação do artefato, foi utilizada uma abordagem clássica, ou seja, realizando a elaboração de um diagrama de casos de uso UML. Foi utilizada a ferramenta <a href="https://www.lucidchart.com/pages/pt">LucidChart</a>, que é um software voltada para diagramação no geral. 
 </div>
 
 ## Componentes e símbolos
 <div style="text-align:justify">
 
-Um diagrama de casos de uso possui os seguintes elementos em sua composição. Onde será explicado cada um deles para proporcionar uma maior compreensão do diagrama. 
+Um diagrama de casos de uso possui os seguintes elementos em sua composição. Onde será explicado cada um deles para proporcionar uma maior compreensão do diagrama.
 
 </div>
 
@@ -122,7 +122,7 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 1: Especificação do caso de uso: Mídia. (Fonte: Mizael Santos, 2023).</p>
+<p> Tabela 1: Especificação do caso de uso: Mídia. (Fonte: SANTOS, Mizael. 2023).</p>
 </div>
 
 ### UC02. Playback
@@ -141,7 +141,7 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 2: Especificação do caso de uso: Playback. (Fonte: Mizael Santos, 2023).</p>
+<p> Tabela 2: Especificação do caso de uso: Playback. (Fonte: SANTOS, Mizael. 2023).</p>
 
 ### UC03. Áudio
 
@@ -159,7 +159,7 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 3: Especificação do caso de uso: Áudio. (Fonte: Mizael Santos, 2023).</p>
+<p> Tabela 3: Especificação do caso de uso: Áudio. (Fonte: SANTOS, Mizael. 2023).</p>
 </div>
 
 </div>
@@ -180,7 +180,7 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 4: Especificação do caso de uso: Legenda. (Fonte: Mizael Santos, 2023).</p>
+<p> Tabela 4: Especificação do caso de uso: Legenda. (Fonte: SANTOS, Mizael. 2023).</p>
 </div>
 
 ### UC05. Vídeo
@@ -189,17 +189,17 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 | -: | :- |
 | **Atores** | Usuário |
 | **Frequência de uso** | Média |
-| **Requisitos** | Manipular opções do vídeo, resoluçao, tela cheia, zoom |
+| **Requisitos** | Manipular opções do vídeo, resolução, tela cheia, zoom |
 | **Condição de entrada** | O usuário seleciona uma das opções para a mídia executada |
-| **Fluxo principal** | <ol> <li> O usuário clicka em uma das opções de ajuste de tela </ol> |
+| **Fluxo principal** | <ol> <li> O usuário clica em uma das opções de ajuste de tela </ol> |
 | **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clicka tela cheia</b> <ol> <li> O sistema muda para tela cheia </ol> <b> Fluxo 2: O usuário clicka em selecionar uma das opções de zoom </b> <ol> <li> O sistema abre uma janela em cascata que mostra as opções disponíveis para ampliar a imagem da mídia executada <ul> <li> 1:4 <li> 1:2 <li> 1:1 Original <li> 2:1 </ul> </ol> <b> Fluxo 3: O usuários clicka em ajuste de tela</b> <ol> <li> O sistema abre uma janela em cascata que mostra as opções disponíveis para ajustar o tamanho de tela do dispositivo <ul> <li> Caso o usuário não selecione um tamanho de tela, o sistema usa um tamanho de tela padronizado pelo dispositivo em que é executado </ul> </ol> |
-| **Pós condições** | O usuários visualiza a nova as novas modificações do sistema |
+| **Fluxos de exceção** | <b>Fluxo 1: O Usuário clica em tela cheia</b> <ol> <li> O sistema muda para tela cheia </ol> <b> Fluxo 2: O usuário clica em selecionar uma das opções de zoom </b> <ol> <li> O sistema abre uma janela em cascata que mostra as opções disponíveis para ampliar a imagem da mídia executada <ul> <li> 1:4 <li> 1:2 <li> 1:1 Original <li> 2:1 </ul> </ol> <b> Fluxo 3: O usuário clica em ajuste de tela</b> <ol> <li> O sistema abre uma janela em cascata que mostra as opções disponíveis para ajustar o tamanho de tela do dispositivo <ul> <li> Caso o usuário não selecione um tamanho de tela, o sistema usa um tamanho de tela padronizado pelo dispositivo em que é executado </ul> </ol> |
+| **Pós condições** | O usuário visualiza as novas modificações do sistema |
 | **Data da criação** | 15/05/2023 |
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 5: Especificação do caso de uso: Vídeo. (Fonte: Mizael Santos, 2023).</p>
+<p> Tabela 5: Especificação do caso de uso: Vídeo. (Fonte: ALVISSUS, Giovanni e SANTOS, Mizael. 2023).</p>
 </div>
 
 ### UC06. Ajuda
@@ -218,7 +218,58 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 | **Rastreabilidade** |  |
 
 <div style="text-align: center">
-<p> Tabela 6: Especificação do caso de uso: Ajuda. (Fonte: Mizael Santos, 2023).</p>
+<p> Tabela 6: Especificação do caso de uso: Ajuda. (Fonte: SANTOS, Mizael. 2023).</p>
+</div>
+
+| UC07 | Play |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Iniciar a reprodução de mídia |
+| **Condição de entrada** | O usuário seleciona a opção de reprodução |
+| **Fluxo principal** | <ol> <li> O usuário clica no botão de reprodução <li> O sistema inicia a reprodução da mídia </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | - |
+| **Pós-condições** | A mídia começa a ser reproduzida |
+| **Data da criação** | 15/05/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 7: Especificação do caso de uso: Play. (Fonte: ALVISSUS, Giovanni. 2023).</p>
+</div>
+
+| UC08 | Pausar |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Pausar a reprodução de mídia |
+| **Condição de entrada** | O usuário seleciona a opção de pausar |
+| **Fluxo principal** | <ol> <li> O usuário clica no botão de pausar <li> O sistema pausa a reprodução da mídia </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | - |
+| **Pós-condições** | A mídia é pausada |
+| **Data da criação** | 15/05/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 8: Especificação do caso de uso: Pausar. (Fonte: ALVISSUS, Giovanni. 2023).</p>
+</div>
+
+| UC09 | Navegação |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Navegar na mídia em reprodução |
+| **Condição de entrada** | O usuário seleciona a opção de navegação |
+| **Fluxo principal** | <ol> <li> O usuário utiliza os controles de navegação (avançar/retroceder) <li> O sistema atualiza a posição da mídia </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | - |
+| **Pós-condições** | A posição da mídia é atualizada |
+| **Data da criação** | 15/05/2023 |
+| **Rastreabilidade** |  |
+
+<div style="text-align: center">
+<p> Tabela 9: Especificação do caso de uso: Navegação. (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
 ## Bibliografia
@@ -229,6 +280,8 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 
 ## Histórico de Versão
 
-| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |   16/05/2023  |        Criação do documento | Mizael Santos | Rafael Bosi |
+| Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
+| :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
+| `1.1` | 16/05/2023 | 17/05/2023 | Criando o artefato | [Mizael Santos](https://github.com/frmiza) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| `1.1` | 17/05/2023 | 17/05/2023 | Adição de tabelas e padronização | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+
