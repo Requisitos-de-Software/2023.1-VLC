@@ -3,15 +3,16 @@
 ## Introdução
 
 <div style="text-align:justify">
-O diagrama de casos, também chamado de diagrama comportamental, na notação da UML, tem como proposta documentar a maneira como o sistema deve se comportar do ponto de vista do usuário externo, dessa forma descrevendo um conjunto de ações do sistema, ou conjunto deles[1].
+
+O diagrama de casos, também chamado de diagrama comportamental, na notação da UML, tem como proposta documentar a maneira como o sistema deve se comportar do ponto de vista do usuário externo, dessa forma descrevendo um conjunto de ações do sistema, ou conjunto deles [1].
  
-Dentro do diagrama de casos de uso, cada caso de uso deve provê um resultado observável para o usuário que o manuseia [1]. Certos casos que necessitam de uma maior especificação, é sugerido utilizar uma abordagem mais apelativa e voltada para a linguagem natural, tal abordagem já consolidada pela comunidade desenvolvedora é chamada de especificação de casos de uso. 
+Dentro do diagrama de casos de uso, cada caso de uso deve provê um resultado observável para o usuário que o manuseia [1]. Certos casos que necessitam de uma maior especificação, é sugerido utilizar uma abordagem mais apelativa e voltada para a linguagem natural, tal abordagem já consolidada pela comunidade desenvolvedora é chamada de especificação de casos de uso.
 
 </div>
 
 ## Metodologia 
 <div style="text-align:justify">
-Para criação do artefato, foi utilizada uma abordagem clássica, ou seja, realizando a elaboração de um diagrama de casos de uso UML. Foi utilizada a ferramenta [LucidChart](https://www.lucidchart.com/pages/pt), que é um software voltada para diagramação no geral.
+Para criação do artefato, foi utilizada uma abordagem clássica, ou seja, realizando a elaboração de um diagrama de casos de uso UML. Foi utilizada a ferramenta <a href="https://www.lucidchart.com/pages/pt">LucidChart</a>, que é um software voltada para diagramação no geral.
 </div>
 
 ## Componentes e símbolos
@@ -54,7 +55,7 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 
 </div>
 
-### Caso de uso
+### Casos de uso
 <div style="text-align:justify">
 
 <p align="justify">Caso de uso é uma atuação ou funcionalidade realizada pelo usuário, ator.Geralmente são definidos por um objeto na forma oval horizontal (Figura 3), onde cada representação é um uso diferente que o usuário pode ter com o sistema.Por se tratar de ações realizadas, comumente se usa o uso de verbos no infinitivo para descrevê-las. </p>
@@ -103,7 +104,7 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 <p> <b>Figura 5</b>: Elemento comunicação (Fonte: Mizael Santos, 2023). </p>
 </div>
 
-<p align="justify">A seguir, a especificação dos casos de uso identificados.</p>
+<p align="justify">A seguir, a especificação dos casos de uso identificados com 'UC' (Use case) seguido por uma enumeração.</p>
 
 ### UC01. Media
 
@@ -124,6 +125,8 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 <p> Tabela 1: Especificação do caso de uso: Mídia. (Fonte: Mizael Santos, 2023).</p>
 </div>
 
+### UC02. Playback
+
 | UC02 | Playback |
 | -: | :- |
 | **Atores** | Usuário |
@@ -139,6 +142,8 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 
 <div style="text-align: center">
 <p> Tabela 2: Especificação do caso de uso: Playback. (Fonte: Mizael Santos, 2023).</p>
+
+### UC03. Áudio
 
 | UC03 | Áudio |
 | -: | :- |
@@ -159,6 +164,8 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 
 </div>
 
+### UC04. Legenda
+
 | UC04 | Legenda |
 | -: | :- |
 | **Atores** | Usuário |
@@ -176,6 +183,8 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 <p> Tabela 4: Especificação do caso de uso: Legenda. (Fonte: Mizael Santos, 2023).</p>
 </div>
 
+### UC05. Vídeo
+
 | UC05 | Vídeo |
 | -: | :- |
 | **Atores** | Usuário |
@@ -192,6 +201,8 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 <div style="text-align: center">
 <p> Tabela 5: Especificação do caso de uso: Vídeo. (Fonte: Mizael Santos, 2023).</p>
 </div>
+
+### UC06. Ajuda
 
 | UC06 | Ajuda |
 | -: | :- |
@@ -220,6 +231,4 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |   10/05/2023  |        Criação inicial do documento | Mizael Santos | Rafael Bosi |
-| `1.1`  |   10/05/2023  |        Criação dos casos de uso | Mizael Santos | Rafael Bosi |
-| `1.2`  |   10/05/2023  |        Criação das tabelas de casos de uso | Mizael Santos | Rafael Bosi |
+| `1.0`  |   16/05/2023  |        Criação do documento | Mizael Santos | Rafael Bosi |
