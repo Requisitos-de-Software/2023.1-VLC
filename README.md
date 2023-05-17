@@ -72,4 +72,4 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 | :--------: | :----: | :----------------------------: | :--------------: | :-------------: | :----------: |
 | 13/04/2023 | `1.0`  | Versão inicial de documento | [Rafael Bosi](https://github.com/StrangeUnit28) | 16/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 23/04/2023 | `1.1`  | Atualização das datas de revisão | [Rafael Bosi](https://github.com/StrangeUnit28) | 24/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
-| 17/05/2023 | `2.0`  | Removendo integrande e corrigindo padrao de histórico | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 17/05/2023 | `2.0`  | Removendo integrande e corrigindo padrao de histórico | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 17/05/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
