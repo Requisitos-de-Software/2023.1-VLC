@@ -19,6 +19,14 @@
 
 <div style="text-align:center"> Vídeo 02: Pronto de controle 02 (ALVISSUS, Giovanni. 2023). </div>
 
+## Apresentação 03
+
+<div style="text-align:justify"> O vídeo 03 é referente ao ponto de controle 03 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/z9aMcVA0C4s" title="Ponto de controle 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div style="text-align:center"> Vídeo 03: Pronto de controle 03 (GOBBI, Lucas. 2023). </div>
+
 
 
 ## Histórico de versão
