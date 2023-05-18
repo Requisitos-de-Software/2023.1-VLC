@@ -3,14 +3,14 @@
 ## Introdução
 
 <p align="justify">
-Esse documento visa registrar o acontecimento da 4ª reunião do grupo 3, registrar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube (Vídeo 1).
+Esse documento visa registrar o acontecimento da 5ª reunião do grupo 3, registrar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube (Vídeo 1).
 </p>
 
 <br />
 
 |                                          Alunos presentes                                    |    Data    | Horário de inicio e fim |      Local       |
 | :------------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Bruno Ribeiro, Francisco Mizael, Giovanni Alvissus, </br>Igor Penha, Lucas Gobbi e Rafael Bosi | 24/04/2023 |      19:09 - 19:16      | Plataforma Teams |
+| Bruno Ribeiro, Francisco Mizael, Giovanni Alvissus, </br>Igor Penha, Lucas Gobbi e Rafael Bosi | 10/05/2023 |      19:09 - 19:16      | Plataforma Teams |
 
 <div style="text-align: center">
 <p> Tabela 1: Dados da reunião (Fonte: PENHA, Igor 2023). </p>
