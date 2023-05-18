@@ -71,8 +71,7 @@ A tabela 1 apresentada abaixo é uma lista dos requisitos de software levantados
 
 - 1library. *Engenharia de Requisitos*. Disponívem em: <https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq>. Acesso em: 29 abr. 2023.
 
-## Histórico de Versão
-
-| Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
-| :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 29/04/2023 | 30/04/2023 | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 29/04/2023 | `1.0` | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | 30/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
