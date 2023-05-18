@@ -57,7 +57,7 @@ Dialogo sobre como iria funcionar a etapa 4, reunião semanal de grupo.Por fim, 
 
 ## Link da gravação
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/uxH9fbh6o8Y" title="Reunião 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/xRMy3WY77so" title="Reunião 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 1</b>: gravação da reunião 6 (Fonte: Grupo. 2023).</p>
 </div>
