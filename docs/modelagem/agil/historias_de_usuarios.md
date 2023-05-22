@@ -28,7 +28,7 @@
 
 &emsp;&emsp;Para desenvolver as histórias de usuários utilizamos os requisitos elicitados em etapas anteriores que seriam de interesse do usuário, além disso para validar as histórias contamos com um usuário do VLC mídia player.
 
-&emsp;&emsp;O usuário que colaborou com a validação das histórias... 
+&emsp;&emsp;O usuário que colaborou com a validação das histórias foi o Fernando Mendes, ex-aluno da UnB formado em Engenharia Aeroespacial. O entrevistado utiliza o VLC de maneira ocasional e especialmente para organizar seus vídeos em pastas e playlists.
 
 ## Especificação das histórias de usuário
 
