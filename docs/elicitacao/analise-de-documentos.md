@@ -87,11 +87,10 @@ A tabela 1 disposta abaixo representa todos os requisitos levantados durante a a
 - VideoLAN. *VLC Security Bulletins*. Disponível em: <https://www.videolan.org/security/>. Acesso em: 29 abr. 2023.
 - VideoLAN. *VLC Privacy Policy*. Disponível em: <https://www.videolan.org/vlc/privacy.html>. Acesso em: 29 abr. 2023.
 
-## Histórico de Versão
-
-| Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
-| :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 29/04/2023 | 30/04/2023 | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 29/04/2023 | `1.0` | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | 30/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 
 

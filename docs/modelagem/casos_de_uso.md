@@ -278,10 +278,9 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 [2] Ferramenta Lucidchart, disponível no <a href="https://www.lucidchart.com/pages/pt">link</a>. Acessado em 13 de maio. de 2023.
 </div>
 
-## Histórico de Versão
-
-| Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
-| :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.1` | 16/05/2023 | 17/05/2023 | Criando o artefato | [Mizael Santos](https://github.com/frmiza) | [Rafael Bosi](https://github.com/StrangeUnit28) |
-| `1.1` | 17/05/2023 | 17/05/2023 | Adição de tabelas e padronização | [Giovanni Alvissus](https://github.com/giovanni1106) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 16/05/2023 | `1.1` | Criando o artefato | [Mizael Santos](https://github.com/frmiza) | 17/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 17/05/2023 | `1.1` | Adição de tabelas e padronização | [Giovanni Alvissus](https://github.com/giovanni1106) | 17/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
