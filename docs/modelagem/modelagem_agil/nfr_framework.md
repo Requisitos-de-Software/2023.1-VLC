@@ -35,6 +35,7 @@ Como foi descrito acima, neste documento o NFR framework é utilizado para repre
 
 Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals:
 
+- Confiabilidade;
 - Desempenho;
 - Suportabilidade;
 - Usabilidade.
@@ -53,6 +54,22 @@ Anteriormente já mencionada, a legenda é o padrão de representação, que aux
 ## 4. NFRs
 
 A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados sobre Confiabilidade(imagem 2 e 3), Desempenho(imagem 4 e 5), Suportabilidade(imagem 6 e 7) e Usabilidade(imagem 8 e 9). Foi utilizado a ferramenta <a href="https://app.diagrams.net">draw.io</a> para a criação dos SIGs.
+
+### <a>Confiabilidade</a>
+
+<figcaption align='center'>
+ <h4> <b>imagem 4 – Diagrama SIG 02 - Confiabilidade</b><br>
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_confiabilidade.png" width="100%">
+  Fonte: RIBEIRO, Bruno. 2023</h4>
+</figcaption>
+
+### <a>Análise Confiabilidade</a>
+
+<figcaption align='center'>
+ <h4> <b>imagem 5 – Análise diagrama SIG 02 - Confiabilidade </b><br>
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_confiablidade_check.png" width="100%">
+  Fonte: RIBEIRO, Bruno. 2023</h4>
+</figcaption> <br><br>
 
 ### <a>Desempenho</a>
 
