@@ -78,14 +78,16 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 
 <figcaption align='center'>
  <h4> <b>imagem 4 – Diagrama SIG 02 - Desempenho</b><br>
-  Fonte: Autores </h4>
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_desempenho.png" width="100%">
+  Fonte: RIBEIRO, Bruno. 2023</h4>
 </figcaption>
 
 ### <a>Análise Desempenho</a>
 
 <figcaption align='center'>
  <h4> <b>imagem 5 – Análise diagrama SIG 02 - Desempenho </b><br>
-  Fonte: Autores </h4>
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_desempenho_check.png" width="100%">
+  Fonte: RIBEIRO, Bruno. 2023</h4>
 </figcaption> <br><br>
 
 
@@ -95,14 +97,16 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 
 <figcaption align='center'>
  <h4> <b>imagem 6 – Diagrama SIG 03 - Suportabilidade</b><br>
-  Fonte: Autores </h4>
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_suportabilidade.png" width="100%">
+  Fonte: RIBEIRO, Bruno. 2023</h4>
 </figcaption>
 
 ### <a>Análise Suportabilidade</a>
 
 <figcaption align='center'>
- <h4> <b>imagem 7 – Análise diagrama SIG 03 - Suportabilidade </b><br>
-  Fonte: Autores </h4>
+ <h4> <b>imagem 7 – Análise diagrama SIG 03 - Suportabilidade </b><br> 
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_suportabilidade_check.png" width="100%">
+  Fonte: RIBEIRO, Bruno. 2023</h4>
 </figcaption> <br><br>
 
 
@@ -111,14 +115,16 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 
 <figcaption align='center'>
  <h4> <b>imagem 8 – Diagrama SIG 04 - Usabilidade</b><br>
-  Fonte: Autores </h4>
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_usabilidade.png" width="100%">
+  Fonte: RIBEIRO, Bruno. 2023</h4>
 </figcaption>
 
 ### <a>Análise Usabilidade</a>
 
 <figcaption align='center'>
  <h4> <b>imagem 9 – Análise diagrama SIG 04 - Usabilidade </b><br>
-  Fonte: Autores </h4>
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_usabilidade_check.png" width="100%">
+  Fonte: RIBEIRO, Bruno. 2023</h4>
 </figcaption> <br><br>
 
 </div>
@@ -133,5 +139,6 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 21/05/2023 | `1.0`  | Criação do documento de NFR | [Igor Penha](https://github.com/igorpenhaa)  | 22/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 22/05/2023 | `1.1`  | add diagramas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 22/05/2023 |[Lucas Gobbi](https://github.com/LucasBergholz) |
 
 </div>
