@@ -28,7 +28,7 @@
 
 &emsp;&emsp;Para desenvolver as histórias de usuários utilizamos os requisitos elicitados em etapas anteriores que seriam de interesse do usuário, além disso para validar as histórias contamos com um usuário do VLC mídia player.
 
-&emsp;&emsp;O usuário que colaborou com a validação das histórias foi o Fernando Mendes, ex-aluno da UnB formado em Engenharia Aeroespacial. O entrevistado utiliza o VLC de maneira ocasional e especialmente para organizar seus vídeos em pastas e playlists.
+&emsp;&emsp;O usuário que colaborou com a validação das histórias foi o Fernando Mendes, ex-aluno da UnB formado em Engenharia Aeroespacial. O entrevistado utiliza o VLC de maneira ocasional e especialmente para organizar seus vídeos em pastas e playlists. Na entrevista para validação das Histórias de Usuários, Fernando foi questionado se as histórias presentes nesse documento são pertinentes e condisentes com o escopo do VLC, além disso, o entrevistado também respondeu se as história eram válidas para o uso que ele faz do aplicativo.
 
 ## Especificação das histórias de usuário
 
@@ -46,7 +46,7 @@
 
         - A aplicação deve funcionar nos sistemas operacionais Android e IOS.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que para o escopo do aplicativo a história é válida, porém que para o uso que ele realiza não.
 
 - ### Segurança de dados
 
@@ -64,7 +64,7 @@
 
         - Deve ser seguro contra fraudes e violações.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Receber feedback do vídeo
 
@@ -82,7 +82,7 @@
 
         - A opção deve estar presente como uma barra de progresso clicável. 
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Mudar o idioma
 
@@ -100,7 +100,7 @@
 
         - Deve ser possível modificar a qualquer momento, independente de acesso a internet ou não. 
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Reprodução de mídia
 
@@ -124,7 +124,7 @@
 
         - O aplicativo deve permitir que o usuário reproduza vídeos em tela cheia para uma experiência de visualização. 
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Reprodução de mídia sem internet
 
@@ -146,7 +146,7 @@
 
         - A reprodução de vídeos sem internet deve ser estável e suave, garantindo uma experiência de visualização de alta qualidade.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Ver o tutorial
 
@@ -164,7 +164,7 @@
         - A opção deve estar presente a qualquer momento na aba de ajuda;
         - O tutorial deve possuir uma linguagem de fácil entendimento. 
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que para o escopo do aplicativo a história é válida, porém que para o uso que ele realiza não.
 
 - ### Lista de reprodução
 
@@ -188,7 +188,7 @@
 
         - Deve haver opções de filtragem e classificação para ajudar o usuário a encontrar vídeos específicos na lista de reprodução.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Interface amigavel
 
@@ -212,7 +212,7 @@
 
         - A interface deve ser responsiva, adaptando-se a diferentes tamanhos de tela e dispositivos.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Reprodução de músicas
 
@@ -236,7 +236,7 @@
 
         - O aplicativo deve fornecer informações sobre a música em reprodução, como título, artista, álbum e duração.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que para o escopo do aplicativo a história é válida, porém que para o uso que ele realiza não.
 
 - ### Aba de ajuda
 
@@ -254,7 +254,7 @@
         - A aba de ajuda deve possuir dúvidas frequentes e suas respostas;
         - A aba de ajuda deve possuir uma opção de contato direto ao SAC(suporte ao consumidor).
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que para o escopo do aplicativo a história é válida, porém que para o uso que ele realiza não.
 
 - ### Ver diferentes formatos de vídeo
 
@@ -271,7 +271,7 @@
         - O app deve reproduzir com qualidade vídeos de formatos diferentes;
         - O app deve declarar quais tipos de vídeo são suportados.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Playlists
 
@@ -297,7 +297,7 @@
 
         - O aplicativo deve fornecer controles de reprodução básicos, como reproduzir, pausar, avançar e retroceder.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Compartilhar arquivos
 
@@ -315,7 +315,7 @@
         - Deve compartilhar para outros aplicativos, como whatsapp, telegram, gmail, dentre outros;
         - Deve compartilhar o vídeo com o mesmo tamanho e formato que ele possui.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que para o escopo do aplicativo a história é válida, porém que para o uso que ele realiza não.
 
 - ### Mudar a velocidade de reprodução
 
@@ -333,7 +333,7 @@
         - Deve possibilitar mudar para algumas velocidades diferentes, como 0.75x, 1.5x, 2x, dentre outras;
         - Deve possibilitar tanto desacelerar quanto acelerar.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Navegar por Touch Screen
 
@@ -351,7 +351,7 @@
         - Deve mudar onde está o vídeo (sua duração);
         - Deve ter sensibilidade adequada, para que não ocorram mudanças drásticas com o toque.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Adicionar legenda
 
@@ -369,7 +369,7 @@
         - Deve poder mudar a posição da legenda na tela;
         - Deve poder mudar o tempo de aparição da legenda para que encaixe com o vídeo.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 - ### Conversão de formatos de arquivo
 
@@ -393,7 +393,7 @@
 
         - O VLC deve garantir que a conversão de formatos de arquivo seja precisa e de alta qualidade, preservando a integridade do áudio e vídeo durante o processo de conversão.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que para o escopo do aplicativo a história é válida, porém que para o uso que ele realiza não.
 
 - ### Reprodução de mídia de alta resolução
 
@@ -415,12 +415,11 @@
 
         - O VLC deve ser capaz de lidar com arquivos de mídia de grande tamanho, sem problemas de carregamento lento ou travamento do aplicativo.
 
-    - **Válida:** -
+    - **Válida:** Na entrevista o usuário afirmou que tanto para seu uso quanto para o escopo do aplicativo a história é válida.
 
 ## Gravação da Validação das Histórias
 
-&emsp;&emsp;Vídeo da validação das histórias de usuários
-
+<iframe width="560" height="315" src="https://youtu.be/mfqQFyGEhC4" title="Entrevista de validação das Histórias de Usuários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia
 
