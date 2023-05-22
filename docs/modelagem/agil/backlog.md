@@ -1,9 +1,10 @@
 # Backlog do Produto
+
 ## Introdução
 
 <div style="text-align:justify">
-<p>O backlog do produto consiste em uma lista de priorização de pendências a serem desenvolvidas pela equipe, comumente utilizada em práticas ágeis,  a listagem é advinda dos requisitos licitados. Os itens na lista do backlog devem ser ordenados de forma crescente, ou seja dos com maior prioridade para os com menor, isso permite um planejamento melhor das sprints em técnicas ágeis[1].</p>
-<p>É importante salientar que novos itens importantes podem compor o backlog a qualquer etapa do desenvolvimento. Os requisitos associados ao backlog podem ser fragmentados em diferentes níveis de abstração, e hierárquicos, sendo eles épicos, temas e histórias de usuário[2].</p>
+<p>&emsp;&emsp; O backlog do produto consiste em uma lista de priorização de pendências a serem desenvolvidas pela equipe, comumente utilizada em práticas ágeis,  a listagem é advinda dos requisitos licitados. Os itens na lista do backlog devem ser ordenados de forma crescente, ou seja dos com maior prioridade para os com menor, isso permite um planejamento melhor das sprints em técnicas ágeis[1].</p>
+<p>&emsp;&emsp; É importante salientar que novos itens importantes podem compor o backlog a qualquer etapa do desenvolvimento. Os requisitos associados ao backlog podem ser fragmentados em diferentes níveis de abstração, e hierárquicos, sendo eles épicos, temas e histórias de usuário[2].</p>
 </div>
 
 ## Vantagens de usar o backlog 
@@ -21,11 +22,11 @@
 
 ## Metodologia
 <div style="text-align:justify">
-<p>Para a metodologia foi utilizado o microsoft excel para organizar o agrupamento, em temas e épico dos requisitos funcionais, partindo da análise e verificação dos mesmos elicitados. Posteriormente os dados foram transferidos para o artefato em questão. </p>
+<p>&emsp;&emsp; Para a metodologia foi utilizado o microsoft excel para organizar o agrupamento, em temas e épico dos requisitos funcionais, partindo da análise e verificação dos mesmos elicitados. Posteriormente os dados foram transferidos para o artefato em questão. </p>
 
 ## Requisitos Elicitados
 <div style="text-align:justify">
-<p>Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
+<p>&emsp;&emsp; Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
 
 ### 3.1. Funcionalidades
 
@@ -43,6 +44,10 @@
 | RE14 | Possibilitar a reprodução de mídia a partir de dispositivos externos (USB, etc.). | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
 | RE15 | Permitir o compartilhamento de mídia com outros dispositivos (DLNA, Chromecast, etc.). | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
 
+<div align="center">
+<p> <b>Tabela 1</b>: Funcionalidades (Fonte: autores, 2023). </p>
+</div>
+
 ### 3.2. Interface de Usuário
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
@@ -51,11 +56,19 @@
 | RE19 | Deve possuir uma interface de usuário personalizável.                    | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
 | RE20 | A interface de usuário deve ser responsiva em diferentes tamanhos de tela. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
 
+<div align="center">
+<p> <b>Tabela 2</b>: Interface de usuário (Fonte: autores, 2023). </p>
+</div>
+
 ### 3.3. Requisitos de Armazenamento
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
 | RE09 | O aplicativo deve ocupar um espaço de armazenamento razoável.            | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
+
+<div align="center">
+<p> <b>Tabela 3</b>: Requisitos de Armazenamento (Fonte: autores, 2023). </p>
+</div>
 
 ### 3.4. Desempenho
 
@@ -64,6 +77,10 @@
 | RE10 | Eu, como usuário, gostaria que o aplicativo seja rápido ao carregar e reproduzir vídeos. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
 | RE16 | Eu, como usuário, gostaria que o aplicativo não consuma muita bateria do dispositivo. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
 | RE26 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+
+<div align="center">
+<p> <b>Tabela 4</b>: Desempenho (Fonte: autores, 2023). </p>
+</div>
 
 ### 3.5. Segurança e Privacidade
 
@@ -74,17 +91,15 @@
 | RE33 | Risco de vulnerabilidades e exploits de segurança conhecidos.           | [ADD](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) |
 | RE34 | Risco de violação de privacidade do usuário e coleta de dados invasiva. | [ADD](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) |
 
-
-
 <div align="center">
-<p> <b>Tabela 1</b>: Requisitos funcionais elicitados (Fonte: autores, 2023). </p>
+<p> <b>Tabela 5</b>: Segurança e Privacidade (Fonte: autores, 2023). </p>
 </div>
 
 ## Backlog 
 
 ### Temas 
 <div style="text-align:justify">
-    <p>Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em cinco grandes temas, que compõem o maior nível de abstração do backlog.</p>
+    <p>&emsp;&emsp; Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em cinco grandes temas, que compõem o maior nível de abstração do backlog.</p>
     <ul>
         <li> Reprodução de mídia
         <li> Biblioteca de mídia
@@ -92,14 +107,14 @@
         <li> Controles de reprodução
         <li> Gerenciamento de legendas
     </ul>
-    <p>Após a definição dos temas, os requisitos foram especificados em um maior nível de abstração, por meio dos épicos. Os épicos são histórias de usuário que ainda podem ser mais especificadas e foram escritos utilizando o mesmo padrão do utilizado nas histórias de usuário.</p>
+    <p>&emsp;&emsp; Após a definição dos temas, os requisitos foram especificados em um maior nível de abstração, por meio dos épicos. Os épicos são histórias de usuário que ainda podem ser mais especificadas e foram escritos utilizando o mesmo padrão do utilizado nas histórias de usuário.</p>
 </div>
 
 ### Épicos 
 
 <div style="text-align: justify">
 
-Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
+&emsp;&emsp; Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
 
 </div>
 
@@ -128,12 +143,61 @@ Para diminuir o nível de abstração expresso nos temas, foram registrados os �
     - Requisitos relacionados: RE30, RE31, RE33, RE34
     - Descrição: Este épico aborda os requisitos de segurança e privacidade do VLC. Inclui requisitos como garantia da segurança dos dados do usuário, prevenção de problemas de segurança relacionados à reprodução de arquivos de mídia, mitigação de riscos de vulnerabilidades e exploits de segurança conhecidos, e proteção contra violação de privacidade do usuário e coleta invasiva de dados.
 
+A tabela abaixo vai relacionar a prioridade de cada história indicando se ela é "Must" (Deve), "Could" (Poderia) ou "Would" (Gostaria).
+
+| História de Usuário | Épico                  | Prioridade |
+|--------------------|------------------------|----------------------------------------|
+| US01               | Épico 3: Armazenamento | Must       |
+| US02               | Épico 5: Segurança e Privacidade | Must       |
+| US03               | Épico 4: Desempenho    | Must       |
+| US04               | Épico 4: Desempenho    | Must       |
+| US05               | Épico 1: Reprodução de Mídia | Must  |
+| US06               | Épico 4: Desempenho    | Could      |
+| US07               | Épico 4: Desempenho    | Could      |
+| US08               | Épico 4: Desempenho    | Could      |
+| US09               | Épico 2: Interface de Usuário | Must |
+| US10               | Épico 4: Desempenho    | Could      |
+| US11               | Épico 4: Desempenho    | Could      |
+| US12               | Épico 4: Desempenho    | Could      |
+| US13               | Épico 4: Desempenho    | Could      |
+| US14               | Épico 4: Desempenho    | Could      |
+| US15               | Épico 4: Desempenho    | Could      |
+| US16               | Épico 4: Desempenho    | Could      |
+| US17               | Épico 4: Desempenho    | Could      |
+| US18               | Épico 4: Desempenho    | Could      |
+| US19               | Épico 4: Desempenho    | Could      |
+| US20               | Épico 4: Desempenho    | Could      |
+
+<div align="center">
+<p> <b>Tabela 6</b>: Backlog do produto (Fonte: autores, 2023). </p>
+</div>
+
+
+
+## Conclusão
+
+<div style="text-align: justify">
+
+&emsp;&emsp; O desenvolvimento do VLC deve priorizar as histórias de usuário identificadas como "Must" (Deve). Essas histórias são consideradas essenciais para atender aos requisitos e alcançar os objetivos estabelecidos para cada épico.
+
+&emsp;&emsp; As histórias de usuário classificadas como "Could" (Poderia) são opcionais, mas ainda oferecem valor significativo ao produto. Elas podem ser consideradas para inclusão no escopo do projeto, dependendo do tempo, recursos e prioridades gerais.
+
+&emsp;&emsp; As histórias de usuário marcadas como "Would" (Gostaria) são desejáveis, mas não são consideradas prioritárias neste momento. Elas podem ser consideradas para versões futuras do VLC ou como melhorias incrementais após a conclusão das histórias de usuário de maior prioridade.
+
+&emsp;&emsp; É importante revisar e ajustar as prioridades atribuídas às histórias de usuário de acordo com as necessidades e objetivos específicos do projeto. Essa tabela é uma base inicial e pode ser adaptada conforme a equipe e as partes interessadas revisam e refinam as prioridades e requisitos.
+
+&emsp;&emsp; Ao seguir essa abordagem, o desenvolvimento do VLC poderá se concentrar nas funcionalidades principais, como a reprodução de mídia, a interface de usuário amigável, o desempenho eficiente e os requisitos de segurança e privacidade. Isso ajudará a garantir que o produto atenda às expectativas dos usuários e atinja os objetivos definidos.
+
+</div>
+
 ## Bibliografia
-[1] RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: [Backlog](https://www.atlassian.com/br/agile/scrum/backlogs)
-[2] O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Backlog](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto) 
 
-## Histórico de Versão
+- RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: [Backlog](https://www.atlassian.com/br/agile/scrum/backlogs)
 
-| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 20/05/2023    | Criação do documento               | [Mizael Santos](https://github.com/frmiza) |  [Giovanni Alvissus](https://github.com/giovanni1106) |
+- O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Backlog](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto) 
+
+## Histórico de Versões
+|   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
+| :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
+| 20/05/2023   |  `1.0`  | Criação do documento               | [Mizael Santos](https://github.com/frmiza) | 22/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 22/05/2023   |  `1.1`  | Adicionando tabelas, épicos e priorização | [Giovanni Alvissus](https://github.com/giovanni1106) | - | - |
