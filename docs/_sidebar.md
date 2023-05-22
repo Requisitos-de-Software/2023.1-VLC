@@ -8,6 +8,7 @@
   - [Reunião 03](atas/reuniao03.md)
   - [Reunião 04](atas/reuniao04.md)
   - [Reunião 05](atas/reuniao05.md)
+  - [Reunião 06](atas/reuniao06.md)
 - [Planejamento](#)
   - [App Selecionado](planejamento/app_selecionado.md)
   - [Cronograma](planejamento/cronograma.md)
@@ -30,6 +31,10 @@
   - [Cenários](modelagem/cenarios.md)
   - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
   - [Léxicos](modelagem/lexicos.md)
+- [Modelagem Ágil](#)
+  - [Backlog](modelagem/agil/backlog.md)
+  - [Histórias de Usuários](modelagem/agil/historias_de_usuarios.md)
+  - [NFR Framework](modelagem/agil/nfr_framework.md)
   
 <!-- [Pré-Rastreabilidade]
 - [Modelagem]

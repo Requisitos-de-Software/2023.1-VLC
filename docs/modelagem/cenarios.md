@@ -256,8 +256,7 @@
 
 [2] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 10 de maio de 2023.
 
-## Histórico de versão
-
-| Versão |    Data    |            Descrição           |      Autor      |     Revisor      |
-| :----: | :--------: | :----------------------------: | :-------------: | :--------------: |
-|  1.0   | 10/05/2023 | Início do artefato de cenários | [Bruno Ribeiro](github.com/BrunoRiibeiro) e [Igor Penha](github.com/igorpenhaa) | [Lucas Gobbi](github.com/LucasBergholz)  |
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 10/05/2023 | `1.0` | Início do artefato de cenários | [Bruno Ribeiro](github.com/BrunoRiibeiro) e [Igor Penha](github.com/igorpenhaa) | 10/05/2023 | [Lucas Gobbi](github.com/LucasBergholz) |

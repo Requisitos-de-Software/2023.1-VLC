@@ -38,6 +38,7 @@ Legenda:
 
 ## Histórico de versão
 
-| Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
-| :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 01/05/2023 | 01/05/2023 | Criação do documento | [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Lucas Gobbi](https://github.com/LucasBergholz)|
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 01/05/2023 | `1.0` | Criação do documento  | [Rafael Bosi](https://github.com/StrangeUnit28) | 01/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) e [Lucas Gobbi](https://github.com/LucasBergholz)|

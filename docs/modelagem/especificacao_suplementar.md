@@ -109,8 +109,7 @@ iOS: Objective-C, Swift.
 
 [2] VideoLAN. Disponível em: [link](https://www.videolan.org/vlc/libvlc.html). Acesso em 15 de maio de 2023.
 
-### Histórico de versão
-
-| Versã0 | Data | Data de revisão | Descrição | Autor(es) | Revisor(es) |
-| :----: | :--: | :-------------: | :-------: | :-------: | :---------: |
-| `1.0` | 15/05/2023 | 15/05/2023 | Criação do artefato | [Bruno Riberio](https://github.com/BrunoRibeiro) e [Lucas Gobbi](https://github.com/LucasBerholz) | [Igor Penha](https://github.com/igorpenhaa) e [Giovanni Alvissus](https://github.com/gitovanni1106) |
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 15/05/2023 | `1.0` | Criação do artefato | [Bruno Riberio](https://github.com/BrunoRibeiro) e [Lucas Gobbi](https://github.com/LucasBerholz) | 15/05/2023 | [Igor Penha](https://github.com/igorpenhaa) e [Giovanni Alvissus](https://github.com/gitovanni1106) |
