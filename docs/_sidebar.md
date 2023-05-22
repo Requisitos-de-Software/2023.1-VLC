@@ -31,6 +31,10 @@
   - [Cenários](modelagem/cenarios.md)
   - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
   - [Léxicos](modelagem/lexicos.md)
+- [Modelagem Ágil](#)
+  - [Backlog](modelagem/agil/backlog.md)
+  - [Histórias de Usuários](modelagem/agil/historias_de_usuarios.md)
+  - [NFR Framework](modelagem/agil/nfr_framework.md)
   
 <!-- [Pré-Rastreabilidade]
 - [Modelagem]
