@@ -97,6 +97,37 @@
 
 ### Épicos 
 
+<div style="text-align: justify">
+
+Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
+
+</div>
+
+- #### Épico 1: Reprodução de Mídia
+
+    - Requisitos relacionados: RE01, RE03, RE05, RE11, RE13, RE14, RE26
+    - Descrição: Este épico aborda a funcionalidade principal do VLC, que é a reprodução de mídia. Ele inclui requisitos como suporte a diferentes formatos de áudio e vídeo, controle de reprodução (pausar, avançar, retroceder), equalizador de áudio, criação de listas de reprodução, reprodução em tela cheia, reprodução de mídia a partir de dispositivos externos e bom desempenho de reprodução, mesmo para arquivos grandes.
+
+- #### Épico 2: Interface de Usuário
+
+    - Requisitos relacionados: RE18, RE19, RE20
+    - Descrição: Este épico trata da interface de usuário do VLC. Ele engloba requisitos como uma interface intuitiva e fácil de usar, capacidade de personalização da interface do usuário e responsividade em diferentes tamanhos de tela.
+
+- #### Épico 3: Armazenamento
+
+    - Requisitos relacionados: RE09
+    - Descrição: Este épico aborda os requisitos relacionados ao armazenamento do aplicativo VLC. O único requisito incluído é que o aplicativo deve ocupar um espaço de armazenamento razoável.
+
+- #### Épico 4: Desempenho
+
+    - Requisitos relacionados: RE10, RE16, RE26
+    - Descrição: Este épico trata dos requisitos de desempenho do VLC. Inclui requisitos como carregamento rápido e reprodução rápida de vídeos, baixo consumo de bateria do dispositivo e bom desempenho de reprodução, mesmo para arquivos grandes.
+
+- #### Épico 5: Segurança e Privacidade
+
+    - Requisitos relacionados: RE30, RE31, RE33, RE34
+    - Descrição: Este épico aborda os requisitos de segurança e privacidade do VLC. Inclui requisitos como garantia da segurança dos dados do usuário, prevenção de problemas de segurança relacionados à reprodução de arquivos de mídia, mitigação de riscos de vulnerabilidades e exploits de segurança conhecidos, e proteção contra violação de privacidade do usuário e coleta invasiva de dados.
+
 ## Bibliografia
 [1] RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: [Backlog](https://www.atlassian.com/br/agile/scrum/backlogs)
 [2] O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Backlog](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto) 
