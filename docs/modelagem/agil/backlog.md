@@ -26,7 +26,7 @@
 
 ## Requisitos Elicitados
 <div style="text-align:justify">
-<p>&emsp;&emsp; Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
+<p>&emsp;&emsp; Nas Tabelas de 1 a 5 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
 
 ### 3.1. Funcionalidades
 
@@ -143,7 +143,7 @@
     - Requisitos relacionados: RE30, RE31, RE33, RE34
     - Descrição: Este épico aborda os requisitos de segurança e privacidade do VLC. Inclui requisitos como garantia da segurança dos dados do usuário, prevenção de problemas de segurança relacionados à reprodução de arquivos de mídia, mitigação de riscos de vulnerabilidades e exploits de segurança conhecidos, e proteção contra violação de privacidade do usuário e coleta invasiva de dados.
 
-A tabela abaixo vai relacionar a prioridade de cada história indicando se ela é "Must" (Deve), "Could" (Poderia) ou "Would" (Gostaria).
+A tabela 6 abaixo vai relacionar a prioridade de cada história:
 
 | História de Usuário | Épico                  | Prioridade |
 |--------------------|------------------------|----------------------------------------|
@@ -200,4 +200,4 @@ A tabela abaixo vai relacionar a prioridade de cada história indicando se ela �
 |   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
 | :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
 | 20/05/2023   |  `1.0`  | Criação do documento               | [Mizael Santos](https://github.com/frmiza) | 22/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 22/05/2023   |  `1.1`  | Adicionando tabelas, épicos e priorização | [Giovanni Alvissus](https://github.com/giovanni1106) | - | - |
+| 22/05/2023   |  `1.1`  | Adicionando tabelas, épicos e priorização | [Giovanni Alvissus](https://github.com/giovanni1106) | 22/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
