@@ -27,44 +27,53 @@
 <div style="text-align:justify">
 <p>Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
 
-| ID | Requisito | Rastreabilidade |
-| :-: | :-: | :-: |
-| RE01 | Eu, como usuário, gostaria de reproduzir vídeos. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE02 | Eu, como usuário, gostaria de reproduzir vídeos sem internet. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE03 | Eu, como usuário, gostaria de navegar pelos vídeos de meu dispositivo. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE04 | Eu, como usuário, gostaria de gerar legendas, automaticamente, para meu vídeo.  | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE05 | Eu, como usuário, gostaria de mudar a velocidade de reprodução. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE06 | Eu, como usuário, gostaria de realizar edições ao meu vídeo.  | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE07 | Eu, como usuário, gostaria de uma interface de fácil navegação. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE08 | Eu, como usuário, gostaria de organizar meu vídeos. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE09 | Eu, como usuário, gostaria de salvar meus vídeos para vê-los em outros dispositivos.  |  [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE10 | Eu, como usuário, gostaria de realizar registro/login em uma conta.  | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE11 | Eu, como usuário, gostaria de compartilhar os vídeos. |  [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE12 | Eu, como usuário, gostaria de ouvir músicas. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE13 | Eu, como usuário, gostaria de criar playlists. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE14 | Eu, como usuário, gostaria de ajustar a qualidade do áudio.  | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE15 | Eu, como usuário, gostaria de poder ver vídeos/áudios de diferentes formatos. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE16 | Eu, como usuário, gostaria de que meus vídeos estejam em segurança. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE17 | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE18 | Eu, como usuário, gostaria de que o aplicativo tenha tutorial. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE19 | Eu, como usuário, gostaria de que o aplicativo tenha acessibilidade. |  [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE20 | Suportar streaming de mídia.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE21 | Permitir a conversão de formatos de arquivo.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE22 | Permitir a captura de tela e a gravação de vídeo.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE23 | Deve ser compatível com sistemas operacionais Android e IOS. | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE24 | Deve ser fácil de instalar e usar. | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE25 | Deve ser de código aberto e gratuito. | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE26 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes. | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE27 | Deve ser possível personalizar a aparência da interface do usuário.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE28 | Deve ser possível selecionar faixas de áudio e legendas.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE29 | A interface deve fornecer feedback ao usuário sobre o progresso da reprodução e outras opções relevantes. |  [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) 
-| RE30 | Problemas de compatibilidade com sistemas operacionais ou hardware específicos. |  [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE31 | Problemas de segurança relacionados à reprodução de arquivos de mídia. | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
-| RE32 | Suporte a vários idiomas e localizações. | [ADD](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) |
-| RE33 | Risco de vulnerabilidades e exploits de segurança conhecidos. | [ADD](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) |
+### 3.1. Funcionalidades
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE01 | Permitir a reprodução de vídeos e áudios em diferentes formatos.         | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE02 | Suportar a reprodução de mídia em streaming.                            | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE03 | Permitir o controle de reprodução (pausar, avançar, retroceder, etc.).   | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE04 | Suportar legendas em diferentes idiomas.                                 | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE05 | Oferecer equalizador de áudio para ajustes de som.                       | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE06 | Possibilitar a reprodução em segundo plano.                              | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE11 | Permitir a criação de listas de reprodução.                              | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE12 | Oferecer opções de configuração de reprodução (velocidade, repetição, etc.). | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE13 | Suportar a reprodução em tela cheia.                                     | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE14 | Possibilitar a reprodução de mídia a partir de dispositivos externos (USB, etc.). | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE15 | Permitir o compartilhamento de mídia com outros dispositivos (DLNA, Chromecast, etc.). | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+
+### 3.2. Interface de Usuário
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE18 | A interface de usuário deve ser intuitiva e fácil de usar.               | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
+| RE19 | Deve possuir uma interface de usuário personalizável.                    | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
+| RE20 | A interface de usuário deve ser responsiva em diferentes tamanhos de tela. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
+
+### 3.3. Requisitos de Armazenamento
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE09 | O aplicativo deve ocupar um espaço de armazenamento razoável.            | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
+
+### 3.4. Desempenho
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE10 | Eu, como usuário, gostaria que o aplicativo seja rápido ao carregar e reproduzir vídeos. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
+| RE16 | Eu, como usuário, gostaria que o aplicativo não consuma muita bateria do dispositivo. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
+| RE26 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+
+### 3.5. Segurança e Privacidade
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE30 | O aplicativo deve garantir a segurança dos dados do usuário.             | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE31 | Problemas de segurança relacionados à reprodução de arquivos de mídia.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE33 | Risco de vulnerabilidades e exploits de segurança conhecidos.           | [ADD](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) |
 | RE34 | Risco de violação de privacidade do usuário e coleta de dados invasiva. | [ADD](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) |
-| RE35 | Possuir zoom em videos  | [QUE](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario) |
-| RE36 | Navegação pelo video pelo touch screen | [QUE](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario) |
+
 
 
 <div align="center">
@@ -75,17 +84,18 @@
 
 ### Temas 
 <div style="text-align:justify">
-    <p>Os temas representam o maior nivel de abstração para um grupo de requisitos, foram encontrados em questão ou temas que podemos utilizar para categorizar cada requisito. São eles:</p>
+    <p>Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em cinco grandes temas, que compõem o maior nível de abstração do backlog.</p>
     <ul>
-        <li> Tema 1.
-        <li> Tema 2.
+        <li> Reprodução de mídia
+        <li> Biblioteca de mídia
+        <li> Personalização
+        <li> Controles de reprodução
+        <li> Gerenciamento de legendas
     </ul>
-    <p>Após a listagem dos temas, podemos partir para um maior nível de abstração para cada uma delas, separando os requisitos elicitados em épicos que foram escritos usando o mesmo padrao das histórias de usuário.</p>
-
+    <p>Após a definição dos temas, os requisitos foram especificados em um maior nível de abstração, por meio dos épicos. Os épicos são histórias de usuário que ainda podem ser mais especificadas e foram escritos utilizando o mesmo padrão do utilizado nas histórias de usuário.</p>
 </div>
 
 ### Épicos 
-
 
 ## Bibliografia
 [1] RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: [Backlog](https://www.atlassian.com/br/agile/scrum/backlogs)
