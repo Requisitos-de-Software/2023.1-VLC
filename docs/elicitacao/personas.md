@@ -4,7 +4,7 @@
 
 ## Introdução
 
-<div style="text-align: justify">De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
+<div style="text-align: justify">De modo a iniciar esse documento sobre personas, é interessante ressaltar o quanto essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
 </div>
 
 <div style="text-align: justify">Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas.
