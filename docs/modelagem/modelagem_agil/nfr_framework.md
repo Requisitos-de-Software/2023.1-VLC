@@ -67,7 +67,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 
 <figcaption align='center'>
  <h4> <b>imagem 5 – Análise diagrama SIG 02 - Confiabilidade </b><br>
-	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_confiablidade_check.png" width="100%">
+	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_confiabilidade_check.png" width="100%">
   Fonte: RIBEIRO, Bruno. 2023</h4>
 </figcaption> <br><br>
 
