@@ -1,5 +1,3 @@
-<div class="body"> 
-
 # Léxicos
 
 ## Introdução
@@ -380,8 +378,7 @@
 [1] SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
 
 ## Histórico de Versões
+
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 15/05/2023 | `1.0` | Criando o artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 16/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-
-</div> 
