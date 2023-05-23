@@ -57,6 +57,20 @@ A Tabela 3 mostra as atividades realizadas para o Ponto de Controle 3, além de 
 | 8. Edição e postagem da Apresentação | 17/05 | 17/05 | Bruno Ribeiro | Igor Penha |
 <div><p>Tabela 3 - Itens realizados Ponto de Controle 3. (Fonte: GOBBI, Lucas. 2023).</p></div>
 
+### Ponto de Controle 4
+A Tabela 4 mostra as atividades planejadas para o Ponto de Controle 4, além de seus autores, revisores e datas de entrega.
+
+| Atividade | Início | Fim | Autores | Revisores |
+|-----------|--------|-----|---------|-----------|
+| 1. Histórias de usuário | 20/05 | 22/05 | Lucas Gobbi, Giovanni Alvissus e Rafael Bosi | Bruno Ribeiro |
+| 2. Backlog |  20/05 | 22/05 | Giovanni Alvissus e Mizael Santos | Igor Penha |
+| 3. NFR Framework | 18/05 | 22/05 | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
+| 4. Gravação da apresentação | 22/05 | 22/05 | Todos | Todos |
+| 5. Correções do Ponto de Controle anterior | 18/05 | 20/05 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi e Mizael Santos | Igor Penha e Rafael Bosi |
+| 6. Documentação das atas | 23/05 | 23/05 | Igor Penha | Bruno Ribeiro |
+| 7. Edição e postagem da Apresentação | 23/05 | 24/05 | Bruno Ribeiro | Igor Penha |
+<div><p>Tabela 4 - Itens realizados Ponto de Controle 4. (Fonte: GOBBI, Lucas. 2023).</p></div>
+
 ### Bibliografia
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 26 de abril de 2023.
 
@@ -67,3 +81,4 @@ A Tabela 3 mostra as atividades realizadas para o Ponto de Controle 3, além de 
 | `2.0` | 01/05 | 01/05 | Adicionando Ponto de Controle 2 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) |
 | `2.1` | 01/05 | 01/05 | Add detalhamento priorizacao | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | `3.0` | 17/05 | 17/05 | Add Ponto de Controle 3 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| `4.0` | 23/05 | 23/05 | Add Ponto de Controle 4 | [Lucas Gobbi](https://github.com/LucasBergholz) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
