@@ -34,8 +34,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 | <p align="center">Tarefa</p> | <p align="center">Responsável</p> | <p align="center">Revisor</p> |
 | ------ | ----------- | ------- |
-| Verificação de requisitos 1 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Giovanni Alvissus, Mizael Santos e Rafael Bosi |
-| Validação de requisitos 1 | Giovanni Alvissus, Mizael Santos e Rafael Bosi | Bruno Ribeiro, Igor Penha e Lucas Gobbi |
+| Verificação de requisitos 1 | Bruno Ribeiro, Igor Penha e Lucas Gobbi, Giovanni Alvissuss e Rafael Bosi | Francisco Mizael |
 | Ata da reunião (incluindo gravação postada no Youtube) | Igor Penha | Bruno Ribeiro |
 | Atualizar GitPage | Lucas Gobbi | Igor Penha |
 
@@ -46,7 +45,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 ## Conclusão
 
-<p align="justify">Diálogo sobre como iria funcionar a a etapa 5.1 do projeto. Por fim, foram definidas e divididas as tarefas de cada um do grupo para a execução do trabalho.</p>
+<p align="justify">Diálogo sobre como iria funcionar a a etapa 5.1 do projeto. Por fim, foram definidas e divididas as tarefas de cada um do grupo para a execução do trabalho, ficou pendente definir quais artefatos de fato cada integrante iria verificar.</p>
 
 ## Link da gravação
 
