@@ -2,13 +2,21 @@
 
 ## Introdução
 
-&emsp;&emsp;Histórias de Usuários são um componente essencial no contexto dos Requisitos de Software. Elas representam uma abordagem centrada no usuário para especificar os itens do [backlog de um projeto](). Diferentemente de uma especificação tradicional, as histórias de usuários são registros concisos que descrevem os requisitos de forma clara e objetiva, focando no "o que" precisa ser alcançado, ao invés de detalhar o "como" será implementado. Essa abordagem promove uma compreensão aprofundada das necessidades e expectativas dos usuários, permitindo que os desenvolvedores construam soluções que realmente atendam às demandas reais. 
+<div align="justify">
+
+&emsp;&emsp;Histórias de Usuários são um componente essencial no contexto dos Requisitos de Software. Elas representam uma abordagem centrada no usuário para especificar os itens do <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog">backlog</a> de um projeto. Diferentemente de uma especificação tradicional, as histórias de usuários são registros concisos que descrevem os requisitos de forma clara e objetiva, focando no "o que" precisa ser alcançado, ao invés de detalhar o "como" será implementado. Essa abordagem promove uma compreensão aprofundada das necessidades e expectativas dos usuários, permitindo que os desenvolvedores construam soluções que realmente atendam às demandas reais. 
 
 &emsp;&emsp;Ao utilizar histórias de usuários, os requisitos são expressos de maneira mais acessível, facilitando a comunicação e a colaboração entre as equipes de desenvolvimento e os stakeholders do projeto. 
 
+</div>
+
 ## Metodologia
 
+<div align="justify">
+
 &emsp;&emsp;As histórias de usuário devem ser curtas, detalhadas e específicas. Além disso, seguiram a seguinte estrutura:
+
+</div>
 
 - ### Nome
 
@@ -26,9 +34,26 @@
 
     - **Válida:** O usuário validou a história
 
-&emsp;&emsp;Para desenvolver as histórias de usuários utilizamos os requisitos elicitados em etapas anteriores que seriam de interesse do usuário, além disso para validar as histórias contamos com um usuário do VLC mídia player.
+<div align="justify">
+
+&emsp;&emsp;Para desenvolver as histórias de usuários, durante uma reunião, utilizamos os requisitos elicitados em etapas anteriores seguindo o planejamento da tabela 1, além disso para validar as histórias contamos com um usuário do VLC mídia player para atuar como PO do projeto.
+
+</div>
+
+| Função | Participante |
+| -: | :- |
+| Scrum Master | Rafael Bosi |
+| Desenvolvedor | Lucas Gobbi |
+| Desenvolvedor | Giovanni Alvissus |
+| Product Owner | Fernando Mendes |
+
+<div style="text-align: center"> Tabela 01: Relação de função e participantes das histórias (Fonte: ALVISSUS, Giovanni. 2023)</div>
+
+<div align="justify">
 
 &emsp;&emsp;O usuário que colaborou com a validação das histórias foi o Fernando Mendes, ex-aluno da UnB formado em Engenharia Aeroespacial. O entrevistado utiliza o VLC de maneira ocasional e especialmente para organizar seus vídeos em pastas e playlists. Na entrevista para validação das Histórias de Usuários, Fernando foi questionado se as histórias presentes nesse documento são pertinentes e condizentes com o escopo do VLC, além disso, o entrevistado também respondeu se as história eram válidas para o uso que ele faz do aplicativo.
+
+</div>
 
 ## Especificação das histórias de usuário
 
@@ -430,3 +455,4 @@
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 22/05/2023 | `1.0` | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106), [Rafael Bosi](https://github.com/StrangeUnit28) e [Lucas Gobbi](https://github.com/lucasbergholz) | 23/05/2023 | [Igor Penha](github.com/igorpenhaa) |
+| 25/05/2023 | `1.1` | Atualizando documento | [Giovanni Alvissus](https://github.com/giovanni1106) | 25/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
