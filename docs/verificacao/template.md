@@ -39,7 +39,7 @@ O template possue alguns padrões que devem ser substituídos de acordo com o ar
 
 <div align="justify">
 
-A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
+A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo na área de Requisitos de Software. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
 @ Caso ache necessário pode ser complementado @
 
