@@ -6,9 +6,9 @@
 
 <div align="justify">
 
-A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo na área de Requisitos de Software. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
+&emsp;&emsp;A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo na área de Requisitos de Software. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-Esse documento tem como objetivo fazer uma verificação do artefato "História de Usuário" desenvolvido pelo Grupo 4 da matéria de Requisitos de Software.
+&emsp;&emsp;Esse documento tem como objetivo fazer uma verificação do artefato "História de Usuário" desenvolvido pelo Grupo 4 da matéria de Requisitos de Software.
 
 </div>
 
@@ -16,9 +16,9 @@ Esse documento tem como objetivo fazer uma verificação do artefato "História 
 
 <div align="justify">
 
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+&emsp;&emsp;A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
-Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
+&emsp;&emsp;Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
 </div>
 
@@ -28,27 +28,22 @@ Para tal, a verificação será dividida em duas etapas, a primeira sendo a veri
 
 <div align="justify">
 
--> Deve ser descrito o que é esperado encontrar nesse artefato, como seu objetivo por exemplo <-
+&emsp;&emsp;Neste documento, espera-se requisitos do aplicativo em formato de histórias de usuário, mostrando como os fluxos de tarefas pelos usuários. 
 
-& O artefato em questão tem como objetivo documentar os relatórios obtidos durante o processo de pesquisa. Visando simplificar a visualização de graficos e tabelas &
-
-Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+&emsp;&emsp;Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possue parte do conteúdo esperado na avaliação).
-- Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
+- Incompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
 
-@ A observação deve ser utilizada para justificar o por que de não estar excelente @
-| Conteúdo | Possue | Qualidade | Observação |
+| Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - |
-| <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
+| Os títulos das histórias de usuário são auto-explicativo? | Sim | Excelente |  |
+| O “quem”, “o que” e o “por que” estão definidos na história de usuário? | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
 | <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
 | ... | ... | ... | ... |
-
--> Completar a tabela com os critérios de avaliação do artefato e verificar se o artefato em questão possue ou não, dando uma nota de qualidade <-
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela &ALVISSUS, Giovanni&>. 2023).
 
@@ -135,6 +130,6 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| - | `-` | - | [-](-) | - | [-](-) |
+| 13/06/2001 | `-` | Iniciando o documento | [Giovanni Alvissus](github.com/giovanni1106) | - | [-](-) |
 
 </div>
