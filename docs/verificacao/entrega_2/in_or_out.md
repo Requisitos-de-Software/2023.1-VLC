@@ -46,6 +46,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 6 | Todos os requisitos elicitados tiveram sua prioridade definida? | Sim | Boa | Apenas alguns dos requisitos elicitados não tiveram sua prioridade definida como ST01 |
 | 7 | Há um grupo de stakeholds? | Sim | Incompleta | |
 | 8 | O grupo definiou o critério de ser in or out? | Não |  |  |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Conclusão
