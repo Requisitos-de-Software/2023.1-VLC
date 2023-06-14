@@ -10,7 +10,7 @@ A técnica de verificação de artefatos é um processo usado para avaliar e val
 ## Metodologia
 <div align="justify">
   
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia na [aula 10 - professora Milene e Maurício](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
   
 Para tal, será utilizada a técnica de Análise estática, essa técnica consiste em examinar o código-fonte ou outro tipo de artefato sem executá-lo, em busca de erros, vulnerabilidades e problemas de qualidade. A análise estática pode ser feita manualmente ou com o auxílio de ferramentas automatizadas que realizam análises de sintaxe, semântica e conformidade com padrões.
   
@@ -28,24 +28,25 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   - **_Imcompleta_** (passa brevemente pelo conteúdo esperado na avaliação)
   </div>
   
-| Conteúdo | Possue | Qualidade | Observação |
-| -------- | :----: | :-------: | ---------- |
-| O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
-| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | A metodologia do artefato é redigida com clareza. |
-| A modelagem de léxicos incluir relações e associações entre os termos? Isso pode incluir sinônimos, antônimos, hiperônimos e hipônimos. | Sim | Boa | São encontradas as associações, porém apenas sinônimos. |
-| Cada termo no léxico é acompanhado de uma definição clara e concisa? | Não | - | Os léxicos não são definidos ou esclarecidos em seus significados. |
-| A modelagem de léxicos deve abranger todos os termos e conceitos relevantes do domínio em questã? | Sim | Excelente | Todos os cenários são bem diversificados, e capturam muito bom o vocabulário-chave. |
-| A modelagem de léxicos cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa 19 léxicos abordados pelo sistema. |
-| A modelagem de léxicos é consistente em todo o documento? Isso é, os termos devem ser usados de maneira consistente e as definições devem ser padronizadas. | Sim | Excelente | Não foram encontradas inconsistências para com as definições. |
-| A modelagem de léxicos é integrada com outros artefatos do projeto, como diagramas, especificações e casos de uso? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
+| id | Conteúdo | Possue | Qualidade | Observação |
+| -- | -------- | :----: | :-------: | ---------- |
+| 1 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
+| 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | A metodologia do artefato é redigida com clareza. |
+| 3 | A modelagem de léxicos incluir relações e associações entre os termos? Isso pode incluir sinônimos, antônimos, hiperônimos e hipônimos. | Sim | Boa | São encontradas as associações, porém apenas sinônimos. |
+| 4 | Cada termo no léxico é acompanhado de uma definição clara e concisa? | Não | - | Os léxicos não são definidos ou esclarecidos em seus significados. |
+| 5 | A modelagem de léxicos deve abranger todos os termos e conceitos relevantes do domínio em questão? | Sim | Excelente | Todos os cenários são bem diversificados, e capturam muito bom o vocabulário-chave. |
+| 6 | A modelagem de léxicos cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa 19 léxicos abordados pelo sistema. |
+| 7 | A modelagem de léxicos é consistente em todo o documento? Isso é, os termos devem ser usados de maneira consistente e as definições devem ser padronizadas. | Sim | Excelente | Não foram encontradas inconsistências para com as definições. |
+| 8 | A modelagem de léxicos é integrada com outros artefatos do projeto, como diagramas, especificações e casos de uso? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
+| 9 | A modelagem apresenta pelo menos uma classificação de verbo, estado e objeto? | Sim Excelente | Foram encontrados todos as classificações no documento. |
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023). </p>
   
 ## Conclusão
 <div align="justify">
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-  - Detalhar mais as associações dos léxicos (sinônimos, antônimos, hiperônimos e hipônimos).
-  - Redigir uma definição para os léxicos abordados, com seus significados.
+  - **id 3** Detalhar mais as associações dos léxicos (sinônimos, antônimos, hiperônimos e hipônimos).
+  - **id 4** Redigir uma definição para os léxicos abordados, com seus significados.
   </div>
   
 ## Critérios gerais
@@ -94,7 +95,11 @@ Algumas correções sugeridas são:
   
 ## Bibliografia
   
-  - BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
+- SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em:
+<https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 03 jun. 2023.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+- Documento de léxicos do Grupo 4 da Disciplina de Requisitos. Disponível em:
+<https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/lexicos.md>. Acesso em: 03 jun. 2023.
   
 ## Histórico de Versões
   
