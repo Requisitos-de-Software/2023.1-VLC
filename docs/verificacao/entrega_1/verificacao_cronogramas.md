@@ -29,6 +29,8 @@ A segunda etapa consiste em avaliar questões de padronização, estrutura, refe
 | O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? |  |  |  |
 | O artefato apresenta de forma clara o motivo da escolha e objetivo ou finalidade das ferramentas citadas? |  |  |  |
 
+<b>Tabela 1</b>: Template da relação das tabelas no cronograma (Fonte: SANTOS, Mizael. 2023).
+
 </div>
 
 ## Conteúdo esperado
@@ -59,7 +61,7 @@ Sendo assim, foi elaborada a tabela 2 abaixo relacionando as especificações id
 | O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? | Sim | Excelente |--- |
 | O artefato apresenta de forma clara o motivo da escolha e objetivo ou finalidade das ferramentas citadas? | Sim | Excelente| --- |
 
-<b>Tabela 1</b>: Relação das tabelas no cronograma (Fonte: SANTOS, Mizael. 2023).
+<b>Tabela 2</b>: Relação das tabelas no cronograma (Fonte: SANTOS, Mizael. 2023).
 
 
 ### Conclusão

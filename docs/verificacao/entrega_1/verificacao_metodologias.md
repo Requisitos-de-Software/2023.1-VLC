@@ -28,6 +28,7 @@ A segunda etapa consiste em avaliar questões de padronização, estrutura, refe
 | O artefato apresenta as metodologias que serão utilizadas para o desenvolvimento do projeto? |  |  |  |
 | O artefato apresenta o motivo da escolha das metodologias que serão utilizadas para o desenvolvimento do projeto? |  |  |  |
 
+<b>Tabela 1</b>: Template de perguntas sobre a metodologia (Fonte: SANTOS, Mizael. 2023).
 
 </div>
 

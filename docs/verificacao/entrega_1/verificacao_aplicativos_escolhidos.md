@@ -26,6 +26,8 @@ A segunda etapa consiste em avaliar questões de padronização, estrutura, refe
 | O artefato possui referências bibliográficas? |  |  |  |
 | O artefato possui controle de versão? |  |  |  |
 | O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? |  |  | |
+| O artefato apresenta todos os rich pictures referentes aos sites avaliados? |  |  | |
+| O artefato apresenta os motivo do site selecionado? |  |  | |
 | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? |  |  |  |
 | O rich picture está bem desenhado e é de fácil entendimento? |  |  |  |
 | O rich picture apresenta um escopo bem definido? |  |  |  |
@@ -33,6 +35,8 @@ A segunda etapa consiste em avaliar questões de padronização, estrutura, refe
 | O rich picture consegue passar uma mensagem de forma efetiva? |  |  |  |
 | O rich picture consegue contar uma história? |  |  |  |
 | O rich picture possui uma legenda explicando os símbolos utilizados no diagrama?? |  |  |  |
+
+<b>Tabela 1</b>: Template de perguntas das ferramentas (Fonte: SANTOS, Mizael. 2023)
 
 </div>
 
@@ -62,6 +66,8 @@ Sendo assim, foi elaborada a tabela 2 abaixo relacionando as especificações id
 | O artefato possui referências bibliográficas? | Sim | Excelente | --- |
 | O artefato possui controle de versão? | Sim | Excelente | --- |
 | O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? | Sim | Excelente |--- |
+| O artefato apresenta todos os rich pictures referentes aos sites avaliados? | Sim | Exelente | --- |
+| O artefato apresenta os motivo do site selecionado? | Sim | Bom | A motivação esta boa porém está espalhada no texto |
 | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? | Sim | Excelente| --- |
 | O rich picture está bem desenhado e é de fácil entendimento? | Sim | Excelente | --- |
 | O rich picture apresenta um escopo bem definido? | Sim | Excelente | --- |
@@ -75,6 +81,11 @@ Sendo assim, foi elaborada a tabela 2 abaixo relacionando as especificações id
 
 ### Conclusão
 <div align="justify">
+<h3><b>O artefato apresenta os motivo do site selecionado?</b></h3>
+<ul>
+<li>O motivo do site selecionado esta um pouco espalhado no texto, ficando confuso para identificar.
+</ul>
+
 <p>As avaliações foram baseadas na versão 2 do rich picture.</p>
 <h3><b>O rich picture consegue passar uma mensagem de forma efetiva?</b></h3>
 <ul>
@@ -132,7 +143,8 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 <div align="justify">
 <p>Os rich pictures produzidos estão bons de maneira geral, porém consertando alguns pontos ele alcança a excelência.</p>
 <ul>
-<li> evidenciando algumas setas já é possível identificar alguma história que se pretende contar com o rich picture, além disso ao se realizar essa correção, será possível corrigir automaticamente outro problema relacionado à mensagem que se deseja passar com o mesmo.
+<li> Evidenciando algumas setas já é possível identificar alguma história que se pretende contar com o rich picture, além disso ao se realizar essa correção, será possível corrigir automaticamente outro problema relacionado à mensagem que se deseja passar com o mesmo.
+<li> Evidenciar o motivo da escolha do site em um texto separado. 
 </ul>
 </div>
 
