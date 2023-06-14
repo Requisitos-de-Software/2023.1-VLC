@@ -41,17 +41,20 @@
 | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - |
 | Os títulos das histórias de usuário são auto-explicativo? | Sim | Excelente |  |
-| O “quem”, “o que” e o “por que” estão definidos na história de usuário? | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| ... | ... | ... | ... |
+| O “quem”, “o que” e o “por que” estão definidos na história de usuário? | Sim | Excelente |  |
+| A história possui critérios de aceitação? | Sim | Excelente | |
+| Os critérios de aceitação das histórias foram definidos ? | Sim | Excelente | |
+| - A participação do cliente e/ou persona na elicitação de requisitos? | Sim | Excelente | |
+| Todas as histórias de usuárioos podem ser testadas? | Sim | Boa | As histórias relacionadas a boletos e pagamentos podem dificultar os testes do grupo. |
+| Uma fonte de onde foram retiradas as histórias? | Sim | Excelente | |
 
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela &ALVISSUS, Giovanni&>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: ALVISSUS, Giovanni. 2023).
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+&emsp;&emsp;
 
 </div>
 
