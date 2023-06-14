@@ -38,7 +38,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 | id | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - | - |
-| 1 | As histórias foram baseados em características de cada uma das persona? | Sim | Excelente | Todas as histórias são baseadas nas personas desenvolvidas |
+| 1 | As histórias são relacionadas aos fatos, cujo conhecimento deseja elicitar? | Sim | Excelente | Todas as histórias são baseadas nas personas desenvolvidas |
 | 2 | As histórias estão em formato de narração? | Sim | Excelente | Todas as histórias são desenroladas a partir de narrativas |
 | 3 | Os requisitos foram elicitados a partir das histórias? | Sim | Incompleta | Fazem uma breve alusão considerando os storytellings, porém não é possível identificar de quais hostórias o requisito foi elicitado. |
 | 4 | A liguagem utilizada nas histórias é cotidiana e cria entretenimento? | Sim | Excelente |  |
@@ -46,6 +46,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 6 | Foram elicitados requisitos funcionais? | Sim | Excelente | Foram elicitados requisitos funcionais. |
 | 7 | Foram elicitados requisitos não-funcionais? | Sim | Excelente | Foram elicitados requisitos não funcionais |
 | 8 | Os requisitos elicitados são verificáveis? | Sim | Boa | ST04, requisito de visualizar conta de forma clara |
+| 9 | Os storytellings foram feitos baseados em personas? | Sim |  |  |
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Conclusão
@@ -56,6 +57,7 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 
 - id 3, Falta de identificação sobre a partir de qual storytelling o requisito foi elicitado.
 - id 8, Requisitos muito abrangentes o que poderia gerar conflitos com visualizar as informações de forma clara.
+- id 9, Os storytellings não deveria ser feitos baseados em perosonas, quando baseado em personas não é storytelling é encenação
 
 </div>
 
@@ -107,7 +109,10 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, alg
 
 <div align="justify">
 
-Para corrigir com qualidade o artefato analisado, seria necessária a identificar e mostrar a partir de quais storytelling os requisitos foram elicitados. Outra importante alteração é evitar requisitos abrangentes que podem complicar a execução e satisfação do usuário, pois, esses requisitos são ambíguos e o que pode divergir de usuário para usuário podendo gerar confusão e insatifação, desta forma evitaria qualquer inconveniência posteriormente.
+O artefato respeita a maioria dos pontos estruturais analisados, entretanto, apenas 1 problema foi encontrado:
+- identificar e mostrar a partir de quais storytelling os requisitos foram elicitados.
+- Evitar elicitar requisitos abrangentes que podem complicar a execução e satisfação do usuário.
+- Não realizar os storytellings baseados em peronas.
 
 </div>
 
