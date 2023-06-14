@@ -43,6 +43,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 3 | As personas apresentam as situações em que seram utilizadas? | Não |  |  |
 | 4 | O elenco de personas e a razão da quantidade de personas é justificada? | Sim | Boa | O grupo explicou brevemente o elenco das personas, porém apenas indicou quantas personas seriam sem explicar o por quê da escolha da quantidade e suas razões |
 | 5 | O projeto contém a anti-persona e persona primária | sim | Excelente |  |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
 
 ### Conclusão
