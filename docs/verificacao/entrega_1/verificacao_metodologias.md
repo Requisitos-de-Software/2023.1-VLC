@@ -124,6 +124,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| - | - | - | - | - | - | 
 | 13/05/2023 | `1.0` | Documento criado | [Mizael Santos](https://github.com/frmiza) | 14/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
