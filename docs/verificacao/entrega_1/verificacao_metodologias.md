@@ -40,14 +40,14 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 </div>
 
-| Conteúdo | Possue | Qualidade | Observação |
-| - | - | - | - |
-| O artefato possui introdução? | Sim | Excelente| --- |
-| O artefato possui as tabelas legendadas? | Sim | Excelente | --- |
-| O artefato possui referências bibliográficas? | Sim | Excelente | --- |
-| O artefato possui controle de versão? | Sim | Excelente | --- |
-| O artefato apresenta as metodologias que serão utilizadas para o desenvolvimento do projeto? | Sim | Excelente | --- |
-| O artefato apresenta o motivo da escolha das metodologias que serão utilizadas para o desenvolvimento do projeto? | Sim | Incompleto | Faltou citar com mais detalhes e mais explicitamente o motivo da escolha |
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | O artefato possui introdução? | Sim | Excelente| --- |
+| 2 | O artefato possui as tabelas legendadas? | Sim | Excelente | --- |
+| 3 | O artefato possui referências bibliográficas? | Sim | Excelente | --- |
+| 4 | O artefato possui controle de versão? | Sim | Excelente | --- |
+| 5 | O artefato apresenta as metodologias que serão utilizadas para o desenvolvimento do projeto? | Sim | Excelente | --- |
+| 6 | O artefato apresenta o motivo da escolha das metodologias que serão utilizadas para o desenvolvimento do projeto? | Sim | Incompleto | Faltou citar com mais detalhes e mais explicitamente o motivo da escolha |
 
 <b>Tabela 1</b>: Perguntas sobre a metodologia (Fonte: SANTOS, Mizael. 2023).
 
@@ -110,6 +110,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 13 jun. 2023.
 
+- Documento de metodologias Grupo 4 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/metodologias.md> . Acesso em 13 jun. 2023
 
 ## Histórico de Versões
 

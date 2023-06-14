@@ -108,6 +108,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 13 jun. 2023.
 
+- Documento de ferramentass Grupo 4 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/ferramentas.md> . Acesso em 13 jun. 2023
 
 ## Histórico de Versões
 

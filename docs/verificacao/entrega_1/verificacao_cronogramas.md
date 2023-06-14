@@ -39,15 +39,15 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 </div>
 
-| Conteúdo | Possue | Qualidade | Observação |
-| - | - | - | - |
-| O artefato possui introdução? | Sim | Excelente| --- |
-| O artefato possui objetivo? | Sim | Excelente| --- |
-| O artefato possui as tabelas legendadas? | Sim | Excelente | --- |
-| O artefato possui referências bibliográficas? | Sim | Excelente | --- |
-| O artefato possui controle de versão? | Sim | Excelente | --- |
-| O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? | Sim | Excelente |--- |
-| O artefato apresenta de forma clara o motivo da escolha e objetivo ou finalidade das ferramentas citadas? | Sim | Excelente| --- |
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | O artefato possui introdução? | Sim | Excelente| --- |
+| 2 | O artefato possui objetivo? | Sim | Excelente| --- |
+| 3 | O artefato possui as tabelas legendadas? | Sim | Excelente | --- |
+| 4 | O artefato possui referências bibliográficas? | Sim | Excelente | --- |
+| 5 | O artefato possui controle de versão? | Sim | Excelente | --- |
+| 6 | O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? | Sim | Excelente |--- |
+| 7 | O artefato apresenta de forma clara o motivo da escolha e objetivo ou finalidade das ferramentas citadas? | Sim | Excelente| --- |
 
 <b>Tabela 1</b>: Relação das tabelas no cronograma (Fonte: SANTOS, Mizael. 2023).
 
@@ -104,10 +104,11 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 ## Bibliografia
 
-- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 4 de junho de 2023.
+- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 13 de junho de 2023.
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 13 jun. 2023.
 
+- Documento de cronogramas Grupo 4 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/cronograma.md> e <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/cronograma_realizado.md> . Acesso em 13 jun. 2023
 
 ## Histórico de Versões
 
