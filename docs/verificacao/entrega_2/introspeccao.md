@@ -44,6 +44,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 4 | O artefato possui um objetivo definido para o uso da introspecção? | Sim | Excelente | - |
 | 5 | O artefato possui uma explicação desse método de elicitação? | Sim | Excelente | - |
 | 6 | Os autores da elicitação utilizaram das preferências pessoas na análise dos requisitos? | Não | - | Não existe registro disso no artefato. |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Conclusão
