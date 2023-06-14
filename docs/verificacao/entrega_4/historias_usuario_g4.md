@@ -114,6 +114,6 @@
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 13/06/2001 | `1.0` | Iniciando o documento | [Giovanni Alvissus](github.com/giovanni1106) | - | [-](-) |
-| 14/06/2001 | `1.1` | Finalizando a criação do documento | [Giovanni Alvissus](github.com/giovanni1106) | - | [-](-) |
+| 14/06/2001 | `1.1` | Finalizando a criação do documento | [Giovanni Alvissus](github.com/giovanni1106) | 14/06/2023 | [Rafael Bosi](https://github.com/strangeunit28) |
 
 </div>

@@ -52,7 +52,7 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 <div align="justify">
 
-O conteúdo do artefato está bem condizente com o esperado, faltando apenas alguns detalhes para manter a coesão e entendimento.
+O conteúdo do artefato está bem condizente com o esperado, faltando apenas alguns detalhes para manter a coesão e entendimento. Como por exemplo, o grupo poderia fornecer o significado de siglas mais específicas ou colocar um link direcionando para uma página que o tenha. Além disso, o grupo realizou a entrevista com o usuário para validar o artefato, porém não disponibilizou o link para mesma, nem ao menos ofereceu um resumo. Seria bom a existência de um dos dois pelo menos, para que o leitor fique a par do progresso do grupo. 
 
 </div>
 
@@ -67,54 +67,33 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 </div>
 
 1. Padronização:
-   - [ ] O artefato segue as diretrizes de formatação especificadas.
-   - [ ] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [ ] As margens e os espaçamentos estão corretos.
-   - [ ] O uso de negrito, itálico e sublinhado está adequado e consistente.
-   - [ ] Os parágrafos estão todos justificados.
+   - [✅] O artefato segue as diretrizes de formatação especificadas.
+   - [✅] A fonte e o tamanho do texto estão consistentes em todo o documento.
+   - [❌] As margens e os espaçamentos estão corretos.
+   - [✅] O uso de negrito, itálico e sublinhado está adequado e consistente.
+   - [❌] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [ ] O artefato possui uma introdução clara e contextualizada.
-   - [ ] As seções estão organizadas de forma lógica e coerente.
-   - [ ] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [ ] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [✅] O artefato possui uma introdução clara e contextualizada.
+   - [✅] As seções estão organizadas de forma lógica e coerente.
+   - [✅] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [❌] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [✅] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
-   - [ ] As citações estão corretamente formatadas de acordo com o estilo especificado.
-   - [ ] Todas as referências citadas no texto estão presentes na lista de referências.
-   - [ ] As referências estão formatadas corretamente, seguindo o estilo especificado.
+   - [✅] As citações estão corretamente formatadas de acordo com o estilo especificado.
+   - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
+   - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-@ caso exista tabela no artefato @
 4. Tabelas:
-   - [ ] As tabelas possuem legenda.
-   - [ ] As tabelas são chamadas no texto.
-   - [ ] 
-
-@ caso exista figura no artefato @
-5. Figuras:
-   - [ ] As figuras possuem legenda.
-   - [ ] As figuras são chamadas no texto.
-
-6. <Outros critérios específicos>:
-   - [ ] -> Inclua aqui outros critérios específicos que devem ser verificados no artefato. <-
-
-<b>Observações:</b>
-- -> Insira aqui quaisquer observações relevantes sobre a verificação realizada. <-
+   - [✅] As tabelas possuem legenda.
+   - [✅] As tabelas são chamadas no texto. 
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão de como se encontra a qualidade do documento em relação aos tópicos gerais avaliados <-
-
-</div>
-
-## Correções e ajustes sugeridos
-
-<div align="justify">
-
-Sobre o conteúdo, é interessante o grupo adicionar uma legenda sobre a rastreabilidade, mostrando de qual elicitação saiu cada história. Também adicionar um breve resumo de como foi a entrevista de validação, pois não sabemos se foi positiva ou negativa e nem mesmos os comentários do usuário.
+Assim como em outros artefatos do grupo, tudo esta bem padronizado e seguindo as especificações do projeto, porém o grupo mais uma vez não inseriu margem e não justificou os paragrafos. Além disso, o grupo, mais uma vez, colocou apenas uma data prevista de revisão e não a data em que efetivamente o artefato foi revisado. Por último, a equipe poderia inserir uma conclusão do documento que resume o que foi analisado e descoberto durante o desenvolvimento do mesmo.
 
 </div>
 
@@ -129,6 +108,7 @@ Sobre o conteúdo, é interessante o grupo adicionar uma legenda sobre a rastrea
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 14/06/2023 | `1.0` | Iniciando o documento | [Giovanni Alvissus](github.com/giovanni1106) | - | [-](-) |
+| 14/06/2023 | `1.0` | Iniciando o documento | [Giovanni Alvissus](github.com/giovanni1106) | 14/06/2023 | [Rafael Bosi](https://github.com/strangeunit28) |
+| 14/06/2023 | `1.1`Finalizando o artefato | [Rafael Bosi](https://github.com/strangeunit28) | 14/06/2023 | [Giovanni Alvissus](github.com/giovanni1106) |
 
 </div>
