@@ -46,6 +46,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 6 | Idiomas e jargões: que idiomas o usuário conhece e utiliza fluentemente? Ele possui um jargão profissional particular, um vocabulário próprio da empresa, da sua atividade ou de algum grupo social relevante para o seu projeto?; | Sim | Excelente |  |
 | 7 | O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de | Sim | Excelente |  |
 | 8 | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)? | Não |  | O grupo utilizou apenas o questionário para coletar os dados de usuários |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
 
 ### Conclusão
