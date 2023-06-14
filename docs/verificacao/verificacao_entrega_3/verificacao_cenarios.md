@@ -10,7 +10,7 @@ A técnica de verificação de artefatos é um processo usado para avaliar e val
 ## Metodologia
 <div align="justify">
   
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia na [aula 10 - professora Milene e Maurício](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
   
 Para tal, será utilizada a técnica de Análise estática, essa técnica consiste em examinar o código-fonte ou outro tipo de artefato sem executá-lo, em busca de erros, vulnerabilidades e problemas de qualidade. A análise estática pode ser feita manualmente ou com o auxílio de ferramentas automatizadas que realizam análises de sintaxe, semântica e conformidade com padrões.
   
@@ -28,25 +28,25 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   - **_Imcompleta_** (passa brevemente pelo conteúdo esperado na avaliação)
   </div>
   
-| Conteúdo | Possue | Qualidade | Observação |
-| -------- | :----: | :-------: | ---------- |
-| O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
-| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Boa | A metodologia do artefato é redigida, porém poderia ser um pouco mais clara e objetiva. |
-| Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção? | Sim | Incompleto | Não foram encontrados retrições e exceções. |
-| Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | Sim | Boa | Os epsódios de alguns cenários são pouco detalhados. |
-| A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais? | Sim | Excelente | Todos os cenários são bem diversificados. |
-| A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa seis funcionalidades por parte do usuário. |
-| Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
-| Os cenários são consistentes entre si e com outros artefatos do projeto, como casos de uso, requisitos e especificações? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
+| id | Conteúdo | Possue | Qualidade | Observação |
+| -- | -------- | :----: | :-------: | ---------- |
+| 1 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
+| 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Boa | A metodologia do artefato é redigida, porém poderia ser um pouco mais clara e objetiva. |
+| 3 | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção? | Sim | Incompleto | Não foram encontrados retrições e exceções. |
+| 4 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | Sim | Boa | Os epsódios de alguns cenários são pouco detalhados. |
+| 5 | A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais? | Sim | Excelente | Todos os cenários são bem diversificados. |
+| 6 | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa seis funcionalidades por parte do usuário. |
+| 7 | Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
+| 8 | Os cenários são consistentes entre si e com outros artefatos do projeto, como casos de uso, requisitos e especificações? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023). </p>
   
 ## Conclusão
 <div align="justify">
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-  - Detalhar mais a metodologia utilizada no artefato.
-  - Adicionar restrições e exceções aos cenários.
-  - Redigir mais detalhadamente os epsódios.
+  - **id 2** Detalhar mais a metodologia utilizada no artefato.
+  - **id 3** Adicionar restrições e exceções aos cenários.
+  - **id 4** Redigir mais detalhadamente os epsódios.
   </div>
   
 ## Critérios gerais
@@ -94,7 +94,11 @@ Algumas correções sugeridas são:
   
 ## Bibliografia
   
-  - BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
+ - SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em:
+<https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 03 jun. 2023.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+- Documento de cenários do Grupo 4 da Disciplina de Requisitos. Disponível em:
+<https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/cenarios.md>. Acesso em: 03 jun. 2023.
   
 ## Histórico de Versões
   
