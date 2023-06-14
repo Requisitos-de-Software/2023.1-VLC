@@ -19,6 +19,20 @@ A metodologia para verificar o artefato em questão será baseado, principalment
 Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato, a qual foi realizada uma checklist baseada na leitura do plano de ensino, contendo perguntas direcionadas a construção dos artefatos <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/aplicativo_escolhido.md">Aplicativos Escolhidos</a>. A tabela 1 apresenta um template de funcionamento da avaliação, onde as perguntas foram retiradas da bibliografia, slides das aula 4 [2] e o guia de desenho rich picture [3] ,que descreve como esses artefatos devem ser desenvolvidos a fim de obter uma qualidade excepcional. Vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na versão 2.1 disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb">Grupo 4</a> no dia 25 de abril de 2023.
 A segunda etapa consiste em avaliar questões de padronização, estrutura, referências, entre outras.
 
+| Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - |
+| O artefato possui introdução? |  | |  |
+| O artefato possui as tabelas legendadas? |  |  |  |
+| O artefato possui referências bibliográficas? |  |  |  |
+| O artefato possui controle de versão? |  |  |  |
+| O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? |  |  | |
+| O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? |  |  |  |
+| O rich picture está bem desenhado e é de fácil entendimento? |  |  |  |
+| O rich picture apresenta um escopo bem definido? |  |  |  |
+| O rich picture apresenta palavras chaves relevantes para o entendimento? |  |  |  |
+| O rich picture consegue passar uma mensagem de forma efetiva? |  |  |  |
+| O rich picture consegue contar uma história? |  |  |  |
+| O rich picture possui uma legenda explicando os símbolos utilizados no diagrama?? |  |  |  |
 
 </div>
 
@@ -62,11 +76,15 @@ Sendo assim, foi elaborada a tabela 2 abaixo relacionando as especificações id
 ### Conclusão
 <div align="justify">
 <p>As avaliações foram baseadas na versão 2 do rich picture.</p>
-<h4><b>O rich picture consegue passar uma mensagem de forma efetiva?</b></h4>
-<p>A mensagem que ele tenta passar é um pouco confusa, pois ela não está explicitada, portando o entendimento vai de leitor para leitor.</p>
-<br />
-<h4><b>O rich picture consegue contar uma história?</b></h4>
-<p>A história que o rich picture tenta passar não está muito clara, pois ela não está explicitada, é possível identificar algumas histórias dependendo das escolhas do usuário, porém a interpretação vai depender de leitor para leitor.</p>
+<h3><b>O rich picture consegue passar uma mensagem de forma efetiva?</b></h3>
+<ul>
+<li>A mensagem que ele tenta passar é um pouco confusa, pois ela não está explicitada, portando o entendimento vai de leitor para leitor.
+</ul>
+
+<h3><b>O rich picture consegue contar uma história?</b></h3>
+<ul>
+<li>A história que o rich picture tenta passar não está muito clara, pois ela não está explicitada, é possível identificar algumas histórias dependendo das escolhas do usuário, porém a interpretação vai depender de leitor para leitor.
+</ul>
 
 </div>
 
@@ -132,6 +150,6 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| 13/05/2023 | `1.0` | Documento criado | [Mizael Santos](https://github.com/frmiza) | :-: | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 13/05/2023 | `1.0` | Documento criado | [Mizael Santos](https://github.com/frmiza) | 14/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>

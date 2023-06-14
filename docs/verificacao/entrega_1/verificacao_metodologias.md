@@ -19,6 +19,15 @@ A metodologia para verificar o artefato em questão será baseado, principalment
 Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato, a qual foi realizada uma checklist baseada na leitura do plano de ensino, contendo perguntas direcionadas a construção dos artefatos <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/metodologias.md">Metodologias</a> . A tabela 1 apresenta um template de funcionamento da avaliação, vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na versão 2.0 disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb">Grupo 4</a> no dia 26 de abril de 2023.
 A segunda etapa consiste em avaliar questões de padronização, estrutura, referências, entre outras.
 
+| Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - |
+| O artefato possui introdução? |  |  |  |
+| O artefato possui as tabelas legendadas? |  |  |  |
+| O artefato possui referências bibliográficas? |  |  |  |
+| O artefato possui controle de versão? |  |  |  |
+| O artefato apresenta as metodologias que serão utilizadas para o desenvolvimento do projeto? |  |  |  |
+| O artefato apresenta o motivo da escolha das metodologias que serão utilizadas para o desenvolvimento do projeto? |  |  |  |
+
 
 </div>
 
@@ -115,6 +124,6 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| 13/05/2023 | `1.0` | Documento criado | [Mizael Santos](https://github.com/frmiza) | :-: | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 13/05/2023 | `1.0` | Documento criado | [Mizael Santos](https://github.com/frmiza) | 14/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
