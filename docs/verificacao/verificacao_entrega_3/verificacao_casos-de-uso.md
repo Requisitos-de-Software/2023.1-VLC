@@ -33,20 +33,21 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 | 1 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
 | 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | A metodologia do artefato é redigida com clareza. |
 | 3 | A modelagem de casos de uso é suficientemente detalhada para fornecer uma visão completa das interações entre os atores e o sistema, mas também abstrata o suficiente para não se tornar excessivamente detalhada ou técnica demais? | Sim | Excelente | A representação é abstrata e concisa. |
-| 4 | Os casos de uso estão alinhados com os objetivos e requisitos do projeto, representando funcionalidades ou comportamentos importantes do sistema que atendam às necessidades dos usuários e stakeholders? | Sim | Excelente | O artefato não proporciana nenhum tipo de imposição ou viés para com o participante. |
-| 5 | Os diagramas de caso de uso focam nos requisitos funcionais do sistema? | Sim | Excelente | Todos os requisitos representados são funcionais. |
-| 6 | A modelagem de casos de uso cobre todas as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa seis funcionalidades por parte do usuário. |
-| 7 | A modelagem de casos de uso apresenta uma representação para o sistema em avaliação, sendo esta delimitada por bordas? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
-| 8 | Os diagramas de caso de uso apresentam as representações de atores, estes estando diagramados fora da borda do sistema? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
-| 9 | Os diagramas de caso de uso apresentam as setas de _extend_ e _include_ nas direções corretas? De modo que os _includes_ apontem para o objeto em análise e os _extend_ saiam deste apontando para fora. | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
-| 10 | Os casos de uso são consistentes entre si e com outros artefatos do projeto? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
+| 4 | O artefato apresenta um diagrama de casos de uso? | Não | - | A rota para a imagem do diagrama está quebrada. |
+| 5 | Os casos de uso estão alinhados com os objetivos e requisitos do projeto, representando funcionalidades ou comportamentos importantes do sistema que atendam às necessidades dos usuários e stakeholders? | Sim | Excelente | O artefato não proporciana nenhum tipo de imposição ou viés para com o participante. |
+| 6 | Os diagramas de caso de uso focam nos requisitos funcionais do sistema? | Sim | Excelente | Todos os requisitos representados são funcionais. |
+| 7 | A modelagem de casos de uso cobre todas as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa seis funcionalidades por parte do usuário. |
+| 8 | A modelagem de casos de uso apresenta uma representação para o sistema em avaliação, sendo esta delimitada por bordas? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
+| 9 | Os diagramas de caso de uso apresentam as representações de atores, estes estando diagramados fora da borda do sistema? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
+| 10 | Os diagramas de caso de uso apresentam as setas de _extend_ e _include_ nas direções corretas? De modo que os _includes_ apontem para o objeto em análise e os _extend_ saiam deste apontando para fora. | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
+| 11 | Os casos de uso são consistentes entre si e com outros artefatos do projeto? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023). </p>
   
 ## Conclusão
 <div align="justify">
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-  - Corrigir o path da imagem do diagrama.
+  - **id 4** Corrigir o path da imagem do diagrama.
   </div>
   
 ## Critérios gerais
