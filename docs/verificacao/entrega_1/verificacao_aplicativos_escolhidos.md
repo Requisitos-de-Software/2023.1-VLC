@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "Ferramentas"
+# Verificação do artefato "Aplicativo Escolhido"
 
 ## Introdução
 
@@ -16,27 +16,8 @@ Por meio desta, o objetivo deste documento é realizar tal procedimento em cima 
 
 A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
-Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato, a qual foi realizada uma checklist baseada na leitura do plano de ensino, contendo perguntas direcionadas a construção dos artefatos <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/aplicativo_escolhido.md">Aplicativos Escolhidos</a>. A tabela 1 apresenta um template de funcionamento da avaliação, onde as perguntas foram retiradas da bibliografia, slides das aula 4 [2] e o guia de desenho rich picture [3] ,que descreve como esses artefatos devem ser desenvolvidos a fim de obter uma qualidade excepcional. Vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na versão 2.1 disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb">Grupo 4</a> no dia 25 de abril de 2023.
+Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato, a qual foi realizada uma checklist baseada na leitura do plano de ensino, contendo perguntas direcionadas a construção dos artefatos <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/aplicativo_escolhido.md">Aplicativos Escolhidos</a>. A tabela 1 apresenta uma base de funcionamento da avaliação, onde as perguntas foram retiradas da bibliografia, slides das aula 4 [2] e o guia de desenho rich picture [3] ,que descreve como esses artefatos devem ser desenvolvidos a fim de obter uma qualidade excepcional. Vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na versão 2.1 disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb">Grupo 4</a> no dia 25 de abril de 2023.
 A segunda etapa consiste em avaliar questões de padronização, estrutura, referências, entre outras.
-
-| Conteúdo | Possue | Qualidade | Observação |
-| - | - | - | - |
-| O artefato possui introdução? |  | |  |
-| O artefato possui as tabelas legendadas? |  |  |  |
-| O artefato possui referências bibliográficas? |  |  |  |
-| O artefato possui controle de versão? |  |  |  |
-| O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? |  |  | |
-| O artefato apresenta todos os rich pictures referentes aos sites avaliados? |  |  | |
-| O artefato apresenta os motivo do site selecionado? |  |  | |
-| O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? |  |  |  |
-| O rich picture está bem desenhado e é de fácil entendimento? |  |  |  |
-| O rich picture apresenta um escopo bem definido? |  |  |  |
-| O rich picture apresenta palavras chaves relevantes para o entendimento? |  |  |  |
-| O rich picture consegue passar uma mensagem de forma efetiva? |  |  |  |
-| O rich picture consegue contar uma história? |  |  |  |
-| O rich picture possui uma legenda explicando os símbolos utilizados no diagrama?? |  |  |  |
-
-<b>Tabela 1</b>: Template de perguntas das ferramentas (Fonte: SANTOS, Mizael. 2023)
 
 </div>
 
@@ -51,7 +32,7 @@ A segunda etapa consiste em avaliar questões de padronização, estrutura, refe
 <div align="justify">
 
 
-Sendo assim, foi elaborada a tabela 2 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possue parte do conteúdo esperado na avaliação).
@@ -77,7 +58,7 @@ Sendo assim, foi elaborada a tabela 2 abaixo relacionando as especificações id
 | O rich picture possui uma legenda explicando os símbolos utilizados no diagrama?? | Sim | Excelente | --- |
 
 
-<b>Tabela 2</b>: Perguntas das ferramentas (Fonte: SANTOS, Mizael. 2023)
+<b>Tabela 1</b>: Perguntas das ferramentas (Fonte: SANTOS, Mizael. 2023)
 
 ### Conclusão
 <div align="justify">
