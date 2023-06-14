@@ -90,6 +90,7 @@ Algumas correções sugeridas são:
   
   - Justificar os textos.
   - Redigir uma conclusão para o documento.
+  - Detalhar mais a metodologia utilizada na modelagem.
   </div>
   
 ## Bibliografia
