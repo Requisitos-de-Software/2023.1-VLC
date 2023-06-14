@@ -38,7 +38,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 | 6 | A modelagem de léxicos cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa 19 léxicos abordados pelo sistema. |
 | 7 | A modelagem de léxicos é consistente em todo o documento? Isso é, os termos devem ser usados de maneira consistente e as definições devem ser padronizadas. | Sim | Excelente | Não foram encontradas inconsistências para com as definições. |
 | 8 | A modelagem de léxicos é integrada com outros artefatos do projeto, como diagramas, especificações e casos de uso? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
-| 9 | A modelagem apresenta pelo menos uma classificação de verbo, estado e objeto? | Sim Excelente | Foram encontrados todos as classificações no documento. |
+| 9 | A modelagem apresenta pelo menos uma classificação de verbo, estado e objeto? | Sim | Excelente | Foram encontrados todos as classificações no documento. |
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023). </p>
   
 ## Conclusão
