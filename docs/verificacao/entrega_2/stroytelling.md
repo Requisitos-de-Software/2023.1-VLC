@@ -47,6 +47,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 7 | Foram elicitados requisitos não-funcionais? | Sim | Excelente | Foram elicitados requisitos não funcionais |
 | 8 | Os requisitos elicitados são verificáveis? | Sim | Boa | ST04, requisito de visualizar conta de forma clara |
 | 9 | Os storytellings foram feitos baseados em personas? | Sim |  |  |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Conclusão
