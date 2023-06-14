@@ -7,7 +7,7 @@
 <div align="justify">
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo na área de Requisitos de Software. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
-Por meio desta, o objetivo deste documento é realizar tal procedimento em cima do artefato <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/ferramentas.md">Ferramentas</a>, que foi desenvolvido pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb">Grupo 4</a>. A verificação tomou como base no plano de ensino e as datas presentes nele.
+Por meio desta, o objetivo deste documento é realizar tal procedimento em cima do artefato <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/metodologias.md">Metodologias</a>, que foi desenvolvido pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb">Grupo 4</a>. A verificação tomou como base no plano de ensino e também a leitura sobre metodologias ágeis de Sommerville[2].
 </div>
 
 ## Metodologia
@@ -16,7 +16,7 @@ Por meio desta, o objetivo deste documento é realizar tal procedimento em cima 
 
 A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
-Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato, a qual foi realizada uma checklist baseada na leitura do plano de ensino, contendo perguntas direcionadas a construção dos artefatos <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/ferramentas.md">Ferramentas</a> . A tabela 1 apresenta um template de funcionamento da avaliação, vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na versão 5.0 disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb">Grupo 4</a> no dia 30 de abril de 2023.
+Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato, a qual foi realizada uma checklist baseada na leitura do plano de ensino, contendo perguntas direcionadas a construção dos artefatos <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/metodologias.md">Metodologias</a> . A tabela 1 apresenta um template de funcionamento da avaliação, vale ressaltar que as respostas foram tomadas a partir da análise do artefato disponível na versão 2.0 disponibilizada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Caesb">Grupo 4</a> no dia 26 de abril de 2023.
 A segunda etapa consiste em avaliar questões de padronização, estrutura, referências, entre outras.
 
 
@@ -24,7 +24,7 @@ A segunda etapa consiste em avaliar questões de padronização, estrutura, refe
 
 ## Conteúdo esperado
 <div align="justify">
-<p>É esperado que o artefato apresenta tabelas contendo datas previstas para realização das atividades, seu início e término, além de apresentar quem construiu o artefato e quem revisou o mesmo.</p>
+<p>É esperado encontrar neste artefato uma breve descrição de metodologias e abordagens de engenharia de software esta sendo utilizada, motivações e objetivos desta escolha</p>
 </div>
 
 
@@ -43,31 +43,19 @@ Sendo assim, foi elaborada a tabela 2 abaixo relacionando as especificações id
 
 | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - |
-| As datas estão de acordo com o esperado pelo plano de ensino? | Sim | Excelente | --- |
 | O artefato possui introdução? | Sim | Excelente| --- |
 | O artefato possui as tabelas legendadas? | Sim | Excelente | --- |
 | O artefato possui referências bibliográficas? | Sim | Excelente | --- |
 | O artefato possui controle de versão? | Sim | Excelente | --- |
-| O artefato apresenta as atividades que devem ser realizadas e descritas no plano de ensino? | Sim | Excelente | --- |
+| O artefato apresenta as metodologias que serão utilizadas para o desenvolvimento do projeto? | Sim | Excelente | --- |
+| O artefato apresenta o motivo da escolha das metodologias que serão utilizadas para o desenvolvimento do projeto? | Sim | Incompleto | Faltou citar com mais detalhes e mais explicitamente o motivo da escolha |
 
+<b>Tabela 2</b>: Perguntas sobre a metodologia (Fonte: SANTOS, Mizael. 2023).
 
-<b>Tabela 1</b>: Relação das tabelas no cronograma (Fonte: SANTOS, Mizael. 2023).
-
-| Conteúdo | Possue | Qualidade | Observação |
-| - | - | - | - |
-| As datas da realização das atividades foi documentada? | Sim | Excelente | --- |
-| O artefato possui introdução? | Não | --- | Não, porém este artefato dispensa introdução. |
-| O artefato possui as tabelas legendadas? | Sim | Excelente | --- |
-| O artefato possui referências bibliográficas? | Não | --- | Não, porém este artefato dispensa introdução. |
-| O artefato possui controle de versão? | Sim | Excelente | --- |
-| O artefato apresenta as atividades que devem ser realizadas e descritas no plano de ensino? | Sim | Excelente | --- |
-
-
-<b>Tabela 3</b>: Relação das tabelas no cronograma realizado (Fonte: SANTOS, Mizael. 2023).
 
 ### Conclusão
 <div align="justify">
-<p>A respeito dos cronogramas não apresenta nenhum erro que pode ser consertado.</p>
+<p>O artefato apresenta qualidade muito boa, a menos pela falta de detalhamento do motivo da escolha das metodologias aplicadas. </p>
 </div>
 
 ## Critérios gerais
@@ -112,14 +100,16 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 ## Correções e ajustes sugeridos
 
 <div align="justify">
-<p>A respeito dos cronogramas não apresenta nenhum erro que pode ser consertado.</p>
+<p>Adicionar um detalhamento do motivo da escolha das metodologias aplicadas.</p>
 </div>
 
 ## Bibliografia
 
-- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 4 de junho de 2023.
+- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 13 de junho de 2023.
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+- [2] SOMMERVILLE, Ian. Engenharia de Software 9ª edição. 2011.
+
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 13 jun. 2023.
 
 
 ## Histórico de Versões
