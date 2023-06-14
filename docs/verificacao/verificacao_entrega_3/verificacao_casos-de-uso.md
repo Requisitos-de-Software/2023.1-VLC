@@ -10,7 +10,7 @@ A técnica de verificação de artefatos é um processo usado para avaliar e val
 ## Metodologia
 <div align="justify">
   
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia na [aula 13 - professora Milene e Maurício](https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
   
 Para tal, será utilizada a técnica de Análise estática, essa técnica consiste em examinar o código-fonte ou outro tipo de artefato sem executá-lo, em busca de erros, vulnerabilidades e problemas de qualidade. A análise estática pode ser feita manualmente ou com o auxílio de ferramentas automatizadas que realizam análises de sintaxe, semântica e conformidade com padrões.
   
@@ -28,16 +28,18 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   - **_Imcompleta_** (passa brevemente pelo conteúdo esperado na avaliação)
   </div>
   
-| Conteúdo | Possue | Qualidade | Observação |
-| -------- | :----: | :-------: | ---------- |
-| O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
-| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | A metodologia do artefato é redigida com clareza. |
-| A modelagem de casos de uso é suficientemente detalhada para fornecer uma visão completa das interações entre os atores e o sistema, mas também abstrata o suficiente para não se tornar excessivamente detalhada ou técnica demais? | Sim | Excelente | A representação é abstrata e concisa. |
-| Os casos de uso estão alinhados com os objetivos e requisitos do projeto, representando funcionalidades ou comportamentos importantes do sistema que atendam às necessidades dos usuários e stakeholders? | Sim | Excelente | O artefato não proporciana nenhum tipo de imposição ou viés para com o participante. |
-| Os diagramas de caso de uso focam nos requisitos funcionais do sistema? | Sim | Excelente | Todos os requisitos representados são funcionais. |
-| A modelagem de casos de uso cobre todas as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa seis funcionalidades por parte do usuário. |
-| Os diagramas de caso de uso respeitam todas as regras de diagramação propóstas? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
-| Os casos de uso são consistentes entre si e com outros artefatos do projeto? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
+| id | Conteúdo | Possue | Qualidade | Observação |
+| -- | -------- | :----: | :-------: | ---------- |
+| 1 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
+| 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | A metodologia do artefato é redigida com clareza. |
+| 3 | A modelagem de casos de uso é suficientemente detalhada para fornecer uma visão completa das interações entre os atores e o sistema, mas também abstrata o suficiente para não se tornar excessivamente detalhada ou técnica demais? | Sim | Excelente | A representação é abstrata e concisa. |
+| 4 | Os casos de uso estão alinhados com os objetivos e requisitos do projeto, representando funcionalidades ou comportamentos importantes do sistema que atendam às necessidades dos usuários e stakeholders? | Sim | Excelente | O artefato não proporciana nenhum tipo de imposição ou viés para com o participante. |
+| 5 | Os diagramas de caso de uso focam nos requisitos funcionais do sistema? | Sim | Excelente | Todos os requisitos representados são funcionais. |
+| 6 | A modelagem de casos de uso cobre todas as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa seis funcionalidades por parte do usuário. |
+| 7 | A modelagem de casos de uso apresenta uma representação para o sistema em avaliação, sendo esta delimitada por bordas? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
+| 8 | Os diagramas de caso de uso apresentam as representações de atores, estes estando diagramados fora da borda do sistema? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
+| 9 | Os diagramas de caso de uso apresentam as setas de _extend_ e _include_ nas direções corretas? De modo que os _includes_ apontem para o objeto em análise e os _extend_ saiam deste apontando para fora. | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
+| 10 | Os casos de uso são consistentes entre si e com outros artefatos do projeto? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023). </p>
   
 ## Conclusão
@@ -92,8 +94,12 @@ Algumas correções sugeridas são:
   </div>
   
 ## Bibliografia
-  
-  - BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
+
+- SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em:
+<https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 03 jun. 2023.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+- Documento de casos de uso do Grupo 4 da Disciplina de Requisitos. Disponível em:
+<https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/casos_de_uso.md>. Acesso em: 03 jun. 2023.
   
 ## Histórico de Versões
   
