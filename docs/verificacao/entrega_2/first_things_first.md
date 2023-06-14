@@ -48,6 +48,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 8 | Foi utilizado dos desenvolvedores para a estimativa do custo e risco? | Sim | Excelente | - |
 | 9 | Os requisitos estão ordenados em ordem de prioridade? | Sim | Excelente | - |
 | 10 | Os requisitos estão com suas respectivas descrições na tabela de priorização? | Sim | Excelente | - |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Conclusão
