@@ -54,7 +54,7 @@
 
 <div align="justify">
 
-&emsp;&emsp;
+&emsp;&emsp;De modo geral o artefato contém um conteúdo condizente com o esperado, contudo algumas histórias podem resultar em dificuldades para o grupo testa-las futuramente.
 
 </div>
 
@@ -64,51 +64,33 @@
 
 <div align="justify">
 
-Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
+&emsp;&emsp;Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
 
 </div>
 
 1. Padronização:
-   - [ ] O artefato segue as diretrizes de formatação especificadas.
-   - [ ] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [ ] As margens e os espaçamentos estão corretos.
-   - [ ] O uso de negrito, itálico e sublinhado está adequado e consistente.
-   - [ ] Os parágrafos estão todos justificados.
+   - [✅] O artefato segue as diretrizes de formatação especificadas.
+   - [✅] A fonte e o tamanho do texto estão consistentes em todo o documento.
+   - [❌] As margens e os espaçamentos estão corretos.
+   - [✅] O uso de negrito, itálico e sublinhado está adequado e consistente.
+   - [❌] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [ ] O artefato possui uma introdução clara e contextualizada.
-   - [ ] As seções estão organizadas de forma lógica e coerente.
-   - [ ] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [ ] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [✅] O artefato possui uma introdução clara e contextualizada.
+   - [✅] As seções estão organizadas de forma lógica e coerente.
+   - [✅] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [❌] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [❌] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
-   - [ ] As citações estão corretamente formatadas de acordo com o estilo especificado.
-   - [ ] Todas as referências citadas no texto estão presentes na lista de referências.
-   - [ ] As referências estão formatadas corretamente, seguindo o estilo especificado.
-
-@ caso exista tabela no artefato @
-4. Tabelas:
-   - [ ] As tabelas possuem legenda.
-   - [ ] As tabelas são chamadas no texto.
-   - [ ] 
-
-@ caso exista figura no artefato @
-5. Figuras:
-   - [ ] As figuras possuem legenda.
-   - [ ] As figuras são chamadas no texto.
-
-6. <Outros critérios específicos>:
-   - [ ] -> Inclua aqui outros critérios específicos que devem ser verificados no artefato. <-
-
-<b>Observações:</b>
-- -> Insira aqui quaisquer observações relevantes sobre a verificação realizada. <-
+   - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
+   - [❌] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão de como se encontra a qualidade do documento em relação aos tópicos gerais avaliados <-
+&emsp;&emsp;A estrutura do documento ficou coerente e bem elaborada, porém faltam alguns detalhes para melhorar o documento.
 
 </div>
 
@@ -116,9 +98,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 <div align="justify">
 
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
-
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
+&emsp;&emsp;Justificar os textos e melhorar a bibliografia, além de adicionar uma conclusão no artefato para sintetizar o estudo realizado. Sobre o conteúdo é interessante reavaliar as histórias cujo os testes possam ser inviaveis a longo prazo.
 
 </div>
 
@@ -133,6 +113,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 13/06/2001 | `-` | Iniciando o documento | [Giovanni Alvissus](github.com/giovanni1106) | - | [-](-) |
+| 13/06/2001 | `1.0` | Iniciando o documento | [Giovanni Alvissus](github.com/giovanni1106) | - | [-](-) |
+| 14/06/2001 | `1.1` | Finalizando a criação do documento | [Giovanni Alvissus](github.com/giovanni1106) | - | [-](-) |
 
 </div>
