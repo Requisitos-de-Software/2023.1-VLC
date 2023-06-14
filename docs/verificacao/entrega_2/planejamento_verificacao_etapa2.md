@@ -43,6 +43,7 @@ A verificação será realizada no período de 06 de junho de 2023 até dia 12 d
 | 10/06/2023 | Verificação do In or Out. |
 | 10/06/2023 | Verificação do Questionario. |
 | 12/06/2023 | Verificação da Introspeccao. |
+
 <b>Tabela 1</b>: Cronograma das atividades (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
 
 A tabela 1 apresenta o cronograma das atividades a serem realizadas.
