@@ -48,6 +48,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 8 | As perguntas possuem uma ordem coerente com o objetivo do artefato? | Sim | Boa | Poderiam ser adicionadas questões abertas acerca da interface, posterior as objetivas já existentes. |
 | 9 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? | Sim | Excelente | - |
 | 10 | A quantidade de respostas ao questionário foi alta? | Não | - | O grupo obteve 6 respostas, o que compromete a qualidade dos resultados do questionário. |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Conclusão
