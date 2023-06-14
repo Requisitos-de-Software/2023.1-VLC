@@ -10,7 +10,7 @@ A técnica de verificação de artefatos é um processo usado para avaliar e val
 ## Metodologia
 <div align="justify">
   
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia na [aula 13 - professora Milene e Maurício](https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
   
 Para tal, será utilizada a técnica de Análise estática, essa técnica consiste em examinar o código-fonte ou outro tipo de artefato sem executá-lo, em busca de erros, vulnerabilidades e problemas de qualidade. A análise estática pode ser feita manualmente ou com o auxílio de ferramentas automatizadas que realizam análises de sintaxe, semântica e conformidade com padrões.
   
@@ -28,23 +28,23 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   - **_Imcompleta_** (passa brevemente pelo conteúdo esperado na avaliação)
   </div>
   
-| Conteúdo | Possue | Qualidade | Observação |
-| -------- | :----: | :-------: | ---------- |
-| O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
-| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | A metodologia do artefato é redigida com clareza. |
-| A modelagem de especificação suplementar utiliza uma linguagem natural clara, precisa e não ambígua para descrever os requisitos e restrições adicionais? | Sim | Excelente | Todos os textos são claros e concisos. |
-| Cada requisito é rastreaável, sendo fornecidas referências cruzadas para relacionar os requisitos com outros docuentos do projeto como o de casos de uso? | Sim | Excelente | O artefato proporciona links para outros artefatos correlatos. |
-| Os  requisitos não funcionais do sistema são o foco da modelagem? | Não | - | Existem requistos funcionais sendo avaliados no artefato. |
-| A modelagem de especificação suplementar cobre todas as principais características do sistema? | Sim | Excelente | O artefato representa seis principais características do sistema. |
-| A modelagem de especificação suplementar é flexível o suficiente para permitir atualizações e evolução ao longo do ciclo de vida do projeto? | Sim | Excelente | O artefato deixa margem a mudanças futuras no projeto. |
-| A modelagem de especificação suplementar é consistente entre si e com outros artefatos do projeto? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
+| id | Conteúdo | Possue | Qualidade | Observação |
+| -- | -------- | :----: | :-------: | ---------- |
+| 1 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
+| 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | A metodologia do artefato é redigida com clareza. |
+| 3 | A modelagem de especificação suplementar utiliza uma linguagem natural clara, precisa e não ambígua para descrever os requisitos e restrições adicionais? | Sim | Excelente | Todos os textos são claros e concisos. |
+| 3 | Cada requisito é rastreaável, sendo fornecidas referências cruzadas para relacionar os requisitos com outros docuentos do projeto como o de casos de uso? | Sim | Excelente | O artefato proporciona links para outros artefatos correlatos. |
+| 4 | Os  requisitos não funcionais do sistema são o foco da modelagem? | Não | - | Existem requistos funcionais sendo avaliados no artefato. |
+| 5 | A modelagem de especificação suplementar cobre todas as principais características do sistema? | Sim | Excelente | O artefato representa seis principais características do sistema. |
+| 6 | A modelagem de especificação suplementar é flexível o suficiente para permitir atualizações e evolução ao longo do ciclo de vida do projeto? | Sim | Excelente | O artefato deixa margem a mudanças futuras no projeto. |
+| 7 | A modelagem de especificação suplementar é consistente entre si e com outros artefatos do projeto? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023). </p>
   
 ## Conclusão
 <div align="justify">
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-  - Revisar algumas das modelagem feitas, se são requisitos funcionais ou não.
+  - **id 4** Revisar algumas das modelagem feitas, se são requisitos funcionais ou não.
   </div>
   
 ## Critérios gerais
@@ -93,8 +93,12 @@ Algumas correções sugeridas são:
   
 ## Bibliografia
   
-  - BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
-  
+- SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em:
+<https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 03 jun. 2023.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+- Documento de especificação suplementar do Grupo 4 da Disciplina de Requisitos. Disponível em:
+<https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/casos_de_uso.md>. Acesso em: 03 jun. 2023.
+
 ## Histórico de Versões
   
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
