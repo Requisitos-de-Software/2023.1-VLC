@@ -28,35 +28,31 @@ Para tal, a verificação será dividida em duas etapas, a primeira sendo a veri
 
 <div align="justify">
 
--> Deve ser descrito o que é esperado encontrar nesse artefato, como seu objetivo por exemplo <-
-
-& O artefato em questão tem como objetivo documentar os relatórios obtidos durante o processo de pesquisa. Visando simplificar a visualização de graficos e tabelas &
+Neste artefato, espera-se encontrar uma lista detalhada de itens de trabalho que precisam ser realizados para desenvolver e melhorar o produto ao longo do tempo. O backlog deve ser um reflexo das necessidades e requisitos do produto, priorizados de acordo com sua importância e valor.
 
 Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
-- Boa (Possue parte do conteúdo esperado na avaliação).
-- Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
+- Boa (Possui parte do conteúdo esperado na avaliação).
+- Incompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
 
-@ A observação deve ser utilizada para justificar o por que de não estar excelente @
-| Conteúdo | Possue | Qualidade | Observação |
+| Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - |
-| <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| ... | ... | ... | ... |
+|  O backlog possui épicos e temas bem definidos e descritos? | Sim | Excelente |  |
+| As Histórias de Usuário seguem algum modelo ou padrão? | Sim | Excelente |  |
+| As histórias possuem rastreabilidade? | Sim | Boa | Poderiam especificar o que significa cada sigla ou colocar um link de redirecionamento |
+| Existe uma relação entre temas épicos e histórias? | Sim | Excelente | |
+| Possui validação com usuário? | Sim | Boa | Mostra o link da entrevista porém não apresenta ao menos um resumo da mesma. |
 
--> Completar a tabela com os critérios de avaliação do artefato e verificar se o artefato em questão possue ou não, dando uma nota de qualidade <-
-
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela &ALVISSUS, Giovanni&>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: ALVISSUS, Giovanni. 2023).
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+O conteúdo do artefato está bem condizente com o esperado, faltando apenas alguns detalhes para manter a coesão e entendimento.
 
 </div>
 
@@ -118,9 +114,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 <div align="justify">
 
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
-
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
+Sobre o conteúdo, é interessante o grupo adicionar uma legenda sobre a rastreabilidade, mostrando de qual elicitação saiu cada história. Também adicionar um breve resumo de como foi a entrevista de validação, pois não sabemos se foi positiva ou negativa e nem mesmos os comentários do usuário.
 
 </div>
 
@@ -135,6 +129,6 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| - | `-` | - | [-](-) | - | [-](-) |
+| 14/06/2023 | `1.0` | Iniciando o documento | [Giovanni Alvissus](github.com/giovanni1106) | - | [-](-) |
 
 </div>
