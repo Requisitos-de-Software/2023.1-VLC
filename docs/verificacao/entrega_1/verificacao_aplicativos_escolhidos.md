@@ -40,40 +40,41 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 </div>
 
-| Conteúdo | Possue | Qualidade | Observação |
-| - | - | - | - |
-| O artefato possui introdução? | Sim | Excelente| --- |
-| O artefato possui as tabelas legendadas? | Sim | Excelente | --- |
-| O artefato possui referências bibliográficas? | Sim | Excelente | --- |
-| O artefato possui controle de versão? | Sim | Excelente | --- |
-| O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? | Sim | Excelente |--- |
-| O artefato apresenta todos os rich pictures referentes aos sites avaliados? | Sim | Exelente | --- |
-| O artefato apresenta os motivo do site selecionado? | Sim | Bom | A motivação esta boa porém está espalhada no texto |
-| O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? | Sim | Excelente| --- |
-| O rich picture está bem desenhado e é de fácil entendimento? | Sim | Excelente | --- |
-| O rich picture apresenta um escopo bem definido? | Sim | Excelente | --- |
-| O rich picture apresenta palavras chaves relevantes para o entendimento? | Sim | Excelente | --- |
-| O rich picture consegue passar uma mensagem de forma efetiva? | Sim | Incompleto | Um pouco confuso |
-| O rich picture consegue contar uma história? | Sim | Incompleto | é possível identificar uma historia porem ela n esta clara e explicitada |
-| O rich picture possui uma legenda explicando os símbolos utilizados no diagrama?? | Sim | Excelente | --- |
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | O artefato possui introdução? | Sim | Excelente| --- |
+| 2 | O artefato possui as tabelas legendadas? | Sim | Excelente | --- |
+| 3 | O artefato possui referências bibliográficas? | Sim | Excelente | --- |
+| 4 | O artefato possui controle de versão? | Sim | Excelente | --- |
+| 5 | O artefato apresenta O(s) autor(es) e o(s) revisor(es) do artefato? | Sim | Excelente |--- |
+| 6 | O artefato apresenta todos os rich pictures referentes aos sites avaliados? | Sim | Exelente | --- |
+| 7 | O artefato apresenta os motivo do site selecionado? | Sim | Bom | A motivação esta boa porém está espalhada no texto |
+| 8 | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? | Sim | Excelente| --- |
+| 9 | O rich picture está bem desenhado e é de fácil entendimento? | Sim | Excelente | --- |
+| 10 | O rich picture apresenta um escopo bem definido? | Sim | Excelente | --- |
+| 11 | O rich picture apresenta palavras chaves relevantes para o entendimento? | Sim | Excelente | --- |
+| 12 | O rich picture consegue passar uma mensagem de forma efetiva? | Sim | Incompleto | Um pouco confuso |
+| 13 | O rich picture consegue contar uma história? | Sim | Incompleto | é possível identificar uma historia porem ela n esta clara e explicitada |
+| 14 | O rich picture possui uma legenda explicando os símbolos utilizados no diagrama?? | Sim | Excelente | --- |
 
 
 <b>Tabela 1</b>: Perguntas das ferramentas (Fonte: SANTOS, Mizael. 2023)
 
 ### Conclusão
 <div align="justify">
-<h3><b>O artefato apresenta os motivo do site selecionado?</b></h3>
+<h3><b>7 - O artefato apresenta os motivo do site selecionado?</b></h3>
 <ul>
 <li>O motivo do site selecionado esta um pouco espalhado no texto, ficando confuso para identificar.
 </ul>
 
 <p>As avaliações foram baseadas na versão 2 do rich picture.</p>
-<h3><b>O rich picture consegue passar uma mensagem de forma efetiva?</b></h3>
+
+<h3><b>12 - O rich picture consegue passar uma mensagem de forma efetiva?</b></h3>
 <ul>
 <li>A mensagem que ele tenta passar é um pouco confusa, pois ela não está explicitada, portando o entendimento vai de leitor para leitor.
 </ul>
 
-<h3><b>O rich picture consegue contar uma história?</b></h3>
+<h3><b>13 - O rich picture consegue contar uma história?</b></h3>
 <ul>
 <li>A história que o rich picture tenta passar não está muito clara, pois ela não está explicitada, é possível identificar algumas histórias dependendo das escolhas do usuário, porém a interpretação vai depender de leitor para leitor.
 </ul>
@@ -139,6 +140,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 13 jun. 2023.
 
+- Documento de aplicativos escolhidos Grupo 4 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/aplicativo_escolhido.md>. Acesso em 13 jun. 2023
 
 ## Histórico de Versões
 
