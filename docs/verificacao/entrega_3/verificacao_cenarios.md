@@ -59,7 +59,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
 - id 4: Redigir mais detalhadamente os epsódios.
 
 <img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/cenarios.png" width="100%">
-<p> </p><b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
+<p> <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
 
 </div>
   
