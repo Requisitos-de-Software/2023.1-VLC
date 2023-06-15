@@ -60,6 +60,11 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 - id 8, Requisitos muito abrangentes o que poderia gerar conflitos com visualizar as informações de forma clara.
 - id 9, Os storytellings não deveria ser feitos baseados em perosonas, quando baseado em personas não é storytelling é encenação
 
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/story.jpeg" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
 </div>
 
 ## Critérios gerais

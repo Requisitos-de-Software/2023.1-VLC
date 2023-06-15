@@ -57,6 +57,11 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 
 - id 8, o grupo 4 pecou em utilizar apenas uma técnica para coleta de dados, o que pode prejudicar a vericidade dos dados.
 
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/perfilusu.jpeg" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
 </div>
 
 ## Critérios gerais

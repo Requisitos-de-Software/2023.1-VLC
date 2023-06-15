@@ -63,6 +63,11 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 - id 7, Houve a participação de apenas um membro do grupo e apenas um cliente;
 - id 8, Não foi definido o que seria levado em consideração para a definição de requisitos que seriam in or out.
 
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/inorout.jpeg" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
 </div>
 
 ## Critérios gerais
