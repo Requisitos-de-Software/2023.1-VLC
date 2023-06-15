@@ -46,22 +46,60 @@
 
 </div>
 
-| Conteúdo | Possue | Qualidade | Observação |
-| - | - | - | - |
-| A definição de RNF e as fontes de evidência na literatura ? | Não | ----------- | Colocar um tópico definindo RNF |
-| O cartão de especificação dos RNF ? | Não | ----------- | Adicionar um cartão de especificação dos RNF |
-| Os softgoals condizem com o contexto ? | Sim | Excelente | ------------ |
-| Softgoals representam metas bem definidas ? | Sim | Excelente | ------------ |
-| Os impactos foram corretamente propagados ? | Sim | Excelente | ------------ |
-| Existe rastreabilidade em relação aos requisitos nele apresentados ? | Sim | Excelente | ------------ |
-| Faz conexão com o artefato Especificação Suplementar ? | Sim | Boa | Detalhar melhor a relação entre os dois artefatos |
-| O objetivo do artefato é bem definido ? | Não | ----------- | Acrescentar um tópico apenas para o objetivo do artefato |
-| Os graus de satisfação foram indicados ? | Sim | Excelente | ------------ |
-| Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals ? | Sim | Excelente | ------------ |
-| O sentido das setas e sinalizações do softgoal é coerente ? | Sim | Excelente | ------------ |
-| Existe uma conclusão ? | Não | ----------- | Acrescentar um tópico apenas para a conclusão do artefato |
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | A definição de RNF e as fontes de evidência na literatura? | Não | ----------- | Colocar um tópico definindo RNF |
+| 2 | O cartão de especificação dos RNF? | Não | ----------- | Adicionar um cartão de especificação dos RNF |
+| 3 | Os softgoals condizem com o contexto? | Sim | Excelente | ------------ |
+| 4 | Softgoals representam metas bem definidas? | Sim | Excelente | ------------ |
+| 5 | Os impactos foram corretamente propagados? | Sim | Excelente | ------------ |
+| 6 | Existe rastreabilidade em relação aos requisitos nele apresentados? | Sim | Excelente | ------------ |
+| 7 | Faz conexão com o artefato Especificação Suplementar? | Sim | Boa | Detalhar melhor a relação entre os dois artefatos |
+| 8 | O objetivo do artefato é bem definido? | Não | ----------- | Acrescentar um tópico apenas para o objetivo do artefato |
+| 9 | Os graus de satisfação foram indicados? | Sim | Excelente | ------------ |
+| 10 | Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals? | Sim | Excelente | ------------ |
+| 11 | O sentido das setas e sinalizações do softgoal é coerente? | Sim | Excelente | ------------ |
+| 12 | Existe uma conclusão? | Não | ----------- | Acrescentar um tópico apenas para a conclusão do artefato |
+
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
+
+A seguir o Gráfico 1 para representar a média da qualidade do artefato:
+
+<body>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <canvas id="chart"></canvas>
+
+    <script>
+        // Dados da tabela
+        var data = [
+            { qualidade: "Excelente", cor: "#00ff00", quantidade: 6 },
+            { qualidade: "Boa", cor: "#ffff00", quantidade: 3 },
+            { qualidade: "Incompleta", cor: "#ff0000", quantidade: 3 }
+        ];
+
+        // Configuração do gráfico
+        var config = {
+            type: 'pie',
+            data: {
+                datasets: [{
+                    data: data.map(item => item.quantidade),
+                    backgroundColor: data.map(item => item.cor)
+                }],
+                labels: data.map(item => item.qualidade)
+            },
+            options: {
+                responsive: true
+            }
+        };
+
+        // Renderiza o gráfico
+        var ctx = document.getElementById('chart').getContext('2d');
+        new Chart(ctx, config);
+    </script>
+</body>
+
+<b>Gráfico 1</b>: Gráfico de qualidade (Fonte: BOSI, Rafael. 2023).
 
 ### Conclusão
 
