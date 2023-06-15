@@ -52,6 +52,10 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 <b>Tabela 1</b>: Perguntas das ferramentas (Fonte: SANTOS, Mizael. 2023)
 
+<img src=https://github.com/Requisitos-de-Software/2023.1-VLC/blob/169-adicionar-imagens-no-ava_pc1/docs/img/verificacao/entrega_1/graf_exelente.png>
+
+<b>Imagem 1</b>: Grafico das ferramentas (Fonte: SANTOS, Mizael. 2023)
+
 ### Conclusão
 <div align="justify">
 <p>A respeito das tabelas não apresenta nenhum erro que pode ser consertado.</p>
