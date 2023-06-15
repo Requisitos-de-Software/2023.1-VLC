@@ -16,7 +16,7 @@ Esse documento tem como objetivo fazer uma verificação do artefato "Backlog" d
 
 <div align="justify">
 
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no livro [Engenharia_de_Software_Uma_Abordagem_Profissional](https://aprender3.unb.br/pluginfile.php/2523118/mod_resource/content/3/Engenharia_de_Software_Uma_Abordagem_Pro.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no livro [Engenharia de Software Uma Abordagem Profissional](https://aprender3.unb.br/pluginfile.php/2523118/mod_resource/content/3/Engenharia_de_Software_Uma_Abordagem_Pro.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
 Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
@@ -50,25 +50,7 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 A seguir o Gráfico 1 para representar a média da qualidade do artefato:
 
-<div>
-    <canvas id="myChart"></canvas>
-</div>
-
-<script>
-    window.onload = function() {
-        var ctx = document.getElementById('myChart').getContext('2d');
-        var chart = new Chart(ctx, {
-            type: 'pie',
-            data: {
-                labels: ['Excelente', 'Boa', 'Incompleta'],
-                datasets: [{
-                    data: [3, 2, 0],
-                    backgroundColor: ['#00ff00', '#ffff00', '#ff0000']
-                }]
-            }
-        });
-    };
-</script>
+<img src="https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_4/backlog.png">
 
 <b>Gráfico 1</b>: Gráfico de qualidade (Fonte: ALVISSUS, Giovanni. 2023).
 
