@@ -55,6 +55,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
 ### Verificação
 <div align="justify">
   Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
+</div>
 
 1. Padronização:
   - [ ] O artefato segue as diretrizes de formatação especificadas.
@@ -78,7 +79,6 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
 4. Tabelas:
    - [X] As tabelas possuem legenda.
    - [X] As tabelas são chamadas no texto.
-  </div>
   
 ## Conclusão
 <div align="justify">
