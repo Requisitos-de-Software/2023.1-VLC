@@ -35,7 +35,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 </div>
   
 | id | Conteúdo | Possue | Qualidade | Observação |
-| -- | -------- | :----: | :-------: | ---------- |
+| -- | -------- | ------ | --------- | ---------- |
 | 1 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
 | 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | A metodologia do artefato é redigida com clareza. |
 | 3 | A modelagem de casos de uso é suficientemente detalhada para fornecer uma visão completa das interações entre os atores e o sistema, mas também abstrata o suficiente para não se tornar excessivamente detalhada ou técnica demais? | Sim | Excelente | A representação é abstrata e concisa. |
@@ -55,7 +55,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-  - **id 4** Corrigir o path da imagem do diagrama.
+  - id 4 Corrigir o path da imagem do diagrama.
 
 </div>
   
