@@ -50,38 +50,47 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 A seguir o Gráfico 1 para representar a média da qualidade do artefato:
 
-<body>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <canvas id="chart"></canvas>
+<div id="chart"></div>
 
-    <script>
-        // Dados da tabela
-        var data = [
-            { qualidade: "Excelente", cor: "#00ff00", quantidade: 3 },
-            { qualidade: "Boa", cor: "#ffff00", quantidade: 2 },
-            { qualidade: "Incompleta", cor: "#ff0000", quantidade: 0 }
-        ];
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    const data = [
+        { qualidade: "Excelente", cor: "#00ff00", quantidade: 6 },
+        { qualidade: "Boa", cor: "#ffff00", quantidade: 3 },
+        { qualidade: "Incompleta", cor: "#ff0000", quantidade: 3 }
+    ];
 
-        // Configuração do gráfico
-        var config = {
-            type: 'pie',
-            data: {
-                datasets: [{
-                    data: data.map(item => item.quantidade),
-                    backgroundColor: data.map(item => item.cor)
-                }],
-                labels: data.map(item => item.qualidade)
-            },
-            options: {
-                responsive: true
-            }
-        };
+    const width = 400;
+    const height = 400;
 
-        // Renderiza o gráfico
-        var ctx = document.getElementById('chart').getContext('2d');
-        new Chart(ctx, config);
-    </script>
-</body>
+    const svg = d3.select("#chart")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    const pie = d3.pie()
+        .value(d => d.quantidade);
+
+    const arc = d3.arc()
+        .innerRadius(0)
+        .outerRadius(Math.min(width, height) / 2);
+
+    const arcs = svg.selectAll("arc")
+        .data(pie(data))
+        .enter()
+        .append("g")
+        .attr("class", "arc")
+        .attr("transform", `translate(${width / 2},${height / 2})`);
+
+    arcs.append("path")
+        .attr("d", arc)
+        .attr("fill", d => d.data.cor);
+
+    arcs.append("text")
+        .attr("transform", d => `translate(${arc.centroid(d)})`)
+        .attr("text-anchor", "middle")
+        .text(d => d.data.qualidade);
+</script>
 
 <b>Gráfico 1</b>: Gráfico de qualidade (Fonte: ALVISSUS, Giovanni. 2023).
 
