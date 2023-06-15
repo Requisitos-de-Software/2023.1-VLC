@@ -57,8 +57,11 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | 13 | O rich picture consegue contar uma história? | Sim | Incompleto | é possível identificar uma historia porem ela n esta clara e explicitada |
 | 14 | O rich picture possui uma legenda explicando os símbolos utilizados no diagrama?? | Sim | Excelente | --- |
 
+<b>Tabela 1</b>: Perguntas das perguntas selecionadas (Fonte: SANTOS, Mizael. 2023)
 
-<b>Tabela 1</b>: Perguntas das ferramentas (Fonte: SANTOS, Mizael. 2023)
+<img src=https://github.com/Requisitos-de-Software/2023.1-VLC/blob/169-adicionar-imagens-no-ava_pc1/docs/img/verificacao/entrega_1/graf_app_escolhido.png>
+
+<b>Imagem 1</b>: Graficos das perguntas site selecionado (Fonte: SANTOS, Mizael. 2023)
 
 ### Conclusão
 <div align="justify">
