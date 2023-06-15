@@ -61,6 +61,11 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 - id8: não houveram questões abertas sobre as interfaces;
 - id10: a quantidade de respostas obtidas no questionário foi baixa (6 respostas), comprometendo os resultados obtidos pelos mesmos, já que uma pequena parcela de respostas pode não explicitar com clareza os reais problemas enfrentados pelo público do aplicativo.
 
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/quest.png" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
 </div>
 
 ## Critérios gerais

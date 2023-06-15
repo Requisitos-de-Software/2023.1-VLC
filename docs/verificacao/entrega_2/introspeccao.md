@@ -56,6 +56,11 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 - id1: não existe gravação no artefato, comprometendo sua verificação;
 - id6: registrar as preferências pessoais dos Engenheiros de Requisitos no ato da elicitação dos requisitos por introspecção.
 
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/introspeccao.png" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
 </div>
 
 ## Critérios gerais

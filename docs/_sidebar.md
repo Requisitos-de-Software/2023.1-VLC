@@ -50,7 +50,7 @@
       - [Personas](verificacao/entrega_2/personas.md)
       - [Planejamento Verificação Etapa 2](verificacao/entrega_2/planejamento_verificacao_etapa2.md)
       - [Questionário](verificacao/entrega_2/questionario.md)
-      - [Storytelling](verificacao/entrega_2/stroytelling.md)
+      - [Storytelling](verificacao/entrega_2/storytelling.md)
     - [Entrega 3](#)
       - [Casos de Uso](verificacao/verificacao_entrega_3/verificacao_casos-de-uso.md)
       - [Cenários](verificacao/verificacao_entrega_3/verificacao_cenarios.md)
