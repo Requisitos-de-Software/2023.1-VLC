@@ -1,18 +1,14 @@
-<div class="body">
 
 # Verificação do artefato de Especificação Suplementar do Grupo 4 (Caesb)
 
 ## Introdução
   
-<div align="justify">
 
 A técnica de verificação de artefatos é um processo usado para avaliar e validar a qualidade, corretude e conformidade de um determinado artefato. Esses artefatos podem incluir documentos, código-fonte, modelos de dados, projetos de design, especificações de requisitos, entre outros. Assim sendo, é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
   
-</div>
 
 ## Metodologia
   
-<div align="justify">
   
 A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia na [aula 13 - professora Milene e Maurício](https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
   
@@ -20,13 +16,11 @@ Para tal, será utilizada a técnica de Análise estática, essa técnica consis
   
 Desse modo, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
-</div>
   
 ## Conteúdo esperado
   
 ### Verificação
   
-<div align="justify">
   
 A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do artefato e a qualidade da entrega, na qual a qualidade é baseada na seguinte classificação:
   
@@ -34,7 +28,6 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   - **_Boa_** (possue parte do conteúdo esperado na avaliação)
   - **_Imcompleta_** (passa brevemente pelo conteúdo esperado na avaliação)
  
-</div>
   
 | id | Conteúdo | Possue | Qualidade | Observação |
 | -- | -------- | :----: | :-------: | ---------- |
@@ -50,7 +43,6 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   
 ## Conclusão
   
-<div align="justify">
   
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
@@ -58,18 +50,12 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
 
 <img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/especificacaosup.png" width="100%">
 <p> <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
-
-</div>
   
 ## Critérios gerais
   
 ### Verificação
-  
-<div align="justify">
-  
+    
 Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
-
-</div>
   
 1. Padronização:
   - [ ] O artefato segue as diretrizes de formatação especificadas.
@@ -96,15 +82,12 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
   
 ## Conclusão
   
-<div align="justify">
   
 O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critérios de aceitação da disciplina, com exceção da justificação dos textos e também uma conclusão para o artefato.
 
-</div>
   
 ## Correções e ajustes sugeridos
   
-<div align="justify">
   
 Algumas correções sugeridas são:
   
@@ -112,7 +95,6 @@ Algumas correções sugeridas são:
 - Redigir uma conclusão para o documento.
 - Corrigir a diagramação do texto, o artefato aparenta ter algumas tabelas quebradas.
 
-</div>
   
 ## Bibliografia
   
@@ -130,4 +112,3 @@ Algumas correções sugeridas são:
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 05/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 07/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
   
-</div>
