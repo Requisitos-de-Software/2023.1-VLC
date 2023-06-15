@@ -38,17 +38,54 @@
 
 </div>
 
-| Conteúdo | Possui | Qualidade | Observação |
-| - | - | - | - |
-| Os títulos das histórias de usuário são auto-explicativo? | Sim | Excelente |  |
-| O “quem”, “o que” e o “por que” estão definidos na história de usuário? | Sim | Excelente |  |
-| A história possui critérios de aceitação? | Sim | Excelente | |
-| Os critérios de aceitação das histórias foram definidos ? | Sim | Excelente | |
-| - A participação do cliente e/ou persona na elicitação de requisitos? | Sim | Excelente | |
-| Todas as histórias de usuárioos podem ser testadas? | Sim | Boa | As histórias relacionadas a boletos e pagamentos podem dificultar os testes do grupo. |
-| Uma fonte de onde foram retiradas as histórias? | Sim | Excelente | |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | Os títulos das histórias de usuário são auto-explicativos? | Sim | Excelente |  |
+| 2 | O "quem", "o que" e o "por que" estão definidos na história de usuário? | Sim | Excelente |  |
+| 3 | A história possui critérios de aceitação? | Sim | Excelente | |
+| 4 | Os critérios de aceitação das histórias foram definidos? | Sim | Excelente | |
+| 5 | A participação do cliente e/ou persona na elicitação de requisitos? | Sim | Excelente | |
+| 6 | Todas as histórias de usuário podem ser testadas? | Sim | Boa | As histórias relacionadas a boletos e pagamentos podem dificultar os testes do grupo. |
+| 7 | Uma fonte de onde foram retiradas as histórias? | Sim | Excelente | |
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: ALVISSUS, Giovanni. 2023).
+
+A seguir o Gráfico 1 para representar a média da qualidade do artefato:
+
+<body>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <canvas id="chart"></canvas>
+
+    <script>
+        // Dados da tabela
+        var data = [
+            { qualidade: "Excelente", cor: "#00ff00", quantidade: 6 },
+            { qualidade: "Boa", cor: "#ffff00", quantidade: 1 },
+            { qualidade: "Incompleta", cor: "#ff0000", quantidade: 0 }
+        ];
+
+        // Configuração do gráfico
+        var config = {
+            type: 'pie',
+            data: {
+                datasets: [{
+                    data: data.map(item => item.quantidade),
+                    backgroundColor: data.map(item => item.cor)
+                }],
+                labels: data.map(item => item.qualidade)
+            },
+            options: {
+                responsive: true
+            }
+        };
+
+        // Renderiza o gráfico
+        var ctx = document.getElementById('chart').getContext('2d');
+        new Chart(ctx, config);
+    </script>
+</body>
+
+<b>Gráfico 1</b>: Gráfico de qualidade (Fonte: ALVISSUS, Giovanni. 2023).
 
 ### Conclusão
 

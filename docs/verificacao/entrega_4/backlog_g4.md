@@ -38,15 +38,52 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 </div>
 
-| Conteúdo | Possui | Qualidade | Observação |
-| - | - | - | - |
-|  O backlog possui épicos e temas bem definidos e descritos? | Sim | Excelente |  |
-| As Histórias de Usuário seguem algum modelo ou padrão? | Sim | Excelente |  |
-| As histórias possuem rastreabilidade? | Sim | Boa | Poderiam especificar o que significa cada sigla ou colocar um link de redirecionamento |
-| Existe uma relação entre temas épicos e histórias? | Sim | Excelente | |
-| Possui validação com usuário? | Sim | Boa | Mostra o link da entrevista porém não apresenta ao menos um resumo da mesma. |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | O backlog possui épicos e temas bem definidos e descritos? | Sim | Excelente |  |
+| 2 | As Histórias de Usuário seguem algum modelo ou padrão? | Sim | Excelente |  |
+| 3 | As histórias possuem rastreabilidade? | Sim | Boa | Poderiam especificar o que significa cada sigla ou colocar um link de redirecionamento |
+| 4 | Existe uma relação entre temas épicos e histórias? | Sim | Excelente | |
+| 5 | Possui validação com usuário? | Sim | Boa | Mostra o link da entrevista porém não apresenta ao menos um resumo da mesma. |
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: ALVISSUS, Giovanni. 2023).
+
+A seguir o Gráfico 1 para representar a média da qualidade do artefato:
+
+<body>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <canvas id="chart"></canvas>
+
+    <script>
+        // Dados da tabela
+        var data = [
+            { qualidade: "Excelente", cor: "#00ff00", quantidade: 3 },
+            { qualidade: "Boa", cor: "#ffff00", quantidade: 2 },
+            { qualidade: "Incompleta", cor: "#ff0000", quantidade: 0 }
+        ];
+
+        // Configuração do gráfico
+        var config = {
+            type: 'pie',
+            data: {
+                datasets: [{
+                    data: data.map(item => item.quantidade),
+                    backgroundColor: data.map(item => item.cor)
+                }],
+                labels: data.map(item => item.qualidade)
+            },
+            options: {
+                responsive: true
+            }
+        };
+
+        // Renderiza o gráfico
+        var ctx = document.getElementById('chart').getContext('2d');
+        new Chart(ctx, config);
+    </script>
+</body>
+
+<b>Gráfico 1</b>: Gráfico de qualidade (Fonte: ALVISSUS, Giovanni. 2023).
 
 ### Conclusão
 
