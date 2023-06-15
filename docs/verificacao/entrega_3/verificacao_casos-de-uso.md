@@ -57,7 +57,12 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-   - id 4 Corrigir o path da imagem do diagrama.
+- id 4: Corrigir o path da imagem do diagrama.
+
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/casosdeuso.png" width="100%">
+<p> </p><b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
 
 </div>
   
@@ -108,20 +113,21 @@ O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critério
   
 Algumas correções sugeridas são:
   
-  - Justificar os textos.
-  - Seguir os padrões ABNT de formatação para as referências.
-  - Redigir uma conclusão para o documento.
+- Justificar os textos.
+- Seguir os padrões ABNT de formatação para as referências.
+- Redigir uma conclusão para o documento.
 
 </div>
   
 ## Bibliografia
   
-- SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em:
-<https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 03 jun. 2023.
+- SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 03 jun. 2023.
+
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
-- Documento de casos de uso do Grupo 4 da Disciplina de Requisitos. Disponível em:
-<https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/casos_de_uso.md>. Acesso em: 03 jun. 2023.  
-  - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+
+- Documento de casos de uso do Grupo 4 da Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/casos_de_uso.md>. Acesso em: 03 jun. 2023.  
+
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
   
 ## Histórico de Versões
   

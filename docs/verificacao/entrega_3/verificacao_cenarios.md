@@ -54,9 +54,12 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-  - id 2 Detalhar mais a metodologia utilizada no artefato.
-  - id 3 Adicionar restrições e exceções aos cenários.
-  - id 4 Redigir mais detalhadamente os epsódios.
+- id 2: Detalhar mais a metodologia utilizada no artefato.
+- id 3: Adicionar restrições e exceções aos cenários.
+- id 4: Redigir mais detalhadamente os epsódios.
+
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/cenarios.png" width="100%">
+<p> <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
 
 </div>
   
@@ -66,7 +69,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
   
 <div align="justify">
   
-  Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
+Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
 
 </div>
   
@@ -107,19 +110,20 @@ O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critério
   
 Algumas correções sugeridas são:
   
-  - Justificar os textos.
-  - Redigir uma conclusão para o documento.
-  - Detalhar mais a metodologia utilizada na modelagem.
+- Justificar os textos.
+- Redigir uma conclusão para o documento.
+- Detalhar mais a metodologia utilizada na modelagem.
 
 </div>
   
 ## Bibliografia
   
-- SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em:
-<https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 03 jun. 2023.
+- SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 03 jun. 2023.
+
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
-- Documento de casos de uso do Grupo 4 da Disciplina de Requisitos. Disponível em:
-<https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/casos_de_uso.md>. Acesso em: 03 jun. 2023.  
+
+- Documento de casos de uso do Grupo 4 da Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/casos_de_uso.md>. Acesso em: 03 jun. 2023.  
+
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
   
 ## Histórico de Versões
