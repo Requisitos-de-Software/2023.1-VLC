@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação In or Out (VLC)
+# Verificação Moscow (VLC)
 
 ## Introdução
 
@@ -8,11 +8,11 @@
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a requisitos de software. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-Este artefato tem como objetivo realizar a verificação do artefato de priorização [In or Out](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/in_or_out) do grupo 3.
+Este artefato tem como objetivo realizar a verificação do artefato de priorização [Moscow](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/moscow) do Grupo 3.
 
 ## Metodologia
 
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [Software Requirements, Third Edition](https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [Aula 07 - professora Milene](https://aprender3.unb.br/pluginfile.php/2523073/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
 Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
@@ -28,27 +28,27 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 | id | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - | - |
-| 1 | A gravação e os registros da atividade de priorização dos requisitos? | Sim | Excelente | Apresenta gravação com o cliente |
-| 2 | Os requisitos priorizados estão identificados por IDs? | Sim | Excelente |  |
+| 1 | O grupo apresenta um backlog com os requisitos? | Sim | Excelente |  |
+| 2 | A técnica MoSCoW foi aplicada levando em conta a estrutura hierarquica dos requisitos com os elementos do framework (Must, Should, Could, Wont) | Sim | Excelente |  |
 | 3 | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | Não |  |  |
-| 4 | Todos os requisitos elicitados tiveram sua prioridade definida? | Sim | Incompleta |  |
+| 4 | Todos os requisitos elicitados tiveram sua prioridade definida? | Sim | Incompleto |  |
 | 5 | Há um grupo de stakeholds? | Sim | Incompleta | |
-| 6 | O grupo definiou o critério de ser in or out? | Sim | Boa |  |
+| 6 | Existe uma justificativa para qual classificação seria selecionada ao requisitos priorizado? | Sim | Excelente |  |
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Conclusão
+- As perguntas de id 1, 2, 7 foram retiradas a partir do estudo dos slides da professora Milene, pagina 32 a 36.
 
 Com a tabela 1 como referência, pode-se realizar uma breve análise sobre questões problemáticas do artefato:
 
 - id 3, Não há um cronograma definindo data e horário em que a priorização iria acontecer;
 - id 4, não são todos os requisitos elicitados que foram priorizados, faltou priorizar alguns dos Requisitos da Análise de Documentos e questionário;
 - id 5, há um grupo de stakeholder formado peloa participantes, mas faltou a participação de algum usuário, o qual poderia acrescentar valor ao projeto;
-- id 6, foi definido, mas acredito que foi confundido alguns pontos dentro da proposta.
 
 Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
 
-<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_2/inoroutG3.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_2/moscowG3.jpeg" width="100%">
 <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 </div>
@@ -89,12 +89,11 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, alg
 
 ## Correções e ajustes sugeridos
 
-Para que hovesse uma melhora do artefato de in or out do grupo temos as seguintes sugestões:
+Para que hovesse uma melhora do artefato de priorização moscow do grupo temos as seguintes sugestões:
 
 - Adicionar um cronograma definindo data e horário em que a priorização foi realizada;
 - Adicionar todos os requisitos elicitados que foram priorizados, em caso de ser repetidos identificá-los;
 - Aumentar o grupo de stakeholder formado pelos participantes adicionando usuários;
-- Corrigir a proposta do que seria in or out.
 
 Além de incluir uma conclusão ao artefato.
 
@@ -106,14 +105,14 @@ Além de incluir uma conclusão ao artefato.
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
-- Documento de priorização In or Out do Grupo 3 da Disciplina de Requisitos. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/in_or_out Acesso em: 18 jun. 2023.
+- Documento de priorização Moscow do Grupo 3 da Disciplina de Requisitos. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/moscow Acesso em: 19 jun. 2023.
 
 
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 18/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 19/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 19/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 20/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 
 </div>
