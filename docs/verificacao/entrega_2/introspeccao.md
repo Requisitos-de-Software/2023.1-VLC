@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação Instrospecção (Caesb)
+# Verificação Instrospecção VLC
 
 ## Introdução
 
@@ -8,7 +8,7 @@
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-Este artefato tem como objetivo realizar a verificação do artefato de Introspecção do Grupo 4.
+Este artefato tem como objetivo realizar a verificação do artefato de Introspecção do Grupo 3.
 
 </div>
 
@@ -78,13 +78,13 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
    - [X] As margens e os espaçamentos estão corretos.
    - [X] O uso de negrito, itálico e sublinhado está adequado e consistente.
-   - [ ] Os parágrafos estão todos justificados.
+   - [X] Os parágrafos estão todos justificados.
 
 2. Estrutura:
    - [X] O artefato possui uma introdução clara e contextualizada.
    - [X] As seções estão organizadas de forma lógica e coerente.
    - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [X] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
    - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
@@ -100,21 +100,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 <div align="justify">
 
-O artefato respeita a maioria dos pontos estruturais analisados, entretanto, alguns poucos problemas foram encontrados:
-- Os parágrafos não foram justificados.
-- O artefato não possui uma conclusão reunindo os principais pontos retirados no documento.
-
-</div>
-
-## Correções e ajustes sugeridos
-
-<div align="justify">
-
-Para que hovesse uma melhora do grupo temos as seguintes sugestões:
-- Registrar as preferências dos engenheiros de requisitos no artefato;
-- Gravar a reunião e publicá-la no artefato.
-
-Além de justificar os textos e incluir uma conclusão ao artefato.
+O artefato atinge todos os pontos abordados nos critérios gerais.
 
 </div>
 
@@ -124,14 +110,14 @@ Além de justificar os textos e incluir uma conclusão ao artefato.
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
-- Documento de Introspecção do Grupo 4 da Disciplina de Requisitos. Disponível em: https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/introspeccao/ Acesso em: 14 jun. 2023.
+- Documento de Introspecção do Grupo 3 da Disciplina de Requisitos. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao Acesso em: 14 jun. 2023.
 
 
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 13/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 14/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 21/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 21/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 
 </div>
