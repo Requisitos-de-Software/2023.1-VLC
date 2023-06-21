@@ -141,5 +141,6 @@
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 21/06/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 21/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 21/06/2023 | `1.0` | Fianlizando artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | 21/06/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>
