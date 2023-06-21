@@ -58,7 +58,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
 - **id 2**: Redigir uma metodologia mais detalhada e objetiva.
 - **id 3**: Detalhar mais as associações dos léxicos (sinônimos, antônimos, hiperônimos e hipônimos).
 
-<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/lexicos.png" width="100%">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/lexico_g3.png" width="100%">
 <p> <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
 
 </div>
