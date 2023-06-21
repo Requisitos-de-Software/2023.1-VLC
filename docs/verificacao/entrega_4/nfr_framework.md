@@ -6,9 +6,9 @@
 
 <div align="justify">
 
-A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo na área de Requisitos de Software. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
+&emsp;&emsp;A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo na área de Requisitos de Software. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-@ Caso ache necessário pode ser complementado @
+&emsp;&emsp;Nesse documento será verificada a versão '1.1' do artefato <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/nfr_framework">NFR Framework</a> do projeto do <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/">VLC mídia player</a>.
 
 </div>
 
@@ -16,9 +16,9 @@ A técnica de verificação de artefatos é uma etapa crucial no processo de ava
 
 <div align="justify">
 
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+&emsp;&emsp;A metodologia para verificar o artefato em questão será baseado, principalmente, nos [slides da aula 17](https://aprender3.unb.br/pluginfile.php/2523131/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf) da professora Milene, além de levar em consideração os critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
-Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
+&emsp;&emsp;Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
 </div>
 
@@ -28,11 +28,9 @@ Para tal, a verificação será dividida em duas etapas, a primeira sendo a veri
 
 <div align="justify">
 
--> Deve ser descrito o que é esperado encontrar nesse artefato, como seu objetivo por exemplo <-
+&emsp;&emsp;O artefato NFR Framework tem como seu objetivo ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão.
 
-& O artefato em questão tem como objetivo documentar os relatórios obtidos durante o processo de pesquisa. Visando simplificar a visualização de graficos e tabelas &
-
-Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+&emsp;&emsp;Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possue parte do conteúdo esperado na avaliação).
@@ -40,17 +38,21 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 </div>
 
-@ A observação deve ser utilizada para justificar o por que de não estar excelente @
-| Conteúdo | Possue | Qualidade | Observação |
-| - | - | - | - |
-| <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| ... | ... | ... | ... |
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+| 5 |  |  |  |  |
 
--> Completar a tabela com os critérios de avaliação do artefato e verificar se o artefato em questão possue ou não, dando uma nota de qualidade <-
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
 
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela &ALVISSUS, Giovanni&>. 2023).
+&emsp;&emsp;A Figura 1 apresenta um gráfico que demonstra a relação entre as qualidades encontradas no conteúdo do artefato em questão.
+
+IMAGEM
+
+<b>Figura 1</b>: Relação da qualidade do conteúdo avaliado (Fonte: BOSI, Rafael. 2023).
 
 ### Conclusão
 
@@ -66,51 +68,38 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 <div align="justify">
 
-Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
+&emsp;&emsp;Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
 
 </div>
 
 1. Padronização:
-   - [ ] O artefato segue as diretrizes de formatação especificadas.
-   - [ ] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [ ] As margens e os espaçamentos estão corretos.
-   - [ ] O uso de negrito, itálico e sublinhado está adequado e consistente.
-   - [ ] Os parágrafos estão todos justificados.
+   - [X] O artefato segue as diretrizes de formatação especificadas.
+   - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
+   - [] As margens e os espaçamentos estão corretos.
+   - [X] O uso de negrito, itálico e sublinhado está adequado e consistente.
+   - [X] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [ ] O artefato possui uma introdução clara e contextualizada.
-   - [ ] As seções estão organizadas de forma lógica e coerente.
-   - [ ] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [ ] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [X] O artefato possui uma introdução clara e contextualizada.
+   - [X] As seções estão organizadas de forma lógica e coerente.
+   - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [X] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
-   - [ ] As citações estão corretamente formatadas de acordo com o estilo especificado.
-   - [ ] Todas as referências citadas no texto estão presentes na lista de referências.
-   - [ ] As referências estão formatadas corretamente, seguindo o estilo especificado.
+   - [X] As citações estão corretamente formatadas de acordo com o estilo especificado.
+   - [X] Todas as referências citadas no texto estão presentes na lista de referências.
+   - [X] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-@ caso exista tabela no artefato @
-4. Tabelas:
-   - [ ] As tabelas possuem legenda.
-   - [ ] As tabelas são chamadas no texto.
-   - [ ] 
-
-@ caso exista figura no artefato @
-5. Figuras:
-   - [ ] As figuras possuem legenda.
-   - [ ] As figuras são chamadas no texto.
-
-6. <Outros critérios específicos>:
-   - [ ] -> Inclua aqui outros critérios específicos que devem ser verificados no artefato. <-
-
-<b>Observações:</b>
-- -> Insira aqui quaisquer observações relevantes sobre a verificação realizada. <-
+4. Figuras:
+   - [X] As figuras possuem legenda.
+   - [X] As figuras são chamadas no texto.
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão de como se encontra a qualidade do documento em relação aos tópicos gerais avaliados <-
+O documento NFR Framework está muito bom no que tange os critérios gerais listados acima, deixando de entregar apenas uma parte que foi a questão das margens nos parágrafos. 
 
 </div>
 
@@ -130,11 +119,12 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 17. 1º/2019. 46 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| - | `-` | - | [-](-) | - | [-](-) |
+| 21/06/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 21/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
