@@ -56,7 +56,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
   
 - **id 3**: Adicionar restriçoes aos cenários.
 
-<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/cenarios.png" width="100%">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/cenarios_g3.png" width="100%">
 <p> <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
 
 </div>
