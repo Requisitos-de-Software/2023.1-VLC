@@ -131,15 +131,15 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 ## Bibliografia
 
-- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 13 de junho de 2023.
+- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 20 de junho de 2023.
 
-- [2] Slides da aula “Requisitos – Aula 04” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2523041/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf. Acessado em: 13 de junho de 2023.
+- [2] Slides da aula “Requisitos – Aula 04” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2523041/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf. Acessado em: 20 de junho de 2023.
 
-- [3].Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acessado em: 13 de junho de 2023
+- [3] Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acessado em: 20 de junho de 2023
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 13 jun. 2023.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 20 jun. 2023.
 
-- Documento de aplicativos escolhidos Grupo 4 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Planejamento/aplicativo_escolhido.md>. Acesso em 13 jun. 2023
+- [4] Documento de aplicativos escolhidos Grupo 2 Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Booking/blob/main/docs/verificacao3/prePlanejamento/richPicture.md>. Acesso em 20 jun. 2023
 
 ## Histórico de Versões
 
