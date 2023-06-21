@@ -40,17 +40,22 @@
 
 | ID | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - | - |
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  |  |  |  |
+| 1 | Os softgoals condizem com o contexto ? | Sim | Excelente |  |
+| 2 | Softgoals representam metas bem definidas ? | Sim | Excelente |  |
+| 3 | Os impactos foram corretamente propagados ? | Sim | Excelente |  |
+| 4 | Existe rastreabilidade em relação aos requisitos nele apresentados ? | Não |  |  |
+| 5 | Faz conexão com o artefato Especificação Suplementar ? | Sim | Boa | O link leva para o artefato dentro do repositório e não na gitpage |
+| 6 | O objetivo do artefato é bem definido ? | Sim | Excelente |  |
+| 7 | Os graus de satisfação foram indicados ? | Sim | Excelente |  |
+| 8 | Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals ? | Sim | Excelente |  |
+| 9 | O sentido das setas e sinalizações do softgoal é coerente ? | Sim | Excelente |  |
+| 10 | Existe uma conclusão ? | Não |  | Acrescentar uma conclusão ao documento |
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
 
 &emsp;&emsp;A Figura 1 apresenta um gráfico que demonstra a relação entre as qualidades encontradas no conteúdo do artefato em questão.
 
-IMAGEM
+<img src="https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_4/qualidade_nfr_framework.png">
 
 <b>Figura 1</b>: Relação da qualidade do conteúdo avaliado (Fonte: BOSI, Rafael. 2023).
 
@@ -58,7 +63,7 @@ IMAGEM
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+Assim como é possível perceber pela Tabela 1 e pela imagem acima, o documento NFR Framework ficou muito bem desenvolvido, porém deixou de entregar alguns pontos, como a conclusão, e entregou parcialmente outros, como a questão da rastreabilidade.
 
 </div>
 
@@ -107,9 +112,12 @@ O documento NFR Framework está muito bom no que tange os critérios gerais list
 
 <div align="justify">
 
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
+Assim como mencionado, o artefato NFR Framework tem como seu objetivo ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Para alcançar esse objetivo e ter um documento satisfatório, as seguintes modificações são necessárias:
 
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
+- Adicionar margens aos parágrafos;
+- Acrescentar rastreabilidade em relação aos requisistos mencionados no documento;
+- Adicionar uma conclussão ao artefato, indicando o que pode ser tirado das analises e estudos realizados em seu desenvolvimento;
+- Trocar o link que liga ao artefato Especificação Suplementar, para que o leitor vá para o documento na gitpage e não no repositório.
 
 </div>
 
