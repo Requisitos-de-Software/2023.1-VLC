@@ -54,9 +54,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-- id 2: Detalhar mais a metodologia utilizada no artefato.
-- id 3: Adicionar restrições e exceções aos cenários.
-- id 4: Redigir mais detalhadamente os epsódios.
+- **id 3**: Adicionar restriçoes aos cenários.
 
 <img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/cenarios.png" width="100%">
 <p> <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
@@ -74,17 +72,17 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 </div>
   
 1. Padronização:
-  - [ ] O artefato segue as diretrizes de formatação especificadas.
+  - [X] O artefato segue as diretrizes de formatação especificadas.
   - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
-  - [ ] As margens e os espaçamentos estão corretos.
+  - [X] As margens e os espaçamentos estão corretos.
   - [X] O uso de negrito, itálico e sublinhado está adequado e consistente.
-  - [ ] Os parágrafos estão todos justificados.
+  - [X] Os parágrafos estão todos justificados.
   
 2. Estrutura:
    - [X] O artefato possui uma introdução clara e contextualizada.
    - [X] As seções estão organizadas de forma lógica e coerente.
    - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [X] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
    - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
@@ -110,9 +108,7 @@ O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critério
   
 Algumas correções sugeridas são:
   
-- Justificar os textos.
-- Redigir uma conclusão para o documento.
-- Detalhar mais a metodologia utilizada na modelagem.
+- Adicionar restrições aos cenários.
 
 </div>
   
@@ -122,14 +118,12 @@ Algumas correções sugeridas são:
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
-- Documento de casos de uso do Grupo 4 da Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/casos_de_uso.md>. Acesso em: 03 jun. 2023.  
-
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+- Documento de casos de uso do Grupo 3 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios>. Acesso em: 03 jun. 2023.  
   
 ## Histórico de Versões
   
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
-| 05/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 07/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 20/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 21/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
   
 </div>
