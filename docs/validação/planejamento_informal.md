@@ -30,7 +30,7 @@ A <i>Figura 1</i> mostra o e-mail utilizado para entrar em contato com o time do
 
 </div>
 
-![E-mail](./assets/email-comprovacao.png)
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/email.png" width="100%">
 <p><b>Figura 1</b>: E-mail enviado (Fonte: RIBEIRO, Bruno. 2023).</p>
 
 ## Conclusão
