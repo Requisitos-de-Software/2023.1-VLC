@@ -32,13 +32,11 @@ As perguntas foram realizadas tendo como referência os livros Guide to the Soft
 
 <div align="justify">
 
-Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação elaborada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Booking">Grupo 2</a>, e a tabela 2 que visa adicionar especificações encontradas pelos membros do <a href="https://github.com/Requisitos-de-Software/2023.1-VLC">Grupo 3</a>, abaixo enconta-se relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possue parte do conteúdo esperado na avaliação).
-- Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
-
-Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação elaborada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Booking">Grupo 2</a>, e a tabela 2 que visa adicionar especificações encontradas pelos membros do <a href="https://github.com/Requisitos-de-Software/2023.1-VLC">Grupo 3</a>, abaixo enconta-se relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+- Incompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
 
