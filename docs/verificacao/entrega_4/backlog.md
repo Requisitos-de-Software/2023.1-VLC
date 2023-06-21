@@ -40,17 +40,19 @@
 
 | ID | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - | - |
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  |  |  |  |
+| 1 | O backlog possui épicos e temas bem definidos e descritos ? | Sim | Boa | Detalhar mais os temas |
+| 2 | As histórias possuem rastreabilidade ? | Não |  | Implementar uma rastreabilidade para as Histórias de Usuário |
+| 3 | Existe uma relação entre temas, épicos e histórias ? | Sim | Incompleto | Descrever a relação entre os Temas e os épicos |
+| 4 | Os épicos estão priorizados e ordenados ? | Não |  | Os épicos devem ser priorizados e classificados de acordo com esse priorização |
+| 5 | O backlog atende a necessidade do usuário ? | Sim | Excelente |  |
+| 6 | O backlog foi validado com o usuário ou PO ? | Não |  | Validar com um usuário ou com um PO o artefato |
+| 7 | Os eṕicos estão granularizados o suficiente para gerar historias de usuários ? | Não |  | O fluxo foi o contrário, as Histórias foram lincadas aos épicos |
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
 
 &emsp;&emsp;A Figura 1 apresenta um gráfico que demonstra a relação entre as qualidades encontradas no conteúdo do artefato em questão.
 
-IMAGEM
+<img src="https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_4/qualidade_backlog.png">
 
 <b>Figura 1</b>: Relação da qualidade do conteúdo avaliado (Fonte: BOSI, Rafael. 2023).
 
@@ -58,7 +60,7 @@ IMAGEM
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+&emsp;&emsp;Observando a Tabela 1 e a imagem acima é possível perceber que o artefato do Backlog do produto precisa passar por melhorias e reestruturações, apesar de ter entregue alguns conteúdos de maneira satisfatória, alguns tópicos esperados não estam nem presentes no documento, como a validação com um usuário ou um PO do artefato produzido.
 
 </div>
 
@@ -107,9 +109,14 @@ O documento do Backlog do produto conseguiu cumprir com todos os critérios gera
 
 <div align="justify">
 
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
+Como o artefato Backlog do produto tem a proposta de listar a priorização de pendências a serem desenvolvidas pela equipe, comumente utilizada em práticas ágeis. Algumas modificações são necessárias para alcançar um documento satisfatório, são elas:
 
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
+- Detalhar os Temas apresentados no documento;
+- Adicionar uma rastreabilidade para as Histtórias de Usuário presentes no artefato;
+- Estabelecer a relação entre os temas e os épicos descritos no documento;
+- Priorizar e organizar os épicos;
+- Realizar uma validação do artefato com um usuário do aplicativo em questão ou um PO;
+- Demonstrar como as histórias de usuário partem de cada épico.
 
 </div>
 
