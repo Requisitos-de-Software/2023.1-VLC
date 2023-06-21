@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "<nome do artefato a ser verificado>"
+# Verificação do artefato "Histórias de usuário"
 
 ## Introdução
 
@@ -38,29 +38,29 @@
 
 </div>
 
-| ID | Conteúdo | Possue | Qualidade | Observação |
-| - | - | - | - | - |
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  |  |  |  |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+|----|----------|--------|-----------|------------|
+| 1  | Os títulos das histórias de usuário são auto-explicativos? | Sim | Excelente |  |
+| 2  | O "quem", "o que" e o "por que" estão definidos na história de usuário? | Sim | Excelente |  |
+| 3  | A história possui critérios de aceitação? | Sim | Excelente | |
+| 4  | Os critérios de aceitação das histórias foram definidos? | Sim | Excelente | |
+| 5  | A participação do cliente e/ou persona na elicitação de requisitos? | Sim | Excelente | |
+| 6  | Todas as histórias de usuário podem ser testadas? | Sim | Boa | As histórias baseadas em requisitos não funcionais podem ser mais dificeis de serem testadas. |
+| 7  | Uma fonte de onde foram retiradas as histórias? | Sim | Excelente | |
+| 8  | As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades? | Sim | Excelente |  |
+| 9  | As histórias de usuário estão divididas em tarefas menores ou subtarefas? | Sim | Excelente |  |
+| 10 | As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema? | Sim | Excelente |  |
+| 11 | As histórias de usuário possuem estimativas de esforço ou pontos de história? | Não |  |  |
+| 12 | As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros? | Sim | Excelente |  |
+
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
 
 &emsp;&emsp;A Figura 1 apresenta um gráfico que demonstra a relação entre as qualidades encontradas no conteúdo do artefato em questão.
 
-IMAGEM
+<img src="https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_4/historias.png">
 
-<b>Figura 1</b>: Relação da qualidade do conteúdo avaliado (Fonte: BOSI, Rafael. 2023).
-
-### Conclusão
-
-<div align="justify">
-
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
-
-</div>
+<b>Gráfico 1</b>: Gráfico de qualidade (Fonte: ALVISSUS, Giovanni. 2023).
 
 ## Critérios gerais
 
@@ -97,11 +97,11 @@ IMAGEM
 
 <b>Observações:</b> O IFrame criado para conter a gravação da validação não esta funcionando corretamente, ou seja, não apresenta o vídeo.
 
-### Conclusão
+## Conclusão
 
 <div align="justify">
 
-&emsp;&emsp;O documento de Histórias de Usuário esta muito bom no quesito que os critérios gerais listados avalião, a única questão que deixou a desejar foi a falta de uma conclusão.
+&emsp;&emsp;O documento de Histórias de Usuário está muito bom no que diz respeito aos critérios gerais avaliados. No entanto, é importante ressaltar que a falta de uma conclusão no artefato pode ser considerada uma oportunidade de melhoria. Uma conclusão adequada permitiria sintetizar os principais pontos abordados no documento, destacando a importância das histórias de usuário para o sucesso do projeto e fornecendo um fechamento adequado para o leitor.
 
 </div>
 
@@ -109,9 +109,19 @@ IMAGEM
 
 <div align="justify">
 
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
+&emsp;&emsp;Com base na análise do artefato, foram identificadas as seguintes sugestões de ajustes e correções:
 
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
+&emsp;&emsp;Adicionar uma conclusão ao final do documento, resumindo os principais pontos abordados e reforçando a importância das histórias de usuário no contexto do projeto.
+
+&emsp;&emsp;Verificar a ausência de estimativas de esforço ou pontos de história nas histórias de usuário. É recomendado incluir essa informação para auxiliar no planejamento e priorização das atividades.
+
+&emsp;&emsp;Verificar e complementar a estrutura do documento, garantindo que todas as seções necessárias estejam presentes e bem organizadas.
+
+&emsp;&emsp;Corrigir o problema com o IFrame que contém a gravação da validação, para que seja exibido corretamente.
+
+&emsp;&emsp;Revisar a lista de critérios gerais e certificar-se de que todos os tópicos foram abordados e estão de acordo com as diretrizes do plano de ensino e normas ABNT.
+
+&emsp;&emsp;Essas sugestões visam aprimorar o artefato, tornando-o mais completo e coerente. Ao implementar essas melhorias, o documento de Histórias de Usuário estará ainda mais alinhado com as expectativas de qualidade e estrutura.
 
 </div>
 
