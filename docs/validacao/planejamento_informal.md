@@ -18,7 +18,7 @@ Em resumo, a validação por comprovação informal é um processo que busca ver
 
 <div align="justify">
   
-Foi enviado um e-mail para o VLC, no endereço <i>email@VLC.com</i>, solicitando a validação dos requisitos elicitados e outros artefatos, com o intuito de obter um retorno do time de desenvolvimento.
+Foi enviado um e-mail para o VLC, no endereço <i>videolan@videolan.ogr</i>, solicitando a validação dos requisitos elicitados e outros artefatos, com o intuito de obter um retorno do time de desenvolvimento.
 
 </div>
 
@@ -30,7 +30,7 @@ A <i>Figura 1</i> mostra o e-mail utilizado para entrar em contato com o time do
 
 </div>
 
-<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/email.png" width="100%">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/email_vlc.png" width="100%">
 <p><b>Figura 1</b>: E-mail enviado (Fonte: RIBEIRO, Bruno. 2023).</p>
 
 ## Conclusão
