@@ -52,7 +52,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
 
 Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
 
-<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/casosdeuso.png" width="100%">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/casosdeuso_g3.png" width="100%">
 <p> </p><b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
 
   
