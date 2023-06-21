@@ -64,7 +64,7 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 
 <b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
 
-<img src=>
+<img src=https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_1/cronograma.png>
 
 <b>Imagem 1</b>: Grafico  dos cronograma (Fonte: SANTOS, Mizael. 2023).
 

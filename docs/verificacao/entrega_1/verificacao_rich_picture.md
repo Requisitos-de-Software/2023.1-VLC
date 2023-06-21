@@ -67,7 +67,7 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 
 <b>Tabela 1</b>: Perguntas das perguntas selecionadas (Fonte: SANTOS, Mizael. 2023)
 
-<img src=>
+<img src=https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_1/richpicture.png>
 
 <b>Imagem 1</b>: Graficos das perguntas site selecionado (Fonte: SANTOS, Mizael. 2023)
 

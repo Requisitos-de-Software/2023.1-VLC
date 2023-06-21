@@ -33,7 +33,7 @@ A segunda etapa consiste em avaliar questões de padronização, estrutura, refe
 Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação elaborada pelo <a href="https://github.com/Requisitos-de-Software/2023.1-Booking">Grupo 2</a>, a respeito da formatação do artefato, e a tabela 2 que visa adicionar especificações encontradas pelos membros do <a href="https://github.com/Requisitos-de-Software/2023.1-VLC">Grupo 3</a>, abaixo enconta-se relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
-- Boa (Possue parte do conteúdo esperado na avaliação).
+- Boa (Possue parte Excelentedo conteúdo esperado na avaliação).
 - Incompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
@@ -62,7 +62,7 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 
 <b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
 
-<img src=>
+<img src=https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_1/apresentacao.png>
 
 <b>Imagem 1</b>: Grafico  dos cronograma (Fonte: SANTOS, Mizael. 2023).
 
