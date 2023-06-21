@@ -56,6 +56,8 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 
 <p><b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato realizadas pelo integrante do grupo 3</p>
 
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
 | 6 | O artefato apresenta todos o rich pictures referentes ao sites selecionado? | Sim | Exelente | --- |
 | 7 | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? | Sim | Excelente| --- |
 | 9 | O rich picture está bem desenhado e é de fácil entendimento? | Sim | Excelente | --- |
@@ -67,7 +69,7 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 
 <b>Tabela 1</b>: Perguntas das perguntas selecionadas (Fonte: SANTOS, Mizael. 2023)
 
-<img src=https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_1/richpicture.png>
+<img src=https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_1/richpicture.png>
 
 <b>Imagem 1</b>: Graficos das perguntas site selecionado (Fonte: SANTOS, Mizael. 2023)
 

@@ -72,14 +72,14 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 
 <b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
 
-<img src=https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_1/metodologia.png>
+<img src=https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_1/metodologia.png>
 <b>Imagem 1</b>: Grafico  dos cronograma (Fonte: SANTOS, Mizael. 2023).
 
 
 ### Conclusão
 <div align="justify">
 <p>A respeito da estrutura foi encontrado apenas um problema, ademais apenas erros de descrição e detalhamento.</p>
-<h3><p><b>9</b> - O arteato apresenta o motivo da escolha das metodologias?</p>
+<h3><p><b>9</b> - O artefato apresenta o motivo da escolha das metodologias?</p></h3>
 <p>Faltou apresentar a comparação entre as metodologias para reforçar o motivo da escolha.</p>
 <h3><p><b>10</b> - Existe um quadro comparativo entre as metodologias que ofereça apoio visual para compreensão do motivod a escolha??</p></h3>
 <p>Não existe quadro resumo.</p>
