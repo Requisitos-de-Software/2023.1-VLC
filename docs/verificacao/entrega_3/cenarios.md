@@ -1,10 +1,8 @@
-<div class="body">
 
 # Verificação do artefato de Cenários (VLC)
 
 ## Introdução
   
-<div align="justify">
 
 A técnica de verificação de artefatos é um processo usado para avaliar e validar a qualidade, corretude e conformidade de um determinado artefato. Esses artefatos podem incluir documentos, código-fonte, modelos de dados, projetos de design, especificações de requisitos, entre outros. Assim sendo, é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
   
@@ -95,8 +93,6 @@ Algumas correções sugeridas são:
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
 - Documento de casos de uso do Grupo 3 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios>. Acesso em: 03 jun. 2023.  
-
-</div>
   
 ## Histórico de Versões
   
@@ -104,4 +100,3 @@ Algumas correções sugeridas são:
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 20/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 21/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
   
-</div>
