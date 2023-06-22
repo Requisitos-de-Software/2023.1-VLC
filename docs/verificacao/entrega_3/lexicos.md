@@ -1,4 +1,3 @@
-<div class="body">
 
 # Verificação do artefato de Léxicos (VLC)
 
@@ -86,9 +85,7 @@ Algumas correções sugeridas são:
   
 - Detalhar mais as associações dos léxicos
 - Redigir uma metodologia mais detalhada e objetiva.
- 
-</div>
-  
+   
 ## Bibliografia
   
 - SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 03 jun. 2023.
@@ -104,4 +101,3 @@ Algumas correções sugeridas são:
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 20/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 21/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
   
-</div>
