@@ -93,6 +93,8 @@ Algumas correções sugeridas são:
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
 - Documento de casos de uso do Grupo 3 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios>. Acesso em: 03 jun. 2023.  
+
+</div>
   
 ## Histórico de Versões
   
