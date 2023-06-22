@@ -85,6 +85,8 @@ O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critério
 Algumas correções sugeridas são:
   
 - Adicionar restrições aos cenários.
+
+</div>
   
 ## Bibliografia
   
