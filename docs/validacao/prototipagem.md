@@ -13,13 +13,10 @@ Fazer um protótipo do que se está criando é a etapa do processo de desenvolvi
 Os requisitos que foram selecionados foram analisados e priorizados durante o processo de seleção. O requisito "Realizar a edição de vídeo e login" foi escolhido para ser desenvolvido no protótipo de alta fidelidade, uma das funcionalidades ainda não implementadas na aplicação. O objeto foi criado com a ferramenta Figma e está disponível nesta página.
 
 ## Protótipo de Alta Fidelidade
+  
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3DJ46gwMqlAiqV2WqcYBFg%2FProt%25C3%25B3tipo-Requisitos-de-software%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D4-23%26viewport%3D577%252C9%252C0.96%26scaling%3Dmin-zoom%26starting-point-node-id%3D4%253A23%26mode%3Ddesign" allowfullscreen></iframe>
 
-![GrasshopperIcon](./assets/grasshopperIcon.png)
-<figcaption align="center">Figura 1: Ícone Grasshopper. (Fonte: Grasshopper Suport, 2022)</figcaption>
-  
-<a href="https://www.figma.com/proto/4Ed472LW20Vh56Fvg2WmMn/2022.2-Grasshoper?node-id=26%3A42&scaling=scale-down&page-id=0%3A1&starting-point-node-id=26%3A42">CLIQUE AQUI</a> para acessar o Protótipo de alta Fidelidade.
-  
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4Ed472LW20Vh56Fvg2WmMn%2F2022.2-Grasshoper%3Fnode-id%3D0%253A1%26t%3D36pVBNnEqBApIQkK-1" allowfullscreen></iframe>
+<p> <b>Protótipo de alta fildelidade</b>: Protótipo de alta fildelidade (Fonte: Penha, Igor; Gobbi, Lucas. 2023).</p>
 
 ## Validação do Protótipo
 
@@ -31,23 +28,32 @@ A técnica de observação será usada para concluir a validação do protótipo
 
 ### Tarefas
 
-  - Definir metas;
-  - Visualizar ranking de usuários;
-  - Escolher nível de dificuldade das lições;
+  - Testar a funcionalidade do prototipo;
+  - Encontrar melhorias;
+  - Feedback da funcionalidade prototipada pelos usuários;
   - Pedir dica dentro de uma lição.
 
 
 ### Avaliações
+
+#### Roteiro de gravação
+O usuário deve testar o protótipo, que abre na tela inicial do VLC e conseguir realizar a edição de corte do vídeo.
+
+Perguntas realizadas ao fim da entrevista:
+- O que achou da funcionalidade?
+- Acha que ela agraga ao aplicativo do VLC?
+- Achou a tarefa intuitiva?
+- Tem alguma sugestão de melhora?
 
 #### Avaliação 1
 A <i>Tabela 1</i> a seguir informa os dados da primeira avaliação referente a usabilidade do protótipo, bem como a gravação do processo feito pelo usuário.
 
 | <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|  | Igor Penha e Lucas Gobbi  | 21/06/2023 |  |  |
+| Guilherme Costa | Igor Penha e Bruno Ribeiro  | 21/06/2023 | 21:12 | Microsoft Teams |
 <figcaption align='center'> Tabela 1: Dados da avaliação 1 (Fonte: Penha, Igor; Gobbi, Lucas, 2022)</figcaption>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nBKPEJUCblo" title="Entrevista 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Vídeo 1</b>: gravação da entrevista 1 (Fonte: Penha, Igor; Gobbi, Lucas. 2023).</p>
 </div>
@@ -59,10 +65,10 @@ A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente a u
 
 | <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|  | Igor Penha e Lucas Gobbi  | 21/06/2023 |  |  |
+| Matheus Menezes | Igor Penha e Bruno Ribeiro  | 21/06/2023 | 21:24 | Microsoft Teams |
 <figcaption align='center'> Tabela 2: Dados da avaliação 1 (Fonte: Penha, Igor; Gobbi, Lucas, 2022)</figcaption>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x0TsK74xoVA" title="Entrevista 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Vídeo 2</b>: gravação da entrevista 2 (Fonte: Penha, Igor; Gobbi, Lucas. 2023).</p>
 </div>
@@ -74,10 +80,10 @@ A <i>Tabela 3</i> a seguir informa os dados da terceira avaliação referente a 
 
 | <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|  | Igor Penha e Lucas Gobbi  | 21/06/2023 |  |  |
+| Pedro Dourado | Igor Penha e Bruno Ribeiro  | 21/06/2023 | 21:39 | Microsoft Teams |
 <figcaption align='center'> Tabela 3: Dados da avaliação 1 (Fonte: Penha, Igor; Gobbi, Lucas, 2022)</figcaption>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ZvvOiuNOLI" title="Entrevista 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Vídeo 3</b>: gravação da entrevista 3 (Fonte: Penha, Igor; Gobbi, Lucas. 2023).</p>
 </div>
