@@ -1,41 +1,28 @@
-<div class="body">
 
 # Verificação do artefato de Especificação Suplementar do (VLC)
 
 ## Introdução
   
-<div align="justify">
-
 A técnica de verificação de artefatos é um processo usado para avaliar e validar a qualidade, corretude e conformidade de um determinado artefato. Esses artefatos podem incluir documentos, código-fonte, modelos de dados, projetos de design, especificações de requisitos, entre outros. Assim sendo, é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
   
-</div>
-
 ## Metodologia
-  
-<div align="justify">
-  
+    
 A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia na [aula 13 - professora Milene e Maurício](https://aprender3.unb.br/pluginfile.php/2523100/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
   
 Para tal, será utilizada a técnica de Análise estática, essa técnica consiste em examinar o código-fonte ou outro tipo de artefato sem executá-lo, em busca de erros, vulnerabilidades e problemas de qualidade. A análise estática pode ser feita manualmente ou com o auxílio de ferramentas automatizadas que realizam análises de sintaxe, semântica e conformidade com padrões.
   
 Desse modo, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
-
-</div>
   
 ## Conteúdo esperado
   
 ### Verificação
-  
-<div align="justify">
-  
+    
 A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do artefato e a qualidade da entrega, na qual a qualidade é baseada na seguinte classificação:
   
   - **_Excelente_** (cumpre com todo o conteúdo esperado na avaliação)
   - **_Boa_** (possue parte do conteúdo esperado na avaliação)
   - **_Imcompleta_** (passa brevemente pelo conteúdo esperado na avaliação)
- 
-</div>
-  
+   
 | id | Conteúdo | Possue | Qualidade | Observação |
 | -- | -------- | :----: | :-------: | ---------- |
 | 1 | O artefato possui o objetivo do documento? | Sim | Excelente |  |
@@ -49,27 +36,19 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023). </p>
   
 ## Conclusão
-  
-<div align="justify">
-  
+    
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
 - **id 3**: Apresentar as referências aos requisitos apresentados.
 
 <img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/especificacaosup_g3.png" width="100%">
 <p> <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
-
-</div>
   
 ## Critérios gerais
   
 ### Verificação
-  
-<div align="justify">
-  
+    
 Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
-
-</div>
   
 1. Padronização:
   - [X] O artefato segue as diretrizes de formatação especificadas.
@@ -95,22 +74,14 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [X] As tabelas são chamadas no texto.
   
 ## Conclusão
-  
-<div align="justify">
-  
+    
 O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critérios de aceitação da disciplina.
-
-</div>
   
 ## Correções e ajustes sugeridos
-  
-<div align="justify">
-  
+    
 Algumas correções sugeridas são:
   
 - Apresentar as referências aos requisitos apresentados.
-
-</div>
   
 ## Bibliografia
   
@@ -126,4 +97,3 @@ Algumas correções sugeridas são:
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 20/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 21/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
   
-</div>
