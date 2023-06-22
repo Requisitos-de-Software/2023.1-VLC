@@ -1,16 +1,16 @@
 <div class="body">
 
-# Planejamento da Verificação da Etapa 2 do Grupo 4
+# Planejamento da Verificação da Etapa 2 do Grupo 3
 
 ## Introdução
 
 <div align="justify">
 
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo 4](https://requisitos-de-software.github.io/2023.1-Caesb/) na Etapa 2.
+A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação dos artefatos produzidos pelo [Grupo 3](https://github.com/Requisitos-de-Software/2023.1-VLC) na Etapa 3.
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos na Etapa 2 do [Grupo 4](https://requisitos-de-software.github.io/2023.1-Caesb/) possuem os itens e o padrão exigidos para tais.
+O objetivo deste documento é verificar se os artefatos produzidos na Etapa 2 do [Grupo 3](https://github.com/Requisitos-de-Software/2023.1-VLC) possuem os itens e o padrão exigidos para tais.
 
 ## Metodologia
 
@@ -20,29 +20,33 @@ A metodologia escolhida para esta verificação é a inspeção, tomando como ba
 
 Os artefatos alvos dessa verificação são:
 
-- A [**Introspecção**](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/introspeccao/) na versão 1.0 de data 15/04/2023;
-- A [**Perfil do usuário**](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/perfil_usuario/) na versão 1.1 de data 19/05/2023
-- O [**Personas**](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/personas/) na versão 2.0 de data 01/05/2023;
-- As [**First things first**](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/priorizacao-FTF/) na versão 2.0 de data 03/05/2023 
-- Os [**In or Out**](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/priorizacaoInorOut/) na versão 4.0 de data 06/05/2023.
-- Os [**Questionário**](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) na versão 1.0 de data 30/04/2023.
-- Os [**Storytelling**](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/storytelling/) na versão 1.0 de data 30/04/2023.
+- A [**Análise de Documentos**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) na versão 1.0 de data 29/04/2023;
+- O [**Moscow**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/moscow) na versão 1.0 de data 01/05/2023;
+- A [**Priorização**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/priorizacao) na versão 1.1 de data 01/05/2023;
+- A [**Introspecção**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) na versão 1.0 de data 29/04/2023;
+- O [**Personas**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/personas) na versão 1.1 de data 30/04/2023;
+- As [**First things first**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/first_things_first) na versão 1.0 de data 01/05/2023 
+- Os [**In or Out**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/in_or_out) na versão 1.0 de data 01/05/2023.
+- Os [**Questionário**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario) na versão 1.3 de data 01/04/2023.
+- Os [**Storytelling**](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) na versão 1.1 de data 30/04/2023.
 
 ### Cronograma
 
-A verificação será realizada no período de 06 de junho de 2023 até dia 12 de junho de 2023, com os resultados sendo relatados através da página de documentação do Grupo 3 no dia 12 de junho de 2023. 
+A verificação será realizada no período de 17 de junho de 2023 até dia 21 de junho de 2023, com os resultados sendo relatados através da página de documentação do Grupo 3 no dia 21 de junho de 2023. 
 
 **Tabela 1** - Cronograma das Atividades.
 
-| Data | Descrição |
-| - | - |
-| 06/06/2023 | Verificação do Perfil de Usuário. |
-| 06/06/2023 | Verificação das Personas. |
-| 08/06/2023 | Verificação do First things first. |
-| 08/06/2023 | Verificação do Storytelling. |
-| 10/06/2023 | Verificação do In or Out. |
-| 10/06/2023 | Verificação do Questionario. |
-| 12/06/2023 | Verificação da Introspeccao. |
+| Data | Descrição | Data de Correção |
+| - | - | - |
+| 17/06/2023 | Verificação da Análise de Documentos. | 24/06/2023 |
+| 17/06/2023 | Verificação do Moscow. | 24/06/2023 |
+| 18/06/2023 | Verificação da Priorização. | 25/06/2023 |
+| 18/06/2023 | Verificação das Personas. | 25/06/2023 |
+| 19/06/2023 | Verificação do First things first. | 26/06/2023 |
+| 19/06/2023 | Verificação do Storytelling. | 26/06/2023 |
+| 20/06/2023 | Verificação do In or Out. | 27/06/2023 |
+| 20/06/2023 | Verificação do Questionario. | 27/06/2023 |
+| 21/06/2023 | Verificação da Introspeccao. | 28/06/2023 |
 
 <b>Tabela 1</b>: Cronograma das atividades (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
 
@@ -68,6 +72,6 @@ Tendo isso como base, foi desenvolvido um [template](https://github.com/Requisit
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 06/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 07/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 16/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 20/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 </div>

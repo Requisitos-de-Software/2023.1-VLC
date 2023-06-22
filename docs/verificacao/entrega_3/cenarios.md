@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato de Cenários do Grupo 4 (Caesb)
+# Verificação do artefato de Cenários (VLC)
 
 ## Introdução
   
@@ -38,14 +38,14 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   
 | id | Conteúdo | Possue | Qualidade | Observação |
 | -- | -------- | :----: | :-------: | ---------- |
-| 1 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
-| 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Boa | A metodologia do artefato é redigida, porém poderia ser um pouco mais clara e objetiva. |
-| 3 | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção? | Sim | Incompleto | Não foram encontrados retrições e exceções. |
-| 4 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | Sim | Boa | Os epsódios de alguns cenários são pouco detalhados. |
-| 5 | A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais? | Sim | Excelente | Todos os cenários são bem diversificados. |
-| 6 | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente | O artefato representa seis funcionalidades por parte do usuário. |
-| 7 | Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência? | Sim | Excelente | Não foram encontradas inconsistências para com as regras de diagramação. |
-| 8 | Os cenários são consistentes entre si e com outros artefatos do projeto, como casos de uso, requisitos e especificações? | Sim | Excelente | O artefato modela atividades as quais foram elicitadas outrora. |
+| 1 | O artefato possui o objetivo do documento? | Sim | Excelente |  |
+| 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente |  |
+| 3 | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção? | Sim | Boa | Só não são apresentados restrições. |
+| 4 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | Sim | Excelente |  |
+| 5 | A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais? | Sim | Excelente |  |
+| 6 | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente |  |
+| 7 | Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência? | Sim | Excelente |  |
+| 8 | Os cenários são consistentes entre si e com outros artefatos do projeto, como casos de uso, requisitos e especificações? | Sim | Excelente |  |
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023). </p>
   
 ## Conclusão
@@ -54,11 +54,9 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
-- id 2: Detalhar mais a metodologia utilizada no artefato.
-- id 3: Adicionar restrições e exceções aos cenários.
-- id 4: Redigir mais detalhadamente os epsódios.
+- **id 3**: Adicionar restriçoes aos cenários.
 
-<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/cenarios.png" width="100%">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_3/cenarios_g3.png" width="100%">
 <p> <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023). </p>
 
 </div>
@@ -74,17 +72,17 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 </div>
   
 1. Padronização:
-  - [ ] O artefato segue as diretrizes de formatação especificadas.
+  - [X] O artefato segue as diretrizes de formatação especificadas.
   - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
-  - [ ] As margens e os espaçamentos estão corretos.
+  - [X] As margens e os espaçamentos estão corretos.
   - [X] O uso de negrito, itálico e sublinhado está adequado e consistente.
-  - [ ] Os parágrafos estão todos justificados.
+  - [X] Os parágrafos estão todos justificados.
   
 2. Estrutura:
    - [X] O artefato possui uma introdução clara e contextualizada.
    - [X] As seções estão organizadas de forma lógica e coerente.
    - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [X] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
    - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
@@ -110,9 +108,7 @@ O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critério
   
 Algumas correções sugeridas são:
   
-- Justificar os textos.
-- Redigir uma conclusão para o documento.
-- Detalhar mais a metodologia utilizada na modelagem.
+- Adicionar restrições aos cenários.
 
 </div>
   
@@ -122,14 +118,12 @@ Algumas correções sugeridas são:
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
-- Documento de casos de uso do Grupo 4 da Disciplina de Requisitos. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Modelagem/casos_de_uso.md>. Acesso em: 03 jun. 2023.  
-
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+- Documento de casos de uso do Grupo 3 da Disciplina de Requisitos. Disponível em: <https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios>. Acesso em: 03 jun. 2023.  
   
 ## Histórico de Versões
   
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
-| 05/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 07/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 20/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 21/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
   
 </div>
