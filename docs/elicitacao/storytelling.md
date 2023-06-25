@@ -78,7 +78,11 @@ Os requisitos identificados com o storytelling seguem a seguir na Tabela 1:
 
 ### Gravação da elicitação
 
-Para visualizar a gravação, em íntegra da reunião na qual foram elicitados os requisitos anteriores, clique [aqui](https://youtu.be/JnVHmNPcqLY).
+Para visualizar a gravação, em íntegra da reunião na qual foram elicitados os requisitos anteriores:
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/JnVHmNPcqLY" title="Entrevista 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 1</b>: Elicitação requisitos 1 (Fonte: Grupo. 2023).</p>
+</div>
 
 ## Bibliografia
 
@@ -91,7 +95,8 @@ Para visualizar a gravação, em íntegra da reunião na qual foram elicitados o
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                    | Autor(es)                  |  Revisor(es)  | Data de revisão |
-| ------ | ---------- | ---------------------------- | -------------------------- | ------------- |-----------------|
-| `1.0`  | 26/04/2023 | Criação do documento inicial |[Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Larissa Gomes](https://github.com/larigs) | 30/04/2023 |
-| `1.1`  | 30/04/2023 | Elicitação de requisitos     | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Igor Penha](https://github.com/igorpenhaa) | 01/04/2023 |
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 26/04/2023 | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 30/04/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 30/04/2023 | `1.1`  | Elicitação de requisitos | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa)  | 01/05/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 24/06/2023 | `2.0` | Realizando correções no artefato | [Igor Penha](https://github.com/igorpenhaa)  | 26/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
