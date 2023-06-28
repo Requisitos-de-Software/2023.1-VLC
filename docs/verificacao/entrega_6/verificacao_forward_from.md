@@ -68,22 +68,22 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 | 16 | Para cada requisito descrito, foi apresentado sua implementação ou não? | Sim  | Excelente  | ---  |
 | 17 | O artefato apresenta a rastreablidade de requisitos funcionais e não funcionais? | Sim | Excelente  | --- |
 
-
 <b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
 
-<img src=>
+<img src=https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_6/verificacao6.png>
+
 <b>Imagem 1</b>: Grafico do resultado da verificação (Fonte: SANTOS, Mizael. 2023).
 
 ### Conclusão
 <div align="justify">
 <p></p>
-<h3><p><b>8</b> - Existe uma classificação composta de quatro níveis de informação: ambiental, organizacional, gerencial e desenvolvimento?</p>
+<h3><b>8</b> - Existe uma classificação composta de quatro níveis de informação: ambiental, organizacional, gerencial e desenvolvimento?</h3>
 <p>Não houve a separação das informações a este nível.</p>
-<h3><p><b>10</b> - O rastreamento contribui para que alguns elementos dos níveis de informação ambiental e organizaciona?</p>
+<h3><b>10</b> - O rastreamento contribui para que alguns elementos dos níveis de informação ambiental e organizaciona?</h3>
 <p>Não foi apresentada a contibuição dos rastreamentos a nível de ambiente e organização.</p>
-<h3><p><b>12</b> - A matriz de rastreabilidade apresenta uma metodologia para a realização da atividade?</p>
+<h3><b>12</b> - A matriz de rastreabilidade apresenta uma metodologia para a realização da atividade?</h3>
 <p>Metodologia pouco detalhada.</p>
-<h3><p><b>14</b> - Foi apresentado a relação entre os requisitos e sua rastreabilidade?</p>
+<h3><b>14</b> - Foi apresentado a relação entre os requisitos e sua rastreabilidade?</h3>
 <p>Não foi apresentada como se da a relação dos requisitos com sua rastreabilidade.</p>
 </div>
 
@@ -129,6 +129,7 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 ## Correções e ajustes sugeridos
 
 <div align="justify">
+
 <p>A respeito do artefato em sua maioria esta bom, com resalvas de melhorias, são elas:</p>
 <ul>
 <li> Separar as atividades a nível ambiental, organizacional, gerencial e desenvolvimento para facilitar a rastreabilidade.
@@ -136,6 +137,7 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 <li> Detalhar a metodologia de realização do artefato.
 <li> Adicionar como é dada a relação do requisito com sua rastreabilidade.
 </ul>
+
 </div>
 
 ## Bibliografia
