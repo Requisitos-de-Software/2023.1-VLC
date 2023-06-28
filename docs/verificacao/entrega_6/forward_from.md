@@ -128,6 +128,7 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 ## Correções e ajustes sugeridos
 
 <div align="justify">
+
 <p>A respeito do artefato em sua maioria esta bom, com resalvas de melhorias, são elas:</p>
 <ul>
 <li> Separar as atividades a nível ambiental, organizacional, gerencial e desenvolvimento para facilitar a rastreabilidade.
@@ -135,6 +136,7 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 <li> Detalhar a metodologia de realização do artefato.
 <li> Adicionar como é dada a relação do requisito com sua rastreabilidade.
 </ul>
+
 </div>
 
 ## Bibliografia
