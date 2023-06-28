@@ -56,7 +56,34 @@
 
 &emsp;&emsp;A Tabela 2 abaixo representa todos os requisitos elicitados e suas respectivas descrições e rastreabilidades. Além disso, a tabela indica se os requisitos estão implementados, incompletos ou não implementados. 
 
+<a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD</a>
 
+
+
+
+| ID | Descrição | Elicitação | Artefatos | Implementação |
+| ----------- | ---------- | --------- | --------- | --------- |
+| RF01 | Suporte a uma ampla variedade de formatos de áudio e vídeo |  |  | Implementado |
+| RF02 | Possibilidade de adicionar legendas e selecionar faixas de áudio |  |  | Implementado |
+| RF03 | Lista de reprodução e funcionalidades de biblioteca de mídia |  |  | Implementado |
+| RF04 | Suporte a vários idiomas e localizações |  |  | Implementado |
+| RF05 | Capacidade de lidar com arquivos de mídia de grande porte e alta resolução |  |  | Implementado |
+| RF06 | Suportar streaming de mídia |  |  | Implementado |
+| RF07 | Permitir a captura de tela e a gravação de vídeo |  |  | Inexistente |
+| RF08 | Permitir a conversão de formatos de arquivo |  |  | Inexistente |
+| RF09 | Deve ser possível personalizar a aparência da interface do usuário |  |  | Implementado |
+| RF10 | Deve ser possível personalizar a aparência da interface do usuário |  |  | Implementado |
+| RF11 | Aperfeiçoar a função de zoom do aplicativo |  |  | Implementado |
+| RF12 | Eu, como usuário, gostaria de reproduzir vídeos |  |  | Implementado |
+| RF13 | Eu, como usuário, gostaria de realizar edições ao meu vídeo |  |  | Implementado |
+| RF14 | Eu, como usuário, gostaria de salvar meus vídeos para vê-los em outros dispositivos |  |  | Inexistente |
+| RF15 | Eu, como usuário, gostaria de compartilhar os vídeos |  |  | Implementado |
+| RF16 | Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário |  |  | Incompleto |
+| RNF01 | Sistemas operacionais suportados: Android e iOS |  |  | Implementado |
+| RNF02 | Interface do usuário intuitiva e fácil de usar |  |  | Implementado |
+| RNF03 | Preservar a privacidade e segurança dos dados do usuário |  |  | Implementado |
+| RNF04 | Deve ser de código aberto e gratuito |  |  | Implementado |
+| RNF05 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes |  |  | Implementado |
 
 </div>
 
