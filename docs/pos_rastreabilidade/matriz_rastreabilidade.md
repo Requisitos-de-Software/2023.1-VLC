@@ -18,8 +18,10 @@
 
 &emsp;&emsp;Colunas que serão utilizadas na matriz de rastreabilidade:
 
-- ID: Coluna de identificação do requisito
-- 
+- ID: Coluna de identificação do requisito;
+- Descrição: Breve explicação do requisito;
+- Elicitação: Metodo pelo qual o requisito foi elicitado;
+
 
 </div>
 
@@ -45,6 +47,16 @@
 <div style="text-align: center">
 <p> Tabela 1: Legenda do mapeamento de requisitos (Fonte: BOSI, Rafael. 2023).</p>
 </div>
+
+</div>
+
+## Matriz Geral
+
+<div align="justify">
+
+&emsp;&emsp;A Tabela 2 abaixo representa todos os requisitos elicitados e suas respectivas descrições e rastreabilidades. Além disso, a tabela indica se os requisitos estão implementados, incompletos ou não implementados. 
+
+
 
 </div>
 
