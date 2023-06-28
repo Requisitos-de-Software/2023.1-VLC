@@ -65,7 +65,7 @@ Para o auxilio da realização do meta-modelo de Toranzo, foram desenvolvidas as
 <p><b> Tabela 2: Requisitos funcionais elicitados (Autore(s): RIBEIRO, Bruno; Bergholz, Lucas; PENHA, Igor. 2023)</b></p>
 
 ## Elos
-Neste tópico, serão apresentados os elos dos requisitos elicitados nas tabelas 1 e 2. A partir deles, foi montada a tabela 3 abaixo, com todos os elos envolvidos:
+Neste tópico, serão apresentados os elos dos requisitos elicitados nas tabelas 1 e 2. Como citado na metodologia, todos os requisitos serão classificados por meio e tipo de elo, entretanto, todos os requisitos elicitados são do meio de "Desenvolvimento", pois, todos eles são advindos de artefatos desenvolvidos durante o processo de desenvolvimento do trabalho, ou seja, nenhum deles se refere à organização ou à gerência do projeto. A partir deles, foi montada a tabela 3 abaixo, com todos os elos envolvidos:
 
 | id | Requisito | Tipo de Elo |
 | -- | --------- | ----------- |
@@ -83,5 +83,23 @@ Neste tópico, serão apresentados os elos dos requisitos elicitados nas tabelas
 | ELO12 | RNF02 | Representação: ADD05 representa INT09, que representa ST07, que representa QUE15 <br> Agregação: QUE01 agrega ADD05|
 | ELO13 | RNF03 | Representação: INT17, ADD19 e ADD10 representam ST16 |
 | ELO14 | RNF05 | Representação: INT10 representa INT16 |
+<p><b> Tabela 3: Elos de rastreabilidade. (Autore(s): RIBEIRO, Bruno; Bergholz, Lucas; PENHA, Igor. 2023)</b></p>
+
+## Conclusão
+A partir de todas as análises supracitadas neste presente documento, e, tomando como base o Meta-modelo de Toranzo, pode-se desenvolver 14 elos de rastreabilidade ao todo. Com eles, é possível realizar a comparação e uma análise mais profunda da maioria dos requisitos elicitados dentro do projeto em relação ao aplicativo do VLC.
+
+## Bibliografia
+
+- Requirements Engineering Fundamentals. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523040/mod_resource/content/2/Rastreabilidade.pdf>. Acesso em: 27 jun. 2023.
+
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+
+- Slides da Aula 26 da Professora Milene Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2523172/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 27 jun. 2023.
+
+## Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 27/06/2023 | `1.0` | Criação do artefato | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 27/06/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>
