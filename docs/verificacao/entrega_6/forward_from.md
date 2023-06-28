@@ -28,7 +28,7 @@
 
 <div align="justify">
 
-&emsp;&emsp;O artefato 
+&emsp;&emsp;O artefato de pós-rastreabilidade Forward-from tem como objetivo, relacionar os requisitos elicitados em etapas anteriores do projeto à artefatos de desenho e implementação que fazem uso desse requisito no seu desenvolviento. 
 
 &emsp;&emsp;Sendo assim, foi elaborada a Tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
