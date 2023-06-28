@@ -31,9 +31,38 @@ Para o auxilio da realização do meta-modelo de Toranzo, foram desenvolvidas as
 - **RF**: Requisito funcional
 - **RNF**: Requisito não-funcional
 
-## Tabelas de requisitos
+## Tabelas de requisitos funcionais
 
 | id | Descrição | Rastreabilidade | Implementado |
 | :-:| :-------- | :-------------- | :----------- |
+|RF01| Suporte a uma ampla variedade de formatos de áudio e vídeo | ADD01, INT01, ST15 | Sim |
+|RF02| Possibilidade de adicionar legendas e selecionar faixas de áudio | ADD02, INT02, INT13, QUE13, ST04 | Sim |
+|RF03| Lista de reprodução e funcionalidades de biblioteca de mídia | ADD03, INT02, ST08, ST13 | Sim |
+|RF04| Suporte a vários idiomas e localizações | ADD06, QUE23 | Sim |
+|RF05| Capacidade de lidar com arquivos de mídia de grande porte e alta resolução | ADD08, INT19 | Sim |  
+|RF06| Suportar streaming de mídia | INT03 | Sim |
+|RF07| Permitir a captura de tela e a gravação de vídeo | INT05 | Não |
+|RF08| Permitir a conversão de formatos de arquivo | INT04 | Não |
+|RF09| Deve ser possível personalizar a aparência da interface do usuário | INT12, QUE09 | Sim |
+|RF10| A interface deve fornecer feedback ao usuário sobre o progresso da reprodução e outras informações relevantes | INT14, QUE07, QUE11, QUE20, ST05 | Sim |
+|RF11| Aperfeiçoar a função de zoom do aplicativo | QUE05 | Sim |
+|RF12| Eu, como usuário, gostaria de reproduzir vídeos | ST01, ST02, ST03, ST12 | Sim |
+|RF13| Eu, como usuário, gostaria de realizar edições ao meu vídeo | ST06 | Sim |
+|RF14| Eu, como usuário, gostaria de salvar meus vídeos para vê-los em outros dispositivos | ST09, ST10 | Não |
+|RF15| Eu, como usuário, gostaria de compartilhar os vídeos | ST11 | Sim |
+|RF16| Eu, como usuário, gostaria de que o aplicativo tenha suporte ao usuário | ST17, ST18 | Não |
+<p><b> Tabela 1: Requisitos funcionais elicitados (Autore(s): RIBEIRO, Bruno; Bergholz, Lucas; PENHA, Igor. 2023)</b></p>
+
+## Tabelas de requisitos não-funcionais
+
+| id  | Descrição | Rastreabilidade | Implementado |
+| :-: | :-------- | :-------------- | :----------- |
+|RNF01| Sistemas operacionais suportados: Android e iOS | ADD04, INT06 | Sim |
+|RNF02| Interface do usuário intuitiva e fácil de usa | ADD05, INT09, QUE01, QUE15, ST07 | Sim |
+|RNF03| Preservar a privacidade e segurança dos dados do usuário | ADD09, ADD10, INT17, ST16 | Sim |
+|RNF04| Deve ser de código aberto e gratuito  | INT08 | Sim |
+|RNF05| Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes | INT10, INT16 | Sim |
+<p><b> Tabela 2: Requisitos funcionais elicitados (Autore(s): RIBEIRO, Bruno; Bergholz, Lucas; PENHA, Igor. 2023)</b></p>
+
 
 </div>
