@@ -66,7 +66,7 @@ RF01
 
 &emsp;&emsp;Suporte a uma ampla variedade de formatos de áudio e vídeo
 
-| RF01 | Classificação do Artefato Analisado |
+| RF01 | Desenvolvimento |
 | :----------------------: | :--------------------: |
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |

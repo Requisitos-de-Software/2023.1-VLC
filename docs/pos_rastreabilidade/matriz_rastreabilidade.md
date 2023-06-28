@@ -21,7 +21,7 @@
 - ID: Coluna de identificação do requisito;
 - Descrição: Breve explicação do requisito;
 - Elicitação: Metodo pelo qual o requisito foi elicitado;
-
+- Artefatos: Documentos que 
 
 </div>
 
