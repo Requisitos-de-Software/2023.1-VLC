@@ -18,11 +18,11 @@
 
 &emsp;&emsp;Colunas que serão utilizadas na matriz de rastreabilidade:
 
-- ID: Coluna de identificação do requisito
-- Descrição: Breve explicação do requisito
-- Elicitação: Metodo pelo qual o requisito foi elicitado
-- Artefatos: Documentos que foram desenvolvidos a partir desse requisito
-- 
+- ID: Coluna de identificação do requisito.
+- Descrição: Breve explicação do requisito.
+- Elicitação: Metodo pelo qual o requisito foi elicitado.
+- Artefatos: Documentos que foram desenvolvidos a partir desse requisito.
+- Implementação: O requisito esta implementado, incompleto ou não implementado na aplicação.
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="justify">
 
-&emsp;&emsp;Serão apresentados na tabela 1, o mapeamento dos documentos e sua referência dos artefatos apresentados em seguida.
+&emsp;&emsp;Serão apresentados na Tabela 1, o mapeamento dos documentos e sua referência dos artefatos apresentados em seguida.
 
 | Legenda | Descrição                 |
 | ------- | ------------------------- |
@@ -56,12 +56,6 @@
 
 &emsp;&emsp;A Tabela 2 abaixo representa todos os requisitos elicitados e suas respectivas descrições e rastreabilidades. Além disso, a tabela indica se os requisitos estão implementados, incompletos ou não implementados. 
 
-<a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD</a>
-<a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT</a>
-<a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling.md">ST</a>
-<a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario.md">QUE</a>
-
-
 | ID | Descrição | Elicitação | Artefatos | Implementação |
 | ----------- | ---------- | --------- | --------- | --------- |
 | RF01 | Suporte a uma ampla variedade de formatos de áudio e vídeo | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD01</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT01</a> e <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling.md">ST15</a> |  | Implementado |
@@ -85,6 +79,8 @@
 | RNF03 | Preservar a privacidade e segurança dos dados do usuário | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD09</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD10</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT17</a> e <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling.md">ST16</a> |  | Implementado |
 | RNF04 | Deve ser de código aberto e gratuito | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT08</a> |  | Implementado |
 | RNF05 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT10</a> e <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT16</a> |  | Implementado |
+
+<b>Tabela 2:</b> Matriz geral de rastreabilidade (Fonte: BOSI, Rafael. 2023).
 
 </div>
 
