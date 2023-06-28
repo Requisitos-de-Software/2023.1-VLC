@@ -16,7 +16,7 @@ Para a execução do método de backward-from, além de suas próprias especific
 - **_Gerencial_**: informações que auxiliam na gerencia do projeto;
 - **_Desenvolvimento_**: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento.
 
-Com base nos [slides 21](https://aprender3.unb.br/pluginfile.php/2523172/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da aula 26 da professora Milene Serrano os principais elos de rastreabilidadeão são:
+Com base nos [slides 21](https://aprender3.unb.br/pluginfile.php/2523172/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da aula 26 da professora Milene Serrano os principais elos de rastreabilidade são:
 - **Satisfação**: classe origem tem dependência de satisfação com a classe destino.
 - **Recurso**: classe origem tem dependência de recurso com a classe destino.
 - **Responsabilidade**: registra a participação, responsabilidade e ação de pessoas sobre artefatos.
@@ -64,5 +64,24 @@ Para o auxilio da realização do meta-modelo de Toranzo, foram desenvolvidas as
 |RNF05| Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes | [INT10](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao), [INT16](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) | Sim |
 <p><b> Tabela 2: Requisitos funcionais elicitados (Autore(s): RIBEIRO, Bruno; Bergholz, Lucas; PENHA, Igor. 2023)</b></p>
 
+## Elos
+Neste tópico, serão apresentados os elos dos requisitos elicitados nas tabelas 1 e 2. A partir deles, foi montada a tabela 3 abaixo, com todos os elos envolvidos:
+
+| id | Requisito | Tipo de Elo |
+| -- | --------- | ----------- |
+| ELO01 | RF01 | Representação: ADD01 representa INT01 <br> Representação: INT01 representa ST15 |
+| ELO02 | RF02 | Representação: ADD02 representa INT02, e INT13 representa INT02 <br> Agregação: QUE13 agrega INT02 <br> Recurso: ST04 depende de INT02 |
+| ELO03 | RF03 | Representação: ADD03 representa INT02, e ST13 representa INT02 <br> Agregação: ST08 agrega INT02 |
+| ELO04 | RF04 | Representação: QUE13 representa ADD06 |
+| ELO05 | RF05 | Recurso: INT19 depende de ADD08 |
+| ELO06 | RF09 | Agregação: QUE09 agrega INT12 |
+| ELO07 | RF10 | Agregação: QUE07, QUE11 e QUE20 agregam INT14 <br> Representação: ST05 representa QUE20 |
+| ELO08 | RF12 | Recurso: ST02 depende de ST01 <br> Recurso: ST01 e ST02 dependem de ST03 <br> Agregação: ST12 agrega ST01 |
+| ELO09 | RF14 | Recurso: ST09 depende de ST10 |
+| ELO10 | RF16 | Agregação: ST18 agrega ST17 |
+| ELO11 | RNF01 | Representação: ADD04 representa INT06 |
+| ELO12 | RNF02 | Representação: ADD05 representa INT09, que representa ST07, que representa QUE15 <br> Agregação: QUE01 agrega ADD05|
+| ELO13 | RNF03 | Representação: INT17, ADD19 e ADD10 representam ST16 |
+| ELO14 | RNF05 | Representação: INT10 representa INT16 |
 
 </div>
