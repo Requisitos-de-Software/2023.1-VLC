@@ -1,96 +1,90 @@
-<div class="body">
-
-# Forward-From
+# Forward From
 
 ## Introdução
 
-<div align="justify">
+A rastreabilidade é uma técnica utilizada para determinar o relacionamento entre os requisitos, a arquitetura e a implementação final de um produto, auxiliando na compreensão dos artefatos. É importante ressaltar que os requisitos não podem ser gerenciados efetivamente sem a rastreabilidade. A rastreabilidade pode ser dividida em pré-rastreabilidade, que está relacionada à ligação dos requisitos às suas fontes, e pós-rastreabilidade, que envolve a ligação dos requisitos aos artefatos criados durante o ciclo de vida do produto de software. A pós-rastreabilidade também é conhecida como Gerência de Desenvolvimento de Software baseado em Baseline.
 
-&emsp;&emsp;Este artefato trata do método de rastreabilidade forward-from, técnica utilizada para ligar os requisitos aos respectivos artefatos de desenho e implementação que fazem uso deles. A rastreabilidade, em sí, é a habilidade de rastrear os requisistos durante o curso inteiro de seu ciclo de vida no sistema.
+A pré-rastreabilidade permite que os desenvolvedores identifiquem a origem dos requisitos, ou seja, a qual documento ou fonte eles estão associados. Essa informação é fundamental para entender o contexto e a justificativa de cada requisito. Além disso, a pré-rastreabilidade também facilita a detecção de inconsistências, redundâncias ou omissões nos requisitos, permitindo que sejam feitas correções e melhorias antes do início do desenvolvimento.
 
-&emsp;&emsp;Neste artefato e para a realização deste método, foram utilizados os [slides da aula 26](https://aprender3.unb.br/pluginfile.php/2523172/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da professora Milene Serrano junto do livro [Requirements Engineering Fundamentals](https://aprender3.unb.br/pluginfile.php/2523040/mod_resource/content/2/Rastreabilidade.pdf) de Klaus Pohl e Chris Rupp.
-
-</div>
+Já a pós-rastreabilidade é responsável por estabelecer as relações entre os requisitos e os artefatos gerados durante o desenvolvimento do software. Isso inclui a identificação de quais requisitos foram implementados em cada componente do sistema, quais casos de teste foram criados para validar esses requisitos e quais partes da arquitetura estão relacionadas a cada requisito. Essa informação é valiosa para garantir a consistência e a completude do sistema, além de auxiliar na manutenção e evolução do software ao longo do tempo.
 
 ## Metodologia
 
-<div align="justify">
+A metodologia utilizada para estabelecer a rastreabilidade entre os requisitos e os artefatos foi o "forward-from" (para frente, a partir de). Essa abordagem de pós-rastreabilidade envolve a criação de informações de rastreabilidade entre os requisitos e os artefatos gerados nas atividades de desenvolvimento subsequentes. 
 
-&emsp;&emsp;Para a execução do método de forward-from, além de suas próprias especificidades, foi utilizado o meta-modelo de Toranzo, o qual classificará os requisitos elicitados pelo grupo em níveis e elos. Com base nos [slide 19](https://aprender3.unb.br/pluginfile.php/2523172/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf)[1] da aula 26 da professora Milene Serrano os níveis são:
+No contexto da rastreabilidade entre requisitos, o "forward-from" consiste no mapeamento das dependências entre os requisitos. Isso significa identificar se um requisito refina outro requisito, generaliza ou substitui algum requisito anterior. Por exemplo, um requisito pode ser uma evolução de outro requisito existente, incorporando novas funcionalidades ou modificando as existentes. Essa relação de dependência é importante para entender como os requisitos se relacionam entre si e para garantir que todos sejam adequadamente atendidos durante o desenvolvimento do software.
 
-- **_Ambiental_**: informações oriundas do ambiente e do contexto ao qual a organização está inserida;
-- **_Organizacional_**: informações relacionadas à organização;
-- **_Gerencial_**: informações que auxiliam na gerencia do projeto;
-- **_Desenvolvimento_**: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento.
+Além disso, o "forward-from" também envolve a rastreabilidade entre os requisitos e os artefatos de implementação, como código-fonte, documentação técnica e testes. Essa rastreabilidade permite identificar quais requisitos foram implementados em cada componente do sistema, quais casos de teste foram criados para validar esses requisitos e quais partes da arquitetura estão relacionadas a cada requisito. Essas informações são cruciais para garantir a integridade do sistema e facilitar a manutenção futura.
 
-&emsp;&emsp;Com base nos [slide 21](https://aprender3.unb.br/pluginfile.php/2523172/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf)[1] da aula 26 da professora Milene Serrano os principais elos de rastreabilidadeão são:
+Em resumo, o uso da abordagem "forward-from" na rastreabilidade de requisitos e artefatos é fundamental para estabelecer relações claras e consistentes entre os elementos do sistema, facilitando a compreensão, a manutenção e a evolução do software ao longo do seu ciclo de vida.
 
-- **Satisfação**: classe origem tem dependência de satisfação com a classe destino.
-- **Recurso**: classe origem tem dependência de recurso com a classe destino.
-- **Responsabilidade**: registra a participação, responsabilidade e ação de pessoas sobre artefatos.
-- **Representação**: captura a representação ou modelagem dos requisitos em outras linguagens.
-- **Alocado**: classe origem está relacionada à classe destino, que representa um subsistema.
-- **Agregação**: indica “composição” de elementos
 
-&emsp;&emsp;Para o auxilio da realização do meta-modelo de Toranzo, foi desenvolvida a Tabela 1, a qual irá apresentar os requisitos que serão rastreados.
+## Mapeamento
 
-| Artefato Analisado | Classificação do Artefato Analisado |
-| :----------------------: | :--------------------: |
-| Tipos de Elo | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+A pós-rastreabilidade dos requisitos para sua implementação é demonstrada nas tabelas a seguir, onde cada artefato está associado aos respectivos requisitos. A Tabela 1 apresenta a legenda utilizada para identificar os diferentes tipos de artefatos.
 
-<b>Tabela 1:</b> Template Forward-from (Fonte: TORANZO, Meta-modelo de Torano. 2002)[2]
+| Legenda | Artefato                  |
+| ------- | ------------------------- |
+| US      | História de Usuário       |
+| ST      | Storytelling              |
+| UC      | Casos de Uso              |
+| C       | Cenários                  |
+| L       | Léxico                    |
+| ES      | Especificação Suplementar |
+| INT     | Introspecção              |
+| Q       | Questionário              |
+| GLO     | Glossário                 |
+| ADD     | Análise de Documentos     |
+| RF      | Requisitos Funcionais     |
+| RNF     | Requisitos não Funcionais |
 
+<div style="text-align: center">
+<p> Tabela 1: Legenda (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-### Legendas:
+Nas tabelas subsequentes, são apresentadas as relações entre os requisitos e os artefatos correspondentes, como mostrado nas Tabela 2 e 3. Cada linha representa um requisito e cada coluna representa um tipo de artefato. Através desse mapeamento, é possível visualizar quais artefatos estão associados a cada requisito, fornecendo uma visão clara das dependências e do contexto de implementação.
 
-- **RF**: Requisito funcional:
-  - Referem-se sobre o que o sistema deve fazer, ou seja, suas funções e informações.
-- **RNF**: Requisito não-funcional:
-  - Referem-se aos critérios que qualificam os requisitos funcionais.
+O mapeamento dos requisitos para os artefatos é essencial para garantir a integridade e a consistência do sistema. Por exemplo, as histórias de usuário (US) são utilizadas para descrever as necessidades e objetivos dos usuários, enquanto os casos de uso (UC) detalham as interações entre os atores e o sistema. Os cenários (C) fornecem exemplos concretos de como o sistema deve se comportar em diferentes situações, e a especificação suplementar (ES) detalha requisitos adicionais que complementam as histórias de usuário e casos de uso.
 
-## Tabelas de requisitos
+Além disso, a introspecção (INT), o questionário (Q), a análise de documentos (ADD) e outras técnicas de levantamento de requisitos são utilizadas para obter informações mais detalhadas dos stakeholders e validar os requisitos levantados. O léxico (L) e o glossário (GLO) auxiliam na definição de termos e conceitos do domínio do sistema, facilitando a comunicação entre os membros da equipe.
 
-<div align="justify">
+Em suma, o mapeamento dos requisitos para os artefatos proporciona uma visão abrangente e estruturada do desenvolvimento do software, permitindo que a equipe compreenda as relações entre os elementos e tome decisões embasadas durante todo o processo.
 
-&emsp;&emsp;Nesta seção, serão exibidas as tabelas que mostram a conexão entre os elementos dos itens analisados, os quais correspondem aos requisitos que foram ou não cumpridos pela Bilheteria Digital. Consequentemente, as Tabelas de 2 a 48 fornecem informações sobre a relação entre os requisitos relacionados à funcionalidade e aos aspectos não funcionais.
+| ID do requisito funcional | Descrição do requisito |
+| :-: | :-: |
+| Épico | Épico de referência |
+| Tema | Tema do Backlog |
+| História de Usuário | História de usuário |
+| Léxico  | Léxico relacionado |
+| Casos de uso | Caso de uso relacionado |
+| Cenários | Cenário relacionado |
+| Artefatos | Artefatos relacionados |
+| Comentários | Como está o requisito atualmente no app |
 
-### Tabela dos requisitoss funcionais
-
-RF01
-
-&emsp;&emsp;Suporte a uma ampla variedade de formatos de áudio e vídeo
-
-| RF01 | Desenvolvimento |
-| :----------------------: | :--------------------: |
-| Tipos de Elo | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
-
-<b>Tabela 2:</b> RF01 (Fonte: BOSI, Rafael. 2023).
-
+<div style="text-align: center">
+<p> Tabela 2: Modelo (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-## Referências Bibliográficas
 
-- [1] SERRANO, Milene. Slides da aula 26. Aula 26 da disciplina Requisitos de Software. Universidade de Brasília, Brasília, acesso em 27 de junho de 2023
+### Requisitos Funcionais
 
-- POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals. 2ª ed. New York: Springer, 2010.
 
-- [2] TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 27 de junho de 2023.
+<div style="text-align: center">
+<p> Tabela 3: RF01 (Fonte: ALVISSUS, Giovanni. 2023).</p>
+</div>
+
+### Requisitos Não Funcionais
+
+
+## Bibliografia
+
+[1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acessado em: 28/06/2023
+
+[2] POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental. Acessado em 28/06/2023
 
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 27/06/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 28/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-
-</div>
+| 28/06/2023 | `1.1` | Atualizando metodologia | [Giovanni Alvissus](https://github.com/giovanni1106) | 28/06/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
