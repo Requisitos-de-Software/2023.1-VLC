@@ -68,7 +68,6 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 | 16 | Para cada requisito descrito, foi apresentado sua implementação ou não? | Sim  | Excelente  | ---  |
 | 17 | O artefato apresenta a rastreablidade de requisitos funcionais e não funcionais? | Sim | Excelente  | --- |
 
-
 <b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
 
 <img src=https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_6/verificacao6.png>
