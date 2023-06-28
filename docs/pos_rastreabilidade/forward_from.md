@@ -32,19 +32,34 @@
 - **Alocado**: classe origem está relacionada à classe destino, que representa um subsistema.
 - **Agregação**: indica “composição” de elementos
 
-&emsp;&emsp;Para o auxilio da realização do meta-modelo de Toranzo, foram desenvolvidas as tabelas 1 e 2, as quais dividem os requisitos que serão rastreados em funcionais e não-funcionais.
+&emsp;&emsp;Para o auxilio da realização do meta-modelo de Toranzo, foi desenvolvida a Tabela 1, a qual apresenta os requisitos que serão rastreados.
 
 </div>
 
 ### Legendas:
 
-- **RF**: Requisito funcional
-- **RNF**: Requisito não-funcional
+- Classificação
+  - **RF**: Requisito funcional:
+    - Referem-se sobre o que o sistema deve fazer, ou seja, suas funções e informações.
+  - **RNF**: Requisito não-funcional:
+    - Referem-se aos critérios que qualificam os requisitos funcionais.
+
+
+- Categoria
+
+  - **RI**: Requisitos de Interface:
+    - Descrevem as características da interface do usuário, como layout, navegação e personalização.
+  - **RPR**: Requisitos de Produto:
+    - Descrevem as características do produto, como compatibilidade, desempenho e custo.
+  - **RR**: Riscos:
+    - São os riscos associados ao desenvolvimento e uso do software.
+  - **RT**: Testes e Validações:
+    - Descrevem as atividades necessárias para testar e validar o software antes de sua implantação.
 
 ## Tabelas de requisitos
 
-| id | Descrição | Rastreabilidade | Implementado |
-| :-:| :-------- | :-------------- | :----------- |
+| ID | Descrição | Classificação | Categoria | Fonte |
+| :-:| :- | :- | :- | :- |
 
 
 ## Referências Bibliográficas
