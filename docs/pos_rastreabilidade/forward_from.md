@@ -84,9 +84,109 @@
 
 ### Requisitos Funcionais
 
+| RF01 | Suporte a uma ampla variedade de formatos de áudio e vídeo |
+| :-: | :-: |
+| Épico |  |
+| Tema |  |
+| História de Usuário |  |
+| Léxico  |  |
+| Casos de uso |  |
+| Cenários |  |
+| Artefatos |  |
+| Comentários |  |
 
 <div style="text-align: center">
-<p> Tabela 3: RF01 (Fonte: ALVISSUS, Giovanni. 2023).</p>
+<p> Tabela 3: Rastreabilidade do RF01 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RF02 | Possibilidade de adicionar legendas e selecionar faixas de áudio |
+| :-: | :-: |
+| Épico |  |
+| Tema |  |
+| História de Usuário |  |
+| Léxico  |  |
+| Casos de uso |  |
+| Cenários |  |
+| Artefatos |  |
+| Comentários |  |
+
+<div style="text-align: center">
+<p> Tabela 4: Rastreabilidade do RF02 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RF03 | Lista de reprodução e funcionalidades de biblioteca de mídia |
+| :-: | :-: |
+| Épico |  |
+| Tema |  |
+| História de Usuário |  |
+| Léxico  |  |
+| Casos de uso |  |
+| Cenários |  |
+| Artefatos |  |
+| Comentários |  |
+
+<div style="text-align: center">
+<p> Tabela 5: Rastreabilidade do RF03 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RF04 | Suporte a vários idiomas e localizações |
+| :-: | :-: |
+| Épico |  |
+| Tema |  |
+| História de Usuário |  |
+| Léxico  |  |
+| Casos de uso |  |
+| Cenários |  |
+| Artefatos |  |
+| Comentários |  |
+
+<div style="text-align: center">
+<p> Tabela 6: Rastreabilidade do RF04 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RF05 | Capacidade de lidar com arquivos de mídia de grande porte e alta resolução |
+| :-: | :-: |
+| Épico |  |
+| Tema |  |
+| História de Usuário |  |
+| Léxico  |  |
+| Casos de uso |  |
+| Cenários |  |
+| Artefatos |  |
+| Comentários |  |
+
+<div style="text-align: center">
+<p> Tabela 7: Rastreabilidade do RF05 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RF06 | Suportar streaming de mídia |
+| :-: | :-: |
+| Épico |  |
+| Tema |  |
+| História de Usuário |  |
+| Léxico  |  |
+| Casos de uso |  |
+| Cenários |  |
+| Artefatos |  |
+| Comentários |  |
+
+<div style="text-align: center">
+<p> Tabela 8: Rastreabilidade do RF06 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RF07 | Permitir a captura de tela e a gravação de vídeo |
+| :-: | :-: |
+| Épico |  |
+| Tema |  |
+| História de Usuário |  |
+| Léxico  |  |
+| Casos de uso |  |
+| Cenários |  |
+| Artefatos |  |
+| Comentários |  |
+
+<div style="text-align: center">
+<p> Tabela 9: Rastreabilidade do RF07 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 ### Requisitos Não Funcionais
