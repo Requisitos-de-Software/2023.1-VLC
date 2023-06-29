@@ -92,7 +92,10 @@
 - [Validação](#)
   - [Planejamento Informal](validacao/planejamento_informal.md)
   - [Prototipagem](validacao/prototipagem.md)
-  
+- [Pós-Rastreabilidade]
+  - [Backward From](pos_rastreabilidade/backward_from.md)
+  - [Forward From](pos_rastreabilidade/forward_from.md)
+  - [Matriz de Rastreabilidade](pos_rastreabilidade/matriz_rastreabilidade.md)   
 <!-- [Pré-Rastreabilidade]
 - [Modelagem]
 - [Análise]
