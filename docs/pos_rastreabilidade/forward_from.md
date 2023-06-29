@@ -74,7 +74,7 @@
 | Léxico  | Léxico relacionado |
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
-| Artefatos | Artefatos relacionados |
+| Artefatos de elicitação | Artefatos que elicitaram o requisito |
 | Comentários | Como está o requisito atualmente no app |
 
 <div style="text-align: center">
@@ -95,14 +95,14 @@
 
 | RF01 | Suporte a uma ampla variedade de formatos de áudio e vídeo |
 | :-: | :-: |
-| Épico |  |
-| Tema |  |
-| História de Usuário |  |
-| Léxico  |  |
-| Casos de uso |  |
-| Cenários |  |
-| Artefatos |  |
-| Comentários |  |
+| Épico | [Épico 1: Reprodução de Mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=%c3%89pico-1-reprodu%c3%a7%c3%a3o-de-m%c3%addia) |
+| Tema | [Reprodução de mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=temas) |
+| História de Usuário | [US12](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios?id=ver-diferentes-formatos-de-v%c3%addeo) |
+| Léxico  | [LV01: Assistir](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lv01-assistir) |
+| Casos de uso | [UC03](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc03-%c3%81udio) e [UC05](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc05-v%c3%addeo) |
+| Cenários | --- |
+| Artefatos de elicitação | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD01</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT01</a> e <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling.md">ST15</a> |
+| Comentários | Implementado |
 
 <div style="text-align: center">
 <p> Tabela 4: Rastreabilidade do RF01 (Fonte: BOSI, Rafael. 2023).</p>
@@ -110,14 +110,14 @@
 
 | RF02 | Possibilidade de adicionar legendas e selecionar faixas de áudio |
 | :-: | :-: |
-| Épico |  |
-| Tema |  |
-| História de Usuário |  |
-| Léxico  |  |
-| Casos de uso |  |
-| Cenários |  |
-| Artefatos |  |
-| Comentários |  |
+| Épico | [Épico 1: Reprodução de Mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=%c3%89pico-1-reprodu%c3%a7%c3%a3o-de-m%c3%addia) |
+| Tema | [Gerenciamento de legendas](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=temas) |
+| História de Usuário | [US17](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios?id=adicionar-legenda) |
+| Léxico  | [LO03: Legenda](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo03-legenda) |
+| Casos de uso | [UC03](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc03-%c3%81udio) e [UC04](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc04-legenda) |
+| Cenários | [C15 - Adicionar legenda aos vídeos](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c15-adicionar-legenda-aos-v%c3%addeos) |
+| Artefatos de elicitação | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD02</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT02</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT13</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario.md">QUE13</a> e <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling.md">ST04</a> |
+| Comentários | Implementado |
 
 <div style="text-align: center">
 <p> Tabela 5: Rastreabilidade do RF02 (Fonte: BOSI, Rafael. 2023).</p>
@@ -125,14 +125,14 @@
 
 | RF03 | Lista de reprodução e funcionalidades de biblioteca de mídia |
 | :-: | :-: |
-| Épico |  |
-| Tema |  |
-| História de Usuário |  |
-| Léxico  |  |
-| Casos de uso |  |
-| Cenários |  |
-| Artefatos |  |
-| Comentários |  |
+| Épico | [Épico 1: Reprodução de Mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=%c3%89pico-1-reprodu%c3%a7%c3%a3o-de-m%c3%addia) |
+| Tema | [Biblioteca de mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=temas) |
+| História de Usuário | [US13](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios?id=playlists) |
+| Léxico  | [LO06 - Playlist](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo06-playlist) |
+| Casos de uso | [UC01](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc01-media) e [UC02](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc02-playback) |
+| Cenários | [C05 - Criando playlists](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c05-criando-playlists) |
+| Artefatos de elicitação | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD03</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT02</a>, <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling.md">ST08</a> e <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling.md">ST13</a> |
+| Comentários | Implementado |
 
 <div style="text-align: center">
 <p> Tabela 6: Rastreabilidade do RF03 (Fonte: BOSI, Rafael. 2023).</p>
@@ -140,14 +140,14 @@
 
 | RF04 | Suporte a vários idiomas e localizações |
 | :-: | :-: |
-| Épico |  |
-| Tema |  |
-| História de Usuário |  |
-| Léxico  |  |
-| Casos de uso |  |
-| Cenários |  |
-| Artefatos |  |
-| Comentários |  |
+| Épico | --- |
+| Tema | [Personalização](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=temas) |
+| História de Usuário | [US04](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios?id=mudar-o-idioma) |
+| Léxico  | [LO03 - Legenda](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo03-legenda) |
+| Casos de uso | [UC04](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc04-legenda) |
+| Cenários | [C15 - Adicionar legenda aos vídeos](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c15-adicionar-legenda-aos-v%c3%addeos) |
+| Artefatos de elicitação | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD06</a> e <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario.md">QUE23</a> |
+| Comentários | Implementado |
 
 <div style="text-align: center">
 <p> Tabela 7: Rastreabilidade do RF04 (Fonte: BOSI, Rafael. 2023).</p>
@@ -155,14 +155,14 @@
 
 | RF05 | Capacidade de lidar com arquivos de mídia de grande porte e alta resolução |
 | :-: | :-: |
-| Épico |  |
-| Tema |  |
-| História de Usuário |  |
-| Léxico  |  |
-| Casos de uso |  |
-| Cenários |  |
-| Artefatos |  |
-| Comentários |  |
+| Épico | [Épico 1: Reprodução de Mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=%c3%89pico-1-reprodu%c3%a7%c3%a3o-de-m%c3%addia) |
+| Tema | [Reprodução de mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=temas) |
+| História de Usuário | [US19](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios?id=reprodu%c3%a7%c3%a3o-de-m%c3%addia-de-alta-resolu%c3%a7%c3%a3o) |
+| Léxico  | [LO07 - Qualidade](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo07-qualidade) |
+| Casos de uso | [UC01](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc01-media) e [UC05](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc05-v%c3%addeo) |
+| Cenários | --- |
+| Artefatos de elicitação | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos.md">ADD08</a> e <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT19</a> |
+| Comentários | Implementado |
 
 <div style="text-align: center">
 <p> Tabela 8: Rastreabilidade do RF05 (Fonte: BOSI, Rafael. 2023).</p>
@@ -170,14 +170,14 @@
 
 | RF06 | Suportar streaming de mídia |
 | :-: | :-: |
-| Épico |  |
-| Tema |  |
-| História de Usuário |  |
-| Léxico  |  |
-| Casos de uso |  |
-| Cenários |  |
-| Artefatos |  |
-| Comentários |  |
+| Épico | [Épico 1: Reprodução de Mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=%c3%89pico-1-reprodu%c3%a7%c3%a3o-de-m%c3%addia) |
+| Tema | [Reprodução de mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=temas) |
+| História de Usuário | --- |
+| Léxico  | --- |
+| Casos de uso | [UC01](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc01-media) |
+| Cenários | --- |
+| Artefatos de elicitação | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT03</a> |
+| Comentários | Implementado |
 
 <div style="text-align: center">
 <p> Tabela 9: Rastreabilidade do RF06 (Fonte: BOSI, Rafael. 2023).</p>
@@ -185,14 +185,14 @@
 
 | RF07 | Permitir a captura de tela e a gravação de vídeo |
 | :-: | :-: |
-| Épico |  |
-| Tema |  |
-| História de Usuário |  |
-| Léxico  |  |
-| Casos de uso |  |
-| Cenários |  |
-| Artefatos |  |
-| Comentários |  |
+| Épico | --- |
+| Tema | --- |
+| História de Usuário | --- |
+| Léxico  | --- |
+| Casos de uso | --- |
+| Cenários | --- |
+| Artefatos de elicitação | <a href="https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao.md">INT05</a> |
+| Comentários | Ainda não existe no app |
 
 <div style="text-align: center">
 <p> Tabela 10: Rastreabilidade do RF07 (Fonte: BOSI, Rafael. 2023).</p>
