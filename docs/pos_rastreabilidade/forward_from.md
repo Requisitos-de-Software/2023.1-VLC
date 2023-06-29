@@ -62,7 +62,7 @@
 
 &emsp;&emsp;Além disso, a introspecção (INT), o questionário (Q), a análise de documentos (ADD) e outras técnicas de levantamento de requisitos são utilizadas para obter informações mais detalhadas dos stakeholders e validar os requisitos levantados. O léxico (L) e o glossário (GLO) auxiliam na definição de termos e conceitos do domínio do sistema, facilitando a comunicação entre os membros da equipe.
 
-&emsp;&emsp;Em suma, o mapeamento dos requisitos para os artefatos proporciona uma visão abrangente e estruturada do desenvolvimento do software, permitindo que a equipe compreenda as relações entre os elementos e tome decisões embasadas durante todo o processo.
+&emsp;&emsp;Em suma, o mapeamento dos requisitos para os artefatos proporciona uma visão abrangente e estruturada do desenvolvimento do software, como é visto nas Tabelas de 4 a 25, permitindo que a equipe compreenda as relações entre os elementos e tome decisões embasadas durante todo o processo.
 
 </div>
 
@@ -78,9 +78,18 @@
 | Comentários | Como está o requisito atualmente no app |
 
 <div style="text-align: center">
-<p> Tabela 2: Modelo (Fonte: ALVISSUS, Giovanni. 2023).</p>
+<p> Tabela 2: Modelo para requisito funcional (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
+| ID do requisito não funcional | Descrição do requisito |
+| :-: | :-: |
+| NFR | Softgoals relacionado |
+| Especificação Suplementar | Critério da especificação |
+| Comentários | Como está o requisito atualmente no app |                   
+
+<div style="text-align: center">
+<p> Tabela 3: Modelo para requisito não funcional (Fonte: ALVISSUS, Giovanni. 2023).</p>
+</div>
 
 ### Requisitos Funcionais
 
@@ -96,7 +105,7 @@
 | Comentários |  |
 
 <div style="text-align: center">
-<p> Tabela 3: Rastreabilidade do RF01 (Fonte: BOSI, Rafael. 2023).</p>
+<p> Tabela 4: Rastreabilidade do RF01 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 | RF02 | Possibilidade de adicionar legendas e selecionar faixas de áudio |
@@ -111,7 +120,7 @@
 | Comentários |  |
 
 <div style="text-align: center">
-<p> Tabela 4: Rastreabilidade do RF02 (Fonte: BOSI, Rafael. 2023).</p>
+<p> Tabela 5: Rastreabilidade do RF02 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 | RF03 | Lista de reprodução e funcionalidades de biblioteca de mídia |
@@ -126,7 +135,7 @@
 | Comentários |  |
 
 <div style="text-align: center">
-<p> Tabela 5: Rastreabilidade do RF03 (Fonte: BOSI, Rafael. 2023).</p>
+<p> Tabela 6: Rastreabilidade do RF03 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 | RF04 | Suporte a vários idiomas e localizações |
@@ -141,7 +150,7 @@
 | Comentários |  |
 
 <div style="text-align: center">
-<p> Tabela 6: Rastreabilidade do RF04 (Fonte: BOSI, Rafael. 2023).</p>
+<p> Tabela 7: Rastreabilidade do RF04 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 | RF05 | Capacidade de lidar com arquivos de mídia de grande porte e alta resolução |
@@ -156,7 +165,7 @@
 | Comentários |  |
 
 <div style="text-align: center">
-<p> Tabela 7: Rastreabilidade do RF05 (Fonte: BOSI, Rafael. 2023).</p>
+<p> Tabela 8: Rastreabilidade do RF05 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 | RF06 | Suportar streaming de mídia |
@@ -171,7 +180,7 @@
 | Comentários |  |
 
 <div style="text-align: center">
-<p> Tabela 8: Rastreabilidade do RF06 (Fonte: BOSI, Rafael. 2023).</p>
+<p> Tabela 9: Rastreabilidade do RF06 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 | RF07 | Permitir a captura de tela e a gravação de vídeo |
@@ -186,7 +195,55 @@
 | Comentários |  |
 
 <div style="text-align: center">
-<p> Tabela 9: Rastreabilidade do RF07 (Fonte: BOSI, Rafael. 2023).</p>
+<p> Tabela 10: Rastreabilidade do RF07 (Fonte: BOSI, Rafael. 2023).</p>
+
+
+| RF08| Permitir a conversão de formatos de arquivo |
+| :-: | :-: |
+| Épico | [Épico 1: Reprodução de Mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog) |
+| Tema | [Reprodução de mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog) |
+| História de Usuário | [US18](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios) |
+| Léxico  | [LO05: Plataforma](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos) |
+| Casos de uso | [UC05](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso) |
+| Cenários | [C13 - Compartilhamento de vídeos](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios) |
+| Artefatos de Elicitação | [INT04](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| Comentários | Não implementado |
+
+
+<div style="text-align: center">
+<p> Tabela 11: RF08 (Fonte: ALVISSUS, Giovanni. 2023).</p>
+</div>
+
+| RF09| Deve ser possível personalizar a aparência da interface do usuário |
+| :-: | :-: |
+| Épico | [Épico 2: Interface de Usuário](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog) |
+| Tema | [Personalização](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog) |
+| História de Usuário | [US09](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios) |
+| Léxico  | [LO02 - Interface](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos) |
+| Casos de uso | [UC06](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso) |
+| Cenários | [C08 - Deve ser possível personalizar a aparência da interface do usuário](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios) |
+| Artefatos de Elicitação | [INT12](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) e [QUE09](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario)|
+| Comentários | Apenas com modo claro/escuro implementado |
+
+
+<div style="text-align: center">
+<p> Tabela 12: RF09 (Fonte: ALVISSUS, Giovanni. 2023).</p>
+</div>
+
+| RF10| A interface deve fornecer feedback ao usuário sobre o progresso da reprodução e outras informações relevantes |
+| :-: | :-: |
+| Épico | [Épico 2: Interface de Usuário](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog) |
+| Tema | [Controles de reprodução](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog) |
+| História de Usuário | [US03](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios) |
+| Léxico  | [LO05 - Plataforma](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos) |
+| Casos de uso | [UC06](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso) |
+| Cenários | [C12 - Mudar velocidade de reprodução](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios) |
+| Artefatos de Elicitação | [INT14](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao), [QUE07](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario), [QUE11](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario), [QUE20](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario) e [ST05](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) | Sim | |
+| Comentários | Implementado |
+
+
+<div style="text-align: center">
+<p> Tabela 12: RF10 (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
 ### Requisitos Não Funcionais
