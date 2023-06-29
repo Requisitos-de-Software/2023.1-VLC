@@ -93,7 +93,7 @@ O artefato respeita todos dos pontos estruturais analisados.
 
 - Requirements Engineering Fundamental. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf>. Acesso em: 28 jun. 2023.
 
-- Monografi. SAYÃO, Miriam; CESAR SAMPAIO, Julio. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf>. Acesso em: 28 jun. 2023.
+- Monografia. SAYÃO, Miriam; CESAR SAMPAIO, Julio. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf>. Acesso em: 28 jun. 2023.
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
