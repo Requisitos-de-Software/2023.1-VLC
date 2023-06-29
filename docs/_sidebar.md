@@ -64,7 +64,10 @@
     - [Entrega 4](#)
       - [Backlog](verificacao/entrega_4/backlog.md)
       - [Histórias de Usuários](verificacao/entrega_4/historias_usuario.md)
-      - [NFR Framework](verificacao/entrega_4/nfr_framework.md) 
+      - [NFR Framework](verificacao/entrega_4/nfr_framework.md)
+    - [Entrega 6](#)
+      - [Backward From](verificacao/entrega_6/backward_from.md)
+      - [Forward From](verificacao/entrega_6/verificacao_forward_from.md)    
   - [Grupo 4](#)
     - [Entrega 1](#)
       - [Cronogramas](verificacao/caesb/entrega_1/verificacao_cronogramas.md)
@@ -92,7 +95,10 @@
 - [Validação](#)
   - [Planejamento Informal](validacao/planejamento_informal.md)
   - [Prototipagem](validacao/prototipagem.md)
-  
+- [Pós-Rastreabilidade](#)
+  - [Backward From](pos_rastreabilidade/backward_from.md)
+  - [Forward From](pos_rastreabilidade/forward_from.md)
+  - [Matriz de Rastreabilidade](pos_rastreabilidade/matriz_rastreabilidade.md)   
 <!-- [Pré-Rastreabilidade]
 - [Modelagem]
 - [Análise]
