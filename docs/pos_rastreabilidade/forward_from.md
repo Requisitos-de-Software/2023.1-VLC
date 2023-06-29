@@ -275,7 +275,7 @@ A seguir será apresentado as tabelas correspondentes aos requisitos funcionais.
 | História de Usuário | [US16](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios?id=navegar-por-touch-screen) |
 | Léxico  | [LO05 - Plataforma](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo05-plataforma) |
 | Casos de uso | [UC01](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc01-media) |
-| Cenários | [C01 - Suporte ao usuário Android](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c01-suporte-ao-usu%c3%a1rio-android) e [C01 - Suporte ao usuário IOS](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c02-suporte-ao-usu%c3%a1rio-ios) |
+| Cenários | [C01 - Suporte ao usuário IOS](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c02-suporte-ao-usu%c3%a1rio-ios) |
 | Artefatos de Elicitação | [ST01](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados), [ST02](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados), [ST03](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) e [ST12](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) | Sim | |
 | Comentários | Implementado |
 
@@ -286,13 +286,13 @@ A seguir será apresentado as tabelas correspondentes aos requisitos funcionais.
 
 | RF13 | Edição de vídeo |
 | :-: | :-: |
-| Épico | - |
-| Tema | - |
-| História de Usuário | - |
+| Épico | --- |
+| Tema | --- |
+| História de Usuário | --- |
 | Léxico  | [LO05 - Plataforma](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo05-plataforma) |
-| Casos de uso | - |
-| Cenários | - |
-| Artefatos de Elicitação | [ST06](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) | Sim | |
+| Casos de uso | --- |
+| Cenários | --- |
+| Artefatos de Elicitação | [ST06](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) |
 | Comentários | Implementado |
 
 
@@ -304,10 +304,10 @@ A seguir será apresentado as tabelas correspondentes aos requisitos funcionais.
 | :-: | :-: |
 | Épico | [Épico 3: Armazenamento](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=%c3%89pico-3-armazenamento) |
 | Tema | [Biblioteca de mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=temas) |
-| História de Usuário | - |
+| História de Usuário | --- |
 | Léxico  | [LO05 - Plataforma](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo05-plataforma) |
-| Casos de uso | - |
-| Cenários | - |
+| Casos de uso | --- |
+| Cenários | --- |
 | Artefatos de Elicitação | [ST09](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) e [ST10](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) | Sim | |
 | Comentários | Não implementado |
 
@@ -318,11 +318,11 @@ A seguir será apresentado as tabelas correspondentes aos requisitos funcionais.
 
 | RF15 | Compartilhar vídeos |
 | :-: | :-: |
-| Épico | - |
+| Épico | --- |
 | Tema | [Biblioteca de mídia](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog?id=temas) |
-| História de Usuário | - |
+| História de Usuário | --- |
 | Léxico  | [LO05 - Plataforma](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo05-plataforma) |
-| Casos de uso | - |
+| Casos de uso | --- |
 | Cenários | [C13 - Compartilhamento de vídeos](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c13-compartilhamento-de-v%c3%addeos) |
 | Artefatos de Elicitação | [ST11](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) | Sim | |
 | Comentários | Implementado |
@@ -334,12 +334,12 @@ A seguir será apresentado as tabelas correspondentes aos requisitos funcionais.
 
 | RF16 | Suporte ao usuário |
 | :-: | :-: |
-| Épico | - |
-| Tema | - |
+| Épico | --- |
+| Tema | --- |
 | História de Usuário | [US11](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/historias_de_usuarios?id=aba-de-ajuda) |
 | Léxico  | [LO12 - Ajuda](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/lexicos?id=lo12-ajuda) |
 | Casos de uso | [UC06](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso?id=uc06-ajuda) |
-| Cenários | [C01 - Suporte ao usuário Android](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c01-suporte-ao-usu%c3%a1rio-android) e [C01 - Suporte ao usuário IOS](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c02-suporte-ao-usu%c3%a1rio-ios) |
+| Cenários | [C01 - Suporte ao usuário IOS](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/cenarios?id=c02-suporte-ao-usu%c3%a1rio-ios) |
 | Artefatos de Elicitação | [ST17](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) e [ST18](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) | Sim | |
 | Comentários | Implementado |
 
