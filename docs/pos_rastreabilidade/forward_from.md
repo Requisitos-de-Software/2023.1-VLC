@@ -246,8 +246,59 @@
 <p> Tabela 12: RF10 (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
+</div>
+
 ### Requisitos Não Funcionais
 
+| RNF01 | Sistemas operacionais suportados: Android e iOS |
+| :-: | :-: |
+| NFR | [NFR de Suportabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/nfr_framework) |
+| Especificação Suplementar | [ES de Suportabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar?id=supportability-suportabilidade) |
+| Comentários | Implementado |                   
+
+<div style="text-align: center">
+<p> Tabela : Rastreabilidade do RNF01 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RNF02 | Interface do usuário intuitiva e fácil de usar |
+| :-: | :-: |
+| NFR | [NFR de Usabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/nfr_framework) |
+| Especificação Suplementar | [ES de Usabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar?id=usability-usabilidade) |
+| Comentários | Implementado |                   
+
+<div style="text-align: center">
+<p> Tabela : Rastreabilidade do RNF02 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RNF03 | Preservar a privacidade e segurança dos dados do usuário |
+| :-: | :-: |
+| NFR | [NFR de Confiabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/nfr_framework) |
+| Especificação Suplementar | [ES de Confiabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar?id=reliability-confiabilidade) |
+| Comentários | Implementado |                   
+
+<div style="text-align: center">
+<p> Tabela : Rastreabilidade do RNF03 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RNF04 | Deve ser de código aberto e gratuito |
+| :-: | :-: |
+| NFR | [NFR de Confiabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/nfr_framework) |
+| Especificação Suplementar | --- |
+| Comentários | Implementado |                   
+
+<div style="text-align: center">
+<p> Tabela : Rastreabilidade do RNF04 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+| RNF05 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes |
+| :-: | :-: |
+| NFR | [NFR de Desempenho](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/nfr_framework) |
+| Especificação Suplementar | [ES de Desempenho](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar?id=performance-desempenho) |
+| Comentários | Implementado |                   
+
+<div style="text-align: center">
+<p> Tabela : Rastreabilidade do RNF05 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
 
 ## Bibliografia
 
@@ -261,5 +312,6 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 27/06/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 28/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 28/06/2023 | `1.1` | Atualizando metodologia | [Giovanni Alvissus](https://github.com/giovanni1106) | 28/06/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 28/06/2023 | `1.2` | Adicionando RFs e RNFs | [Rafael Bosi](https://github.com/StrangeUnit28) | 28/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
