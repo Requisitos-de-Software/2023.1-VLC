@@ -38,7 +38,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 8 | Dentre os elos apresentados são existem elos de responsabilidade? ou seja, elos que registram a participipação, responsabilidade e ação de pessoas sobre artefatos. | monografia | Não | - | |
 | 9 | Dentre os elos apresentados são existem elos de representacão? ou seja, elos que capturam a represetação ou modelagem dos requisitos em outras linguagens. | monografia | Sim | Excelente | |
 | 10 | Dentre os elos apresentados são existem elos de agregação? ou seja, elos que indicam composição de elementos. | monografia | Sim | Excelente | |
-| 8 | Os requisitos foram organizados pelo meta-modelo de Toranzo em quatro níveis? sendo eles: ambiental, organizacional, gerencial e desenvolvimento. | monografia | Sim | Excelente | |
+| 11 | Os requisitos foram organizados pelo meta-modelo de Toranzo em quatro níveis? sendo eles: ambiental, organizacional, gerencial e desenvolvimento. | monografia | Sim | Excelente | |
 <p><b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023).</p>
 
 ### Conclusão
@@ -49,7 +49,7 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 
 Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
 
-<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_2/inoroutG3.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_6/backward-from.png" width="100%">
 <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023).
 
 </div>
