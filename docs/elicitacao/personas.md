@@ -29,17 +29,22 @@ As personas podem ser utilizadas em diferentes fases do projeto, o principal obj
 
 ## Metodologias
 
-Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
+Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas.
 
-O nosso grupo decidiu por optar 4 personas após debater em grupo sobre os perfis de usuários obtidos por intermédio do questionários. Nesse cenário, obtvemos 2 personas primárias, uma persona secundária e uma anti-persona evitando um grande número de personas o que poderia prejudicar os desenvolvedores em desenvolder uma conecção e ainda assim abranger todos os perfis.
+As personas foram elaboradas a partir do perfil de usuário elaborado por meio da coleta de dados do [questionário](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario).
 
 As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
 
 ### Aplicando ao projeto
+
+Segundo Courage e Baxter (2005), devemos criar pelo menos uma persona por papel de usuário. Cada projeto possuiseu próprio elenco de personas, que consiste de três a 12 personas distintas. Dessa forma, ao analisar o perfil de usuário obtido para os usuários do Banco Central do Brasil, foi optado por utilizar 4 personas, em que utilizamos 3 personas para abranger todos os papeis de usuários coloetados e 1 persona que representaria o papel de um usuário que não se encaixa no perfil dos usuários, assim, chegamos a formulação das 4 personas do projeto.
   
-Neste projeto, estaremos utilizando personas como uma ferramenta fundamental para a construção dos storyboards. As personas são representações fictícias de usuários reais que nos ajudam a entender melhor as necessidades, comportamentos e objetivos dos nossos usuários-alvo.
+Neste projeto, estaremos utilizando personas como uma ferramenta fundamental para a construção do artefato de encenação. As personas são representações fictícias de usuários reais que nos ajudam a entender melhor as necessidades, comportamentos e objetivos dos nossos usuários-alvo.
   
 Ao criar personas, estamos essencialmente criando arquétipos de usuários com características específicas que podem representar diferentes segmentos do nosso público-alvo. Isso nos permite personalizar e direcionar nossos esforços de design, tornando-os mais centrados no usuário.
+
+Na encenação, por outro lado, o desenvolvedor responsável iria interpretar a persona, de maneira, que o time pudesse utilizar essa ferramenta para a elicitação de requisitos dentro do projeto.
+
 
 ## Perfil do Usuário
 
@@ -65,7 +70,7 @@ Com a análise do perfil do usuário e das tarefas primárias identificadas, foi
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Ricardo Oliveira   |
-| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/personas/RicardoOliveira.jpeg"><p>Imagem 1 Ricardo Oliveira persona</p> |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/personas/RicardoOliveira.jpeg"><p>Imagem 1 Ricardo Oliveira persona</p> |
 | **Descrição**       | Ricardo Oliveira, idade 51, morador da Asa Sul. </br> Professor de letras. gosta de comidas francesas.   </br> Homem </br> Casado                |
 | **Status**          | Persona Primária |
 | **Objetivos**       | Ele é focado , estudioso, tem um forte senso de liderança. Um de seus principais objetivos no trabalho é mostrar os detalhes das obras de shakespear para jovens alunos | 
@@ -85,7 +90,7 @@ Com a análise do perfil do usuário e das tarefas primárias identificadas, foi
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  Douglas Santos      |
-| **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/personas/DouglasSantos.jpeg"><p>Imagem 2 Douglas Santos persona</p> |
+| **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/personas/DouglasSantos.jpeg"><p>Imagem 2 Douglas Santos persona</p> |
 | **Descrição**        | Douglas Santos, idade de 22 anos, morador de Brasília<br> Douglas é um estudante universitário, bacharel
 em Música em uma Universidade federal. Sempre busca se destacar nas atividades propostas. <br>Homem. <br>Solteiro. |
 | **Status**          | Persona primária.     |
@@ -107,7 +112,7 @@ em Música em uma Universidade federal. Sempre busca se destacar nas atividades 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Juliana Pinheiro   |
-| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/personas/JulianaPinheiro.jpeg"><p>Imagem 3 Juliana Pinheiro persona</p> |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/personas/JulianaPinheiro.jpeg"><p>Imagem 3 Juliana Pinheiro persona</p> |
 | **Descrição**       | Juliana Pinheiro, tem 14 anos, moradora de florianópolis.</br> Atualmente, está no ensino médio. </br>Tem fobia social e gosta de ficar em casa, sozinha, jogando Fortnite. </br> Mulher. </br> Solteira.  |
 | **Status**          | Anti-Persona       |
 | **Objetivos**       | Conseguir ficar em casa para subir sua patente no jogo e interagir o menos possível socialmente. |
@@ -127,7 +132,7 @@ em Música em uma Universidade federal. Sempre busca se destacar nas atividades 
 |                     |                     |
 | :------------------ | :------------------ |
 | **Nome**            | Ana Maria           |
-| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/personas/AnaMaria.jpeg"><p>Imagem 4 Ana Maria persona</p> |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/personas/AnaMaria.jpeg"><p>Imagem 4 Ana Maria persona</p> |
 | **Descrição**       | Ana Maria, possui 68 anos, moradora de Brasília. </br> Ana Maria é uma médica aposentada. </br> Ama cuidar das pessoas e, principlamente, de seus netos. </br> Mulher. </br> Viúva. |
 | **Status**          | Persona Secundária.   |
 | **Objetivos**       | Fornecer uma vida tranquila para seus netos, assistir vídeos antigos que às lembra de bons momentos que ela já viveu.                    |
