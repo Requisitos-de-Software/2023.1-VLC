@@ -60,7 +60,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 <figcaption align='center'>
  <h4> <b>imagem 4 – Diagrama SIG 02 - Confiabilidade</b><br>
 	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_confiabilidade.png" width="100%">
-  Fonte: RIBEIRO, Bruno. 2023</h4>
+  Fonte: RIBEIRO, Bruno; PENHA, Igor. 2023</h4>
 </figcaption>
 
 ### <a>Análise Confiabilidade</a>
@@ -68,7 +68,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 <figcaption align='center'>
  <h4> <b>imagem 5 – Análise diagrama SIG 02 - Confiabilidade </b><br>
 	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_confiabilidade_check.png" width="100%">
-  Fonte: RIBEIRO, Bruno. 2023</h4>
+  Fonte: RIBEIRO, Bruno; PENHA, Igor. 2023</h4>
 </figcaption> <br><br>
 
 ### <a>Desempenho</a>
@@ -76,7 +76,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 <figcaption align='center'>
  <h4> <b>imagem 4 – Diagrama SIG 02 - Desempenho</b><br>
 	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_desempenho.png" width="100%">
-  Fonte: RIBEIRO, Bruno. 2023</h4>
+  Fonte: RIBEIRO, Bruno; PENHA, Igor. 2023</h4>
 </figcaption>
 
 ### <a>Análise Desempenho</a>
@@ -84,7 +84,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 <figcaption align='center'>
  <h4> <b>imagem 5 – Análise diagrama SIG 02 - Desempenho </b><br>
 	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_desempenho_check.png" width="100%">
-  Fonte: RIBEIRO, Bruno. 2023</h4>
+  Fonte: RIBEIRO, Bruno; PENHA, Igor. 2023</h4>
 </figcaption> <br><br>
 
 ### <a>Suportabilidade</a>
@@ -92,7 +92,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 <figcaption align='center'>
  <h4> <b>imagem 6 – Diagrama SIG 03 - Suportabilidade</b><br>
 	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_suportabilidade.png" width="100%">
-  Fonte: RIBEIRO, Bruno. 2023</h4>
+  Fonte: RIBEIRO, Bruno; PENHA, Igor. 2023</h4>
 </figcaption>
 
 ### <a>Análise Suportabilidade</a>
@@ -100,7 +100,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 <figcaption align='center'>
  <h4> <b>imagem 7 – Análise diagrama SIG 03 - Suportabilidade </b><br> 
 	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_suportabilidade_check.png" width="100%">
-  Fonte: RIBEIRO, Bruno. 2023</h4>
+  Fonte: RIBEIRO, Bruno; PENHA, Igor. 2023</h4>
 </figcaption> <br><br>
 
 ### <a>Usabilidade</a>
@@ -108,7 +108,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 <figcaption align='center'>
  <h4> <b>imagem 8 – Diagrama SIG 04 - Usabilidade</b><br>
 	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_usabilidade.png" width="100%">
-  Fonte: RIBEIRO, Bruno. 2023</h4>
+  Fonte: RIBEIRO, Bruno; PENHA, Igor. 2023</h4>
 </figcaption>
 
 ### <a>Análise Usabilidade</a>
@@ -116,7 +116,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 <figcaption align='center'>
  <h4> <b>imagem 9 – Análise diagrama SIG 04 - Usabilidade </b><br>
 	<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/nfr_framework/NFR_usabilidade_check.png" width="100%">
-  Fonte: RIBEIRO, Bruno. 2023</h4>
+  Fonte: RIBEIRO, Bruno; PENHA, Igor. 2023</h4>
 </figcaption> <br><br>
 
 ## Conclusão
@@ -135,6 +135,6 @@ Em vista do documento realizado, é possível analisar a partir dos diagramas re
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 21/05/2023 | `1.0`  | Criação do documento de NFR | [Igor Penha](https://github.com/igorpenhaa)  | 22/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 | 22/05/2023 | `1.1`  | add diagramas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 22/05/2023 |[Lucas Gobbi](https://github.com/LucasBergholz) |
-| 02/07/2023 | `2.0`  | Correções do artefato | [Igor Penha](https://github.com/igorpenhaa)  | 03/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 02/07/2023 | `2.0`  | Correções do artefato | [Igor Penha](https://github.com/igorpenhaa) e [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 03/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 
 </div>
