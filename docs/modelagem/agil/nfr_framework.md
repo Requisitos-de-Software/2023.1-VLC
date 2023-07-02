@@ -31,7 +31,7 @@ Cada um dos softgoals apresentados podem ser decompostos e refinados, seguindo o
 
 ## 2. Metodologia
 
-Como foi descrito acima, neste documento o NFR framework é utilizado para representar os Requisitos Não-Funcionais presentes no projeto. Com esse objetivo foi criado alguns diagramas que buscam atingir funcionalidades específicas, a partir da análise das possíveis situações, levando em consideração as aplicações e tecnologias que já existem no aplicativo do VLC. Na produção, utilizamos o artefato de <a href ="https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/modelagem/especificacao_suplementar.md"> Especificação Suplementar</a> como auxílio para a elaboração. 
+Neste documento o NFR framework é utilizado para representar os Requisitos Não-Funcionais presentes no projeto. Com esse objetivo criamos alguns diagramas que buscam atingir funcionalidades específicas do VLC, a partir da análise das possíveis situações, levando em consideração as aplicações e tecnologias que já existem no aplicativo do VLC. Na produção, utilizamos o artefato de [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar) como auxílio para a elaboração, além de utilizar os artefatos de elicitação de requisitos, [Análise de Documento](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos), [storyTelling](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) e [Questionário](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario). 
 
 Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals:
 
@@ -119,6 +119,9 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
   Fonte: RIBEIRO, Bruno. 2023</h4>
 </figcaption> <br><br>
 
+## Conclusão
+Em vista do documento realizado, é possível analisar a partir dos diagramas realizado que o aplicativo do VLC conseguiu atender por totalidade a suportabilidade, os diagramas de usabilidade e desempenho o VLC atendeu ambos quase por completo deixando apenas e no diagrama de confiabilidade identificamos os softgoals que foram mais insatisfeitos em que o aplicativo do VLC ainda pode melhorar no quesito de suporte ao usuário, principalmente, usuário com sistema IOS e a falta de de notificações ao realizar novos logins.
+
 </div>
 
 ### Referências
@@ -131,6 +134,7 @@ A seguir irá ser apresentado os SIG(Softgoal Interdependency Graph) elaborados 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 21/05/2023 | `1.0`  | Criação do documento de NFR | [Igor Penha](https://github.com/igorpenhaa)  | 22/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
-| 22/05/2023 | `1.1`  | add diagramas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 22/05/2023 |[Lucas Gobbi](https://github.com/LucasBergholz) |
+| 22/05/2023 | `1.1`  | add diagramas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 22/05/2023 |[Lucas Gobbi](https://github.com/LucasBergholz) |
+| 02/07/2023 | `2.0`  | Correções do artefato | [Igor Penha](https://github.com/igorpenhaa)  | 03/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 
 </div>
