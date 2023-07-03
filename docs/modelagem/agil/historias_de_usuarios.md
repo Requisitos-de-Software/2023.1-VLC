@@ -456,3 +456,4 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 22/05/2023 | `1.0` | Criando o artefato | [Giovanni Alvissus](https://github.com/giovanni1106), [Rafael Bosi](https://github.com/StrangeUnit28) e [Lucas Gobbi](https://github.com/lucasbergholz) | 23/05/2023 | [Igor Penha](github.com/igorpenhaa) |
 | 25/05/2023 | `1.1` | Atualizando documento | [Giovanni Alvissus](https://github.com/giovanni1106) | 25/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 03/07/2023 | `1.2` | Corrigindo o documento | [Rafael Bosi](https://github.com/StrangeUnit28) | 03/07/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
