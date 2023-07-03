@@ -61,7 +61,7 @@
 
     - **ID:** US01
 
-    - **Origem:** INT06
+    - **Origem:** [INT06](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
 
     - **Descrição:**  Eu , como usuário, desejo utilizar o aplicativo em dispositivos Android e/ou IOS.
 
@@ -77,7 +77,7 @@
 
     - **ID:** US02
 
-    - **Origem:** ADD10
+    - **Origem:** [ADD10](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos)
 
     - **Descrição:** Eu, como usuário, desejo o que não corra risco de violação de privacidade e coleta de dados invasiva.
 
@@ -95,7 +95,7 @@
 
     - **ID:** US03
 
-    - **Origem:** INT14
+    - **Origem:** [INT14](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
 
     - **Descrição:**  Eu , como usuário, desejo saber quanto tempo do vídeo já foi percorrido.
 
@@ -113,7 +113,7 @@
 
     - **ID:** US04
 
-    - **Origem:** ADD06
+    - **Origem:** [ADD06](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos)
 
     - **Descrição:**  Eu , como usuário, desejo saber mudar o idioma do aplicativo.
 
@@ -131,7 +131,7 @@
 
     - **ID:** US05
 
-    - **Origem:** ST01
+    - **Origem:** [ST01](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, desejo reproduzir meus vídeos.
 
@@ -155,7 +155,7 @@
 
     - **ID:** US06
 
-    - **Origem:** ST02
+    - **Origem:** [ST02](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de poder reproduzir vídeos sem precisar de uma conexão com a internet.
 
@@ -177,7 +177,7 @@
 
     - ID: US07
 
-    - **Origem:** ST18
+    - **Origem:** [ST18](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:**  Eu , como usuário, desejo ver um tutorial sobre a usabilidade do aplicativo.
 
@@ -195,7 +195,7 @@
 
     - **ID:** US08
 
-    - **Origem:** ST03
+    - **Origem:** [ST03](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de navegar pelos vídeos de meu dispositivo.
 
@@ -219,7 +219,7 @@
 
     - **ID:** US09
 
-    - **Origem:** ST07
+    - **Origem:** [ST07](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de uma interface de fácil navegação.
 
@@ -243,7 +243,7 @@
 
     - **ID:** US10
 
-    - **Origem:** ST12
+    - **Origem:** [ST12](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de ouvir músicas.
 
@@ -267,7 +267,7 @@
 
     - **ID:** US11
 
-    - **Origem:** ST17
+    - **Origem:** [ST17](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de tirar minhas dúvidas sobre o aplicativo dentro dele.
 
@@ -285,7 +285,7 @@
 
     - **ID:** US12
 
-    - **Origem:** ST15
+    - **Origem:** [ST15](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de tirar ver vídeos de diferentes formatos dentro do aplicativo.
 
@@ -302,7 +302,7 @@
 
     - **ID:** US13
 
-    - **Origem:** ST13
+    - **Origem:** [ST13](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de criar playlists para organizar e reproduzir minha mídia de forma sequencial.
 
@@ -328,7 +328,7 @@
 
     - **ID:** US14
 
-    - **Origem:** ST11
+    - **Origem:** [ST11](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de compartilhar meus vídeos e áudios.
 
@@ -346,7 +346,7 @@
 
     - **ID:** US15
 
-    - **Origem:** ST05
+    - **Origem:** [ST05](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling)
 
     - **Descrição:** Eu, como usuário, gostaria de mudar a velocidade de reprodução do vídeo ou áudio.
 
@@ -364,7 +364,7 @@
 
     - **ID:** US16
 
-    - **Origem:** QUE07
+    - **Origem:** [QUE07](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario)
 
     - **Descrição:** Eu, como usuário, gostaria de navegar pelo vídeo utilizando o touch screen do dispositivo.
 
@@ -382,7 +382,7 @@
 
     - **ID:** US17
 
-    - **Origem:** INT13
+    - **Origem:** [INT13](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
 
     - **Descrição:** Eu, como usuário, gostaria de adicionar legenda ao vídeo.
 
@@ -400,7 +400,7 @@
 
     - **ID:** US18
 
-    - **Origem:** INT04
+    - **Origem:** [INT04](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao)
 
     - **Descrição:** Eu, como usuário, gostaria de ter a opção de converter formatos de arquivo de mídia.
 
@@ -424,7 +424,7 @@
 
     - **ID:** US19
 
-    - **Origem:** ADD08
+    - **Origem:** [ADD08](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos)
 
     - **Descrição:** Eu, como usuário, gostaria de poder lidar com arquivos de mídia de grande porte e alta resolução.
 
@@ -444,7 +444,7 @@
 
 ## Gravação da Validação das Histórias
 
-<iframe width="560" height="315" src="https://youtu.be/mfqQFyGEhC4" title="Entrevista de validação das Histórias de Usuários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mfqQFyGEhC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia
 
