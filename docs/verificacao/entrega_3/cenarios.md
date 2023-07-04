@@ -1,5 +1,8 @@
+<div class="body">
 
 # Verificação do artefato de Cenários (VLC)
+
+<div align="justify">
 
 ## Introdução
   
@@ -83,6 +86,27 @@ O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critério
 Algumas correções sugeridas são:
   
 - Adicionar restrições aos cenários.
+
+## Correções Realizadas
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+| id | Conteúdo | Possue | Qualidade | Observação |
+| -- | -------- | :----: | :-------: | ---------- |
+| 1 | O artefato possui o objetivo do documento? | Sim | Excelente |  |
+| 2 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente |  |
+| 3 | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção? | Sim | Excelente |  |
+| 4 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | Sim | Excelente |  |
+| 5 | A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais? | Sim | Excelente |  |
+| 6 | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente |  |
+| 7 | Os cenários são priorizadoes com base em sua importância, impacto e frequência de ocorrência? | Sim | Excelente |  |
+| 8 | Os cenários são consistentes entre si e com outros artefatos do projeto, como casos de uso, requisitos e especificações? | Sim | Excelente |  |
+<p> <b>Tabela 2</b>: Relação do conteúdo (Fonte: PENHA, Igor. 2023). </p>
+
+</div>
   
 ## Bibliografia
   
@@ -97,4 +121,8 @@ Algumas correções sugeridas são:
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 20/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 21/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 04/07/2023 | `2.0` | Acompanhamento do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 04/07/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+
+</div>
+
   
