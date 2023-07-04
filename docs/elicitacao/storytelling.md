@@ -58,7 +58,7 @@ Os requisitos identificados com o storytelling seguem a seguir na Tabela 1:
 | ST04          | Eu, como usuário, gostaria de gerar legendas, automaticamente, para meu vídeo.     | RF   | Não          | [Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST05          | Eu, como usuário, gostaria de mudar a velocidade de reprodução.                    | RF   | Sim          | [Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST06          | Eu, como usuário, gostaria de realizar edições ao meu vídeo.                       | RF   | Não          | [Caius Lucius e Marcus Andronicus](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
-| ST07          | Eu, como usuário, gostaria de uma interface de fácil navegação.                    | RNF  | Sim          | [Todas](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
+| ST07          | Eu, como usuário, gostaria de uma interface acessível com contraste de cor.        | RNF  | Sim          | [Todas](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST08          | Eu, como usuário, gostaria de organizar meu vídeos.                                | RF   | Sim          | [Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST09          | Eu, como usuário, gostaria de salvar meus vídeos para vê-los em outros dispositivos. | RF | Não          | [Caius Lucius e Cordelia Macbeth](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
 | ST10          | Eu, como usuário, gostaria de realizar registro/login em uma conta.                | RF   | Não          | [Caius Lucius](https://github.com/Requisitos-de-Software/2023.1-VLC/tree/master/docs/elicitacao/personas.pdf) |
@@ -84,12 +84,20 @@ Para visualizar a gravação, em íntegra da reunião na qual foram elicitados o
 <p> <b>Vídeo 1</b>: Elicitação requisitos 1 (Fonte: Grupo. 2023).</p>
 </div>
 
+## Conclusão 
+
+A partir da análise do artefato "StoryTelling", foi percebido algumas divergência com o conceito de StoryTelling apresentado nos slides da [aula 07](https://aprender3.unb.br/pluginfile.php/2523073/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) da professora Milene Serrano, em que ela comenta que o StoryTelling deve ser realizado a partir da utilização de histórias em um grupo ou organizações, como um método de comunicação para que os envolvidos possam compartilhar conhecimento. Dessa forma, o condutor do método deve inspiram e motivam os participantes através de linguagens mais cotidianas, criando entretenimento durante o processo de construção do conhecimento dos participantes. Assim, os participantes são estimulados a narrar histórias relacionadascom os fatos. cujo conhecimento se quer elicitar. As histórias obtidas são compartilhadas com o grupo de pessoas envolvidos, o que resulta em compartilhamento de conhecimentos, agregação de novos conhecimentos e, por fim, em aprendizado(slide da professora Milene). </br> </br>
+Dessa forma, percebemos que o método utilizado neste documento é mais semelhante ao método de elicitação "Encenação", em que um desenvolvedor entra no presonagem e encena como se fosse uma persona. Assim, o artefato em questão deveria conter as história que foram passadas ao grupo, além de conter uma gravação do método sendo aplicado para que, dessa maneira, houvesse a validação das história por outros integrantes o que agregaria valor na coleta de informações, as quais constumam ser mais autênticas e confiáveis, pois são formados por diferentes pontos de vista. Para que só então os requisitos fossem elicitados.</br> </br>
+De maneira mais geral, para que o artefato obtivesse sucesso em sua realização faltou a interação com os usuários, fornecendo e estimulando que eles narrasem histórias relacionadas com os fatos para serem mais autênticas e confiáveis. E, por fim, realizar a elicitação dos requisitos a partir das histórias.
+
 ## Bibliografia
 
 [1] Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
 </br>
 
 [2] Storytelling do Grupo MedSUS de 2021/2. Disponível em: <https://requisitos-de-software.github.io/2021.2-MedSUS/>. Acesso em: 26 de abril de 2023.
+
+[3] - SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 04 jul. 2023.
 
 
 
@@ -100,3 +108,4 @@ Para visualizar a gravação, em íntegra da reunião na qual foram elicitados o
 | 26/04/2023 | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 30/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 30/04/2023 | `1.1`  | Elicitação de requisitos | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa)  | 01/05/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 24/06/2023 | `2.0` | Realizando correções no artefato | [Igor Penha](https://github.com/igorpenhaa)  | 26/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 04/07/2023 | `2.1` | Adicionando conclusão com explicação de como o artefato deveria ter sido realizado | [Igor Penha](https://github.com/igorpenhaa)  | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
