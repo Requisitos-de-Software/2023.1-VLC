@@ -31,7 +31,7 @@ Cada um dos softgoals apresentados podem ser decompostos e refinados, seguindo o
 
 ## 2. Metodologia
 
-Neste documento o NFR framework é utilizado para representar os Requisitos Não-Funcionais presentes no projeto. Com esse objetivo criamos alguns diagramas que buscam atingir funcionalidades específicas do VLC, a partir da análise das possíveis situações, levando em consideração as aplicações e tecnologias que já existem no aplicativo do VLC. Na produção, utilizamos o artefato de [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar) como auxílio para a elaboração, além de utilizar os artefatos de elicitação de requisitos, [Análise de Documento](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos), [storyTelling](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) e [Questionário](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario). 
+Neste documento o NFR framework é utilizado para representar os Requisitos Não-Funcionais presentes no projeto. Com esse objetivo criamos alguns diagramas que buscam atingir funcionalidades específicas do VLC, a partir da análise das possíveis situações, levando em consideração as aplicações e tecnologias que já existem no aplicativo do VLC. Na produção, utilizamos o artefato de [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar) como auxílio para a elaboração, além de utilizar os artefatos de elicitação de requisitos, [Análise de Documento](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos?id=tabela-de-requisitos), [storyTelling](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling?id=requisitos-elicitados) e [Questionário](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario?id=requisitos-elicitados). 
 
 Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals:
 
@@ -135,6 +135,6 @@ Em vista do documento realizado, é possível analisar a partir dos diagramas re
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 21/05/2023 | `1.0`  | Criação do documento de NFR | [Igor Penha](https://github.com/igorpenhaa)  | 22/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 | 22/05/2023 | `1.1`  | add diagramas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 22/05/2023 |[Lucas Gobbi](https://github.com/LucasBergholz) |
-| 02/07/2023 | `2.0`  | Correções do artefato | [Igor Penha](https://github.com/igorpenhaa) e [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 03/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 02/07/2023 | `2.0`  | Correções do artefato | [Igor Penha](https://github.com/igorpenhaa) e [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 03/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
 </div>
