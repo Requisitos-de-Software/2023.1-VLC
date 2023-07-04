@@ -1,6 +1,10 @@
+<div class="body">
+  
 # Storytelling (Histórias)
 
 ## Introdução
+
+<div align="justify">
 
 _Storytelling_ é uma é uma técnica utilizada para elicitar requisitos, a qual irá descrever quais são as atividades, sentimentos dos usuários e informações necessárias e as geradas pelo produto. O _storytelling_ elicita os requisitos utilizando uma narrativa de forma que quem estiver lendo tenha interesse e motivação para saber mais sobre o _software_, a partir de uma história contata pelos usuários sobre suas ações realizadas.
 
@@ -90,6 +94,8 @@ A partir da análise do artefato "StoryTelling", foi percebido algumas divergên
 Dessa forma, percebemos que o método utilizado neste documento é mais semelhante ao método de elicitação "Encenação", em que um desenvolvedor entra no presonagem e encena como se fosse uma persona. Assim, o artefato em questão deveria conter as história que foram passadas ao grupo, além de conter uma gravação do método sendo aplicado para que, dessa maneira, houvesse a validação das história por outros integrantes o que agregaria valor na coleta de informações, as quais constumam ser mais autênticas e confiáveis, pois são formados por diferentes pontos de vista. Para que só então os requisitos fossem elicitados.</br> </br>
 De maneira mais geral, para que o artefato obtivesse sucesso em sua realização faltou a interação com os usuários, fornecendo e estimulando que eles narrasem histórias relacionadas com os fatos para serem mais autênticas e confiáveis. E, por fim, realizar a elicitação dos requisitos a partir das histórias.
 
+</div>
+
 ## Bibliografia
 
 [1] Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
@@ -109,3 +115,6 @@ De maneira mais geral, para que o artefato obtivesse sucesso em sua realização
 | 30/04/2023 | `1.1`  | Elicitação de requisitos | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa)  | 01/05/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 24/06/2023 | `2.0` | Realizando correções no artefato | [Igor Penha](https://github.com/igorpenhaa)  | 26/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 04/07/2023 | `2.1` | Adicionando conclusão com explicação de como o artefato deveria ter sido realizado | [Igor Penha](https://github.com/igorpenhaa)  | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+
+
+</div>
