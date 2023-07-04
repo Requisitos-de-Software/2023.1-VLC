@@ -61,13 +61,12 @@ Sendo assim, foi elaborado duas tabelas a tabela 1 diretamenta da avaliação el
 
 | ID | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - | - |
-| 9 | O arteato apresenta o motivo da escolha das metodologias? | Sim | Bom | Foi descrito o motivo, porém não foi realizado uma comparação entre eles que justifique a escolha. |
+| 9 | O arteato apresenta o motivo da escolha das metodologias? | Sim | Excelente |  |
 | 10 | Existe um quadro comparativo entre as metodologias que ofereça apoio visual para compreensão do motivod a escolha? | Não | --- | Não apresenta quadro comparativo das metodologias. |
 | 11 | As metodologias apresentadas foram bem descritas? | Sim | Excelente | --- |
 | 12 | Foi definido um padrão de versionamento? | Não | --- | Falta adicionar o padrão de versão. |
 | 13 | Apresenta um padrão de commits que devem ser seguidos no repositório? | Sim | Excelente | --- |
 | 14 | Apresenta um padrão de branchs que devem ser seguidos no repositório? | Sim | Excelente | --- |
-| 15 | Apresenta um padrão de checklists que devem ser preenchidas no repositório? | Não | --- | Não foi descrito as checklists. |
 
 
 <b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
@@ -138,6 +137,28 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 <li> Criar padrão de versionamento.
 </ul>
 </div>
+
+## Correções Realizadas
+
+<div align="justify">
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 3):
+
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
+| 9 | O arteato apresenta o motivo da escolha das metodologias? | Sim | Excelente |  |
+| 10 | Existe um quadro comparativo entre as metodologias que ofereça apoio visual para compreensão do motivo a escolha? | Não | --- | Não apresenta quadro comparativo das metodologias. |
+| 11 | As metodologias apresentadas foram bem descritas? | Sim | Excelente | --- |
+| 12 | Foi definido um padrão de versionamento? | Sim | Excelente | --- |
+| 13 | Apresenta um padrão de commits que devem ser seguidos no repositório? | Sim | Excelente | --- |
+| 14 | Apresenta um padrão de branchs que devem ser seguidos no repositório? | Sim | Excelente | --- |
+
+
+<b>Tabela 3</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: PENHA, Igor. 2023).
+
 
 ## Bibliografia
 
