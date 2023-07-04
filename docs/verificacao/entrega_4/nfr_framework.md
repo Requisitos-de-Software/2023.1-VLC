@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "<nome do artefato a ser verificado>"
+# Verificação do artefato "NFR-Framework"
 
 ## Introdução
 
