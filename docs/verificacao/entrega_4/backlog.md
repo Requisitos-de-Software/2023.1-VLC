@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "<nome do artefato a ser verificado>"
+# Verificação do artefato "Backlog do Produto"
 
 ## Introdução
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;A Figura 1 apresenta um gráfico que demonstra a relação entre as qualidades encontradas no conteúdo do artefato em questão.
 
-<img src="https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_4/qualidade_backlog.png">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_4/qualidade_backlog.png" width="100%">
 
 <b>Figura 1</b>: Relação da qualidade do conteúdo avaliado (Fonte: BOSI, Rafael. 2023).
 
