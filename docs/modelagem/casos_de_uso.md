@@ -94,7 +94,7 @@ Um diagrama de casos de uso possui os seguintes elementos em sua composição. O
 
 ## Casos de uso
 
-<p align="justify">Os casos de usos mais importantes e mais utilizados encontrados no aplicativo estão representados na Figura 5. Uma melhor visualização da imagem pode ser encontrada em <a href="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/modelagem/img/casos_uso_vlc.pdf">casos de uso vlc.</a></p>
+<p align="justify">Os casos de usos mais importantes e mais utilizados encontrados no aplicativo estão representados na Figura 5. Uma melhor visualização da imagem pode ser encontrada em <a href="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/modelagem/img/casos_uso_vlc.svg">casos de uso vlc.</a></p>
 
 <p align="justify">A Figura 5 apresenta o diagrama de casos de uso do aplicativo VLC.</p>
 
