@@ -58,7 +58,7 @@
 
 &emsp;&emsp;A Figura 1 apresenta um gráfico que demonstra a relação entre as qualidades encontradas no conteúdo do artefato em questão.
 
-<img src="https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_4/historias.png">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_4/historias.png" width="100%">
 
 <b>Gráfico 1</b>: Gráfico de qualidade (Fonte: ALVISSUS, Giovanni. 2023).
 
@@ -83,7 +83,7 @@
    - [X] O artefato possui uma introdução clara e contextualizada.
    - [X] As seções estão organizadas de forma lógica e coerente.
    - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
    - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:

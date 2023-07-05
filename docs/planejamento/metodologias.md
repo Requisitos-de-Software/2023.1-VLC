@@ -1,8 +1,10 @@
+<div class="body">
+
 # Metodologia
 
-
-
 ## Introdução
+
+  <p align="justify">
 
   Nesse projeto a equipe de desenvolvimento optou por se basear em algumas metodologia, de maneira, que a organização e o processo de desenvolvimento 
 fossem o mais eficiente possível, dentro da realidade do grupo. </br >
@@ -10,6 +12,16 @@ fossem o mais eficiente possível, dentro da realidade do grupo. </br >
 E, também, informar o que dessas metodologias se foi abstraido.
 
 </br>
+
+## Motivo das Escolhas
+  Após uma reunião em grupo e a discusão sobre quais ferramentas os membros teriam mais conhecimento e que melhor se encaixaria dentro do escopo do projeto que planejamos, utilizamos algumas metodologias já criadas e as adaptamos conforme achamos melhor. Assim, chegamos as seguintes metodologias:
+  - SCRUM Adaptado;
+  - XP (eXtreme Programming) Adaptado;
+  - Domínio geral;
+  - Proposta de Comunicação;
+  - Encontros semanais;
+  - Política de _branchs_;  
+  - Política de _commits_.
 
 ## SCRUM Adaptado
 
@@ -42,7 +54,7 @@ Nós fizemos adaptações dentro dessa metodologia ao nosso contexto. De forma q
 
 ## Domínio geral
 
-Com o objetivo de trzaer ao projeto mais qualidade e eficiencia, as nossas atividades são dividas de maneira que tenha um desenvolvedor e um Revisor(es) para que seja evitado envios e conclusões com erros. 
+Com o objetivo de trazer ao projeto mais qualidade e eficiencia, as nossas atividades são dividas de maneira que tenha um desenvolvedor e um Revisor(es) para que seja evitado envios e conclusões com erros. 
 
 Durante todo o processo, de maneira constante, nós dialogamos a maioria das decisões em grupo principalmente quando o ponto de análise é importante e pertinente a todos.
 
@@ -85,7 +97,7 @@ git commit -m "tipoDeMudança(): descrição seguinificativa da alteração #iss
 
 </br>
 
-### Política de _branchs_
+### Política de _branchs_  
 
 As criações das _branchs_ devem seguir o padrão:
 
@@ -114,15 +126,18 @@ E políticas de entregas para termos o padrão, assim, conhecendo uma será capa
 
 </br>
 
+</div>
 ## Bibliografia
 
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                     |  Autor(es)    | Revisor(es)   |
-| :------: | :--------: |:----------------------------: | :-----------: | :-----:       |
-| `1.0`    | 20/04/2023 | Criação do documento          |   Igor Penha  | Bruno Ribeiro |
-| `1.1 `   | 23/04/2023 | Adicionando política de branch|   Igor Penha  | Bruno Ribeiro |
-| `1.2 `   | 25/04/2023 | Atualizando a metodologia     |   Igor Penha  | Bruno Ribeiro |
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 20/04/2023 | `1.0`  | Criação do documento | [Igor Penha](https://github.com/igorpenhaa)  | 21/04/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 23/04/2023 | `1.1`  | Adicionando política de branch | [Igor Penha](https://github.com/igorpenhaa)  | 24/04/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 25/04/2023 | `1.2`  | Atualizando a metodologia | [Igor Penha](https://github.com/igorpenhaa)  | 26/04/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 24/06/2023 | `2.0` | Realizando correções no artefato | [Igor Penha](https://github.com/igorpenhaa)  | 26/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
+</div>

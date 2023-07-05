@@ -106,7 +106,7 @@ A <i>Tabela 3</i> a seguir informa os dados da terceira avaliação referente a 
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 20/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 21/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 20/06/2023 | `1.0` | Criação do artefato | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 21/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 
 </div>
