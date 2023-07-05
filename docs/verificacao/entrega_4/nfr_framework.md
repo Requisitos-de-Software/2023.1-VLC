@@ -55,7 +55,7 @@
 
 &emsp;&emsp;A Figura 1 apresenta um gráfico que demonstra a relação entre as qualidades encontradas no conteúdo do artefato em questão.
 
-<img src="https://raw.githubusercontent.com/2023.1-VLC/docs/img/verificacao/entrega_4/qualidade_nfr_framework.png">
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/verificacao/entrega_4/qualidade_nfr_framework.png" width="100%">
 
 <b>Figura 1</b>: Relação da qualidade do conteúdo avaliado (Fonte: BOSI, Rafael. 2023).
 
@@ -80,7 +80,7 @@ Assim como é possível perceber pela Tabela 1 e pela imagem acima, o documento 
 1. Padronização:
    - [X] O artefato segue as diretrizes de formatação especificadas.
    - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [] As margens e os espaçamentos estão corretos.
+   - [ ] As margens e os espaçamentos estão corretos.
    - [X] O uso de negrito, itálico e sublinhado está adequado e consistente.
    - [X] Os parágrafos estão todos justificados.
 
