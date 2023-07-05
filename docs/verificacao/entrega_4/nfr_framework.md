@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "<nome do artefato a ser verificado>"
+# Verificação do artefato "NFR-Framework"
 
 ## Introdução
 
@@ -121,6 +121,32 @@ Assim como mencionado, o artefato NFR Framework tem como seu objetivo ajudar des
 
 </div>
 
+## Correções Realizadas
+
+<div align="justify">
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | Os softgoals condizem com o contexto ? | Sim | Excelente |  |
+| 2 | Softgoals representam metas bem definidas ? | Sim | Excelente |  |
+| 3 | Os impactos foram corretamente propagados ? | Sim | Excelente |  |
+| 4 | Existe rastreabilidade em relação aos requisitos nele apresentados ? | Sim | Bom | Não especifica os exatos requisitos utilizados |
+| 5 | Faz conexão com o artefato Especificação Suplementar ? | Sim | Excelente |  |
+| 6 | O objetivo do artefato é bem definido ? | Sim | Excelente |  |
+| 7 | Os graus de satisfação foram indicados ? | Sim | Excelente |  |
+| 8 | Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals ? | Sim | Excelente |  |
+| 9 | O sentido das setas e sinalizações do softgoal é coerente ? | Sim | Excelente |  |
+| 10 | Existe uma conclusão ? | Sim | Excelente |  |
+
+<b>Tabela 2</b>: Relação do conteúdo (Fonte: PENHA, Igor. 2023).
+
+</div>
+
 ## Bibliografia
 
 - [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 4 de junho de 2023.
@@ -134,5 +160,6 @@ Assim como mencionado, o artefato NFR Framework tem como seu objetivo ajudar des
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 21/06/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 21/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 04/07/2023 | `2.0` | Acompanhamento do artefato | [Igor Penha](https://github.com/igorpenhaa) | 04/07/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>

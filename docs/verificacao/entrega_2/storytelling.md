@@ -31,14 +31,14 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 | id | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - | - |
-| 1 | As histórias são relacionadas aos fatos, cujo conhecimento deseja elicitar? | Sim | Excelente | Todas as histórias são baseadas nas personas desenvolvidas |
+| 1 | As histórias são relacionadas aos fatos, cujo conhecimento deseja elicitar? | Sim | Excelente |  |
 | 2 | As histórias estão em formato de narração? | Sim | Excelente | Todas as histórias são desenroladas a partir de narrativas |
 | 3 | Os requisitos foram elicitados a partir das histórias? | Sim | Excelente |  |
 | 4 | A liguagem utilizada nas histórias é cotidiana e cria entretenimento? | Sim | Excelente |  |
 | 5 | Os requisitos tem identificadores? | Sim | Excelente | Todas os requisitos possuem identificadores |
 | 6 | Foram elicitados requisitos funcionais? | Sim | Excelente | Foram elicitados requisitos funcionais. |
 | 7 | Foram elicitados requisitos não-funcionais? | Sim | Excelente | Foram elicitados requisitos não funcionais |
-| 8 | Os requisitos elicitados são verificáveis? | Sim | Boa | ST04, requisito de visualizar conta de forma clara |
+| 8 | Os requisitos elicitados são verificáveis? | Sim | Boa | ST07, requisito de visualizar conta de forma clara |
 | 9 | Os storytellings foram feitos baseados em personas? | Sim |  |  |
 | 10 | Há a validação das histórias por outros integrantes do grupo agregando valor a coleta de informação | Não |  |  |
 
@@ -104,6 +104,26 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, ape
 
 </div>
 
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+| id | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | As histórias são relacionadas aos fatos, cujo conhecimento deseja elicitar? | Sim | Excelente |  |
+| 2 | As histórias estão em formato de narração? | Sim | Excelente |  |
+| 3 | Os requisitos foram elicitados a partir das histórias? | Sim | Excelente |  |
+| 4 | A liguagem utilizada nas histórias é cotidiana e cria entretenimento? | Sim | Excelente |  |
+| 5 | Os requisitos tem identificadores? | Sim | Excelente |  |
+| 6 | Foram elicitados requisitos funcionais? | Sim | Excelente |  |
+| 7 | Foram elicitados requisitos não-funcionais? | Sim | Excelente |  |
+| 8 | Os requisitos elicitados são verificáveis? | Sim | Excelente |  |
+| 9 | Os storytellings foram feitos baseados em personas? | Sim |  |  |
+| 10 | Há a validação das histórias por outros integrantes do grupo agregando valor a coleta de informação | Não |  |  |
+
+<b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: PENHA, Igor. 2023).
+
 ## Bibliografia
 
 - SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
@@ -118,6 +138,7 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, ape
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 18/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 19/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 04/06/2023 | `2.0` | Acompanhamento do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 04/07/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 
 </div>

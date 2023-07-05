@@ -28,7 +28,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 | id | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - | - |
-| 1 | As personas definidas a partir dos dados do perfil do usuário | sim | Incompleto | As personas foram criadas a partir do perfil de usuário definido pelo grupo |
+| 1 | As personas definidas a partir dos dados do perfil do usuário | sim | Excelente |  |
 | 2 | As personas são personagens fictícios? | Sim | Excelente |  |
 | 3 | As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)? | Sim | Incompleto | |
 | 4 | As personas apresentam as situações em que seram utilizadas? | Não |  |  |
@@ -97,6 +97,25 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, ape
 - Refererenciar de onde o perfil de usuário foi obtido.
 - Realizar nas personas relacionamentos, requisitos, expectativas e habilidades.
 
+
+## Correções Realizadas
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+| id | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | As personas definidas a partir dos dados do perfil do usuário | sim | Excelente |  |
+| 2 | As personas são personagens fictícios? | Sim | Excelente |  |
+| 3 | As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)? | Sim | Excelente | |
+| 4 | As personas apresentam as situações em que seram utilizadas? | Sim | Boa | Cita que será utilizada em encenação porém não existe esse documento |
+| 5 | O elenco de personas e a razão da quantidade de personas é justificada? | Sim | Excelente |  |
+| 6 | O projeto contém a anti-persona e persona primária | sim | Excelente |  |
+
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
+
 </div>
 
 ## Bibliografia
@@ -113,6 +132,7 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, ape
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 18/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 19/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 04/07/2023 | `2.0` | Acompanhamento do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 04/07/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 
 </div>
