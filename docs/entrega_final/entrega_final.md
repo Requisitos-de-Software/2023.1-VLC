@@ -14,9 +14,11 @@ O presente artefato tem como objetivo reunir alguns dos principais tópicos soli
 6. Uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa do projeto com autor e revisor;
 7. Uma tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checlist e da verificação);
 8. Uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto;
-9. Uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações).
+9. Uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações.
 
-O ponto 9 está presente no artefato de [Gravações das Entregas](), não estando presente neste artefato de entrega final.
+Alguns dos tópicos acima não estão presentes neste artefato, entre eles:
+- O ponto 4 está presente no artefato de [Resultados Alcançados](https://requisitos-de-software.github.io/2023.1-VLC/#/entrega_final/resultados_alcancados).
+- O ponto 9 está presente no artefato de [Gravações das Entregas](https://requisitos-de-software.github.io/2023.1-VLC/#/entrega_final/gravacao_entregas).
 
 ## 1- Aplicativo Selecionado
 O aplicativo escolhido por nós do grupo 3 foi o VLC Media Player, o qual cumpriu com alguns critérios definidos pela disciplina:
@@ -230,11 +232,9 @@ Desejo a você saúde, felicidade e sucesso contínuo em todos os seus empreendi
 
 </div>
 
-## Bibliografia
-
 ## Histórico de Versões 
 
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |:------:|:--------:|-----------|-------|:---------:|-----------|
-| 04/07/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 04/07/2023 | `1.0` | Criação do artefato | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa), [Giovanni Alvissus](https://github.com/giovanni1106), [Mizael Santos](https://github.com/frmiza), [Lucas Gobbi](https://github.com/LucasBergholz) e [Rafael Bosi](https://github.com/StrangeUnit28) | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 </div>
