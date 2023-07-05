@@ -2,12 +2,10 @@
 
 ## Introdução 
 
-<div style="text-align:justify">
 Em um formulário, a qual tem como objetivo coletar informações sobre usabilidade e experiência da utilização de um sistema proposto pelas partes interessadas, por parte de um consumidor, onde posteriormente serão analisados tais resultados coletados com a finalidade de elicitar requisitos baseando-se nos resultados armazenados.
 O motivo da escolha de questionário deu-se principalmente pela variedade de usuários dispersos geograficamente, dessa forma podemos realizar uma pesquisa com vários usuários simultaneamente. Quando comparado a outras formas de elicitação de requisitos como as entrevistas com usuários do aplicativo.
 
 A execução do questionário deve ser realizada levando em conta o público alvo, caso ele exista e seja bem definido.
-</div>
 
 ### Vantagens
 - Rápida obtenção de dados quantitativos e qualitativos
@@ -26,19 +24,15 @@ A execução do questionário deve ser realizada levando em conta o público alv
 
 ## Resultados coletados
 
-<div style="text-align:justify">
 Tendo em mente o vasto público-alvo que o aplicativo VLC Media Player visa atender. Os resultados coletados para realizar a elicitação dos requisitos do projeto, proveniente do questionário, podem ser encontrados posteriormente no texto, o formulário estabelecido conta com 20 das quais fora realizado uma filtragem dos dados obtidos, entre usuários e não usuários do aplicativo.
 Os usuários antes de realizar o Questionário aceitaram um <a href="https://docs.google.com/document/d/1o_sSVLMjk8T5OaHf5OfHDhiT3ULYwC9aMnUbIFKQPtM/edit?usp=sharing">termo consentimento</a> redigido pela equipe, onde as respostas foram coletadas entre as datas **28/04/2023** e **01/05/2023**.
-</div>
 
 ### Questão 1
   ![Image do resultado da questão 1](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/idades.png)
   
-<div style="text-align: center">
 <p>
 Figura 1: Pergunta 1 (Fonte: autor, 2023). 
 </p>
-</div>
 
 
 ### Questão 2
@@ -54,21 +48,17 @@ Na Tabela Respostas Pergunta 2, estão listadas as resposta diretas do nosso usu
 | Professor | 12 | 37,2% |
 | Designer gráfico/Embalagem | 1 | 2,9% |
 
-<div style="text-align: center">
 <p>
 Tabela 1: Respostas da pergunta 2. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 3
 
   ![Image do resultado da questão 3](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/usavlc.png)
   
-<div style="text-align: center">
 <p>
 Figura 2: Pergunta 3 (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 4
 Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -93,11 +83,9 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 | Amazon, Netflix, TV por assinatura |
 | Mx player, vlc, mplayer |
 
-<div style="text-align: center">
 <p>
 Tabela 2: Respostas da pergunta 4. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 5
 Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -117,11 +105,9 @@ Na Tabela Respostas Pergunta 5, estão listadas as resposta diretas do nosso usu
 | Permite carregar legendas mais facilmente; tem interface leve e roda diversos padrões de arquivos sem problemas. |
 | Já vem com os codecs que preciso |
 
-<div style="text-align: center">
 <p>
 Tabela 3: Respostas da pergunta 5. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 6
 Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -139,11 +125,9 @@ Na Tabela Respostas Pergunta 6, estão listadas as resposta diretas do nosso usu
 | Tranquilo sobre as funcionalidades. |
 | Não é uma funcionalidade, mas acho a interface feia |
 
-<div style="text-align: center">
 <p>
 Tabela 4: Respostas da pergunta 6. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 7
 Na Tabela Respostas Pergunta 7, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -157,21 +141,17 @@ Na Tabela Respostas Pergunta 7, estão listadas as resposta diretas do nosso usu
 | Nenhum que eu tenha necessitado atualmente |
 | Desconheço |
 
-<div style="text-align: center">
 <p>
 Tabela 5: Respostas da pergunta 7. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 8
 
   ![Image do resultado da questão 8](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/plataformas.png)
   
-<div style="text-align: center">
 <p>
 Figura 3: Pergunta 8 (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 9
 Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -188,21 +168,17 @@ Na Tabela Respostas Pergunta 9, estão listadas as resposta diretas do nosso usu
 | Ver filmes, videos, e outros arquivos com compatibilidade |
 | Assistir filmes |
 
-<div style="text-align: center">
 <p>
 Tabela 6: Respostas da pergunta 9. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 10
 
   ![Image do resultado da questão 10](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/frequencia.png)
   
-<div style="text-align: center">
 <p>
 Figura 4: Pergunta 10. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 11
 Na Tabela Respostas Pergunta 11, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -213,21 +189,17 @@ Na Tabela Respostas Pergunta 11, estão listadas as resposta diretas do nosso us
 | Nenhum. |
 | Atraso e flickering na imagem ao despausar o vídeo (no linux com driver proprietário nvidia) |
 
-<div style="text-align: center">
 <p>
 Tabela 8: Respostas da pergunta 11. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 12
 
 ![Image do resultado da questão 12](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/avaliacao.png)
 
-<div style="text-align: center">
 <p>
 Figura 5: Pergunta 12 (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 13
 Na Tabela Respostas Pergunta 13, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -243,21 +215,17 @@ Na Tabela Respostas Pergunta 13, estão listadas as resposta diretas do nosso us
 | deria aceitar mais tipos de arquivos. |
 | utilizá-lo no arch Linux, duas janelas eram abertas separadamente, uma para os controles e outra para o vídeo sendo reproduzido. Não sei se o problema persiste pois não uso mais arch |
 
-<div style="text-align: center">
 <p>
 Tabela 9: Respostas da pergunta 13. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 14
 
   ![Image do resultado da questão 14](https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/elicitacao/img/questionario/jausou.png)
 
-<div style="text-align: center">
 <p>
 Figura 6: Pergunta 14 (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 15
 Na Tabela Respostas Pergunta 15, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -285,11 +253,9 @@ Na Tabela Respostas Pergunta 15, estão listadas as resposta diretas do nosso us
 
 Tabela 17: Respostas da pergunta 21. (Fonte: autor, 2023). 
 
-<div style="text-align: center">
 <p>
 Tabela 10: Respostas da pergunta 15. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 16
 Na Tabela Respostas Pergunta 16, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -300,11 +266,9 @@ Na Tabela Respostas Pergunta 16, estão listadas as resposta diretas do nosso us
 | Rave é um app que possibilita assistir com outras pessoas, eu utilizo e gosto mt desse recurso |
 | youtube, Sugestão de vídeos similares. |
 
-<div style="text-align: center">
 <p>
 Tabela 11: Respostas da pergunta 16. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 17
 Na Tabela Respostas Pergunta 17, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -317,11 +281,9 @@ Na Tabela Respostas Pergunta 17, estão listadas as resposta diretas do nosso us
 YouTube: aquela nova configuração que deixa o entorno do vídeo com a cor do que tá passando no vídeo ao invés de só a cor do tema escolhido (claro ou escuro) |
 | YouTube, as propagandas |
 
-<div style="text-align: center">
 <p>
 Tabela 12: Respostas da pergunta 17. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 18
 Na Tabela Respostas Pergunta 18, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -339,11 +301,9 @@ Na Tabela Respostas Pergunta 18, estão listadas as resposta diretas do nosso us
 | Baixa resolução dos vídeos, problemas de reprodução (lentidão ou travamento), etc |
 | Responsividade |
 
-<div style="text-align: center">
 <p>
 Tabela 13: Respostas da pergunta 18. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 19
 Na Tabela Respostas Pergunta 19, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -355,11 +315,9 @@ Na Tabela Respostas Pergunta 19, estão listadas as resposta diretas do nosso us
 | Youtube: Não poder ouvir a música com a tela bloqueada |
 | Rave tem um problema de responsividade, que acaba atrapalhando muito na hora da digitação, e o recurso de voz é muito ruim pq trava tb |
 
-<div style="text-align: center">
 <p>
 Tabela 14: Respostas da pergunta 19. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ### Questão 20
 Na Tabela Respostas Pergunta 20, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
@@ -369,11 +327,9 @@ Na Tabela Respostas Pergunta 20, estão listadas as resposta diretas do nosso us
 | Sempre uso o Yotube, não minha opinião é um bom aplicativo. |
 | Não possuo. | 
 
-<div style="text-align: center">
 <p>
 Tabela 15: Respostas da pergunta 20. (Fonte: autor, 2023). 
 </p>
-</div>
 
 ## Requisitos Elicitados
 | Identificador  |     Requisito     | Tipo  |
@@ -404,11 +360,9 @@ Tabela 15: Respostas da pergunta 20. (Fonte: autor, 2023).
 | QUE24 | Recurso de alteração de cor de fundo | RF |
 | QUE25 | Recurso de alterar e tamanho | RF |
 
-<div style="text-align: center">
 <p>
 Tabela 16: Requisitos elicitados com o questionário. (Fonte: autor, 2023). 
 </p>
-</div>
 
 **Legenda**
 
@@ -427,3 +381,4 @@ Tabela 16: Requisitos elicitados com o questionário. (Fonte: autor, 2023).
 | `1.1`  | 28/04/2023 | Criação de templates para as perguntas e termo de consentimento | Mizael Santos | Larissa Gomes |
 | `1.2`  | 01/04/2023 | Adicionado imagens dos graficos | Mizael Santos | Larissa Gomes |
 | `1.3`  | 01/04/2023 | Adicionado imagens dos graficos | Mizael Santos | Larissa Gomes |
+
