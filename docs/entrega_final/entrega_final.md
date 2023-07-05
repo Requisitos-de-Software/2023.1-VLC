@@ -80,8 +80,8 @@ No início do desenvolvimento do projeto, o grupo se reuniu em prol de desenvolv
 <div><p>Tabela 1 - Planejamento dos artefatos. (GOBBI, Lucas. 2023).</p></div>
 
 </details>
-
-A seguir segue a tabela 2, onde estão reunidas as informações do cronograma realizado, o qual reuni as informações de quem e quando foram realizados cada artefato.
+<br>
+A seguir, a tabela 2, onde estão reunidas as informações do cronograma realizado, o qual reuni as informações de quem e quando foram realizados cada artefato.
 
 <details>
 <summary>Tabela 2</summary>
@@ -157,6 +157,7 @@ A seguir segue a tabela 2, onde estão reunidas as informações do cronograma r
 | 7-9. Edição e postagem da Apresentação | 05/07 | 05/07 | Bruno Ribeiro | Igor Penha |
 
 </details>
+<br>
 
 ## 3, 5 e 6 - Execução do Projeto, Técnicas Utilizadas e Artefatos Criados
 Para a representação dos 3 tópicos acima, foi desenvolvido uma tabela em que são descritas as técnicas utilizadas de cada artefato, junto de seus autores e revisores. Segue a tabela 3:
@@ -193,6 +194,7 @@ Para a representação dos 3 tópicos acima, foi desenvolvido uma tabela em que 
 | Pós-Rastreabilidade (PC6) | [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/matriz_rastreabilidade) | - | Rafael Bosi | Giovanni Alvissus |
 
 </details>
+<br>
 
 ## 7- Verificações e Validações
 
