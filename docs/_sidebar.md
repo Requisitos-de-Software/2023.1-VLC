@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 - [Sobre o projeto](home.md)
-- [Entrega Final](entrega_final/gravacao_entregas.md)
 - [Apresentações](planejamento/apresentacoes.md)
 - [Atas](#)
   - [Reunião 01](atas/reuniao01.md)
