@@ -7,7 +7,7 @@ O VLC Media Player é um player de mídia que permite aos usuários reproduzir u
 
 <br/>
 
-## WebDiet
+## VLC
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/RichPicture.png" aly="richpicture" style="width: 700px">
@@ -20,7 +20,7 @@ O VLC Media Player é um player de mídia que permite aos usuários reproduzir u
 ## Legenda
 | Icones | Componente |  Descrição |
 |-----------|---------|---------|
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/legenda_RichPicture/icone_usuario.png" aly="richpicture" style="width: 100px"> | Ator | Usuário |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/legenda_RichPicture/icone-usuario.png" aly="richpicture" style="width: 100px"> | Ator | Usuário |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/legenda_RichPicture/icone_concorrentes.png" aly="richpicture" style="width: 100px"> | Ator | Concorrentes |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/legenda_RichPicture/icone_operacoes.png" aly="richpicture" style="width: 100px"> | Operações | Operações do sistema |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/legenda_RichPicture/icone_bancoDados.png" aly="richpicture" style="width: 100px"> | Bancos de Dados | Bancos de Dados do Sistema |
