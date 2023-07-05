@@ -157,7 +157,7 @@ A seguir, a tabela 2, onde estão reunidas as informações do cronograma realiz
 | 7-7. Correções do Ponto de Controle anterior | 28/06 | 05/07 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi, Mizael Santos e Rafael Bosi | Igor Penha e Bruno Ribeiro |
 | 7-8. Documentação das atas | 04/07 | 04/07 | Igor Penha | Bruno Ribeiro |
 | 7-9. Edição e postagem da Apresentação | 05/07 | 05/07 | Bruno Ribeiro | Igor Penha |
-
+<div><p>Tabela 2 - Cronograma Realizado. (RIBEIRO, Bruno. 2023).</p></div>
 </details>
 <br>
 
@@ -194,14 +194,52 @@ Para a representação dos 3 tópicos acima, foi desenvolvido uma tabela em que 
 | Pós-Rastreabilidade (PC6) | [Backward From](https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/backward_from) | Backward-From, Meta-Modelo de Toranzo | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi |
 | Pós-Rastreabilidade (PC6) | [Forward From](https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from) | Forward-From | Giovanni Alvissus, Mizael Santos e Rafael Bosi | Giovanni Alvissus e Rafael Bosi |
 | Pós-Rastreabilidade (PC6) | [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/matriz_rastreabilidade) | - | Rafael Bosi | Giovanni Alvissus |
-
+<div><p>Tabela 3 - Artefatos e Técnicas. (GOBBI, Lucas. 2023).</p></div>
 </details>
 <br>
 
 ## 7- Verificações e Validações
+A tabela 4 abaixo foi desenvolvida com o intuito de explicitar todas as técnicas de verificação e validação realizadas para o grupo 3:
+
+<details>
+<summary>Tabela 4</summary>
+
+| Artefato | Técnicas | Autores | Revisores |
+| [Apresentações](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_apresentacoes) | Checklist e inspeção | Mizael Santos | Giovanni Alvissus |
+| [Cronogramas](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_cronogramas) | Checklist e inspeção | Mizael Santos | Giovanni Alvissus |
+| [Ferramentas](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_ferramentas) | Checklist e inspeção | Mizael Santos | Giovanni Alvissus |
+| [Lista de Aplicativos](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_lista_aplicativos) | Checklist e inspeção |Mizael Santos | Giovanni Alvissus |
+| [Metodologia](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_metodologias) | Checklist e inspeção | Mizael Santos | Giovanni Alvissus |
+| [Rich Picture](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_rich_picture) | Checklist e inspeção | Mizael Santos | Giovanni Alvissus |
+| [Análise de Documentos](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/analise_documentos) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [First Things First](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/first_things_first) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [In or Out](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/in_or_out) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [Introspecção](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/introspeccao) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [MoSCoW](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/moscow) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [Perfil Usuário](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/perfil_usuario) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [Personas](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/personas) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [Priorização](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/priorizacao) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [Questionário](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/questionario) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [Storytelling](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/storytelling) | Checklist e inspeção | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| [Casos de Uso](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_3/casos_de_uso) | Checklist e inspeção | Bruno Ribeiro | Lucas Gobbi |
+| [Cenários](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_3/cenarios) | Checklist e inspeção | Bruno Ribeiro | Lucas Gobbi |
+| [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_3/especificacao_suplementar) | Checklist e inspeção | Bruno Ribeiro | Lucas Gobbi |
+| [Léxicos](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_3/lexicos) | Checklist e inspeção | Bruno Ribeiro | Lucas Gobbi |
+| [Backlog](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_4/backlog) | Checklist e inspeção | Rafael Bosi | Giovanni Alvissus |
+| [Histórias de Usuários](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_4/historias_usuario) | Checklist e inspeção | Giovanni Alvissus e Rafael Bosi | Rafael Bosi |
+| [NFR Framework](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_4/nfr_framework) | Checklist e inspeção | Giovanni Alvissus e Rafael Bosi | Giovanni Alvissus e Rafael Bosi |
+| [Backward From](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_6/backward_from) | Checklist e inspeção | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi |
+| [Forward From](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_6/verificacao_forward_from) | Checklist e inspeção | Mizael Santos | Rafael Bosi |
+| [Validação - Planejamento Informal](https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/planejamento_informal) | - | Bruno Ribeiro | Igor Penha |
+| [Validação - Prototipagem](https://requisitos-de-software.github.io/2023.1-VLC/#/validacao/prototipagem) | Prototipação | Bruno Ribeiro, Igor Penha e Lucas Bergholz | Bruno Ribeiro |
+
+<div><p>Tabela 4 - Artefatos de Verificação e Validação. (GOBBI, Lucas. 2023).</p></div>
+</details>
+<br>
+
 
 ## 8- Ferramentas Utilizadas
-As Ferramentas utilizadas ao longo do projeto foram as seguintes, conforme mostrado na tabela X:
+As Ferramentas utilizadas ao longo do projeto foram as seguintes, conforme mostrado na tabela 5:
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
@@ -216,7 +254,7 @@ As Ferramentas utilizadas ao longo do projeto foram as seguintes, conforme mostr
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/planejamento/img/discord_icon.png" alt="Discord" width=50px> | <a id="i" href="#ii">Discord</a> | Utilizado para reuniões e organizações rápidas em grupo. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/planejamento/img/figma_icon.jpg" alt="Figma" width=50px> | <a id="j" href="#jj">Figma</a> | Utilizado para realizar os protótipos e o guia de estilo do projeto. |
 
-<p>Tabela X: Descrição das ferramentas utilizadas no projeto (Fonte: BOSI, Rafael. 2023). </p>
+<p>Tabela 5: Descrição das ferramentas utilizadas no projeto (Fonte: BOSI, Rafael. 2023). </p>
 
 Mais detalhes desta tabela podem ser encontrados no artefato destinado a falar sobre as [Ferramentas](https://requisitos-de-software.github.io/2023.1-VLC/#/planejamento/ferramentas) utilizadas no projeto.
 
