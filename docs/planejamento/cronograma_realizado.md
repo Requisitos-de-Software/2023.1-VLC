@@ -97,10 +97,12 @@ A Tabela 6 mostra as atividades realizadas para o Ponto de Controle 5.2, além d
 | 2. Verificação ponto de controle 2 (BCB) | 16/06 | 20/06 | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
 | 3. Verificação ponto de controle 3 (BCB) | 20/06 | 21/06 | Bruno Ribeiro | Lucas Gobbi |
 | 4. Verificação ponto de controle 4 (BCB) | 21/06 | 21/06 | Rafael Bosi | Giovanni Alvissus |
-| 5. Gravação da apresentação | 21/06 | 21/06 | Todos | Todos |
-| 6. Correções do Ponto de Controle anterior | 16/06 | 21/06 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi, Mizael Santos e Rafael Bosi | Igor Penha e Bruno Ribeiro |
-| 7. Documentação das atas | 20/06 | 20/06 | Igor Penha | Bruno Ribeiro |
-| 8. Edição e postagem da Apresentação | 21/06 | 21/06 | Bruno Ribeiro | Igor Penha |
+| 5. Validação planejamento informal | 21/06 | 21/06 | Bruno Ribeiro | Igor Penha |
+| 6. Validação prototipagem | 21/06 | 21/06 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| 7. Gravação da apresentação | 20/06 | 21/06 | Todos | Todos |
+| 8. Correções do Ponto de Controle anterior | 16/06 | 21/06 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi, Mizael Santos e Rafael Bosi | Igor Penha e Bruno Ribeiro |
+| 9. Documentação das atas | 20/06 | 20/06 | Igor Penha | Bruno Ribeiro |
+| 10. Edição e postagem da Apresentação | 21/06 | 21/06 | Bruno Ribeiro | Igor Penha |
 <div><p>Tabela 6 - Itens realizados Ponto de Controle 5.2. (Fonte: RIBEIRO, Bruno. 2023).</p></div>
 
 ### Ponto de Controle 6
@@ -125,7 +127,7 @@ A Tabela 8 mostra as atividades realizadas para o Ponto de Controle 7, além de 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
 | 1. Entre final | 04/07 | 04/06 | Bruno Ribeiro, Giovanni Alvissus, Igor Penha, Lucas Gobbi, Mizael Santos e Rafael Bosi | Rafael Bosi |
-| 2. Gravações entregues | 04/07 | 04/07 | Bruno Ribeiro | Lucas Gobbi |
+| 2. Gravações entregues | 04/07 | 04/07 | Bruno Ribeiro | Lucas Gobbi e Igor Penha |
 | 6. Gravação da apresentação | 05/07 | 05/07 | Todos | Todos |
 | 7. Correções do Ponto de Controle anterior | 28/06 | 05/07 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi, Mizael Santos e Rafael Bosi | Igor Penha e Bruno Ribeiro |
 | 8. Documentação das atas | 04/07 | 04/07 | Igor Penha | Bruno Ribeiro |
