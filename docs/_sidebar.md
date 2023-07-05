@@ -2,6 +2,10 @@
 
 - [Sobre o projeto](home.md)
 - [Apresentações](planejamento/apresentacoes.md)
+- [Entrega Final](#)
+  - [Artefato Entrega Final](entrega_final/entrega_final.md)
+  - [Gravação das Entregas](entrega_final/gravacao_entregas.md)
+  - [Resultados Alcançados](entrega_final/resultados_alcancados.md)
 - [Atas](#)
   - [Reunião 01](atas/reuniao01.md)
   - [Reunião 02](atas/reuniao02.md)
