@@ -205,6 +205,7 @@ A tabela 4 abaixo foi desenvolvida com o intuito de explicitar todas as técnica
 <summary>Tabela 4</summary>
 
 | Artefato | Técnicas | Autores | Revisores |
+|----------|----------|---------|-----------|
 | [Apresentações](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_apresentacoes) | Checklist e inspeção | Mizael Santos | Giovanni Alvissus |
 | [Cronogramas](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_cronogramas) | Checklist e inspeção | Mizael Santos | Giovanni Alvissus |
 | [Ferramentas](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_ferramentas) | Checklist e inspeção | Mizael Santos | Giovanni Alvissus |
