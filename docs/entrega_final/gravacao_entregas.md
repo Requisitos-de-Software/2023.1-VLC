@@ -46,6 +46,6 @@ A relação com as gravações das reuniões presentes nos videos de 8 a 14 e os
 
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |:------:|:--------:|-----------|-------|:---------:|-----------|
-| 04/07/2023 | `1.0` | Criação do artefato | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 04/07/2023 | `1.0` | Criação do artefato | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) e [Igor Penha](https://github.com/igorpenhaa) |
 
 </div>
