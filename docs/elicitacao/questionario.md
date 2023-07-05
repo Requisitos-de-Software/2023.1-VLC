@@ -427,3 +427,5 @@ Tabela 16: Requisitos elicitados com o questionário. (Fonte: autor, 2023).
 | `1.1`  | 28/04/2023 | Criação de templates para as perguntas e termo de consentimento | Mizael Santos | Larissa Gomes |
 | `1.2`  | 01/04/2023 | Adicionado imagens dos graficos | Mizael Santos | Larissa Gomes |
 | `1.3`  | 01/04/2023 | Adicionado imagens dos graficos | Mizael Santos | Larissa Gomes |
+
+</div>
