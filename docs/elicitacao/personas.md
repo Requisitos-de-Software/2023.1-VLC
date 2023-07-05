@@ -4,9 +4,9 @@
 
 <div align="justify">
 
-&emsp;&esmp;De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
+&emsp;&emsp;De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
 
-Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas.
+&emsp;&emsp;Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas.
 
 </div>
 
@@ -14,7 +14,7 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 <div align="justify">
 
-&emsp;&esmp;Personas são pessoas imaginárias criadas pelos desenvolvedores por meio da observação e combinação de vários usuários diferentes e com perfis extremos dentro do _software_. As personas devem reunir as características significantes de um grupo abrangente de usuários. Além de representar as motivações, interesses e necessidades reais dentro do projeto e auxiliar o desenvolvedor a sentir empatia pelo usuário devido ao contato com os contextos pessoais e de negócios de seus usuários
+&emsp;&emsp;Personas são pessoas imaginárias criadas pelos desenvolvedores por meio da observação e combinação de vários usuários diferentes e com perfis extremos dentro do _software_. As personas devem reunir as características significantes de um grupo abrangente de usuários. Além de representar as motivações, interesses e necessidades reais dentro do projeto e auxiliar o desenvolvedor a sentir empatia pelo usuário devido ao contato com os contextos pessoais e de negócios de seus usuários
 
 </div>
 
@@ -22,15 +22,15 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 <div align="justify">
 
-&emsp;&esmp;O primeiro passo para a aplicação das personas é identificar os diferentes públicos que o _software_ atinge, a coleta dos dados a por intermédio dos dados de campo são o sexo predominante dos usuários, a classe social, faixa etária. Assim, como, também deve ser levado em consideração os perfis comportamentais dos usuários.
+&emsp;&emsp;O primeiro passo para a aplicação das personas é identificar os diferentes públicos que o _software_ atinge, a coleta dos dados a por intermédio dos dados de campo são o sexo predominante dos usuários, a classe social, faixa etária. Assim, como, também deve ser levado em consideração os perfis comportamentais dos usuários.
 
-&emsp;&esmp;Já identificado todos os tipos de usuário presentes na aplicação, a criação das pessoas fictícias deve ser feita a partir dos tipos e dos perfis coletados dos usuários. Desta forma, teremos a possibilidade de formar as personas com informações e características semelhantes aos usuários reais, porém diferentes entre si De forma, que as personas seram capazes de representarem os mais diversos usuários do serviço em questão.
+&emsp;&emsp;Já identificado todos os tipos de usuário presentes na aplicação, a criação das pessoas fictícias deve ser feita a partir dos tipos e dos perfis coletados dos usuários. Desta forma, teremos a possibilidade de formar as personas com informações e características semelhantes aos usuários reais, porém diferentes entre si De forma, que as personas seram capazes de representarem os mais diversos usuários do serviço em questão.
 
-&emsp;&esmp;Segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas.
+&emsp;&emsp;Segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas.
 
-&emsp;&esmp;Para finalizar, é atribuido um nome, história e necessidades que ajudem na “personificação" deste arquétipo.
+&emsp;&emsp;Para finalizar, é atribuido um nome, história e necessidades que ajudem na “personificação" deste arquétipo.
 
-&emsp;&esmp;Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.
+&emsp;&emsp;Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.
 
 </div>
 
@@ -38,7 +38,7 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 <div align="justify">
 
-&emsp;&esmp;As personas podem ser utilizadas em diferentes fases do projeto, o principal objetivo é auxiliar na geração e validação de ideias dentro do projeto. Porém as personas podem ser utilizadas para auxiliar o processo de design, ter uma melhor visão das características do usuário, apoiar as tomadas desesões, justamente por estar orientado com as informações dos usuários.
+&emsp;&emsp;As personas podem ser utilizadas em diferentes fases do projeto, o principal objetivo é auxiliar na geração e validação de ideias dentro do projeto. Porém as personas podem ser utilizadas para auxiliar o processo de design, ter uma melhor visão das características do usuário, apoiar as tomadas desesões, justamente por estar orientado com as informações dos usuários.
 
 </div>
 
@@ -46,11 +46,11 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 <div align="justify">
 
-&emsp;&esmp;Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas.
+&emsp;&emsp;Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas.
 
-&emsp;&esmp;As personas foram elaboradas a partir do perfil de usuário elaborado por meio da coleta de dados do [questionário](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario).
+&emsp;&emsp;As personas foram elaboradas a partir do perfil de usuário elaborado por meio da coleta de dados do [questionário](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/questionario).
 
-&emsp;&esmp;As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
+&emsp;&emsp;As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
 
 </div>
 
@@ -58,13 +58,13 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 <div align="justify">
 
-&emsp;&esmp;Segundo Courage e Baxter (2005), devemos criar pelo menos uma persona por papel de usuário. Cada projeto possuiseu próprio elenco de personas, que consiste de três a 12 personas distintas. Dessa forma, ao analisar o perfil de usuário obtido para os usuários do Banco Central do Brasil, foi optado por utilizar 4 personas, em que utilizamos 3 personas para abranger todos os papeis de usuários coloetados e 1 persona que representaria o papel de um usuário que não se encaixa no perfil dos usuários, assim, chegamos a formulação das 4 personas do projeto.
+&emsp;&emsp;Segundo Courage e Baxter (2005), devemos criar pelo menos uma persona por papel de usuário. Cada projeto possuiseu próprio elenco de personas, que consiste de três a 12 personas distintas. Dessa forma, ao analisar o perfil de usuário obtido para os usuários do Banco Central do Brasil, foi optado por utilizar 4 personas, em que utilizamos 3 personas para abranger todos os papeis de usuários coloetados e 1 persona que representaria o papel de um usuário que não se encaixa no perfil dos usuários, assim, chegamos a formulação das 4 personas do projeto.
   
-&emsp;&esmp;Neste projeto, estaremos utilizando personas como uma ferramenta fundamental para a construção do artefato de encenação. As personas são representações fictícias de usuários reais que nos ajudam a entender melhor as necessidades, comportamentos e objetivos dos nossos usuários-alvo.
+&emsp;&emsp;Neste projeto, estaremos utilizando personas como uma ferramenta fundamental para a construção do artefato de encenação. As personas são representações fictícias de usuários reais que nos ajudam a entender melhor as necessidades, comportamentos e objetivos dos nossos usuários-alvo.
   
-&emsp;&esmp;Ao criar personas, estamos essencialmente criando arquétipos de usuários com características específicas que podem representar diferentes segmentos do nosso público-alvo. Isso nos permite personalizar e direcionar nossos esforços de design, tornando-os mais centrados no usuário.
+&emsp;&emsp;Ao criar personas, estamos essencialmente criando arquétipos de usuários com características específicas que podem representar diferentes segmentos do nosso público-alvo. Isso nos permite personalizar e direcionar nossos esforços de design, tornando-os mais centrados no usuário.
 
-&emsp;&esmp;Na encenação, por outro lado, o desenvolvedor responsável iria interpretar a persona, de maneira, que o time pudesse utilizar essa ferramenta para a elicitação de requisitos dentro do projeto.
+&emsp;&emsp;Na encenação, por outro lado, o desenvolvedor responsável iria interpretar a persona, de maneira, que o time pudesse utilizar essa ferramenta para a elicitação de requisitos dentro do projeto.
 
 </div>
 
@@ -72,7 +72,7 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 <div align="justify">
 
-&emsp;&esmp;A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário aplicado pelo grupo.
+&emsp;&emsp;A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário aplicado pelo grupo.
 
 </div>
 
@@ -91,7 +91,7 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 <div align="justify">
 
-&emsp;&esmp;Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida de forma a torná-las memoráveis, a utilização de um elenco grande de personas pode distanciar a equipe das personas.
+&emsp;&emsp;Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida de forma a torná-las memoráveis, a utilização de um elenco grande de personas pode distanciar a equipe das personas.
 
 </div>
 
