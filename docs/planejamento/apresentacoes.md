@@ -37,35 +37,35 @@
 
 ## Apresentação 05
 
-<div style="text-align:justify"> O vídeo 05 é referente ao ponto de controle 05 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
+<div style="text-align:justify"> O vídeo 05 é referente ao ponto de controle 5.1 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/O7Ua0pvUy-Q" title="Ponto de controle 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/O7Ua0pvUy-Q" title="Ponto de controle 5.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<div style="text-align:center"> Vídeo 05: Pronto de controle 05 (GOBBI, Lucas. 2023). </div>
+<div style="text-align:center"> Vídeo 05: Pronto de controle 5.1 (GOBBI, Lucas. 2023). </div>
 
 ## Apresentação 06
 
-<div style="text-align:justify"> O vídeo 06 é referente ao ponto de controle 06 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
+<div style="text-align:justify"> O vídeo 06 é referente ao ponto de controle 5.2 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/CgZK-IJxXmw" title="Ponto de controle 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/CgZK-IJxXmw" title="Ponto de controle 5.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<div style="text-align:center"> Vídeo 06: Pronto de controle 06 (GOBBI, Lucas. 2023). </div>
+<div style="text-align:center"> Vídeo 06: Pronto de controle 5.2 (GOBBI, Lucas. 2023). </div>
 
 ## Apresentação 07
 
-<div style="text-align:justify"> O vídeo 07 é referente ao ponto de controle 07 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
+<div style="text-align:justify"> O vídeo 07 é referente ao ponto de controle 06 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/igLJvbr4ymI" title="Ponto de controle 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/igLJvbr4ymI" title="Ponto de controle 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<div style="text-align:center"> Vídeo 07: Pronto de controle 07 (GOBBI, Lucas. 2023). </div>
+<div style="text-align:center"> Vídeo 07: Pronto de controle 06 (GOBBI, Lucas. 2023). </div>
 
 ## Apresentação 08
 
-<div style="text-align:justify"> O vídeo 08 é referente ao ponto de controle 08 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
+<div style="text-align:justify"> O vídeo 08 é referente ao ponto de controle 07 que trabalhamos para entregar a modelagem de requisitos sobre o VLC media player.</div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OASnSIqKGVo" title="Ponto de controle 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OASnSIqKGVo" title="Ponto de controle 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<div style="text-align:center"> Vídeo 08: Pronto de controle 08 (GOBBI, Lucas. 2023). </div>
+<div style="text-align:center"> Vídeo 08: Pronto de controle 07 (GOBBI, Lucas. 2023). </div>
 
 ## Histórico de versão
 | Versão | Data de execução | Data de revisão |Descrição | Autor | Revisor |
