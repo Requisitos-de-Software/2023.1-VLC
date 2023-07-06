@@ -262,7 +262,7 @@ Mais detalhes desta tabela podem ser encontrados no artefato destinado a falar s
 ## Agradecimentos
 Prezado Professor André Barros de Sales,
 
-Nós do grupo 3 (Banco Central do Brasil) gostaríamos de expressar nossa profunda gratidão por todo o conhecimento e orientação que nos foi compartilhado durante o período em que fomos seus alunos na disciplina de Requisitos de Software (REQ) na Universidade de Brasília.
+Nós do grupo 3 (VLC) gostaríamos de expressar nossa profunda gratidão por todo o conhecimento e orientação que nos foi compartilhado durante o período em que fomos seus alunos na disciplina de Requisitos de Software (REQ) na Universidade de Brasília.
 
 Suas aulas foram uma fonte inestimável de aprendizado e inspiração. Sua abordagem apaixonada e dedicada em transmitir os conceitos complexos de REQ de maneira clara e elucidante foi verdadeiramente notável. Além disso, sua expertise e experiência no campo tornaram as discussões em sala de aula ainda mais enriquecedoras.
 
