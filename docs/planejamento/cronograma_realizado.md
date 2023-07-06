@@ -93,10 +93,10 @@ A Tabela 6 mostra as atividades realizadas para o Ponto de Controle 5.2, além d
 
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 1. Verificação ponto de controle 1 (BCB) | 20/06 | 21/06 | Mizeal Santos | Giovanni Alvissus |
-| 2. Verificação ponto de controle 2 (BCB) | 16/06 | 20/06 | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
-| 3. Verificação ponto de controle 3 (BCB) | 20/06 | 21/06 | Bruno Ribeiro | Lucas Gobbi |
-| 4. Verificação ponto de controle 4 (BCB) | 21/06 | 21/06 | Rafael Bosi | Giovanni Alvissus |
+| 1. Verificação ponto de controle 1 (VLC) | 20/06 | 21/06 | Mizeal Santos | Giovanni Alvissus |
+| 2. Verificação ponto de controle 2 (VLC) | 16/06 | 20/06 | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
+| 3. Verificação ponto de controle 3 (VLC) | 20/06 | 21/06 | Bruno Ribeiro | Lucas Gobbi |
+| 4. Verificação ponto de controle 4 (VLC) | 21/06 | 21/06 | Rafael Bosi | Giovanni Alvissus |
 | 5. Validação planejamento informal | 21/06 | 21/06 | Bruno Ribeiro | Igor Penha |
 | 6. Validação prototipagem | 21/06 | 21/06 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Bruno Ribeiro |
 | 7. Gravação da apresentação | 20/06 | 21/06 | Todos | Todos |
@@ -113,8 +113,8 @@ A Tabela 7 mostra as atividades realizadas para o Ponto de Controle 6, além de 
 | 1. Backward From | 27/06 | 27/06 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi |
 | 2. Forward From | 27/06 | 28/06 | Giovanni Alvissus, Mizael Santos e Rafael Bosi | Giovanni Alvissus e Rafael Bosi |
 | 3. Matriz de rastreabilidade | 27/06 | 28/06 | Rafael Bosi | Giovanni Alvissus |
-| 4. Verificação backward from (BCB) | 28/06 | 28/06 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi |
-| 5. Verificação forward from (BCB) | 27/06 | 28/06 | Rafael Bosi e Mizael Santos | Rafael Bosi e Mizael Santos |
+| 4. Verificação backward from (VLC) | 28/06 | 28/06 | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Rafael Bosi |
+| 5. Verificação forward from (VLC) | 27/06 | 28/06 | Rafael Bosi e Mizael Santos | Rafael Bosi e Mizael Santos |
 | 6. Gravação da apresentação | 28/06 | 28/06 | Todos | Todos |
 | 7. Correções do Ponto de Controle anterior | 26/06 | 27/06 | Bruno Ribeiro, Giovanni Alvissus, Lucas Gobbi, Mizael Santos e Rafael Bosi | Igor Penha e Bruno Ribeiro |
 | 8. Documentação das atas | 26/06 | 26/06 | Igor Penha | Bruno Ribeiro |
