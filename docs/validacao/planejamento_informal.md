@@ -39,7 +39,7 @@ A <i>Figura 2</i> mostra o artefato de rich picture o qual foi traduzido e envia
 
 </div>
 
-<img src="https://raw.githubuserconten.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/RichPicture_en.p" width="100%">
+<img src="https://raw.githubuserconten.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/RichPicture_en.png" width="100%">
 <p><b>Figura 2</b>: Rich Picture traduzido e enviado (Fonte: RIBEIRO, Bruno. 2023).</p>
 
 ## Conclusão
@@ -51,7 +51,7 @@ A <i>Figura 3</i> mostra o e-mail com as respostas finais por parte da equipe do
 </div>
 
 <img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/email_VLC_cont.png" width="100%">
-<p><b>Figura 1</b>: Respostas aos emails (Fonte: RIBEIRO, Bruno. 2023).</p>
+<p><b>Figura 3</b>: Respostas aos emails (Fonte: RIBEIRO, Bruno. 2023).</p>
 
 ## Histórico de Versões
 
