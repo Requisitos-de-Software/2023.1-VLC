@@ -42,8 +42,6 @@ A <i>Figura 2</i> mostra o artefato de rich picture o qual foi traduzido e envia
 <img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/RichPicture_en.png" width="100%">
 <p><b>Figura 2</b>: Rich Picture traduzido e enviado (Fonte: RIBEIRO, Bruno. 2023).</p>
 
-## Conclusão
-
 <div align="justify">
   
 A <i>Figura 3</i> mostra o e-mail com as respostas finais por parte da equipe do VLC para com nosso artefatos entregues e mostrados anteriormente.</p>
@@ -52,6 +50,26 @@ A <i>Figura 3</i> mostra o e-mail com as respostas finais por parte da equipe do
 
 <img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/email_VLC_cont.png" width="100%">
 <p><b>Figura 3</b>: Respostas aos emails (Fonte: RIBEIRO, Bruno. 2023).</p>
+
+<div align="justify">
+
+## Conclusão
+
+Ao final do processo de avaliação dos artefatos junto à equipe do VLC (VídeoLAN), é com grande satisfação que concluímos que o contato do nosso grupo foi extremamente satisfatório. Desde o primeiro momento em que estabelecemos comunicação com a equipe do VLC, ficou evidente que estávamos diante de um time profissional, dedicado e aberto a colaborar.
+
+A comunicação com os representantes do VLC foi sempre fluída, clara e eficiente. Todas as informações necessárias para a avaliação dos nossos artefatos foram fornecidas prontamente, e as dúvidas que surgiram durante o processo foram respondidas de forma rápida e esclarecedora. Essa agilidade no diálogo permitiu que pudéssemos avançar em nossas análises de maneira adequada e dentro dos prazos estipulados.
+
+Além disso, o nível de profissionalismo demonstrado pela equipe do VLC foi impressionante. Eles se mostraram verdadeiramente interessados em compreender nossos artefatos e, assim, fornecer uma avaliação justa e precisa. Suas observações e sugestões foram embasadas em conhecimentos sólidos e expertise na área, o que enriqueceu sobremaneira o resultado final de nossa avaliação.
+
+Outro aspecto que merece destaque é a receptividade da equipe do VLC em relação às nossas considerações e opiniões. Eles nos encorajaram a apresentar nossos pontos de vista, demonstrando um genuíno interesse em ouvir nossas perspectivas. Essa abertura ao diálogo foi fundamental para que pudéssemos estabelecer uma parceria de confiança e trabalhar em conjunto para aprimorar ainda mais nossos artefatos.
+
+Além disso, durante todo o processo, o respeito mútuo prevaleceu em cada interação. As trocas de feedback foram conduzidas com cordialidade e consideração mútua, o que contribuiu para o desenvolvimento de um ambiente de trabalho colaborativo e positivo.
+
+No encerramento dessa avaliação, fica evidente que o contato do nosso grupo com a equipe do VLC foi mais do que satisfatório: foi uma experiência extremamente enriquecedora. A troca de conhecimentos e a sinergia estabelecida foram essenciais para aprimorar nossos artefatos e elevar a qualidade do trabalho como um todo.
+
+Agradecemos à equipe do VLC pela disponibilidade, dedicação e profissionalismo ao longo de todo o processo. Essa experiência nos inspira a continuar buscando a excelência em nossos projetos e fortalece nossa convicção de que o trabalho em equipe, pautado na colaboração e no respeito, é o caminho para alcançar resultados notáveis. Estamos ansiosos para futuras oportunidades de interação com a equipe do VLC e, quem sabe, estabelecer novas parcerias que tragam benefícios mútuos.
+
+</div>
 
 ## Histórico de Versões
 
