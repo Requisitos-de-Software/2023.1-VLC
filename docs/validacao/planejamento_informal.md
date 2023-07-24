@@ -39,7 +39,7 @@ A <i>Figura 2</i> mostra o artefato de rich picture o qual foi traduzido e envia
 
 </div>
 
-<img src="https://raw.githubuserconten.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/RichPicture_en.png" width="100%">
+<img src="https://raw.githubuserconten.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/RichPicture_en.p" width="100%">
 <p><b>Figura 2</b>: Rich Picture traduzido e enviado (Fonte: RIBEIRO, Bruno. 2023).</p>
 
 ## Conclusão
@@ -58,5 +58,5 @@ A <i>Figura 3</i> mostra o e-mail com as respostas finais por parte da equipe do
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 21/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 21/06/2023 | [Igor Penha](https://github.com/igorpenhaa) |
-
+| 13/07/2023 | `1.2` | Respostas aos artefatos |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 13/07/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 </div>
