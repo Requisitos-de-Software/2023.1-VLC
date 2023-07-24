@@ -33,6 +33,15 @@ A <i>Figura 1</i> mostra o e-mail utilizado para entrar em contato com o time do
 <img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/email_vlc.png" width="100%">
 <p><b>Figura 1</b>: E-mail enviado (Fonte: RIBEIRO, Bruno. 2023).</p>
 
+<div align="justify">
+  
+A <i>Figura 2</i> mostra o artefato de rich picture o qual foi traduzido e enviado para avaliação da equipe do VLC, juntamente também foi envioado o artefato de [personas](https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/elicitacao/personasEn.md) traduzido.</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/img/validacao/RichPicture_en.pdf" width="100%">
+<p><b>Figura 2</b>: Rich Picture traduzido e enviado (Fonte: RIBEIRO, Bruno. 2023).</p>
+
 ## Conclusão
 
 <div align="justify">
