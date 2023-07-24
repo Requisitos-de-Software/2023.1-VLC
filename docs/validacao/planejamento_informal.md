@@ -35,7 +35,7 @@ A <i>Figura 1</i> mostra o e-mail utilizado para entrar em contato com o time do
 
 <div align="justify">
   
-A <i>Figura 2</i> mostra o artefato de rich picture o qual foi traduzido e enviado para avaliação da equipe do VLC, juntamente também foi envioado o artefato de [personas](https://github.com/requisitos-de-software/2023.1-vlc/master/docs/elicitacao/personasEn.md) traduzido.</p>
+A <i>Figura 2</i> mostra o artefato de rich picture o qual foi traduzido e enviado para avaliação da equipe do VLC, juntamente também foi envioado o artefato de [personas](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/elicitacao/personasEn.md) traduzido.</p>
 
 </div>
 
